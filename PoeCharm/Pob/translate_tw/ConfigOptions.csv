@@ -1,0 +1,370 @@
+"Resistance penalty:",抗性懲罰:
+"Act {0}{1}%)","第 {0} 章 {1}%)"
+"Enemy Level:",敵人等級:
+"This overrides the default enemy level used to estimate your hit and evade chances.",設置敵人等級會影響你的命中和閃避幾率估算.
+"The default level is your character level, capped at 84, which is the same value","默認等級和你的角色等級相同(最高84級),此設定與遊戲相同"
+"used in-game to calculate the stats on the character sheet.",在遊戲中用于計算角色狀態面板
+"Enemy Physical Hit Damage:",敵人擊中物理傷害:
+"This overrides the default damage amount used to estimate your physical damage reduction from armour.",設置傷害量會影響你來自護甲的物理傷害減免估算
+"The default is 1.5 times the enemy's base damage, which is the same value","默認值為敵人基礎傷害的 1.5 倍,此設定與遊戲相同"
+"used in-game to calculate the estimate shown on the character sheet.",在遊戲中用于估算角色面板.
+"Enemy Corpse Life:",敵人靈柩生命:
+"Sets the maximum life of the target corpse for Detonate Dead and similar skills.","設置 【爆靈術】 等類似的技能的靈柩最大生命"
+"For reference, a level 70 monster has 6449 base life, and a level 80 monster has 12466.","僅供參考: 70 級怪物基礎生命為 6449, 80 級怪物為 12466."
+"Are you always stationary?",是否處于靜止狀態?
+"Are you always moving?",是有處于移動狀態?
+"Are you always on Full Life?",是否處于滿血狀態?
+"You will automatically be considered to be on Full Life if you have Chaos Innoculation,","如果你有【異靈之體】將視為滿血狀態,"
+"but you can use this option to force it if necessary.",如有必要可用此選項強制應用.
+"Are you always on Low Life?",是否處于瀕血狀態?
+"You will automatically be considered to be on Low Life if you have at least 65% life reserved,","如果你至少有 65% 生命保留將視為瀕血狀態,"
+"Are you always on Full Energy Shield?",是否處于滿盾狀態?
+"Do you always have Energy Shield?",是否一直有能量護盾?
+"Are your minions always on Full Life?",你的召喚物是否處于滿血狀態?
+"Ignite calculation mode:",點燃計算模式:
+"Controls how the base damage for ignite is calculated:",控制如何計算點燃的基礎傷害:
+"Average Damage: Ignite is based on the average damage dealt, factoring in crits and non-crits.","平均傷害: 基于平均傷害的點燃,包括暴擊和非暴擊."
+"Crit Damage: Ignite is based on crit damage only.","暴擊傷害: 僅基于暴擊傷害的點燃."
+"When In Combat",戰鬥狀態
+"Crit Damage",暴擊傷害
+"Aspect of the Avian:",【鳥之勢】:
+"Is Avian's Might active?",【鳥之力量】激活狀態?
+"Is Avian's Flight active?",【鳥之鬥魄】激活狀態?
+"Aspect of the Cat:",【貓之勢】:
+"Is Cat's Stealth active?",【貓之隱匿】激活狀態?
+"Is Cat's Agility active?",【貓之敏捷】激活狀態?
+"Aspect of the Crab:",【蟹之勢】:
+"# of Crab Barriers (if not maximum):","# 層【深海屏障】 (如果不是最大值)"
+"Aspect of the Spider:",【蛛之勢】:
+"# of Spider's Web Stacks:","# 層蜘蛛網"
+"Banner Skills:",旗幟技能:
+"Is Banner Planted?",旗幟已放置?
+"Banner Stages:",旗幟階層:
+Bladestorm:,【劍刃風暴】:
+"Are you in a Bloodstorm?",是否處于血姿態?
+"Are you in a Sandstorm?",是否處于沙姿態?
+"Brand Skills:",烙印技能:
+"Is Attached to the Enemy?",烙印已附著的敵人?
+"Dark Pact:",【暗夜血契】:
+"Skeleton Life:",魔侍生命:
+"Sets the maximum life of the skeleton that is being targeted.",設置目標魔侍的最大生命.
+Deathmark:,【死亡印記】:
+"Is the enemy Deathmarked?",【死亡印記】的敵人?
+"Feeding Frenzy:",【狂噬】:
+"Is Feeding Frenzy active?",【狂噬】激活狀態?
+"Feeding Frenzy grants:","【狂噬】 獲得:"
+"10% more Minion Damage","額外提高 10% 召喚物傷害"
+"15% increased Minion Movement Speed","提高 15% 召喚物移動速度"
+"15% increased Minion Attack and Cast Speed","提高 15% 召喚物攻擊和施法速度"
+"Herald of Agony:",【苦痛之捷】:
+"# of Virulence Stacks:","# 【毒力】層數:"
+"Ice Nova:",【冰霜新星】:
+"Cast on Frostbolt?",施放【寒冰彈】?
+Infusion:,【灌注】:
+"Is Infusion active?",【灌注】激活狀態?
+Innervate:,【閃電支配】:
+"Is Innervation active?",【閃電支配】激活狀態?
+Intensify:,【法術凝聚】:
+"# of Intensity:","# 【法術凝聚】:"
+"Meat Shield:",【肉盾】:
+"Is the enemy near you?",附近的敵人?
+"Raise Spectre:",【召喚靈體】:
+"Spectre Level:",靈體等級:
+"Sets the level of the raised spectre.",設置來提高靈體等級
+"The default level is the level requirement of the Raise Spectre skill.",默認等級為【召喚靈體】需求等級:
+"Enable curses:",啟用詛咒:
+"Enable any curse skills that your spectres have.",啟用靈體擁有的詛咒技能.
+"Blade Vortex blade count:",【飛刃風暴】刀片數:
+"Sets the blade count for Blade Vortex skills used by spectres.",設置靈體擁有的【飛刃風暴】刀片數.
+"Default is 1; maximum is 5.","默認為 1; 最大為 5."
+"Scorching Ray Totem stage count:",【灼熱光線】圖騰階數:
+"Enable Summoned Ursa's Rallying Cry:",啟用【召喚之爪】的激勵戰吼:
+"Raise Spiders:",【召喚毒蛛】:
+"# of Spiders:","# 蜘蛛:"
+"Siphoning Trap:",【虹吸陷阱】:
+"# of Enemies affected:","# 影響的敵人:"
+"Sets the number of enemies affected by Siphoning Trap.",設置受【虹吸陷阱】影響的敵人數量.
+"Stance Skills:",姿態技能:
+Stance:,姿態:
+"Summon Holy Relic:","召喚 【召喚生物】:"
+"Enable Holy Relic's Boon Aura:",啟用【召喚生物】光環:
+"Summon Lightning Golem:","召喚 【閃電魔像】:"
+"Enable Wrath Aura:",啟用【雷霆】光環:
+Vortex:,【漩渦】:
+"Wave of Conviction:",【定罪波】:
+"Exposure Type:",暴漏類型:
+"Winter Orb:",【寒冬寶珠】:
+Stages:,等階:
+"Withering Touch:",【凋零之觸】:
+"# of Withered Stacks:","# 【死亡凋零】層數:"
+"Map Prefix Modifiers:",地圖前綴加成:
+"Enemy Physical Damage reduction:",怪物物理傷害減傷:
+'Armoured','裝甲的'
+"Enemy is Hexproof?",敵人是【無咒的】?
+'Hexproof','無咒的'
+"Less effect of Curses on Enemy:",對怪物的詛咒總效果額外降低:
+'Hexwarded','魔抗的'
+"Enemy avoid Poison/Blind/Bleed:",怪物幾率免疫中毒，致盲和流血:
+'Impervious','避毒的'
+"Enemy has Elemental/Chaos Resist:",增加怪物的火燄、冰霜、閃電、混沌抗性:
+'Resistant','抗性的'
+"Map Suffix Modifiers:",地圖後綴加成:
+"Player has Elemental Equilibrium?",玩家有【元素之相】?
+"'of Balance'",'平衡之'
+"Cannot Leech Life/Mana?",無法偷取怪物生命和魔力?
+"'of Congealment'",'凝血之'
+"Gains reduced Flask Charges:",玩家獲得的藥劑充能降低:
+"'of Drought'",'幹枯之'
+"-X% maximum Resistances:","-X% 玩家的抗性上限:"
+"'of Exposure'",'曝露之'
+"Mid tier: 5-8%","中階: 5-8%"
+"High tier: 9-12%","高階: 9-12%"
+"Less Area of Effect:",玩家技能的總範圍額外縮小:
+"'of Impotence'",'短程之'
+"Enemy avoid Elem. Status Ailments:",怪物免疫元素異常狀態:
+"'of Insulation'",'隔絕之'
+"Unlucky Dodge/Enemy has inc. Accuracy:",玩家在躲避時很不幸/怪物命中值提高:
+"'of Miring'",'遲鈍之'
+"Reduced Block Chance/less Armour:",玩家的格擋率和護甲額外降低:
+"'of Rust'",'生鏽之'
+"Player has Point Blank?",玩家擁有【零點射擊】?
+"'of Skirmishing'",'衝突之'
+"Less Recovery of Life and Energy Shield:",玩家的生命和能量護盾總回復速度額外降低:
+"'of Smothering'",'窒息之'
+"Cannot Regen Life, Mana or ES?",玩家無法回復生命，魔力和能量護盾?
+"'of Stasis'",'瘀血之'
+"Enemy takes red. Extra Crit Damage:",怪物受到的暴擊傷害降低:
+"'of Toughness'",'堅韌之'
+"Low tier: 25-30%","低階: 25-30%"
+"Mid tier: 31-35%","中階: 31-35%"
+"High tier: 36-40%","高階: 36-40%"
+"# of Sextants affecting the area","# 個六分儀影響該地區"
+"Player is cursed by:",玩家被詛咒:
+"Assassin's Mark:",【暗影印記】:
+"Sets the level of Assassin's Mark to apply to the player.",設置玩家應用的【暗影印記】等級.
+Conductivity:,【導電】:
+"Sets the level of Conductivity to apply to the player.",設置玩家應用的【導電】等級.
+Despair:,【絕望】:
+"Sets the level of Despair to apply to the player.",設置玩家應用的【絕望】等級.
+"Elemental Weakness:",【元素要害】:
+"Sets the level of Elemental Weakness to apply to the player.",設置玩家應用的【元素要害】等級.
+"In mid tier maps, 'of Elemental Weakness' applies level 10.","在中階地圖,【元素要害】的等級是 10."
+"In high tier maps, 'of Elemental Weakness' applies level 15.","在高階地圖,【元素要害】的等級是 15."
+Enfeeble:,【衰弱】:
+"Sets the level of Enfeeble to apply to the player.",設置玩家應用的【衰弱】等級.
+"In mid tier maps, 'of Enfeeblement' applies level 10.","在中階地圖,【衰弱】的等級是 10."
+"In high tier maps, 'of Enfeeblement' applies level 15.","在高階地圖,【衰弱】的等級是 15."
+Flammability:,【易燃】
+"Sets the level of Flammability to apply to the player.",設置玩家應用的【易燃】等級.
+Frostbite:,【凍傷】:
+"Sets the level of Frostbite to apply to the player.",設置玩家應用的【凍傷】等級.
+"Poacher's Mark:",【盜獵者印記】:
+"Sets the level of Poacher's Mark to apply to the player.",設置玩家應用的【盜獵者印記】等級.
+"Projectile Weakness:",【投射物要害】:
+"Sets the level of Projectile Weakness to apply to the player.",設置玩家應用的【投射物要害】等級.
+Punishment:,【懲戒】:
+"Sets the level of Punishment to apply to the player.",設置玩家應用的【懲戒】等級.
+"Temporal Chains:",【時空鎖鏈】:
+"Sets the level of Temporal Chains to apply to the player.",設置玩家應用的【時空鎖鏈】等級.
+"In mid tier maps, 'of Temporal Chains' applies level 10.","在中階地圖,【時空鎖鏈】的等級是 10."
+"In high tier maps, 'of Temporal Chains' applies level 15.","在高階地圖,【時空鎖鏈】的等級是 15."
+Vulnerability:,【脆弱】:
+"Sets the level of Vulnerability to apply to the player.",設置玩家應用的【脆弱】等級.
+"In mid tier maps, 'of Vulnerability' applies level 10.","在中階地圖,【脆弱】的等級是 10."
+"In high tier maps, 'of Vulnerability' applies level 15.","在高階地圖,【脆弱】的等級是 15."
+"Warlord's Mark:",【督軍印記】:
+"Sets the level of Warlord's Mark to apply to the player.",設置玩家應用的【督軍印記】等級.
+"Do you use Power Charges?",是否有暴擊球?
+"# of Power Charges (if not maximum):","# 暴擊球數量 (如果不是最大值):"
+"Do you use Frenzy Charges?",是否有狂怒球?
+"# of Frenzy Charges (if not maximum):","# 狂怒球數量 (如果不是最大值):"
+"Do you use Endurance Charges?",是否有耐力球?
+"# of Endurance Charges (if not maximum):","# 耐力球數量 (如果不是最大值):"
+"Do you use Siphoning Charges?",是否有輪回球?
+"# of Siphoning Charges (if not maximum):","# 輪回球數量 (如果不是最大值):"
+"Do you use Challenger Charges?",是否有挑戰球?
+"# of Challenger Charges (if not maximum):","# 挑戰球數量 (如果不是最大值):"
+"Do you use Blitz Charges?",是否有疾電球?
+"# of Blitz Charges (if not maximum):","# 疾電球數量 (如果不是最大值):"
+"Do you use Inspiration Charges?",是否有激勵球?
+"# of Inspiration Charges (if not maximum):","# 激勵球數量 (如果不是最大值):"
+"Do your minions use Power Charges?",召喚物是否有暴擊球?
+"Do your minions use Frenzy Charges?",召喚物是否有狂怒球?
+"Do your minions use Endur. Charges?",召喚物是否有耐力球?
+"Are you Focussed?",是否專注時?
+"Do you have Onslaught?",是否有【猛攻】?
+"In addition to allowing any 'while you have Onslaught' modifiers to apply,","開啟時 '你處于【猛攻】' 之類的加成生效,"
+"this will enable the Onslaught buff itself. (20% increased Attack/Cast/Movement Speed)","這將開啟【猛攻】增益效果. (攻擊/施法/移動速度提高 20% )"
+"Do you have Unholy Might?",是否有【不潔之力】?
+"This will enable the Unholy Might buff. (Gain 30% of Physical Damage as Extra Chaos Damage)","這將開啟【不潔之力】增益效果. (物理傷害的 30% 額外混沌傷害)"
+"Do you have Phasing?",是否有【迷蹤】?
+"Do you have Fortify?",是否有【護體】?
+"Do you have Tailwind?",是否有【提速尾流】?
+"In addition to allowing any 'while you have Tailwind' modifiers to apply,","開啟時 '你處于【提速尾流】' 之類的加成生效,"
+"this will enable the Tailwind buff itself. (You are 10% faster)","這將開啟【提速尾流】增益效果. (你比平常快 10%)"
+"Do you have Adrenaline?",是否有【腎上腺素】?
+"This will enable the Adrenaline buff:",這將開啟【腎上腺素】增益效果:
+"100% increased Damage","傷害提高 100%"
+"25% increased Attack, Cast and Movement Speed","攻擊/施法/移動速度提高 25%"
+"10% additional Physical Damage Reduction","額外 10% 物理傷害減免"
+"Do you have Divinity?",是否有【神性】?
+"This will enable the Divinity buff:",這將開啟【神性】增益效果:
+"50% more Elemental Damage","額外 50% 元素傷害"
+"20% less Elemental Damage Taken","承受的元素傷害額外降低 20%"
+Rage:,【怒火】:
+"Are you Leeching?",偷取生命時?
+"Are you Leeching Life?",是否偷取生命時?
+"Are you Leeching Energy Shield?",是否偷取能量護盾時?
+"Are you Leeching Mana?",是否偷取魔力時?
+"Do you have a Flask active?",是否有藥劑激活?
+"This is automatically enabled if you have a flask active,","如果有使用藥劑將會自動開啟此狀態,"
+"Do you have a Totem summoned?",是否有召喚圖騰?
+"You will automatically be considered to have a Totem if your main skill is a Totem,","如果你的主技能是圖騰技能將會自動開啟此狀態,"
+"# of Nearby Allies","# 附近的友軍數"
+"# of Nearby Enemies","# 附近的敵人數"
+"# of Nearby Corpses","# 附近的靈樞數"
+"Are you on Consecrated Ground?",是否在【奉獻地面】上?
+"In addition to allowing any 'while on Consecrated Ground' modifiers to apply,","開啟時 '你在【奉獻地面】上' 之類的加成生效,"
+"this will apply the 6% life regen modifier granted by Consecrated Ground.","這將應用【奉獻地面】的 獲得 6% 生命回復加成."
+"Are you on Burning Ground?",是否在【燃燒地面】上?
+"This also implies that you are Burning.",這也意味著你在燃燒.
+"Are you on Chilled Ground?",是否在【冰緩地面】上?
+"This also implies that you are Chilled.",這也意味著你被冰緩.
+"Are you on Shocked Ground?",是否在【感電地面】上?
+"This also implies that you are Shocked.",這也意味著你被感電.
+"Are you Burning?",你被燃燒?
+"Are you Ignited?",你被點燃?
+"Are you Chilled?",你被冰緩?
+"Are you Frozen?",你被冰凍?
+"Are you Shocked?",你被感電?
+"Are you Bleeding?",你被流血?
+"Are you Poisoned?",你被中毒?
+"# of Poison on You:","# 你的中毒層數:"
+"This also implies that you are Poisoned.",這也意味著你中毒了.
+"Is there only one nearby Enemy?",附近只有一個敵人?
+"Have you Hit Recently?",你近期有擊中?
+"You will automatically be considered to have Hit Recently if your main skill is self-cast,","如果你的主技能是自施放將自動開啟此狀態,"
+"Have you Crit Recently?",你近期有暴擊?
+"This also implies that your Skills have Crit Recently.",這也意味著你近期有暴擊.
+"Have your Skills Crit Recently?",你的技能近期有暴擊?
+"Have you dealt a Non-Crit Recently?",你近期有非暴擊?
+"Have you Killed Recently?",你近期有擊殺?
+"# of Enemies Killed Recently","# 近期擊殺敵人數"
+"This also implies that you have Killed Recently.",這也意味著你近期有擊殺.
+"Have your Totems Killed Recently?",你的圖騰近期有擊殺?
+"# of Enemies Killed by Totems Recently","# 圖騰近期擊殺敵人數"
+"This also implies that your Totems have Killed Recently.",這也意味著你的圖騰近期有擊殺.
+"Have your Minions Killed Recently?",你的召喚物近期有擊殺?
+"# of Enemies Killed by Minions Recently","# 召喚物近期擊殺數"
+"This also implies that your Minions have Killed Recently.",這也意味著你的召喚物近期有擊殺.
+"Killed Enemy affected by your DoT Recently?",你的持續傷害效果近期有擊殺敵人?
+"# of Shocked Enemies Killed Recently:","# 近期擊殺感電的敵人數:"
+"Have you Frozen an Enemy Recently?",你近期有冰凍敵人?
+"Have you Shattered an Enemy Recently?",你近期有粉碎敵人?
+"Have you Ignited an Enemy Recently?",你近期有點燃敵人?
+"Have you Shocked an Enemy Recently?",你近期有感電敵人?
+"# of Poisons applied Recently:","# 近期中毒數:"
+"Have you been Hit Recently?",你近期被擊中?
+"Have you been Crit Recently?",你近期被暴擊?
+"Have you been Savage Hit Recently?",你近期被【殘暴打擊】?
+"This also implies that you have been Hit Recently.",這也意味著你近期被擊中.
+"Have you been hit by Fire Recently?",你近期被火燄擊中?
+"Have you been hit by Cold Recently?",你近期被冰霜擊中?
+"Have you been hit by Light. Recently?",你近期被閃電擊中?
+"Have you Blocked Recently?",你近期有格擋?
+"Have you Blocked an Attack Recently?",你近期有格擋攻擊?
+"This also implies that you have Blocked Recently.",這將意味著你近期有格擋.
+"Have you Blocked a Spell Recently?",你近期有格擋法術?
+"Energy Shield Recharge started Recently?",近期有啟動能量護盾充能?
+"Is Pendulum of Destruction active?",【毀滅光砲塔】激活狀態?
+"Conflux Buff:",匯流增益效果:
+"Is Bastion of Hope active?",【希望壁壘】激活狀態?
+"Are you in Her Embrace?",你有【她的擁抱】?
+"This option is specific to Oni-Goroshi.",這是【鬼弒查蘭之劍】的選項.
+"Have you used a Skill Recently?",你近期有使用技能?
+"# of Skills Used Recently:","# 近期使用技能數:"
+"Have you Attacked Recently?",你近期有攻擊?
+"This also implies that you have used a Skill Recently.",這將意味著你近期有使用技能.
+"You will automatically be considered to have Attacked Recently if your main skill is an attack,","如果你的主技能是攻擊技能將會自動開啟此狀態,"
+"Have you Cast a Spell Recently?",你近期有施放法術?
+"You will automatically be considered to have Cast a Spell Recently if your main skill is a spell,","如果你的主技能是法術技能將會自動開啟此狀態,"
+"Have you used a Fire Skill Recently?",你近期有使用火燄技能?
+"Have you used a Cold Skill Recently?",你近期有使用冰霜技能?
+"Have you used a Minion Skill Recently?",你近期有使用召喚物技能?
+"You will automatically be considered to have used a Minion skill Recently if your main skill is a minion skill,","如果你的主技能是召喚生物技能將會自動開啟此狀態,"
+"Have you used a Movement Skill Recently?",你近期有使用移動技能?
+"You will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,","如果你的主技能是移動技能將會自動開啟此狀態,"
+"Have you used a Vaal Skill Recently?",你近期有使用瓦爾技能?
+"You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,","如果你的主技能是瓦爾技能將會自動開啟此狀態,"
+"Do you have Soul Gain Prevention?",是否有【阻靈術】?
+"Have you used a Warcry Recently?",你近期有使用戰吼?
+"# of Mines Detonated Recently:","# 近期引爆地雷數:"
+"# of Traps Triggered Recently:","# 近期觸發地雷數:"
+"Consumed a corpse Recently?",近期有消耗靈柩?
+"# of Corpses Consumed Recently:","# 近期消耗靈柩數:"
+"Taunted an Enemy Recently?",近期有嘲諷敵人?
+"Have you used a Fire Skill in the past 10s?","你過去 10 秒內有使用火燄技能?"
+"Have you used a Cold Skill in the past 10s?","你過去 10 秒內有使用冰霜技能?"
+"Have you used a Light. Skill in the past 10s?","你過去 10 秒內有使用閃電技能?"
+"Blocked hit from a Unique Recently?",近期有格擋傳奇怪物擊中?
+"Blocked hit from a Unique in the past 10s?","你過去 10 秒內有格擋傳奇怪物擊中?"
+"Is your Crit Chance Lucky?",你有幸運一擊?
+"# of times Skill has Chained:","# 技能已連鎖數:"
+"Projectile travel distance:",投射物飛行距離:
+"Is the enemy at Close Range?",是否近距離的敵人?
+"Is the enemy Moving?",是否移動的敵人?
+"Is the enemy on Full Life?",是否滿血的敵人?
+"Is the enemy on Low Life?",是否瀕血的敵人?
+"Is the enemy Cursed?",是否詛咒的敵人?
+"Your enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的詛咒技能至少開啟一個將會自動開啟此狀態,"
+"Is the enemy Bleeding?",是否流血的敵人?
+"Is the enemy Poisoned?",是否中毒的敵人?
+"# of Poison on Enemy:","# 敵人中毒數:"
+"Is the enemy Maimed?",是否癱瘓的敵人?
+"Is the enemy Hindered?",是否被幹擾的敵人?
+"Is the enemy Blinded?",是否致盲的敵人?
+"In addition to allowing 'against Blinded Enemies' modifiers to apply,","開啟時 '對致盲的敵人' 之類的加成生效,"
+"this will lessen the enemy's chance to hit, and thereby increase your evade chance.",這將減少敵人的擊中幾率從而提高你的閃避幾率.
+"Is the enemy Taunted?",是否嘲諷的敵人?
+"Is the enemy Burning?",是否燃燒的敵人?
+"Is the enemy Ignited?",是否點燃的敵人?
+"This also implies that the enemy is Burning.",這將意味著敵人被燃燒.
+"Is the enemy Chilled?",是否冰緩的敵人?
+"Is the enemy Frozen?",是否冰凍的敵人?
+"This also implies that the enemy is Chilled.",這將意味著敵人被冰緩.
+"Is the enemy Shocked?",是否感電的敵人?
+"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","開啟時 '對感電的敵人' 之類的加成生效,"
+"this will apply Shock's Damage Taken modifier to the enemy.",這將對敵人應用感電傷害的加成.
+"# of Freeze/Shock/Ignite on Enemy:","# 敵人凍結/感電/點燃數:"
+"Is the enemy Intimidated?",是否恐嚇的敵人?
+"This adds the following modifiers:",這將會應用以下加成:
+"10% increased Damage Taken by enemy","敵人承受傷害提高 10%"
+"10% increased Attack Damage Taken by enemy","敵人承受攻擊傷害提高 10%"
+"Is the enemy Unnerved?",是否膽怯的敵人?
+"10% increased Spell Damage Taken by enemy","敵人承受法術傷害提高 10%"
+"Is the enemy covered in Ash?",是否【灰燼纏身】的敵人?
+"20% less enemy Movement Speed","敵人移動速度額外降低 20%"
+"20% increased Fire Damage Taken by enemy","敵人承受火燄傷害提高 20%"
+"Is the enemy on consecrated ground?",是否【奉獻地面】上的敵人?
+"is the enemy Rare or Unique?",是否稀有或傳奇的敵人?
+"Your enemy will automatically be considered to be Unique if one of the Boss options is selected.","如果已選擇 Boss 選項將會自動開啟此狀態."
+"Is the enemy a Boss?","是否敵人是 BOSS?"
+"Standard Boss adds the following modifiers:","標準 Boss 將會應用以下加成:"
+"{0}% to enemy Elemental Resistances","敵人元素抗性 {0}%"
+"{0}% to enemy Chaos Resistance","敵人混沌抗性 {0}%"
+"Standard Boss","標準 Boss"
+Shaper/Guardian,岳父/長老
+"Shaper/Guardian adds the following modifiers:","岳父/長老 將會應用以下加成:"
+"50% less Duration of Bleed","流血持續時間額外降低 50%"
+"50% less Duration of Poison","中毒持續時間額外降低 50%"
+"50% less Duration of Ignite","點燃持續時間額外降低 50%"
+"Enemy Phys. Damage Reduction:",敵人物理傷害減免:
+"Enemy Fire Resistance:",敵人火燄抗性:
+"Enemy Cold Resistance:",敵人冰霜抗性:
+"Enemy Lightning Resistance:",敵人閃電抗性:
+"Enemy Chaos Resistance:",敵人混沌抗性:
+"Enemy was Hit by Fire Damage?",敵人被火燄傷害擊中?
+"Enemy was Hit by Cold Damage?",敵人被冰霜傷害擊中?
+"Enemy was Hit by Light. Damage?",敵人被閃電傷害擊中?
+"Ignore Skill Hit Damage?",忽略技能擊中傷害?
+"This option prevents EE from being reset by the hit damage of your main skill.","此選項可防止 【元素之相】(EE) 被你主技能的擊中傷害重置."
