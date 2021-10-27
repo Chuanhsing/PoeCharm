@@ -1567,8 +1567,8 @@ Rampage,暴怒
 "{0}% increased Character Size","增加 {0}% 角色體型"
 "{0}% reduced Character Size","減少 {0}% 角色體型"
 "Gain a Power Charge when a Minion Dies","你的召喚物死亡時獲得 1 個暴擊球"
-"{0}% increased Life Recovery from Flasks","增加 {0}% 藥劑回復生命"
-"{0}% increased Mana Recovery from Flasks","增加 {0}% 藥劑回復魔力"
+"{0}% increased Life Recovery from Flasks","增加 {0}% 來自藥劑的生命回復"
+"{0}% increased Mana Recovery from Flasks","增加 {0}% 來自藥劑的魔力回復"
 "{0}% increased Flask Recovery rate","增加 {0}% 藥劑回復速度"
 "Flasks gain a Charge when you take a Critical Strike",當你受到暴擊時獲得一點藥劑充能
 "Flasks gain {0} Charges when you take a Critical Strike","當你受到暴擊時獲得 {0} 點藥劑充能"
@@ -1805,8 +1805,8 @@ Rampage,暴怒
 "Can have up to {0} Remote Mines placed at a time","同時間最多能擁有 {0} 個遙控地雷"
 "Can have up to {0} additional Trap placed at a time","同時至多可以放置 {0} 個額外陷阱"
 "Can have up to {0} additional Traps placed at a time","同時至多可以放置 {0} 個額外陷阱"
-"Can have up to {0} additional Remote Mine placed at a time","最多同時可額外放置 {0} 個遙控地雷"
-"Can have up to {0} additional Remote Mines placed at a time","同時間最多能擁有額外 {0} 個遙控地雷"
+"Can have up to {0} additional Remote Mine placed at a time","同時最多可以有 {0} 個額外已放置的遙控地雷"
+"Can have up to {0} additional Remote Mines placed at a time","同時最多可以有 {0} 個額外已放置的遙控地雷"
 "Cannot Block Attacks",無法格擋攻擊
 "{0}% additional Physical Damage Reduction when on Low Life","貧血時得到 {0}% 額外物理傷害減傷"
 "Share Endurance Charges with nearby party members",與附近的隊友分享耐力球
@@ -4799,7 +4799,7 @@ Hindered,被阻礙
 "Dominating Blow can summon {0} additional Magic Sentinels of Dominance","霸氣之擊可以召喚 {0} 個額外魔法統御護衛"
 "Dominating Blow can summon an additional Rare Sentinel of Dominance","霸氣之擊可以召喚 1 個額外稀有統御護衛"
 "Dominating Blow can summon {0} additional Rare Sentinels of Dominance","霸氣之擊可以召喚 {0} 個額外稀有統御護衛"
-"{0}% to all maximum Resistances while Poisoned","當中毒時 {0}% 全部元素抗性"
+"{0}% to all maximum Resistances while Poisoned","當中毒時 {0}% 全部抗性"
 "{0}% to all maximum Resistances if you have at least {1} Devotion","若你至少有 {1} 個奉獻，{0}% 全部最大抗性"
 "{0}% to all maximum Resistances while you have no Endurance Charges","當身上不存在耐力球時，增加 {0}% 所有屬性的最大抗性"
 "{0}% chance to Evade Attacks if you've taken a Savage Hit Recently","近期內你若受到【殘暴打擊】，則有 {0}% 幾率閃避攻擊"
@@ -5769,7 +5769,7 @@ Hindered,被阻礙
 "{0}% more Damage per Endurance Charge","每顆耐力球造成 {0}% 更多傷害"
 "{0}% less Damage per Endurance Charge","每顆耐力球造成 {0}% 更少傷害"
 "Killed Enemies Explode, dealing {0}% of their Life as Physical Damage","擊敗的敵人會爆炸，造成等同于其 {0}% 生命的物理傷害"
-"Enemies you hit are destroyed on Kill",你所擊中的敵人死亡時將被毀滅
+"Enemies you hit are destroyed on Kill",你所擊中的敵人死亡時將被摧毀
 "Lightning Damage from Enemies Hitting you is Lucky",敵人擊中你的閃電傷害會特別幸運
 "Enemies on Fungal Ground you Kill have {0}% chance to Explode, dealing {1}% of their Life as Chaos Damage","你擊殺毒菌地面上的敵人時有 {0}% 機率爆炸，造成他們生命 {1}% 的混沌傷害"
 "Enemies on Fungal Ground you Kill Explode, dealing {0}% of their Life as Chaos Damage","你擊殺毒菌地面上的敵人時爆炸，造成他們生命 {0}% 的混沌傷害"
@@ -9391,7 +9391,7 @@ Runebinder,束縛印
 "You and nearby allies gain {0} additional Evasion Rating","你與附近的隊友獲得 {0} 額外閃避值"
 "You and nearby allies gain {0}% more Evasion rating","你與附近的隊友獲得 {0}% 閃避值"
 "You and nearby allies gain {0} additional Armour","你與附近的隊友獲得 {0} 額外護甲"
-"You and nearby allies gain {0}% more Armour","你與附近的隊友獲得 {0}% 護甲"
+"You and nearby allies gain {0}% more Armour","你與附近的隊友獲得 {0}% 更多護甲"
 "You and nearby allies gain {0} additional Energy Shield","你與附近的隊友獲得 {0} 額外能量護盾"
 "You and nearby allies gain {0}% additional Lightning Resistance","你與附近的隊友獲得 {0}% 額外閃電抗性"
 "You and nearby allies gain {0}% additional Fire Resistance","你與附近的隊友獲得 {0}% 額外火焰抗性"
@@ -21491,7 +21491,7 @@ Battlemage,戰法
 "Buff grants {0}% increased Armour","增益效果增加 {0}% 護甲"
 "Buff grants {0}% reduced Armour","增益效果減少 {0}% 護甲"
 "Buff grants {0}% to all Elemental Resistances per Endurance Charge","每顆耐力球使增益效果 {0}% 全部元素抗性"
-"Buff grants {0}% to all Resistances","增益效果 {0}% 全部元素抗性"
+"Buff grants {0}% to all Resistances","增益效果 {0}% 全部抗性"
 "Buff grants {0}% increased Attack and Cast Speed","增益效果增加 {0}% 攻擊和施放速度"
 "Buff grants {0}% reduced Attack and Cast Speed","增益效果減少 {0}% 攻擊和施放速度"
 "Buff grants {0}% chance to Freeze","增益效果有 {0}% 機率造成冰凍"
@@ -21518,7 +21518,7 @@ Battlemage,戰法
 "{0}% reduced Duration of Elemental Ailments on Cursed enemies","減少 {0}% 被詛咒敵人身上元素異常狀態的持續時間"
 "{0}% increased Duration of Elemental Ailments on Cursed enemies","增加 {0}% 被詛咒敵人身上元素異常狀態的持續時間"
 "Enemies have {0}% chance to Explode on Death, dealing a quarter of their maximum Life as Chaos Damage","敵人死亡時有 {0}% 機率爆炸，造成他們最大生命四分之一的混沌傷害"
-"Debuff applies {0}% to all Resistances","減益效果 {0}% 全部元素抗性"
+"Debuff applies {0}% to all Resistances","減益效果 {0}% 全部抗性"
 "Regenerate {0}% of Energy Shield per second for each affected Enemy","每個附著的敵人，每秒回復 {0}% 能量護盾"
 "Supported Skills throw up to {0} additional Trap","被輔助的技能投擲至多 {0} 個額外陷阱"
 "Supported Skills have {0}% increased Trap Duration","被輔助的技能增加 {0}% 陷阱持續時間"
@@ -21914,7 +21914,7 @@ Undead,不死生物
 "Armour applies to Fire, Cold and Lightning Damage taken from Hits instead of Physical Damage",護甲套用承受火焰、冰冷和閃電擊中傷害，而不是物理傷害
 "{0}% more Spell Damage per Power Charge","每顆暴擊球 {0}% 更多法術傷害"
 "Gain Power Charges instead of Frenzy Charges",獲得暴擊球而不是狂怒球
-"Maximum Damage Reduction for any Damage Type is {0}%","任何種類的最大傷害減免為 {0}%"
+"Maximum Damage Reduction for any Damage Type is {0}%","對任何傷害類型的最大傷害減免為 {0}%"
 "Critical Strikes inflict Scorch, Brittle and Sapped",暴擊造成焦灼、易碎和殘喘
 "All Damage will cause Elemental Ailments you are suffering",擊中的所有傷害都會造成你正承受的元素異常狀態
 "Remove Elemental Ailments from you when you inflict them",你造成的元素異常狀態將會從你身上移除
@@ -23580,7 +23580,7 @@ Undead,不死生物
 "you Spend at least {0} Mana to Use a Skill","有 {1}% 機率觸發插槽中的法術"
 "Trigger Level {0} Tornado when you gain Avian's Might or Avian's Flight","當你獲得飛羽意志或飛羽飄翔時，觸發等級 {0} 的龍捲風"
 "{0}% chance to Dodge Spell Hits if you've",若你近期有受到法術傷害
-"taken Spell Damage Recently","有 {0}% 機率躲避法術擊中"
+"taken Spell Damage Recently","{0}% 壓抑法術率"
 "With at least {1} Strength in Radius, Ground Slam has a {0}% chance","若範圍內含 {1} 點力量，"
 "to grant an Endurance Charge when you Stun an Enemy","裂地之擊在暈眩敵人時有 {0}% 機率獲得耐力球"
 "With at least {0} Intelligence in Radius, Cold Snap","若範圍內含 {0} 點智慧，"
@@ -24379,8 +24379,6 @@ Magebane,咒術災厄
 "Recover {0}% of Life per Endurance Charge on use","使用時每顆耐力球回復 {0}% 生命"
 "Lose all Endurance Charges on use",使用時失去所有耐力球
 "Taunts nearby Enemies on use",使用時嘲諷附近敵人
-"Grants Immunity to Bleeding for 4 seconds if used while Bleeding","若使用時正在流血，獲得免疫流血 1 秒"
-"Grants Immunity to Corrupted Blood for 4 seconds if used while affected by Corrupted Blood",使用時移除腐化之血
 "Grants Immunity to Chill for {0} seconds if used while Chilled","若使用時被冰緩，獲得免疫冰緩 {0} 秒"
 "Grants Immunity to Freeze for {0} seconds if used while Frozen","若使用時被冰凍，獲得免疫冰凍 {0} 秒"
 "Grants Immunity to Ignite for {0} seconds if used while Ignited","若使用時被點燃，獲得免疫點燃 {0} 秒"
@@ -25060,7 +25058,6 @@ Magebane,咒術災厄
 Solipsism,唯我論
 "Divine Shield",聖盾
 "Lethe Shade",忘卻陰影
-"Projectiles Pierce 2 additional Targets",投射物穿透兩個額外目標
 "Cannot be Stunned while Fortified",護體時不會被暈眩
 "Life Flasks gain a Charge when you hit an Enemy, no more than once each second","當你擊中敵人時獲得 1 生命藥劑充能，每秒不超過 1 次"
 "Strength's Damage bonus applies to all Spell Damage as well",力量加成的傷害同時套用至全部法術
@@ -25177,7 +25174,6 @@ Solipsism,唯我論
 "Dexterity provides no inherent bonus to Evasion Rating",敏捷不提供固有的閃避值加成
 "{0}% Chance to Suppress Spell Damage per {1} Dexterity","每 {1} 點敏捷 {0} 法術傷害壓抑率"
 "Flasks Gain {0} Charges per empty Flask Slot every {1} seconds","每 {1} 秒藥劑根據每個空藥劑欄位獲得 {0} 充能"
-"-15% to all maximum Elemental Resistances","-5% 全部最大元素抗性"
 "Intelligence provides no inherent bonus to Energy Shield",智慧不提供固有的能量護盾加成
 "{0}% reduced Duration of Elemental Ailments on you per {1} Intelligence","每 {1} 點智慧減少 {0}% 你身上元素異常狀態的持續時間"
 "Life Recovery from Non-Instant Leech is not applied",來自非立即偷取的生命回覆沒有被套用
@@ -25188,7 +25184,6 @@ Solipsism,唯我論
 "Minion has {0}% more Duration","召喚物有 {0}% 更多持續傷害"
 "Minion has {0}% less Duration","召喚物有 {0}% 更少持續傷害"
 "Traps are thrown randomly around targeted location",對附近目標地區隨機投擲陷阱
-"Loses 1 Intensity every {0} seconds while moving",移動或你立即傳送時，
 "Reflects {0}% of Damage Taken to Enemies","在第二階段持續時間，反射 {0}% 承受的傷害至敵人"
 "{0}% chance to Summon a Sentinel of Absolution on Hitting a Rare or Unique Enemy","擊中稀有或傳奇敵人時有 {0}% 機率召喚 1 個特免哨兵"
 "Slipstreams grant {0}% increased Action Speed","激流增加 {0}% 行動速度"
@@ -25215,13 +25210,11 @@ Solipsism,唯我論
 "Trigger this Skill when you Hit a Rare or Unique Enemy and have no Mark",當你擊中稀有或傳奇敵人且沒有印記時觸發此技能
 "{0}% more Damage with Hits and Ailments for each Cast of this Spell currently waiting","每次正等待施放的此法術，有 {0}% 更多擊中和異常狀態傷害"
 "{0}% less Damage with Hits and Ailments for each Cast of this Spell currently waiting","每次正等待施放的此法術，有 {0}% 更少擊中和異常狀態傷害"
-"Summons Mirage Warriors from {0} corpses per {1} Power, minimum 1 corpse","每 {1} 強度從 {0} 個屍體召喚幻影戰士"
 "Exerted Attacks have {0}% to Critical Strike Chance","竭盡攻擊 {0}% 暴擊率"
 "{0} to maximum Blade Flurry stages","{0} 最大刀鋒亂舞疊層"
 "Can have {0} additional Enchantment Modifiers","可以有 {0} 個額外附魔詞綴"
 "Socketed Gems have {0}% increased Reservation Efficiency","插槽中寶石增加 {0}% 保留效用"
 "Socketed Gems have {0}% reduced Reservation Efficiency","插槽中寶石減少 {0}% 保留效用"
-"Socketed Gems have +3.5% Critical Strike Chance","此物品插槽中寶石增加 3.5% 暴擊率"
 "Socketed Curse Gems have {0}% increased Reservation Efficiency","插槽中詛咒寶石增加 {0}% 保留效用"
 "Socketed Curse Gems have {0}% reduced Reservation Efficiency","插槽中詛咒寶石減少 {0}% 保留效用"
 "Hexes from Socketed Skills can apply {0} additional Curses","來自插槽技能的咒術可以套用額外 {0} 詛咒"
@@ -25229,11 +25222,6 @@ Solipsism,唯我論
 "Trigger Level {0} Assassin's Mark when you Hit a Rare or Unique Enemy and have no Mark","當你擊中稀有或傳奇敵人且沒有印記時，觸發等級 {0} 的刺客印記"
 "Trigger Level {0} Poacher's Mark when you Hit a Rare or Unique Enemy and have no Mark","當你擊中稀有或傳奇敵人且沒有印記時，觸發等級 {0} 的狙擊者印記"
 "Trigger Level {0} Warlords's Mark when you Hit a Rare or Unique Enemy and have no Mark","當你擊中稀有或傳奇敵人且沒有印記時，觸發等級 {0} 的督軍印記"
-"{0}% chance to Trigger Level {1} Arcane Wake after Spending a total of 200 Mana","消耗總計 {1}0 魔力時，有 {0}% 機率觸發等級  20 的秘能喚醒"
-"{0}% chance to Trigger Level 1 Raise Spiders on Kill","擊殺時有 {0}% 機率觸發異蛛復甦"
-"{0}% Chance to Trigger Level 10 Summon Spectral Wolf on Kill","擊殺時有 {0}% 機率觸發等級 18 的召喚幽狼"
-"{0}% chance to Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy","當幻化武器擊殺敵人時，有 {0}% 機率觸發等級 20 的幻化守衛武器"
-"Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy","當幻化武器擊殺敵人時觸發等級 20 的幻化守衛武器"
 "Trigger Level {0} Twister when you gain Avian's Might or Avian's Flight","當你獲得飛羽意志或飛羽飄翔時，觸發等級 {0} 的旋風"
 "Trigger Level {0} Warlord's Mark when you Hit a Rare or Unique Enemy and have no Mark","當你擊中稀有或傳奇敵人且沒有印記時，觸發等級 {0} 的督軍印記"
 "Trigger a Socketed Spell on Using a Skill, with a {0} second Cooldown","使用技能時觸發插槽中的 1 個法術，有 {0} 秒冷卻時間"
@@ -25299,8 +25287,6 @@ Solipsism,唯我論
 "Minions have {0}% increased Life Recovery rate","召喚物增加 {0}% 生命回復率"
 "Minions have {0}% reduced Life Recovery rate","召喚物減少 {0}% 生命回復率"
 "Enemies Become Chilled as they Unfreeze, causing {0}% reduced Action Speed","敵人從解凍時變冰緩，減少 {0}% 行動速度"
-"Minions deal {0}% increased Damage per 5 Dexterity","每 10 點敏捷增加 {0}% 召喚物所造成的傷害"
-"Minions deal {0}% reduced Damage per 5 Dexterity","每 10 點敏捷減少 {0}% 召喚物所造成的傷害"
 "Gain no inherent bonuses from Strength",不會獲得力量的固有加成
 "Intelligence provides no inherent bonus to Maximum Mana",智慧不提供最大魔力的加成
 "{0}% increased Effect of Exposure inflicted with Elemental Equilibrium","增加 {0}% 元素之相造成曝曬的效果"
@@ -25346,7 +25332,6 @@ Solipsism,唯我論
 "Curse Enemies with Frostbite on Hit",擊中時詛咒敵人凍傷
 "{0}% chance to Suppress Spell Damage per Frenzy Charge","每顆狂怒球有 {0}% 壓抑法術傷害率"
 "{0}% more Effect of your Curses","你的詛咒有 {0}% 更多效果"
-"Regenerate {0}% of your Armour as Life over 1 second when you Block","格擋時每秒回復等同 {0}% 護甲的生命"
 "Your Hits treat Fire Resistance as {0}% higher than actual value","你的擊中將火焰抗性視為比實際值高 {0}%"
 "Your Hits treat Lightning Resistance as {0}% higher than actual value","你的擊中將閃電抗性視為比實際值高 {0}%"
 "{0} to Bow Strike Range","增加 {0} 弓箭射程"
@@ -25468,7 +25453,6 @@ Solipsism,唯我論
 "{0} to Armour while Fortified","護體時 {0} 護甲"
 "{0}% increased Armour per Red Socket on Main Hand Weapon","主手武器上每顆紅色插槽增加 {0}% 護甲"
 "{0}% reduced Armour per Red Socket on Main Hand Weapon","主手武器上每顆紅色插槽減少 {0}% 護甲"
-"Arrows Pierce 1 additional Target",箭矢穿透一個額外目標
 "Attack Damage is Lucky if you've Blocked in the past {0} seconds","若過去 {0} 秒你有格檔，攻擊傷害很幸運"
 "{0}% increased Attack Damage per {1} Strength","每 {1} 點力量增加 {0}% 攻擊傷害"
 "{0}% reduced Attack Damage per {1} Strength","每 {1} 點力量減少 {0}% 攻擊傷害"
@@ -25496,7 +25480,6 @@ Solipsism,唯我論
 "{0} to maximum Fortification","{0} 最大護體"
 "{0}% chance to Blind Enemies with Off Hand Hits","使用副手擊中時有 {0}% 機率致盲敵人"
 "{0}% chance to Block Projectile Spell Damage","{0}% 機率格擋投射物法術傷害"
-"Warcries grant {0} Rage per {1} Power if you have less than 25 Rage","若你盛怒低於 2{1} 層，每 5 強度戰吼獲得 {0} 層盛怒"
 "{0}% to Damage over Time Multiplier for Bleeding per Endurance Charge","每顆耐力球 {0}% 流血持續傷害加成"
 "Your Temporal Towers have {0}% reduced Range","你的時空塔減少 {0}% 範圍"
 "Blood and Sand has {0}% reduced Mana Reservation Efficiency","血腥沙戮減少 {0}% 魔力保留效用"
@@ -25736,7 +25719,7 @@ Solipsism,唯我論
 "{0}% reduced Attack Damage with Main Hand while Dual Wielding","雙持時，減少 {0}% 主手攻擊傷害"
 "Malevolence has {0}% reduced Mana Reservation Efficiency","惡意減少 {0}% 魔力保留效用"
 "Malevolence has {0}% increased Mana Reservation Efficiency","惡意增加 {0}% 魔力保留效用"
-"Gain {0} Mana per Enemy Hit by Attacks if you've used a Mana Flask in the past {1} seconds","若過去 {1} 秒你沒有使用魔力藥劑，每次敵人攻擊擊中獲得 {0} 魔力"
+"Gain {0} Mana per Enemy Hit by Attacks if you've used a Mana Flask in the past {1} seconds","若過去 {1} 秒你有使用魔力藥劑，每次敵人攻擊擊中獲得 {0} 魔力"
 "{0}% increased Mana Reservation Efficiency of Skills that throw Mines","增加 {0}% 投擲地雷技能的魔力保留效用"
 "{0}% reduced Mana Reservation Efficiency of Skills that throw Mines","減少 {0}% 投擲地雷技能的魔力保留效用"
 "{0}% reduced Mana Reservation Efficiency of Skills per {1} total Attributes","每 {1} 點總能力值，減少 {0}% 技能的魔力保留效用"
@@ -25771,7 +25754,6 @@ Solipsism,唯我論
 "Elusive also grants {0}% to Critical Strike Multiplier for Skills Supported by Nightblade","靈巧同時 {0}% 暴擊加成至被夜刃輔助的技能"
 "Dual Wielding does not inherently grant chance to Block Attack Damage",雙持時不會獲得固有的格擋攻擊傷害機率
 "Non-Projectile Chaining Lightning Skills Chain {0} times","非投射物連鎖閃點技能連鎖 {0} 次"
-"+1 to maximum number of Raised Zombies per {0} Strength","每 {0} 點力量額外增加 1 個殭屍上限"
 "Off Hand Accuracy is equal to Main Hand Accuracy while wielding a Sword",持劍時，副手命中等同於主手命中
 "{0}% increased Attack Speed with Off Hand while Dual Wielding","雙持時，增加 {0}% 副手攻擊速度"
 "{0}% reduced Attack Speed with Off Hand while Dual Wielding","雙持時，減少 {0}% 副手攻擊速度"
@@ -25787,7 +25769,6 @@ Solipsism,唯我論
 "{0}% less Stun Duration with Two Handed Weapons","雙手武器有 {0}% 更少暈眩持續時間"
 "Petrified Blood has {0}% reduced Mana Reservation Efficiency","石化之血減少 {0}% 魔力保留效用"
 "Petrified Blood has {0}% increased Mana Reservation Efficiency","石化之血增加 {0}% 魔力保留效用"
-"Gain {0}% of Physical Damage as Extra Fire Damage per 1 Rage","每層盛怒獲得 {0}% 物理傷害的額外火焰傷害"
 "Gain {0}% of Physical Damage as Extra Damage of a random Element while you are Ignited","你被點燃時，獲得 {0}% 物理傷害的 1 個額外隨機元素傷害"
 "{0}% increased Physical Damage with Skills that Cost Life","增加 {0}% 消耗生命技能的物理傷害"
 "{0}% reduced Physical Damage with Skills that Cost Life","減少 {0}% 消耗生命技能的物理傷害"
@@ -25809,7 +25790,6 @@ Solipsism,唯我論
 "Purity of Ice has {0}% increased Mana Reservation Efficiency","冰霜淨化增加 {0}% 魔力保留效用"
 "Purity of Lightning has {0}% reduced Mana Reservation Efficiency","閃電淨化減少 {0}% 魔力保留效用"
 "Purity of Lightning has {0}% increased Mana Reservation Efficiency","閃電淨化增加 {0}% 魔力保留效用"
-"Projectiles Pierce 3 additional Targets",投射物穿透三個額外目標
 "{0}% more chance to Evade Attacks during Onslaught","猛攻期間有 {0}% 更多閃避攻擊率"
 "{0}% less chance to Evade Attacks during Onslaught","猛攻期間有 {0}% 更少閃避攻擊率"
 "Recover {0}% of Life when you Kill a Cursed Enemy","當你擊殺被詛咒的敵人時，回復 {0}% 生命"
@@ -25826,7 +25806,7 @@ Solipsism,唯我論
 "Reflect Physical Damage equal to {0}% of Physical Damage prevented when Hit","被擊中時，反射物理傷害等同於 {0}% 以阻止物理傷害"
 "Regenerate {0} Mana per second while you have Arcane Surge","你有秘能波動時，每秒回復 {0} 魔力"
 "Remove a random non-Elemental Ailment when you use a Life Flask","當你使用生命藥劑時，移除 1 個隨機非元素異常狀態"
-"{0}% to All Resistances","{0}% 全部元素抗性"
+"{0}% to All Resistances","{0}% 全部抗性"
 "Ruthless Hits Intimidate Enemies for {0} seconds","殘暴之擊威嚇敵人 {0} 秒"
 "Attacks Exerted by Seismic Cry deal {0}% increased Damage","被裂地戰吼竭盡的攻擊增加 {0}% 傷害"
 "Hits at Close Range with Shattering Steel Fortify",使用鋼之碎擊近距離擊中護體
@@ -25924,3 +25904,171 @@ Survival,存活
 "{0} to maximum Fortification while affected by Glorious Madness","被榮耀瘋癲影響時，{0} 最大護體"
 "Zealotry has {0}% reduced Mana Reservation Efficiency","狂熱減少 {0}% 魔力保留效用"
 "Zealotry has {0}% increased Mana Reservation Efficiency","狂熱增加 {0}% 魔力保留效用"
+"Projectiles Pierce 2 additional Targets",投射物穿透兩個額外目標
+"During initial Duration, can be hit by your Projectiles up to {0} times","在初始持續時間內，最多可以被你的投射物擊中 {0} 次"
+"{0}% increased initial Duration","增加 {0}% 初始持續時間"
+"{0}% reduced initial Duration","減少 {0}% 初始持續時間"
+"You and nearby allies have {0}% chance to Evade Attack Hits","你和附近友方 {0}% 閃避攻擊擊中率"
+"Linked target has {0}% increased Stun Threshold","連結的目標增加 {0}% 暈眩門檻"
+"Linked target has {0}% reduced Stun Threshold","連結的目標減少 {0}% 暈眩門檻"
+"Linked target has {0}% increased Accuracy Rating","連結的目標增加 {0}% 命中值"
+"Linked target has {0}% reduced Accuracy Rating","連結的目標減少 {0}% 命中值"
+"Linked target has {0}% chance to Ignite","連結的目標有 {0}% 機率點燃"
+"Linked target deals {0}% increased Damage when on Full Life","連結的目標滿血時，增加 {0}% 傷害"
+"Linked target deals {0}% reduced Damage when on Full Life","連結的目標滿血時，減少 {0}% 傷害"
+"Buff grants {0}% to Maximum total Life Recovery per second from Leech","增益效果 {0}% 來自偷取的每秒最大總生命恢復"
+"Linked target has {0}% increased Mana Regeneration Rate","連結的目標增加 {0}% 魔力回復率"
+"Linked target has {0}% reduced Mana Regeneration Rate","連結的目標減少 {0}% 魔力回復率"
+"Gain Arcane Surge after Spending a total of {0} Mana on",在被輔助技能的前期消耗和效果的
+"Upfront Costs and Effects of a Supported Skill","總消耗 {0} 魔力時獲得秘能波動"
+"{0}% chance to gain an Inspiration Charge when you Spend Mana on",你在被輔助技能的前期消耗和效果消耗魔力時，
+"Upfront Costs of Effects of Supported Skills","有 {0}% 機率獲得 1 顆啟發球"
+"Gain an Inspiration Charge when you Spend Mana on Upfront",你在被輔助技能的前期消耗和效果消耗魔力時，
+"Costs or Effects of Supported Skills","獲得 1 顆啟發球"
+"Gain Lifetap after Spending a total of {0} Life on Upfront",在被輔助技能的前期消耗和效果的
+"Costs and Effects of a Supported Skill","總消耗 {0} 生命時獲得活栓"
+"Lose all Inspiration Charges after Spending a total of {0} Mana on Upfront Costs and Effects of Supported Skills","在被輔助技能的前期消耗和效果的總消耗 {0} 魔力時失去全部啟發球"
+"{0}% chance to Defend with {1}% of Armour","{0}% 機率使用 {1}% 護甲防禦"
+"Loses 1 Intensity every {0} seconds while moving",移動或你立即傳送時，
+"{0}% more Effect of Curse","{0}% 更多詛咒效果"
+"{0}% less Effect of Curse","{0}% 更少詛咒效果"
+"Gain Arcane Surge after Spending a total of {0} Mana on Upfront Costs and Effects of this Spell","在此法術的前期消耗和效果的總消耗 {0} 魔力時獲得秘能波動"
+"Buff grants {0}% increased Cooldown Recovery Rate","增益效果增加 {0}% 冷卻時間恢復率"
+"Buff grants {0}% reduced Cooldown Recovery Rate","增益效果增加 {0}% 冷卻時間恢復率"
+"Buff causes Debuffs on you to expire {0}% faster","增益效果使你身上的減益效果加速 {0}% 失效"
+"Buff causes Debuffs on you to expire {0}% slower","增益效果使你身上的減益效果減緩 {0}% 失效"
+"Hits on Ignited Enemies create Burning Ground, no more than once every {0} seconds","擊中被點燃的敵人時製造燃燒地面，每 {0} 秒不超過 1 次"
+"Burning Ground deals {0}% of Fire Damage per second of Ignite affecting Enemy","燃燒地面每秒造成影響敵人點燃的 {0}% 火焰傷害"
+"{0}% chance to gain an Inspiration Charge when you Spend Mana on Upfront Costs or Effects of this Skill","你在此技能的前期消耗或效果消耗魔力時，有 {0}% 機率獲得 1 顆啟發球"
+"Gain an Inspiration Charge when you Spend Mana on Upfront Costs or Effects of this Skill","你在此技能的前期消耗或效果消耗魔力時，獲得 1 顆啟發球"
+"Lose all Inspiration Charges after Spending {0} total Mana on Upfront Costs and Effects of this Skill","在此技能的前期消耗和效果的總消耗 {0} 魔力時失去全部啟發球"
+"Gain Lifetap after Spending a total of {0} Life on Upfront Costs and Effects of this Skill","在此技能的前期消耗和效果的總消耗 {0} 生命時獲得活栓"
+"Enemies in range are Hindered with {0}% reduced Movement Speed","範圍內敵人被阻礙減少 {0}% 移動速度"
+"Trigger this Spell when Intuitive Link's target Hits an Enemy, from the target's location",當連結：直覺的目標擊中敵人時從目標的位置觸發此法術
+"Summons Mirage Warriors from {0} corpses per {1} Power, minimum 1 corpse","每 {1} 強度從 {0} 個屍體召喚幻影戰士"
+"Inflicts Withered for {0} seconds on Hit","擊中時造成凋零 {0} 秒"
+"Socketed Support Gems can also Support Skills from your Body Armour",插槽中的輔助寶時同時輔助你胸甲的技能
+"Socketed Support Gems can also Support Skills from your Main Hand",插槽中的輔助寶時同時輔助你主手的技能
+"Socketed Gems have +3.5% Critical Strike Chance","此物品插槽中寶石增加 3.5% 暴擊率"
+"Socketed Gems have {0}% increased Effect of Exposure inflicted by Elemental Equilibrium","插槽中的寶石增加 {0}% 元素之相造成曝曬的效果"
+"Socketed Gems have {0}% reduced Effect of Exposure inflicted by Elemental Equilibrium","插槽中的寶石減少 {0}% 元素之相造成曝曬的效果m"
+"Grants Level {0} Herald of Agony Skill","獲得等級 {0} 的苦痛之捷技能"
+"Grants Level {0} Herald of Purity Skill","獲得等級 {0} 的純淨之捷技能"
+"Trigger Socketed Spells when you Spend at least {0} Mana on an","你在前期消耗使用或觸發技能至少 {0} 魔力時，"
+"Upfront Cost to Use or Trigger a Skill, with a {0} second Cooldown","觸發插槽中的法術，有 {0} 秒冷卻"
+"{0}% chance to Trigger Level {1} Arcane Wake after Spending a total of 200 Mana","消耗總計 {1}0 魔力時，有 {0}% 機率觸發等級  20 的秘能喚醒"
+"{0}% chance to Trigger Level 1 Raise Spiders on Kill","擊殺時有 {0}% 機率觸發異蛛復甦"
+"{0}% Chance to Trigger Level 10 Summon Spectral Wolf on Kill","擊殺時有 {0}% 機率觸發等級 18 的召喚幽狼"
+"{0}% chance to Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy","當幻化武器擊殺敵人時，有 {0}% 機率觸發等級 20 的幻化守衛武器"
+"Trigger Level 18 Animate Guardian's Weapon when Animated Weapon Kills an Enemy","當幻化武器擊殺敵人時觸發等級 20 的幻化守衛武器"
+"{0}% more Recovery if used while on Low Life","若使用時貧血，有 {0}% 更多回復"
+"Recover an additional {0}% of Flask's Life Recovery Amount over {1} seconds if used while not on Full Life","若使用時非滿血，在 {1} 秒內回復額外 {0}% 藥劑的生命回復總量"
+"{0}% increased Reflected Damage taken during Flask Effect","藥劑效果期間增加承受 {0}% 反射傷害"
+"{0}% reduced Reflected Damage taken during Flask Effect","藥劑效果期間減少承受 {0}% 反射傷害"
+"Non-Aura Vaal Skills require {0}% increased Souls Per Use during Effect","非光環瓦爾技能效果持續時間每次使用增加 {0}% 需要靈魂"
+"Non-Aura Vaal Skills require {0}% reduced Souls Per Use during Effect","非光環瓦爾技能效果持續時間每次使用減少 {0}% 需要靈魂"
+"Lose {0}% of Mana on Kill","擊殺時失去 {0}% 魔力"
+"Your Hits cannot Stun Enemies",你的擊中不能暈眩敵人
+"Minions deal {0}% increased Damage per 5 Dexterity","每 10 點敏捷增加 {0}% 召喚物所造成的傷害"
+"Minions deal {0}% reduced Damage per 5 Dexterity","每 10 點敏捷減少 {0}% 召喚物所造成的傷害"
+"{0}% reduced Life Recovery from Flasks","減少 {0}% 來自藥劑的生命回復"
+"{0}% reduced Mana Recovery from Flasks","減少 {0}% 來自藥劑的魔力回復"
+"Your Skills deal you {0}% of Mana Spent on Upfront Skill Mana Costs as Physical Damage","你的技能造成 {0}% 你魔力消耗在前期技能魔力消耗的物理傷害"
+"Can have {0} fewer Remote Mine placed at a time","同時最多可以減少 {0} 個已放置的遙控地雷"
+"Can have {0} fewer Remote Mines placed at a time","同時最多可以減少 {0} 個已放置的遙控地"
+"{0}% chance to Suppress Spell Damage per Fortification","每層護體有 {0}% 壓抑法術傷害率"
+"Side passages only contain Azurite Veins",測通道只包含碧藍礦脈
+"Side passages only contain Currency Chests",測通道只包含通貨保險箱
+"Side passages only contain Fossilised Remains",測通道只包含化石遺跡
+"Side passages only contain Resonator Chests",測通道只包含鑄新儀保險箱
+"Side passages contain {0}% more Azurite Veins","測通道包含 {0}% 更多碧藍礦脈"
+"Side passages contain {0}% more Currency Chests","測通道包含 {0}% 更多通貨保險箱"
+"Side passages contain {0}% more Fossilised Remains","測通道包含 {0}% 更多化石遺跡"
+"Side passages contain {0}% more Resonator Chests","測通道包含 {0}% 更多鑄新儀保險箱"
+"Regenerate {0}% of your Armour as Life over 1 second when you Block","格擋時每秒回復等同 {0}% 護甲的生命"
+"Nearby Allies have {0}% Chance to Block Attack Damage per {1} Strength you have","每 {1} 點你的力量，使附近友方有 {0}% 攻擊傷害格擋率"
+"{0}% chance to Suppress Spell Damage if you've",若你近期有承受法術傷害，
+"Lose Blood from Blood Crucible {0}% faster","血腥匣盒失去鮮血加快 {0}%"
+"Lose Blood from Blood Crucible {0}% slower","血腥匣盒失去鮮血減緩 {0}%"
+"Gain Exposed to Corruption stacks twice as frequently","獲得曝曬於汙染疊層頻率為 2 倍"
+"Lose {0} stack of Exposed to Corruption every {1} seconds","每 {1} 秒失去 {0} 層曝曬於汙染疊"
+"Only shift into Nightmare on reaching maximum Blood",只有達到最大鮮血時會轉移至夢魘
+"Blood is not lost over time",鮮血不會隨著時間流失
+"Lose {0}% of Blood on Killing a Scourge Monster","擊殺災魘怪物時失去 {0}% 鮮血"
+"Only Shift into and out of Nightmare randomly",只能隨機轉移或轉出夢魘
+"The Blood Crucible can transform Unique Equipment",血腥匣盒可以轉化傳奇裝備
+"{0} to Armour per {1} Maximum Energy Shield on Helmet","頭盔上每 {1} 最大能量護盾 {0} 護甲"
+"Arrows Pierce 1 additional Target",箭矢穿透一個額外目標
+"{0}% increased Damage with Attack Skills while you have at least {1} Fortification","你至少有 {1} 層護體時，增加 {0}% 攻擊技能傷害"
+"{0}% reduced Damage with Attack Skills while you have at least {1} Fortification","你至少有 {1} 層護體時，減少 {0}% 攻擊技能傷害"
+"Warcries grant {0} Rage per {1} Power if you have less than 25 Rage","若你盛怒低於 2{1} 層，每 5 強度戰吼獲得 {0} 層盛怒"
+"{0}% increased Blind Effect","增加 {0}% 致盲效果"
+"{0}% reduced Blind Effect","減少 {0}% 致盲效果"
+"You can catch Scourged Fish",你可以捕抓災魘魚
+"Cannot Fish while standing in Water",站在水中時不能釣魚
+"Cannot gain Charges",不能獲得充能
+"{0}% increased Damage per Linked target","每個連結目標增加 {0}% 傷害"
+"{0}% reduced Damage per Linked target","每個連結目標減少 {0}% 傷害"
+"{0}% increased Size of Fish caught during Daytime","白天期間增加 {0}% 捕獲魚的大小"
+"{0}% reduced Size of Fish caught during Daytime","白天期間減少 {0}% 捕獲魚的大小"
+"{0}% increased Destructive Link Duration","增加 {0}% 連結：破壞持續時間"
+"{0}% reduced Destructive Link Duration","減少 {0}% 連結：破壞持續時間"
+"Dexterity's Accuracy Bonus instead grants {0} to Accuracy Rating per Dexterity","敏捷的命中加成改為每點敏捷 {0} 命中值"
+"Enemies near your Linked targets have Fire, Cold and Lightning Exposure",你連結目標附近的敵人有火焰、冰冷和閃電曝曬
+"{0} to Energy Shield per {1} Evasion on Boots","鞋子上每 {1} 閃避 {0} 能量護盾"
+"{0}% increased Energy Shield Recovery Rate if you haven't been Hit Recently","若你近期沒有被擊中，增加 {0}% 能量護盾回復率"
+"{0}% reduced Energy Shield Recovery Rate if you haven't been Hit Recently","若你近期沒有被擊中，減少 {0}% 能量護盾回復率"
+"{0} to Evasion Rating per {1} Armour on Gloves","手套上每 {1} 護甲 {0} 閃避值"
+"Fish Rot upon being Caught",釣到魚腐爛
+"{0}% increased Reeling Stability","增加 {0}% 收線穩定度"
+"{0}% reduced Reeling Stability","減少 {0}% 收線穩定度"
+"{0}% increased Flame Link Duration","增加 {0}% 連結：烈焰持續時間"
+"{0}% reduced Flame Link Duration","減少 {0}% 連結：烈焰持續時間"
+"{0}% increased Armour per {1} Reserved Mana","每 {1} 保留魔力，增加 {0}% 護甲"
+"{0}% chance to gain a Frenzy Charge when you Hit a Unique Enemy","當你擊中傳奇敵人時，有 {0}% 機率獲得 1 顆狂怒球"
+"Gain a Frenzy Charge when you Hit a Unique Enemy","當你擊中傳奇敵人時，獲得 1 顆狂怒球"
+"Spells cause you to gain Mana equal to their Upfront Cost every fifth time you Pay it","每 5 次你支付法術時，你會獲得等同於它前期消耗的魔力"
+"Recover Energy Shield equal to {0}% of your Evasion Rating when you lose a Ghost Shroud due to being Hit","當你因為被擊中而失去幽魂屍布時，回復等同於 {0}% 你閃避值的能量護盾"
+"{0}% chance for transforming to add an Explicit Modifier to Magic or Rare Equipment","{0}% 機率轉化 1 個變動詞綴至魔法或稀有裝備上"
+"{0}% chance for transforming to add a Link to the largest group of Linked Sockets","{0}% 機率轉化 1 個連結至最大組的連結插槽"
+"{0}% chance for transforming to grant Detrimental Modifiers one tier lower on Equipment","{0}% 機率轉化降低 1 階裝備上的有害詞綴"
+"{0}% chance for transforming to raise the tier of an Explicit Modifier on Equipment","{0}% 機率轉化裝備上 1 個變動詞綴提升階級"
+"{0}% chance for transforming to grant Beneficial Modifiers one tier higher on Equipment","{0}% 機率轉化提升 1 階裝備上的有利詞綴"
+"Hits ignore Enemy Monster Physical Damage Reduction if you've Blocked in the past {0} seconds","若你過去 {0} 秒有格擋，擊中無視敵人怪物物理傷害減免"
+"{0}% increased Intuitive Link Duration","增加 {0}% 連結：直覺持續時間"
+"{0}% reduced Intuitive Link Duration","減少 {0}% 連結：直覺持續時間"
+"Link Skills can target Damageable Minions",連結技能可以瞄準傷害型召喚物
+"Your Linked targets deal {0}% increased Damage","你的連結目標增加 {0}% 傷害"
+"Your Linked targets deal {0}% reduced Damage","你的連結目標減少 {0}% 傷害"
+"Your Linked Targets take {0}% increased Damage","你的連結目標增加承受 {0}% 傷害"
+"Your Linked Targets take {0}% reduced Damage","你的連結目標增加減少 {0}% 傷害"
+"Enemies inflict Elemental Ailments on you instead of Linked targets",怪物對你造成元素異常狀態而不是連結的目標
+"{0} Added Passive Skill is Aggressive Defence","{0} 個附加天賦為積極防禦"
+"{0}% increased Quantity of Vendor Refresh Currencies dropped by Monsters in Areas","增加 {0}% 區域中怪物掉落刷新商店通貨的數量"
+"{0}% reduced Quantity of Vendor Refresh Currencies dropped by Monsters in Areas","減少 {0}% 區域中怪物掉落刷新商店通貨的數量"
+"Maven releases all Bosses at once",釋界一次釋放全部頭目
+"+1 to maximum number of Raised Zombies per {0} Strength","每 {0} 點力量額外增加 1 個殭屍上限"
+"Gain {0}% of Physical Damage as Extra Fire Damage per 1 Rage","每層盛怒獲得 {0}% 物理傷害的額外火焰傷害"
+"{0}% increased Poisonous Concoction Damage","增加 {0}% 毒藥傷害"
+"{0}% reduced Poisonous Concoction Damage","減少 {0}% 毒藥傷害"
+"Poisonous Concoction uses {0}% increased Flask Charges","毒藥增加 {0}% 藥劑充能使用"
+"Poisonous Concoction uses {0}% reduced Flask Charges","毒藥減少 {0}% 藥劑充能使用"
+"{0}% increased Poisonous Concoction Area of Effect","增加 {0}% 毒藥範圍效果"
+"{0}% reduced Poisonous Concoction Area of Effect","減少 {0}% 毒藥範圍效果"
+"{0}% increased Protective Link Duration","增加 {0}% 連結：保護持續時間"
+"{0}% reduced Protective Link Duration","減少 {0}% 連結：保護持續時間"
+"Projectiles Pierce 3 additional Targets",投射物穿透三個額外目標
+"{0}% increased Soul Link Duration","增加 {0}% 連結：靈魂持續時間"
+"{0}% reduced Soul Link Duration","減少 {0}% 連結：靈魂持續時間"
+"{0}% chance to Suppress Spell Damage while Channelling","引導時 {0}% 壓抑法術傷害率"
+"Strength's Damage bonus also applies to Reeling Speed at {0}% of its value","力量的傷害加成同時以 {0}% 它的值套用至收線速度"
+"Temporal Rift has {0}% increased Cooldown Recovery Rate","時空裂隙增加 {0}% 冷卻時間回復率"
+"{0}% increased Tornado Damage","增加 {0}% 龍捲風傷害"
+"{0}% reduced Tornado Damage","減少 {0}% 龍捲風傷害"
+"{0}% increased Tornado Area of Effect","增加 {0}% 龍捲風範圍效果"
+"{0}% reduced Tornado Area of Effect","減少 {0}% 龍捲風範圍效果"
+"Unaffected by Blind",不受致盲影響
+"Non-Aura Vaal Skills require {0}% increased Souls Per Use","非光環瓦爾技能每次使用增加 {0}% 靈魂需求"
+"Non-Aura Vaal Skills require {0}% reduced Souls Per Use","非光環瓦爾技能每次使用減少 {0}% 靈魂需求"
+"{0}% increased Vampiric Link Duration","增加 {0}% 連結：吸血持續時間"
+"{0}% reduced Vampiric Link Duration","減少 {0}% 連結：吸血持續時間"

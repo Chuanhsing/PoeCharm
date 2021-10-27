@@ -791,7 +791,7 @@ Sanctity,聖潔之力
 "Storm Weaver",風暴織者
 "Bleed Damage",物理持續傷害
 "Bleed Damage Multiplier",流血傷害加成
-"Bleed Chance",中毒和流血傷害
+"Bleed Chance",流血機率
 Bloodletting,出血
 "Bleeding Mastery",流血專精
 "Evasion and Blind Duration",閃避和致盲持續時間
@@ -1708,7 +1708,7 @@ Coalwalker,煤行者
 "Dagger Critical Strike Multiplier",匕首暴擊加成
 "Dagger Critical Strike Chance and Leech",匕首暴擊率和偷取
 "Minion Resistances",召喚物抗性
-"Wand Lightning Damage",法杖冰冷傷害
+"Wand Lightning Damage",法杖閃電傷害
 "Freeze Chance",冰凍機率
 "Burning Damage Multiplier",燃燒傷害加成
 "Cold Damage and Freeze Chance",冰冷傷害和冰凍機率
@@ -1732,7 +1732,7 @@ Ballistics,彈道學
 "Projectile Attack Critical Strike Chance",投射物攻擊暴擊率
 "Projectile Attack Critical Strike Chance and Multiplier",投射物攻擊暴擊率和加成
 "Spell Damage and Mana",法術傷害和魔力
-"Movement Speed and Spell Suppression",移動速度和壓抑
+"Movement Speed and Spell Suppression",移動速度和法術壓抑
 "Mana Regeneration",魔力回復
 Presage,預示
 "Shield Block and Elemental Resistances with a Shield",盾牌格擋和持盾元素抗性
@@ -1740,7 +1740,7 @@ Presage,預示
 "Savage Wounds",殘疤
 "Dual Wield Block and Attack Speed",雙持格擋和攻擊速度
 "Ignite Chance and Duration",點燃機率和持續時間
-"Reservation Efficiency",魔力保留效用
+"Reservation Efficiency",保留效用
 "Attack Ignite Chance and Attack Speed",攻擊點燃機率和攻擊速度
 "Trap Critical Strike Chance and Multiplier",陷阱暴擊率和加成
 "Energy Shield Recharge Rate",能量護盾充能率
@@ -1756,7 +1756,7 @@ Goliath,巨靈
 "Cold Ailment Effect",冰冷異常狀態效果
 "Chance to Ignite",點燃機率
 "Lightning Ailment Effect",閃電異常狀態效果
-"Avoid Interruption while Casting and Elemental Resistances",施法不受干擾和元素抗性
+"Avoid Interruption while Casting and Elemental Resistances",施放時避免干擾和元素抗性
 "Chance for Extra Fork Projectile",額外分裂投射物機率
 "Avoid Status Ailments",避免異常狀態
 "Master of Blades",劍刃大師
@@ -1782,7 +1782,7 @@ Robust,堅固
 "Totem Critical Strike Multiplier",圖騰暴擊加成
 "Ignite Chance",點燃機率
 "Reigning Veteran",在位老鳥
-Heartstopper,幽靈舞步
+Heartstopper,心靈永止
 "Damage Over Time Multiplier and Life Regeneration",持續傷害加成與生命回復
 "Poison Damage Multiplier",中毒傷害加成
 "Poison Chance and Duration",中毒機率和持續時間
@@ -1795,14 +1795,14 @@ Heartstopper,幽靈舞步
 "Damaging Ailment Duration",傷害行異常狀態持續時間
 "Chain Distance",連鎖距離
 "Minion Accuracy",召喚物命中
-"Minion Damage and Attack and Cast Speed",召喚物攻擊和施放速度
+"Minion Damage and Attack and Cast Speed",召喚物傷害和攻擊和施放速度
 "Life Regeneration and Stun Threshold",生命回復和暈眩門檻
 "Brand Critical Strike Chance",烙印暴擊率
 Avoidance,避免
 "Stun Avoidance",暈眩避免
 "Bleed Avoidance",避免流血
 "Poison Avoidance",避免中毒
-"Taste for Blood",血腥味
+"Taste for Blood",血味
 Tolerance,寬容
 "Chance to Ignite, Freeze and Shock",點燃、冰凍和感電機率
 "Ailment Effect",異常狀態效果
@@ -1853,7 +1853,7 @@ Safeguard,庇護
 "Life Flasks and Flask Duration",生命藥劑和藥劑持續時間
 "Field Medicine",野戰醫學
 "Mine Area of Effect",地雷範圍效果
-"Mine Damage and Reservation Efficiency",地雷傷害和減少保留
+"Mine Damage and Reservation Efficiency",地雷傷害和保留效用
 "Faster Ignite",快速點燃
 "Powerful Bond",強大之繫
 "Link Duration and Cast Speed",連結持續時間和施放速度
@@ -1862,7 +1862,7 @@ Safeguard,庇護
 "Burning Damage Multiplier with Attacks",攻擊燃燒傷害加成
 "Warcry Area of Effect",戰吼範圍效果
 Unfaltering,堅定不移
-"Reservation Efficiency of Heralds",減少捷光環保留
+"Reservation Efficiency of Heralds",捷光環保留效用
 "Spell Suppression and Energy Shield Recharge Rate",法術壓抑和能量護盾充能率
 Instinct,本能
 "Assured Strike",珍重打擊
@@ -1873,7 +1873,7 @@ Instinct,本能
 "Mana Flask Charge Gain",魔力藥劑獲得充能
 "Replenishing Remedies",補藥
 Acrimony,尖酸刻薄
-"Reservation Efficiency of Curse Skills",減少詛咒技能保留
+"Reservation Efficiency of Curse Skills",詛咒技能保留效用
 "Mark Effect",印記效果
 Hearty,爽朗
 "Curse Effect on You and Chaos Resistance",你身上的詛咒和混沌抗性
@@ -1917,3 +1917,4 @@ Introspection,自我反省
 "Doedre's Gluttony",德瑞的暴食
 "Doedre's Apathy",德瑞的冷漠
 "Master of the Maelstrom",混亂大師
+"Aggressive Defence",積極防禦
