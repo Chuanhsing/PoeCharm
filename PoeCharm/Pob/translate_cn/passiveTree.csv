@@ -16,7 +16,7 @@
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",(肾上腺素会增加100%伤害，提高25%攻击速度，施法速度和移动速度，并且受到的物理伤害额外减少10%)
 "(Onslaught grants 20% increased Attack, Cast, and Movement Speed)","( 猛攻赋予你额外你 20% 攻击速度, 施法速度, 和移动速度 )"
 "(You can only take one of the three Duelist Ascendancy passives)","( 你只能在决斗者的三个升华职业中选择一个 )"
-"(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)","( 对生命等于或少于 10% 最大生命的敌人可以造成终结，敌人将直接死亡 )"
+"(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)","( 对生命等于或少于 10% 生命上限的敌人可以造成终结，敌人将直接死亡 )"
 "(Choose one of the three attached options)","( 请在三个选项中选择一项 )"
 "(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)","( 流血造成持续物理伤害, 伤害取决于技能初始的物理伤害。移动时受到的流血伤害增加 )"
 "(Blinded enemies have their Chance to Hit halved)","( 被致盲的敌人命中率减半 )"
@@ -183,6 +183,6 @@ Pitfighter,深渊斗士
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second)",（友军在你产生的奉献地面上按照百分比每秒再生最大生命）
 "(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","（秘术增强可以在 4 秒内使法术伤害总增 10%， 魔力再生率提高 30%）"
 "(Crushed lowers Physical Damage Reduction by 15%)","（垮压使物理伤害减免降为 15%）"
-"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","( 被致盲的敌人命中率减半 )"
-"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds)","( 每 1 层护体承受 1% 更少击重伤害。最大 20 层护体。护体持续 4 秒)"
-"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","( 站在奉献地面上的友方每秒回复他们最大生命的百分比，且减少 50% 他们身上的诅咒效果 )"
+"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","（目盲状态会导致命中值和闪避值在接下来 4 秒总降 20%）"
+"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds)","（承受的击中伤害按照每层护体效果总降 1%。护体最多 20 层，它持续 5 秒）"
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","（友军在你产生的奉献地面上按照百分比每秒再生生命上限，并且他们身上的诅咒效果降低 50%）"
