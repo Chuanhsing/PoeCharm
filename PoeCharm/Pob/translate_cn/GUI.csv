@@ -1,0 +1,577 @@
+replacing,替换
+"Current build","当前 BD"
+"<< Back","<< 返回"
+"<No active skills>",<没有主动技能>
+About,关于
+"Update Ready",更新已就绪
+"Save Changes",保存变更
+"This build has unsaved changes.","这个 BD 的变更还未保存."
+"Do you want to save them now?",是否立即保存?
+"Don't Save",不保存
+"Build Sharing","BD 分享"
+"Note: this code can be very long; you can use 'Share with Pastebin' to shrink it.","注意: POB 代码可能会很长,你可以分享到 'Pastebin' 获取短连接"
+Calcs,计算
+"Character Import",角色导入
+"Character import status: Idle","角色导入状态: 空闲"
+"Character import status: Account name is incorrect.","人物导入状态: ^xDD0022帐号名称不正确"
+"Character import status: Account profile is private.","人物导入状态: ^xDD0022帐号资料未公开"
+"Note: if the account name contains non-ASCII characters then it must be URL encoded first.","^1注意:如果帐号名包含非'ASCII'字符,需要先URL编码"
+"Choose character to import data from:",选择角色后导入数据
+All,全部
+"Character import status: Retrieving character list...","角色导入状态: 获取角色列表..."
+"Tip: After you finish importing a character, make sure you update the bandit choices,","提示: 角色导入完成后,请务必选择盗贼选项,"
+"as these cannot be imported.",因为这些数据无法导入
+"Character import status: Character list successfully retrieved.","角色导入状态: 角色列表获取成功"
+"Character import status: Retrieving character items...","角色导入状态: 获取角色物品..."
+"Character import status: Items and skills successfully imported.","角色导入状态: 物品和技能导入完成"
+"Character import status: Retrieving character passive tree...","角色导入状态: 获取角色天赋树..."
+"Character import status: Passive tree and jewels successfully imported.","角色导入状态: 天赋树和珠宝导入完成"
+"Passive Tree and Jewels",天赋树和珠宝
+"Delete jewels:",删除珠宝:
+"Delete all existing jewels when importing.",导入时删除现有珠宝
+"Items and Skills",物品和技能
+League:,联盟:
+"Delete equipment:",删除装备
+"Delete all equipped items when importing.",导入时删除现有装备
+"Delete skills:",删除技能
+"Delete all existing skills when importing.",导入时删除现有技能
+"Importing the passive tree will overwrite your current tree.",导入新的天赋树将覆盖你当前的天赋树
+"Check for Update",检查更新
+Checking...,检查中...
+"Update check failed!",检查更新失败!
+"Couldn't download version manifest.",无法下载版本文件清单.
+"Reason: Timeout was reached","原因: 连接超时"
+"Check your internet connectivity.",检查你的互联网连接.
+Dismiss,忽略
+"If you are using a proxy, specify it in Options.","如果需要设置代理,请在选项中设置."
+Configuration,配置
+Copy,复制
+"Craft item...",制作物品...
+"Craft Item",制作物品
+"Create custom...",自定义...
+"Create Custom Item from Text",从文本创建自定义物品
+Default,默认
+Delete,删除
+"Delete All",删除全部
+"Effective DPS","DPS 效用"
+Enabled:,启用:
+Enable,启用
+"Experience multiplier:",经验比率:
+"Export Tree",导出天赋
+"For Effective DPS","DPS 增强"
+"Gem Options",技能宝石选项
+General,一般
+Generate,生成
+Import,导入
+Import:,导入:
+"Import Tree",导入天赋
+"Import from Pastebin...","从 Pastebin 导入..."
+"Import to this build","导入到当前 BD"
+"Import/Export Build","导入/导出 BD"
+Items,物品
+Manage...,管理...
+"Map Modifiers and Player Debuffs",地图词缀和玩家增益
+New,新建
+"New Folder",新建文件夹
+No,否
+None,无
+Open,打开
+Options,选项
+Rename,重命名
+Reset,重置
+Save,保存
+"Save As",另存为
+"Share with Pastebin","分享到 Pastebin"
+"Show Node Power:",显示节点增益:
+Skills,技能
+Sort,排序
+"Sort by Name",排序(名称)
+"Sort by name",排序(名称)
+"Sort by DPS",排序(DPS)
+"Sort gems by DPS:",技能宝石排序(DPS):
+Level:,等级:
+"Required level: {0}","等级需求: {0}"
+Quality:,品质:
+"Default gem level:",技能宝石默认等级:
+"Default gem quality:",技能宝石默认品质:
+"Socketed in:",插槽位置:
+Start,开始
+Tree,天赋
+"Active Skill:",主动技能:
+"Added Max:","附加 (最大):"
+"Added Min:","附加 (最小):"
+"All Types:",所有类型:
+"All items:",所有物品:
+"Attack time:",攻击间隔:
+"Double-click an item from one of the lists,","双击列表中的某个物品,"
+"or copy and paste an item from in game (hover over the item and Ctrl+C)","或者复制粘贴游戏中的物品(鼠标悬停在物品上 Ctrl+C)"
+"to view or edit the item and add it to your build.","来查看或编辑物品并添加到你的 BD"
+"This will also add it to your build if it's from the unique/template list.","如果物品来自 传奇/模版 列表,它也会添加到你的 BD 中"
+"If there's 2 slots an item can go in, holding Shift will put it in the second.","如果物品可以并需要装备到第二个插槽,请按住 Shitf 键放入其中."
+"You can Control + Click an item to equip it, or drag it onto the slot.","你可以使用 Control+Click 或拖放快速装备某个物品"
+"Game Version:",游戏版本:
+"Gem name:",技能宝石名称:
+"Generate a code to share this build with other Path of Building users:","生成 POB 代码分享给所有的 POE 玩家:"
+Label:,标签:
+Player:,玩家:
+Search:,搜索:
+"Shared items:",共享物品列表:
+"Skill Options",技能选项
+"Socket Group:",插槽:
+"Socket Groups:",插槽组:
+"This is a list of items that will be shared between all of",这个列表中的物品共享在
+"your builds.","你所有的 BD."
+"Delete Item",删除物品
+"Tip: You can copy/paste socket groups using Ctrl+C and Ctrl+V.","提示: 你可以使用 Ctrl+C 和 Ctrl+V 来复制/粘贴插槽"
+"To import a build, enter the code here:","在此处输入 POB 代码导入 BD"
+"To start importing a character, enter the character's account name:","输入 '角色帐号名' 后点击 '开始' 导入角色"
+"Weapon 1:",武器1:
+"Weapon 2:",武器2:
+Witch,女巫
+Templar,圣堂武僧
+Scion,贵族
+Shadow,暗影刺客
+Marauder,野蛮人
+Ranger,游侠
+Duelist,决斗者
+Normal,一般
+Magic,魔法的
+Rare,稀有的
+Unique,传奇的
+Relic,废墟
+"Unique (Relic)",传奇(遗产)
+"Weapon 1",武器1
+"Weapon 2",武器2
+Boots,鞋子
+Gloves,手套
+Helmet,头部
+"Body Armour",胸甲
+Quiver,箭袋
+Amulet,项链
+Belt,腰带
+Gem,技能宝石
+"Abyss Jewel",深渊珠宝
+Jewel,珠宝
+Flask,药剂
+Rarity:,稀有度:
+Name:,名称:
+Type:,类型:
+Base:,基础:
+Create,创建
+Cancel,取消
+Done,完成
+Close,关闭
+Bandit:,盗贼:
+"{0} Passive Points","{0} 天赋点"
+"Oak (Life Regen, Phys.Dmg. Reduction, Phys.Dmg)","欧克(命秒回,物理伤害减免,物理伤害)"
+"Kraityn (Attack/Cast Speed, Attack Dodge, Move Speed)","克雷顿(攻击/施法速度,躲避机率,移动速度)"
+"Alira (Mana Regen, Crit Multiplier, Resists)","阿莉亚(魔秒回,暴击伤害,全抗)"
+"Main Skill:",主技能:
+"Shaper Item",塑界者物品
+"Elder Item",裂界者物品
+Corrupted,已污染
+Craft,工艺
+Crafted,工艺的
+Crafted:,工艺:
+Enchant,附魔
+Enchanted,附魔的
+Mirrored,已复制
+"Add modifier...",添加词缀...
+"Add Modifier to Item",添加词缀到物品
+Source:,来源:
+Modifier:,词缀:
+"Crafting Bench",工艺桌
+Essence,精华
+Prefix,前缀
+Suffix,后缀
+Custom,自定义
+explicit,外延
+implicit,基底
+"Any slot",任何部位
+"Any type",任何类型
+"Any league",任何联盟
+Anywhere,任何条件
+Names,名字
+Modifiers,词缀
+Jewellery,首饰
+"One Handed Melee",单手近战
+"Two Handed Melee",双手近战
+Claw,爪
+Dagger,匕首
+"Two Handed Axe",双手斧
+"Two Handed Mace",双手锤
+"Two Handed Sword",双手剑
+"One Handed Axe",单手斧
+"One Handed Mace",单手锤
+"One Handed Sword",单手剑
+Sceptre,短杖
+Staff,长杖
+"Thrusting One Handed Sword",细剑
+Wand,法杖
+"No league",非联盟
+Abyss,深渊
+Bestiary,猎魔
+Betrayal,反叛
+Beyond,超越
+Bloodlines,血族
+Breach,裂隙
+Delve,地心
+Harbinger,先驱
+Incursion,侵略
+Legion,战乱
+Perandus,卡胖
+Synthesis,忆境
+Talisman,魔符
+"Talisman Hardcore",魔符(HC)
+"Talisman Standard",魔符(标准)
+Warbands,军团
+Current,当前
+"Pre {0}","{0} 版"
+"Apply Enchantment...",添加迷宫附魔...
+"Enchant Item",附魔物品
+Enchantment:,附魔:
+Eternal,终极
+Merciless,无情
+Skill:,技能:
+"All Skills:",所有技能:
+"Show all skills, not just those used by this build.","显示所有技能,而不是只显示当前 BD 的技能."
+Labyrinth:,迷宫:
+Corrupt...,腐化...
+"Corrupt Item",腐化物品
+"Implicit {0}","基底 {0}"
+Corrupt,腐化
+Edit...,编辑...
+"Add to build","添加到 BD"
+"Edit Item Text",编辑物品文本
+Remove,移除
+Minion:,召唤物:
+"Ring 1","戒指 1"
+"Ring 2","戒指 2"
+"Weapon 1 (Swap)","武器 1 (互换)"
+"Weapon 2 (Swap)","武器 2 (互换)"
+Standard,标准
+"Requires Level {0}","需求 等级 {0}"
+"Item set:",物品设置:
+"Manage Item Sets",管理物品集
+"This is a list of item sets that will be shared",这个物品集列表共享
+"between all of your builds.","在你所有的 BD 中."
+"You can add sets to this list by dragging them",你可以拖放物品集
+"from the build's set list.",到这个列表中来.
+"Equipped items:",已装备物品:
+"Weapon Set:",选择武器:
+Helmet:,头盔:
+"Body Armour:",胸甲:
+Gloves:,手套:
+Boots:,鞋子:
+Amulet:,项链:
+Belt:,腰带:
+"Ring {0}","戒指 {0}"
+"Flask {0}","药剂 {0}"
+"Socket {0}","插槽 {0}"
+"{0} Dex","{0} 敏捷"
+"{0} Int","{0} 智慧"
+"{0} Str","{0} 力量"
+"Attributes in Radius",范围内属性
+"^x7F7F7FSockets: ","^x7F7F7F插槽: "
+"^x7F7F7FQuality: ","^x7F7F7F品质: "
+"^x7F7F7FArmour: ","^x7F7F7F护甲: "
+"^x7F7F7FEvasion Rating: ","^x7F7F7F闪避值: "
+"^x7F7F7FCritical Strike Chance: ","^x7F7F7F攻击暴击率: "
+"^x7F7F7FAttacks per Second: ","^x7F7F7F每秒攻击次数: "
+"^x7F7F7FWeapon Range: ","^x7F7F7F武器范围: "
+"^x7F7F7FChance to Block: ","^x7F7F7F格挡几率: "
+"^x7F7F7FPhysical Damage: ","^x7F7F7F物理伤害: "
+"^x7F7F7FElemental Damage: ","^x7F7F7F元素伤害: "
+"^x7F7F7FElemental DPS: ","^x7F7F7F元素 DPS: "
+"^x7F7F7FChaos Damage: ","^x7F7F7F混沌伤害: "
+"^x7F7F7FTotal DPS: ","^x7F7F7F总 DPS: "
+^x7F7F7FLevel:,^x7F7F7F等级:
+"^x7F7F7FMana Multiplier:",^x7F7F7F魔力消耗倍率:
+"^x7F7F7FMana Cost:",^x7F7F7F魔力消耗:
+"^x7F7F7FCast Time:",^x7F7F7F施放时间:
+"^x7F7F7FMana Reserved:",^x7F7F7F魔力保留:
+"^x7F7F7FCooldown Time:",^x7F7F7F冷却时间:
+"^x7F7F7FEffectiveness of Added Damage:",^x7F7F7F伤害效用:
+"^x7F7F7FLimited to: ","^x7F7F7F仅限: "
+"^x7F7F7FRadius: ^7Large","^x7F7F7F范围: ^7大"
+"^x7F7F7FRadius: ^7Medium","^x7F7F7F范围: ^7中"
+"^x7F7F7FRadius: ^7Small","^x7F7F7F范围: ^7小"
+"^x7F7F7FEnergy Shield: ","^x7F7F7F能量护盾: "
+Radius,范围
+Large,大
+Medium,中
+Small,小
+"Active Skill {0}","主动技能 {0}"
+"Active Skill {0} Main Minion Skill:","召唤物主技能(主动技能 {0}):"
+"Equipping this item in Socket {0} will give you:","(插槽 {0})使用这个物品会给你:"
+"Removing this item from Socket {0} will give you:","(插槽 {0})取消这个物品会给你: "
+"Equipping this item in Weapon {0} will give you:","(武器 {0})使用这个物品会给你:"
+"Removing this item from Weapon {0} will give you:","(武器 {0})取消这个物品会给你:"
+"Equipping this item in Ring {0} will give you:","(戒指 {0})使用这个物品会给你:"
+"Removing this item from Ring {0} will give you:","(戒指 {0})取消这个物品会给你:"
+"Equipping this item in Belt will give you:",(腰带)使用这个物品会给你:
+"Removing this item from Belt will give you:",(腰带)取消这个物品会给你:
+"Equipping this item in Amulet will give you:",(项链)使用这个物品会给你:
+"Removing this item from Amulet will give you:",(项链)取消这个物品会给你:
+"Equipping this item in Boots will give you:",(鞋子)使用这个物品会给你:
+"Removing this item from Boots will give you:",(鞋子)取消这个物品会给你:
+"Equipping this item in Helmet will give you:",(头盔)使用这个物品会给你:
+"Removing this item from Helmet will give you:",(头盔)取消这个物品会给你:
+"Equipping this item in Body Armour will give you:",(胸甲)使用这个物品会给你:
+"Removing this item from Body Armour will give you:",(胸甲)取消这个物品会给你:
+"Equipping this item in Gloves will give you:",(手套)使用这个物品会给你:
+"Removing this item from Gloves will give you:",(手套)取消这个物品会给你:
+"Unallocating this node will give you:",取消这个天赋点会给你:
+"Allocating this node will give you:",分配这个天赋点会给你:
+"Unallocating this node and all nodes depending on it will give you:",取消这个天赋点以及关联的天赋点会给你:
+"Allocating this node and all nodes leading to it will give you:",分配这个天赋点以及关联天赋点会给你:
+"Manage Spectres...",灵体管理...
+"Available Spectres:",可用灵体:
+"Spectre Library",灵体库
+Add,添加
+"<No spectres in build>","<BD 中没有灵体>"
+"Spectres in Build:","BD 中的灵体:"
+Resistance:,抗性:
+"Active Minion Limit:",最大召唤物数量:
+"Average Hit:",平均击中:
+"Average Damage:",平均伤害:
+"Attack Rate:",攻击速率:
+"Cast Rate:",施法速率:
+"Hit Rate:",击中速率
+"Trap Throwing Time:",陷阱投郑间隔:
+"Trap Cooldown:",陷阱冷却:
+"Totem Placement Time:",图腾放置间隔:
+"Crit Chance:",暴击率:
+"Effective Crit Chance:",有效暴击率:
+"Crit Multiplier:",暴击伤害:
+"Hit Chance:",命中率:
+"Total DPS:","总 DPS:"
+"DoT DPS:","持续伤 DPS:"
+"Bleed DPS:","流血 DPS:"
+"Ignite DPS:","点燃 DPS"
+"Total Damage per Ignite:",每次点燃总伤害:
+"Total DPS inc. Ignite:","提高总 DPS (点燃):"
+"Average Dmg. inc. Ignite:","提高平均伤害 (点燃):"
+"Poison DPS:","中毒 DPS:"
+"Total Damage per Poison:",每次中毒总伤害:
+"Total DPS inc. Poison:","提高总 DPS (中毒):"
+"Average Dmg. inc. Poison:","提高平均伤害 (中毒):"
+"Decay DPS:","腐蚀 DPS:"
+"Skill Cooldown:",技能冷却:
+"AoE Radius:","AoE 范围:"
+"Mana Cost:",魔力消耗:
+Strength:,力量:
+"Strength Required:",力量需求:
+Dexterity:,敏捷:
+"Dexterity Required:",敏捷需求:
+Intelligence:,智慧:
+"Intelligence Required:",智慧需求:
+"Total Life:",最大生命:
+"%Inc Life from Tree:",生命加成(天赋):
+"Unreserved Life:",未保留生命:
+"Life Regen:",生命回复:
+"Life Leech/On Hit Rate:",生命偷取(击中速率):
+"Life Leech/Gain per Hit:",生命偷取(击中获得):
+"Total Mana:",最大魔力:
+"%Inc Mana from Tree:",魔力加成(天赋):
+"Unreserved Mana:",未保留魔力:
+"Mana Regen:",魔力回复:
+"Mana Leech/On Hit Rate:",魔力偷取(击中速率)
+"Mana Leech/Gain per Hit:",魔力偷取(击中获得)
+"Energy Shield:",能量护盾:
+"%Inc ES from Tree:","ES 加成(天赋):"
+"Energy Shield Regen:",能量护盾回复:
+"ES Leech/On Hit Rate:","ES 偷取(击中速率)"
+"ES Leech/Gain per Hit:","ES 偷取(击中获得)"
+"Evasion rating:",闪避值:
+"%Inc Evasion from Tree:",闪避加成(天赋):
+"Evade Chance:",闪避几率:
+"Melee Evade Chance:",近战闪避几率:
+"Projectile Evade Chance:",投射物闪避几率:
+Armour:,护甲:
+"%Inc Armour from Tree:",护甲加成(天赋):
+"Phys. Damage Reduction:",物理伤害减免:
+"Movement Speed Modifier:",移动速度加成:
+"Block Chance:",攻击格挡几率:
+"Spell Block Chance:",法术格挡几率:
+"Attack Dodge Chance:",攻击躲避几率:
+"Spell Dodge Chance:",法术躲避几率:
+"Fire Resistance:",火焰抗性:
+"Cold Resistance:",冰霜抗性:
+"Lightning Resistance:",闪电抗性:
+"Chaos Resistance:",混沌抗性:
+"Fire Res. Over Max:",火焰抗性(溢出):
+"Cold Res. Over Max:",冰霜抗性(溢出):
+"Lightning Res. Over Max:",闪电抗性(溢出):
+"Chaos Res. Over Max:",混沌抗性(溢出):
+"DPS inc. Poison:","提高 DPS(中毒):"
+"<No skills added yet>:",<未添加任何技能>
+"{0} points to node","{0} 点天赋点到这里"
+"Tip: Press Ctrl+D to disable the display of stat differences.","提示: 可使用 Ctrl+D 关闭差异统计."
+"Tip: Press Ctrl+D to enable the display of stat differences.","提示: 可使用 Ctrl+D 开启差异统计."
+"Tip: Hold Shift to hide this tooltip.","提示: 按住 Shift 键可以隐藏此提示."
+"Tip: To reach this node by a different path, hold Shift, then trace the path and click this node","提示: 选择其它到达这个天赋的路径,请按住 Shift 键,然后鼠标选择路径并单击确认"
+"{0} points gained from unallocating these nodes","取消这个天赋获得 {0} 点天赋点"
+"No changes from allocating this node.",分配这个天赋没有任何变化.
+"No changes from unallocating this node.",取消这个天赋没有任何变化.
+"No changes from allocating this node or the nodes leading to it.",分配这个天赋及关联天赋点没有任何变化.
+"No changes from unallocating this node or the nodes leading to it.",取消这个天赋及关联天赋点没有任何变化.
+"Deactivating this flask will give you:",药剂失效后会给你:
+"Activating this flask will give you:",药剂生效后会给你:
+"Activate this flask.",激活这个药剂.
+"Lasts {0} Seconds","持续 {0} 秒"
+"Consumes {0} of {1} Charges on use","每次使用会从 {1} 充能次数中消耗 {0} 次"
+"Recovers {0} Life over {1} Seconds","{1} 秒内回复 {0} 生命"
+"Recovers {0} Mana over {1} Seconds","{1} 秒内回复 {0} 魔力"
+"Effective flask stats:",药剂有效统计:
+"Flask effect modifier: {0}%","药剂有效加成: {0}%"
+"Remove this gem.",移除这个宝石.
+"Selecting this gem will give you:",选择这个技能宝石会给你:
+"Are you sure you want to delete all socket groups in this build?","确定要删除 BD 中的所有插槽么?"
+"Select the item in which this skill is socketed.",选择该技能插槽所在的物品.
+"This will allow the skill to benefit from modifiers on the item that affect socketed gems.",这将会使物品上的技能宝石受到物品上的词缀加成.
+"Can support Strength threshold jewels","可以选择 ^xE05030力量 ^7门槛珠宝"
+"Can support Intelligence threshold jewels","可以选择 ^x7070FF智慧 ^7门槛珠宝"
+"Can support Dexterity threshold jewels","可以选择 ^x70FF70敏捷 ^7门槛珠宝"
+"Armour Boots",护甲鞋
+"Armour Chest",护甲胸甲
+"Armour Gloves",护甲手套
+"Armour Helmet",护甲头盔
+"Armour Shield",护甲盾
+"Evasion Boots",闪避鞋
+"Evasion Chest",闪避胸甲
+"Evasion Gloves",闪避手套
+"Evasion Helmet",闪避头盔
+"Evasion Shield",闪避盾
+"Energy Shield Boots",能量护盾鞋
+"Energy Shield Chest",能量护盾胸甲
+"Energy Shield Gloves",能量护盾手套
+"Energy Shield Helmet",能量护盾头盔
+"Energy Shield Shield",能量护盾盾
+"Elemental 1H Axe",元素单手斧
+"Elemental 1H Mace",元素单手锤
+"Elemental 1H Sword",元素单手剑
+"Elemental 2H Axe",元素双手斧
+"Elemental 2H Mace",元素双手锤
+"Elemental 2H Sword",元素双手剑
+"Elemental Bow",元素弓
+"Elemental Claw",元素爪
+"Elemental Dagger",元素匕首
+"Elemental Sceptre",元素短杖
+"Elemental Staff",元素长杖
+"Elemental Wand",元素法杖
+"Physical 1H Axe",物理单手斧
+"Physical 1H Mace",物理单手锤
+"Physical 1H Sword",物理单手剑
+"Physical 2H Axe",物理双手斧
+"Physical 2H Mace",物理双手锤
+"Physical 2H Sword",物理双手剑
+"Physical Bow",物理弓
+"Physical Claw",物理爪
+"Physical Dagger",物理匕首
+"Physical Sceptre",物理短杖
+"Physical Staff",物理长杖
+"Physical Wand",物理法杖
+"Spell Dagger",法术匕首
+"Spell Sceptre",法术短杖
+"Spell Staff",法术长杖
+"Spell Wand",法术法杖
+"Armour/Energy Shield",护甲/能量护盾
+Armour/Evasion,护甲/闪避
+"Armour/Evasion/Energy Shield",护甲/闪避/能量护盾
+"Evasion/Energy Shield",闪避/能量护盾
+Hybrid,复合
+Utility,功能
+"Are you sure you want to delete all items in this build?","确定要删除这个 BD 中的所有物品么?"
+"This controls the calculation of the stats shown in this tab.",这个选项卡的面板显示计算出来的统计信息.
+"The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.","右边侧边栏的统计信息始终是 ""有效 DPS"" 模式,不受这里设置影响"
+"Unbuffed: No auras, buffs, or other support skills or effects will apply. This is equivelant to standing in town.","无增益效果: 无光环丶增益效果丶辅助技能效果影响. 相当于站在奥瑞亚."
+"Buffed: Aura and buff skills apply. This is equivelant to standing in your hideout with auras and buffs turned on.","有增益效果: 受到光环丶增益效果丶辅助技能效果影响. 相当于开启光环有增益效果站在藏身处."
+"In Combat: Charges and combat buffs such as Onslaught will also apply. This will show your character sheet stats in combat.","战斗状态: 受到充能球和战斗 BUFF 还有猛攻影响. 相当于你的角色在战斗状态."
+"Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.","有效 DPS: 受到诅咒和敌人属性(例如敌人的抗性和状态条件)影响. 相当于你的真实DPS."
+"Life multiplier",生命倍率
+"Armour multiplier",护甲倍率
+Resistances,抗性
+"Base damage",基础伤害
+"Base attack speed",基础攻击速度
+"{0}% of base Life","基础生命的 {0}%"
+"This is an older tree version, which may not be fully compatible with the current game version.","这个天赋树是旧版,可能有个别地方与当前最新版本的游戏不兼容."
+"Convert to {0}","转换为 {0}"
+"Import to a new build","导入到新 BD"
+"Code is valid","Code 有效"
+Unbuffed,无增益效果
+Buffed,增益效果
+"In Combat",战斗状态
+"Spectre Library:",灵体库:
+"You can add items to this list by dragging them from",你可以在别的列表中拖放
+"one of the other lists.",物品到这个列表中.
+"New Folder...",新建文件夹...
+Folder:,文件夹:
+"Enter new build name:","输入新的 BD 名称:"
+"<No active skills> (Disabled)","<没有主动技能> (已禁用)"
+"Tip: Right click this socket to go to the items page and choose the jewel for this socket.","提示: 右键单击插槽跳转到物品页然后更换此插槽的珠宝."
+"<No skills added yet>",<未添加任何技能>
+"Variant: Current {0} variants)","多版本: 当前 {0} 版)"
+(Unused),^9(未使用)
+(Disabled),^9(禁用)
+"Inactive Gems:",无效技能石:
+"(Cannot apply to any of the active skills)",(无法应用到任何主动技能)
+(Unsupported),(未支持)
+"Note: this group is disabled because it is socketed in the inactive weapon set.","注意: 这组技能已经禁用,因为它装备在备用武器栏."
+"Equipping this item in Abyssal {0} will give you:","(深渊 {0})使用这个物品会给你:"
+"Removing this item from Abyssal {0} will give you:","(深渊 {0})取消这个物品会给你:"
+"Abyssal {0}","深渊 {0}"
+"{0}% to Elemental Resistances","{0}% 元素抗性"
+Prefix:,前缀:
+Suffix:,后缀:
+"Game Version",游戏版本
+"Jewel sockets",珠宝插槽数
+"Points used",使用天赋点
+Ascendancy,升华
+Class,类型
+"Manage trees...",天赋树管理...
+"Manage Passive Trees",管理天赋树
+"Set Name",设置名称
+"Enter name for this passive tree:",输入新天赋树的名称:
+"{0} Defualt","{0} 默认"
+"When enabled, an estimate of the offensive and defensive strength of",开启后将估算未分配的天赋点的
+"each unallocated passive is calculated and displayed visually.",进攻丶防御加成并高亮显示
+"Offensive power shows as red, defensive power as blue.","攻击类加成显示红色,防御类加成显示蓝色."
+"Enter folder name:",请输入文件夹名称:
+"No update available",无可用更新
+"You are running the latest version.",您运行的是最新版本
+"Show support gems:",显示辅助宝石:
+Awakened,觉醒
+Non-Awakened,非觉醒
+"Import from Pastebin","从 Pastebin 导入"
+"Enter Pastebin.com link:","输入 Pastebin.com 链接:"
+Anomalous,异常
+Divergent,分歧
+Phantasmal,魅影
+"At {0}% Quality:","当 {0}% 品质时:"
+"Show gem quality variants:",显示技能石品质类型:
+"Combined DPS:","综合 DPS:"
+"The Pantheon:",万神殿:
+Nothing,没有
+"Soul of the Brine King","惊海之王 索亚格斯之魂"
+"Soul of Lunaris",月影女神之魂
+"Soul of Solaris",日耀女神之魂
+"Soul of Arakaali","暗影女皇 阿拉卡力之魂"
+"Soul of Gruthkul","绝望之母 格鲁丝克之魂"
+"Soul of Yugul","恐惧之源 尤格尔之魂"
+"Soul of Abberath","割裂者 艾贝拉斯之魂"
+"Soul of Tukohama","战争之父 图克哈玛之魂"
+"Soul of Garukhan","风暴女神 格鲁坎之魂"
+"Soul of Ralakesh","万面之主 拉克斯之魂"
+"Soul of Ryslatha","傀儡女王 瑞斯拉萨之魂"
+"Soul of Shakari","沙之女神 沙卡丽之魂"
+"Puruna, the Challenger",挑战者普鲁纳
+"Corruptor Eedaiak",腐化者艾达尔克
+"Sumter the Twisted",桑特
+"Ancient Architect",古代建筑师
+"Culling DPS:","终结 DPS:"
+"Full DPS:",最终总和DPS:
+"Total DPS inc. DoT:","提高总 DPS (持续):"
+"Life Cost:",生命消耗:
+"Total Mirage DPS:","总幻影弓手 DPS:"
+"Spell Suppression Chance:",法术抑制几率:
