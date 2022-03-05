@@ -1,0 +1,1920 @@
+Strength,力量
+Dexterity,敏捷
+Intelligence,智慧
+"Energy Shield",能量护盾
+Armour,护甲
+"Fire Resistance",火焰抗性
+"Cold Resistance",冰霜抗性
+"Lightning Resistance",闪电抗性
+"Chaos Resistance",混沌抗性
+Slayer,处刑者
+Gladiator,卫士
+Champion,冠军
+Assassin,暗影
+Saboteur,破坏者
+Trickster,欺诈师
+Juggernaut,勇士
+Berserker,暴徒
+Chieftain,酋长
+Occultist,秘术家
+Elementalist,元素使
+Deadeye,锐眼
+Raider,侠客
+Pathfinder,追猎者
+Inquisitor,判官
+Hierophant,圣宗
+Guardian,守护者
+Ascendant,升华使徒
+Evasion,闪避值
+"Lightning Walker",雷灵之道
+"Fire Walker",火灵之道
+"Frost Walker",冰灵之道
+"Elemental Damage",元素伤害
+"Two Handed Melee Damage and Attack Speed",双手武器伤害和攻击速度
+"Wrecking Ball",崩雷
+Executioner,处决者
+"Two Handed Melee Damage",双手武器近战伤害
+"Two Handed Melee Damage and Area of Effect",双手武器近战伤害和效果区域
+"Two Hand Mastery",双手武器专精
+"Lava Lash",熔岩之力
+"Weapon Fire Damage",武器火焰伤害
+"Path of the Hunter",猎人之路
+"Life and Armour",生命与护甲
+"Life Regeneration",生命再生
+Butchery,屠夫
+"One Handed Melee Damage",单手武器近战伤害
+"Strong Arm",强壮手臂
+"Melee Damage",近战伤害
+"Attack Speed",攻击速度
+"Energy Shield and Recovery",能量护盾与回复
+"Minion Attack and Cast Speed",召唤生物攻击和施法速度
+"Shield Block and Block Recovery",盾牌格挡与格挡回复
+Testudo,龟甲盾
+"Shield Defences",盾牌防御
+"Shield Mastery",盾牌专精
+"Block Chance and Attack Damage with Shield",持盾格挡几率和攻击伤害
+"Attack Damage and Attack Speed with Shield",持盾攻击伤害和攻击速度
+Retaliation,复仇
+"Staff Attack Speed and Accuracy",长杖攻击速度和命中值
+"Ophidian Aim",毒蛇瞄准
+"Staff Mastery",长杖专精
+DUELIST,决斗者
+"Attack Speed and Accuracy",攻击速度与命中
+"Physical Attack Damage and Life",物理伤害与生命
+"Two Handed Melee Damage and Leech",双手武器近战伤害和偷取
+"Two Handed Melee Damage and Life Leech Speed",双手武器近战伤害和生命偷取速度
+"Martial Experience",沙场历练
+"Mana Mastery",魔力专精
+"Life and Mana Leech",生命与魔力偷取
+"Spirit Void",精华抽取
+"Vitality Void",活力虚空
+"Totem and Brand Damage",图腾和烙印伤害
+"Totem Placement Speed and Brand Range",图腾放置速度和烙印范围
+"Totem Life and Elemental Resistances, Brand Range",图腾生命和元素抗性，烙印范围
+"Totem Attack and Cast Speed, Brand Frequency","图腾攻击, 施法速度，烙印激活速度"
+"Totem Mastery",图腾专精
+"Lord of the Dead",亡灵之主
+"Arcing Blows",电能之击
+"Weapon Lightning Damage",武器闪电伤害
+"Crackling Speed",神速暴裂
+"Lightning Mastery",闪电专精
+"Totem Life and Placement Speed",图腾生命和放置速度
+Ironwood,铁木
+"Totem Damage, Attack and Cast Speed","图腾伤害, 攻击和施法速度"
+"Totem Life and Elemental Resistances",图腾生命和元素抗性
+"Mana and Reduced Mana Cost",魔力与减少魔力消耗
+"Righteous Decree",正义审判
+"Staff Block, Attack and Cast Speed",长杖格挡，攻击和施法速度
+"Whirling Barrier",杖影屏障
+"Smashing Strikes",沉重之击
+"Staff Damage and Stun Duration",长杖伤害和晕眩持续时间
+"Staff Critical Strike Chance",长杖暴击率
+Counterweight,长杖化身
+"Shield Spell Block and Elemental Resistances with a Shield",持盾盾牌格挡法术和元素抗性
+Sanctuary,至圣所
+"Shield Block and Defences",盾牌格挡与盾牌防御
+"Curse Duration",诅咒持续时间
+"Curse Effect",诅咒效果
+"Hex Master",邪法宗师
+"Curse Mastery",诅咒专精
+"Diamond Skin",晶钻之肤
+"Armour and Elemental Resistances",护甲
+"Elemental Resistance",元素抗性
+Solidity,坚毅
+Mana,魔力
+"Mana and Arcane Surge Effect",魔力和秘术增强效果
+"Mana and Mana Regeneration",魔力和魔力回复
+"Arcane Capacitor",奥术充能
+"Sword Damage and Bleed Chance",剑的伤害
+"Sword Damage and Attack Speed",剑的伤害和攻击速度
+"Blade Master",刀剑宗师
+"Sword Damage and Ailment Damage",剑的伤害和异常状态伤害
+"Razor's Edge",剃刃
+"Sword Damage",剑类伤害
+"Sword Mastery",剑类专精
+"Minion and Damage Mastery",召唤生物和伤害精通
+"Minion Damage and Duration",召唤生物伤害和持续时间
+"Minion Duration, Attack and Cast Speed",持续时间、攻击和施法速度
+"Enduring Bond",持久契约
+"Minion Life and Elemental Resistances",召唤生物生命与元素抗性
+"Minion Life and Physical Damage Reduction",召唤生物生命和物理伤害减免
+"Indomitable Army",不败之军
+"Minion Mastery",召唤生物专精
+"Axe Damage",斧类伤害
+"Splitting Strikes",狂斧
+"Axe Mastery",斧类专精
+"Axe Damage and Area of Effect",斧类伤害和效果区域
+"Mace Damage and Reduced Enemy Stun Threshold",锤类伤害和敌人眩晕门槛降低
+"Mace Damage and Area of Effect",锤类伤害和效果区域
+"Skull Cracking",碎颅
+"Mace Damage and Stun Duration",锤类伤害和眩晕持续时间
+"Bone Breaker",破骨
+"Mace Damage",锤的伤害
+"Mace Mastery",锤类专精
+"Mace Damage and Attack Speed",锤类伤害和攻击速度
+"Ribcage Crusher",开膛手
+"Armour and Evasion",护甲和闪避
+"Armour, Evasion and Onslaught Effect",护甲、闪避和猛攻效果
+"Graceful Assault",矫若惊龙
+"Evasion Mastery",闪避专精
+"Attack Damage, Armour and Evasion",攻击伤害、护甲和闪避
+"Evasion and Accuracy",闪避和命中
+"Soul of Steel",坚钢之灵
+"Shock Chance, Duration and Effect",感电几率、持续时间和效果
+"Static Blows",电能之击
+"Shock Chance and Effect",感电几率和效果
+"Damage and Critical Strike Chance against Shocked",对被感电者的伤害和暴击率
+"Elemental Damage Mastery",元素伤害专精
+"Physical and Lightning Damage",物理和闪电伤害
+"Physical and Fire Damage",物理和火焰伤害
+"Physical and Elemental Damage",物理和元素伤害
+"Elemental Damage and Penetration",元素伤害和穿透
+"Elemental Damage, Ailment Effect and Burning Damage Multiplier",元素伤害、异常效果和燃烧伤害加成
+"Divine Judgement",神圣审判
+"Divine Fury",圣怒
+"Divine Wrath",神圣怒火
+"Trap Damage",陷阱伤害
+"Trap Damage and Trigger Area",陷阱伤害与触发范围
+"Unstable Munitions",不稳定弹药
+Stamina,充沛精力
+"Life Regeneration per Endurance Charge",耐力球生命回复
+"Jewel Socket",珠宝插槽
+"Endurance Charge Duration",耐力球持续时间
+"Armour and Mana",护甲和魔力
+"Sanctum of Thought",思维圣殿
+"Dagger Damage and Critical Strike Chance",匕首伤害和暴击率
+"Dagger Damage and Accuracy",匕首伤害和命中
+Nightstalker,夜袭
+"Dagger Mastery",匕首专精
+"Dagger Accuracy and Critical Strike Chance",匕首命中值和暴击率
+"Lightning Damage, Shock Duration and Effect","闪电伤害, 感电持续和几率"
+"Heart of Thunder",雷霆之心
+"Lightning Damage and Shock Chance",闪电伤害和感电几率
+"Lightning Damage and Shock Effect",闪电伤害和感电效果
+"Breath of Lightning",闪电之息
+"Axe Damage and Attack Speed",斧类伤害和攻击速度
+Slaughter,冷血
+"Axe Damage and Bleed Chance",斧的伤害和流血几率
+"Axe Damage and Bleed Duration",斧类伤害和流血持续时间
+Cleaving,劈砍
+"Life Regeneration, Endurance Charge Duration","生命回复速度, 耐力球持续时间"
+"Life Regeneration, Fire Damage",生命回复，火焰伤害
+"Life Regeneration, Totem Placement Speed","生命回复速度, 图腾放置速度"
+"Arohongui, Moon's Presence",月使.亚欧红古
+"Tasalio, Cleansing Water",塔赛里奥，纯净之水
+"Tukohama, War's Herald",战争使者.图克哈玛
+"Tawhoa, Forest's Strength",森林之力.塔赫亚
+"Life Regeneration, Fire Resistance",生命回复、火焰抗性
+"Valako, Storm's Embrace",瓦拉克，风暴之拥
+"Hatchet Master",斧刃宗师
+"Axe Attack Speed and Evasion",斧类攻击速度和闪避
+"Wand Elemental Damage",法杖元素伤害
+"Wand Mastery",法杖专精
+"Prism Weave",绫彩交织
+"Wand Attack Speed and Accuracy",法杖攻击速度和精准
+"Cast Speed",施法速度
+"Accuracy and Critical Strike Chance",命中和暴击率
+"Eagle Eye",鹰眼
+"Chaos and Power Charge Mastery",混沌和暴击球专精
+"Mana Regeneration per Power Charge",每个暴击球的魔力回复
+"Critical Strike Chance per Power Charge",每个暴击球的暴击率
+"Critical Strike Multiplier per Power Charge",每个暴击球的暴击伤害加成
+"Disciple of the Forbidden",禁礼门徒
+"Born to Fight",为战而生
+"Flask Effect and Duration",药剂效果和持续时间
+"Nature's Adrenaline",大自然的肾上腺素
+"Master Surgeon",手术大师
+"Flask Effect and Charges Gained",药剂效果，元素抗性
+"Nature's Boon",自然的恩赐
+"Master Alchemist",炼金术大师
+"Flask Effect, Attack Damage","药剂效果, 攻击伤害"
+"Veteran Bowyer",制箭大师
+"Flask Effect, Chaos Damage","药剂效果, 持续伤害"
+"Nature's Reprisal",大自然的复仇
+"Physical Attack Damage",物理攻击伤害
+Life,生命
+"Mana Flows",魔力之流
+Bravery,英勇
+Trickery,诡计
+Endurance,耐力
+Devotion,奉献
+Vigour,活力之源
+Revelry,狂欢
+Dynamo,蓄电
+"Claws of the Magpie",鹊爪
+"Claw Damage",爪的伤害
+"Soul Raker",灵魂收割者
+"Claw Damage and Attack Speed",爪伤害和攻击速度
+"Claw Mastery",爪类专精
+"Claw Critical Strike Chance and Multiplier",爪暴击率和伤害
+"Claw Damage and Leech","爪类伤害和偷取 "
+"Claws of the Hawk",鹰隼之爪
+"Life Leech and Attack Speed",生命偷取和攻击速度
+"Lust for Carnage",汲血者
+"Life Leech Speed and Attack Speed",生命偷取速度和攻击速度
+"Flash Freeze",急速冻结
+"Cold Mastery",冰霜精通
+"Weapon Cold Damage",武器冰霜伤害
+"Winter Spirit",物冰转换
+MARAUDER,野蛮人
+"Melee Damage and Life",近战伤害和生命
+"Blunt Trauma",麻痹创伤
+"Staff Elemental Damage",长杖元素伤害
+"One with the River",与水同行
+"Staff Critical Strike Chance and Multiplier",长杖暴击率和伤害加成
+"Staff Critical Strike Chance and Accuracy",长杖暴击率和命中值
+"Totem and Brand Damage and Critical Strike Chance",图腾和烙印伤害和暴击率
+"Totem and Brand Critical Strike Chance",图腾和烙印暴击率
+"Totem and Brand Critical Strike Multiplier",图腾和烙印暴击伤害
+"Shaman's Dominion",萨满圣域
+"Elemental Damage, Attack and Cast Speed",元素伤害和攻击和施法速度
+"Elemental Damage, Life Regeneration","元素伤害, 生命回复速度"
+"Elemental Damage and Resistances",元素伤害和抗性
+"Elemental Damage, Critical Strike Multiplier","元素伤害, 暴击伤害"
+"Inevitable Judgement",命运审判
+"Augury of Penitence",忏悔之兆
+"Instruments of Virtue",美德之器
+"Pious Path",廉简之途
+"Knockback Chance",击退几率
+"Knockback Distance",击退距离
+Fending,自卫术
+Bloodless,无血之体
+"Life Mastery",生命专精
+Fusillade,聚灵之杖
+"Elder Power",智慧之力
+"Wand Damage",法杖伤害
+"Wand Critical Strike Chance and Multiplier",法杖暴击率和伤害
+Disintegration,解离
+"Stun Threshold Reduction",晕眩门坎降低
+"Stun Duration",晕眩持续
+"Stun Mastery",昏迷专精
+"Energy Shield Mastery",能量护盾专精
+"Evasion and Energy Shield",闪避和能量护盾
+"Void Barrier",虚影屏障
+"Unnatural Calm",沉寂之心
+Expertise,超群身法
+"Armour and Life Regeneration",护甲与生命回复
+"Armour Mastery",护甲专精
+"Combat Stamina",战斗精力
+"Minion Damage and Mana",召唤生物伤害和魔力
+"Aligned Spirits",精魂盟友
+"Path of the Warrior",战士之路
+Constitution,构成
+"Life and Chaos Resistance",生命和混沌抗性
+"Purity of Flesh",肉体之纯净
+"Warrior's Blood",战士之血
+Damage,元素伤害
+"Fangs of Frost",刺骨寒冰
+"Spell Damage per Power Charge",暴击球法术伤害
+Instability,聚能之界
+"Power Charge Duration",暴击球持续时间
+"Divine Fervour",元素催化
+"Holy Dominion",神圣统御
+"Light of Divinity",神圣启蒙
+Wandslinger,斗杖者之力
+"Wand Damage and Accuracy",法杖伤害和命中
+"Wand Physical Damage and Attack Speed",法杖物理伤害和攻击速度
+"Wand Physical Damage",法杖物理伤害
+"Wand Fire Damage",法杖火焰伤害
+"Wand Cold Damage",法杖冰霜伤害
+"Tempest Blast",风暴冲击
+"Dagger Critical Strike Chance and Multiplier",匕首暴击率和加成
+"Dagger Damage",匕首伤害
+Flaying,剥皮刃
+"Dagger Damage and Attack Speed",匕首伤害和攻击速度
+Backstabbing,偷袭
+"Minion Damage and Accuracy",召唤生物伤害和命中
+Gravepact,亡灵之约
+"Claws of the Falcon",猎鹰之爪
+"Claw Damage and Critical Strike Chance",爪伤害和暴击率
+"Claw Accuracy and Critical Strike Chance","爪类命中值和暴击率 "
+"Grave Intentions",亡灵之誓
+"Minion Life and Resistances",召唤生物生命和抗性
+"Death Attunement",亡灵谐曲
+"Minion Life and Life Regeneration",召唤生物生命和生命回复
+"Minion Life and Damage",召唤生物生命和伤害
+"Minion Damage and Life Leech",召唤生物伤害和生命偷取
+"Minion Life Regeneration",召唤生物生命再生率
+Sacrifice,亡灵招集
+"Minion Life Leech",召唤生物生命偷取
+"Blood Siphon",血液抽取
+"Soul Siphon",灵魂吸收
+Foresight,先见之明
+Overcharge,强化聚能
+"Faith and Steel",钢之信仰
+"Armour and Energy Shield",护甲和能量护盾
+"Mind Drinker",汲灵术
+"Cold Damage, Freeze and Chill Duration, Chill Effect","冰霜伤害, 冰冻与冰缓持续时间，冰缓效果"
+"Fingers of Frost",凛冽之指
+"Cold Damage, Freeze Chance and Chill Effect","冰霜伤害, 冰冻几率和冰缓效果"
+"Cold Damage Over Time Multiplier",持续冰霜伤害加成
+"Channelling Damage",持续吟唱伤害
+"Channelling Damage and Speed",吟唱伤害和速度
+"Singular Focus",单一专注
+"Channelling Mastery",吟唱专精
+"Fire Damage and Burning Damage Multiplier",火焰伤害和燃烧伤害加成
+"Heart of Flame",火焰之心
+"Fire Damage and Ignite Chance",火焰伤害和点燃几率
+"Fire Mastery",火焰专精
+"Breath of Flames",火焰之息
+"Fire Damage and Life Regeneration",火焰伤害和生命回复
+Arsonist,焚烧
+"Magmatic Strikes",熔岩打击
+"Energy Shield and Energy Shield Recharge Rate",能量护盾和能量护盾回复率
+"Essence Surge",精纯之潮
+"Heart of Ice",冰雪之心
+"Cold Damage, Freeze and Chill Duration","冰霜伤害, 冰冻与冰缓持续"
+"Cold Damage, Cold Damage Over Time Multiplier and Chill Effect",冰霜伤害，持续冰霜伤害加成和冰缓效果
+"Cold Damage, Cold Damage Over Time Multiplier and Freeze Chance",冰霜伤害、冰霜持续伤害加成和冻结几率
+"Breath of Rime",霜雪之息
+Infused,灌注
+"Soul Thief",窃魂者
+"Holy Fire",神圣之火
+"Projectile Damage and Speed",投射物伤害和速度
+"Projectile Damage",投射物伤害
+"Fury Bolts",破空弹
+"Spell Critical Strike Chance",法术暴击率
+"Spell Critical Strike Multiplier",法术暴击伤害
+"Arcane Potency",秘能爆发
+Amplify,增幅
+"Area of Effect",影响范围
+"Area of Effect Damage",范围伤害
+"Deep Thoughts",沉静思维
+"Cruel Preparation",残忍准备
+"Mana Regeneration and Life",魔力回复与生命
+"Quick Recovery",快速回复
+"Bow Accuracy and Attack Speed",弓类命中值和攻击速度
+"Bow Damage and Accuracy",弓类伤害和命中值
+Dreamer,幻梦者
+"Arcane Focus",秘能之心
+"Energy Shield and Recovery, Mana Regeneration",能量护盾与回复，魔法回复
+"Arcane Will",奥术意志
+"Critical Strike Multiplier",暴击伤害
+Throatseeker,割战者
+Nimbleness,巧语
+"Cast Speed and Spell Critical Strike Chance",施法速度和法术暴击几率
+"Life and Flasks",生命与药剂
+"Profane Chemistry",生物学
+"Mental Rapidity",精神迅捷
+"Spell Damage",法术伤害
+"Dual Wield Attack Speed",双持攻击速度
+Gemini,双灵刃
+"Dual Wield Damage and Block",双持伤害和格挡
+"Deep Wisdom",沉静智慧
+"Skill Duration",技能持续时间
+"Potency of Will",意志之力
+"Ancestral Knowledge",先祖智慧
+"Exceptional Performance",卓越的表现
+"Precise Interception",防卫之眼
+"Attack Damage and Speed with Shield",持盾的攻击伤害和速度
+"Attack Damage and Accuracy with Shield",持盾的物理攻击命中值
+"Dual Wield Damage and Accuracy",双持伤害和命中值
+"Aspect of the Panther",猎豹祝福
+"Dual Wield Damage and Attack Speed",双持伤害和攻击速度
+"Adder's Touch",毒蛇之牙
+"Dagger Damage and Poison Chance",匕首伤害和中毒几率
+"Dagger Critical Strike Multiplier and Poison Duration",匕首暴击伤害加成和中毒持续时间
+"Brutal Blade",残暴之刃
+"Sword Critical Strike Chance and Multiplier",剑类暴击率和伤害加成
+"Sword Damage and Critical Strike Chance",剑的伤害和暴击率
+"Fatal Blade",致命之刃
+"Written in Blood",血书
+"Life and Energy Shield",生命与能量护盾
+"Life and Energy Shield Mastery",生命与能量护盾精通
+"Poisonous Fangs",回转死神
+"Claw Damage and Poison Chance",爪类伤害和中毒几率
+"Claw Damage and Ailment Damage",爪的伤害和异常状态伤害
+"Claw Attack Speed and Poison Chance","爪类攻击速度和中毒几率 "
+"From the Shadows",影刃
+"Dagger Damage and Movement Speed",匕首伤害和移动速度
+"Claw Attack Speed and Movement Speed",爪类攻击速度和移动速度
+"Claws of the Pride",坚强之爪
+"Claw Attack Speed and Movement Skill Cooldown",爪类攻击速度和移动技能冷却时间
+"Mine Mastery",地雷专精
+"Mine Critical Strike Chance",地雷暴击率
+"Mine Critical Strike Multiplier",地雷暴击加成
+"Mine Critical Strike Chance and Multiplier",地雷暴击率和加成
+"Successive Detonations",连续引爆
+"Heavy Draw",强弩
+"Physical Bow Damage and Area of Effect",弓类物理伤害和效果区域
+"Physical Bow Damage and Chance to Bleed",弓类物理伤害和流血几率
+"Bow Mastery",弓类专精
+"Physical Bow Damage",弓类物理伤害
+"Deadly Draw",致命箭矢
+"Bow Damage and Critical Strike Chance",弓类伤害和暴击率
+"Bow Damage and Attack Speed",弓的伤害和攻击速度
+"Bow Damage and Critical Strike Multiplier",弓类伤害和暴击伤害加成
+"King of the Hill",强弩之弦
+"Master Fletcher",飞矢宗师
+"Aspect of the Eagle",鹰灵祝福
+"Bow Attack Speed and Critical Strike Chance",弓的攻击速度和暴击率
+"Bow Damage and Chance to Poison",弓的伤害和中毒几率
+"Hunter's Gambit",猎人之势
+"Bow Damage",弓类伤害
+Fervour,激情
+"Evasion Per Frenzy Charge",狂怒球闪避
+"Frenzy Charge Duration",狂怒球持续时间
+Frenetic,狂热
+"Blood Drinker",汲血者
+"Sword Damage and Critical Strike Multiplier",剑类伤害和暴击伤害加成
+"Blade of Cunning",巧刃
+"Sword Attack Speed and Critical Strike Chance",剑类攻击速度和暴击率
+Prowess,英勇
+Savagery,野性之心
+"Cloth and Chain",迅影秘术
+Herbalism,药草学
+Reflexes,反射
+Beef,壮汉
+"Shield Spell Block and Block Recovery",盾牌格挡法术
+Deflection,偏转
+"Shield Block and Shield Defences",盾牌防御
+"Stun Avoidance and Movement Speed",避免晕眩与移动速度
+"Heart of Oak",橡木之心
+"Primal Spirit",原始精神
+"Mana and Flask Effect",魔力和药剂效果
+"Aura Area of Effect",光环效果区域
+"Aura Effect",光环效果
+"Champion of the Cause",起源
+"Attack and Movement Speed",攻击与移动速度
+"Druidic Rite",德鲁伊的仪式
+Quickstep,疾步
+"Lightning Damage and Shock Avoidance",闪电伤害和感电减免
+"Fire Damage and Ignite Avoidance",火焰伤害和点燃减免
+"Cold Damage, Freeze and Chill Avoidance",冰霜伤害、冻结和冻缓减免
+"Crystal Skin",魔晶之肤
+"Avoid Status Ailments and Elemental Resistances",异常状态避免和元素抗性
+"Dual Wield Damage",双持伤害
+Dervish,修行之刃
+"Dual Wield Accuracy",双持武器命中
+RANGER,游侠
+"Evasion and Life",闪避和生命
+"Projectile Damage and Attack Speed",投射物伤害与攻击速度
+Accuracy,命中
+"Accuracy and Attack Speed",命中和攻击速度
+Acuity,心眼
+"Accuracy and Elemental Resistances",命中和元素抗性
+"Weathered Hunter",夜之狩猎
+"Depth Perception",潜意识
+"Ballistic Mastery",投射宗师
+WITCH,女巫
+"Energy Shield and Mana Regeneration",能量护盾和魔力再生率
+TEMPLAR,圣堂武僧
+"Damage and Mana",元素伤害
+"Reduced Mana Reservation",降低魔力保留
+Sovereignty,主权
+"Aura Mastery",光环精通
+"Heart of the Warrior",战士之心
+Versatility,俊敏
+"Melee Area of Effect and Damage",近战效果区域和伤害
+Brinkmanship,羁縻
+"Shield Defences and Attack Damage with Shields",盾牌防御和持盾攻击速度
+"Shield Block and Attack Speed",盾牌格挡和攻击速度
+"Command of Steel",钢铁命令
+"Serpent Stance",蛇影战阵
+"Attack Damage",攻击伤害
+Influence,影响
+"Weapon Artistry",舞刃宗师
+"Aspect of the Lynx",山猫之灵
+"Attack Damage and Accuracy",攻击伤害和命中值
+Ambidexterity,卓越
+"Blade Barrier",剑刃屏障
+"Duel Wield Mastery",双持武器专精
+"Essence Glutton",精华吞噬
+"Critical Strike Chance",暴击率
+Heartseeker,刺心者
+Destroyer,破坏者
+"Two Handed Attack Speed",双手武器攻击速度
+"Bow Critical Strike Chance",弓的暴击率
+Lethality,致命锋芒
+"Bow Critical Strike Chance and Multiplier",弓类暴击率和暴击加成
+"Fire Damage and Cast Speed with Fire Skills",火焰伤害和火焰技能施法速度
+"Fire Damage and Fire Conversion",火焰伤害和火焰转化
+"Explosive Impact",暴烈冲击
+Swagger,双刃之舞
+"Dual Wield Attack Speed and Block",双持攻击速度和格挡
+"Mana and Life",魔力和生命
+"Heart and Soul",心与灵
+"Practical Application",化虚为实
+"Avoid Interruption while Casting",施法不受干扰
+SIX,六
+"Physical and Chaos Damage and Life",物理和混沌伤害与生命
+"Fire and Cold Damage",火焰和冰霜伤害
+"Fire Damage and Fire Skill Critical Multiplier",火焰伤害和火焰技能暴击加成
+"Cold Damage and Cold Skill Critical Strike Chance",冰霜伤害和冰霜技能暴击加成
+Snowforged,雪锻
+"Cold and Fire Mastery",冰霜和火焰专精
+"Master Toxicist",制毒宗师
+"Melee Critical Strike Multiplier",近战暴击加成
+Disemboweling,开肠剖肚
+"Melee Critical Strike Chance",近战暴击率
+"Melee Critical Mastery",近战暴击专精
+"Damage Over Time and Life Regeneration",持续伤害与生命回复
+"Damage Over Time",持续伤害
+"Growth and Decay",成长与衰变
+"Chaos Mastery",混沌专精
+"Lethal Assault",王牌射手
+"Evasion, Energy Shield, Life and Resistances",闪避值、能量护盾、生命和抗性
+Resourcefulness,智谋
+"Damage, Area and Projectile Speed",伤害、区域和投射物速度
+"Battle Rouse",战斗鼓舞
+Hematophagy,吸血
+Coordination,和谐之体
+"Minion Attack Speed and Accuracy",召唤生物攻击速度与命中
+"Spiritual Command",灵魂之令
+"Brand Damage",烙印伤害
+"Explosive Runes",爆炸符文
+"Sleight of Hand",戏法
+"Physical Damage",物理伤害
+"Will of Blades",利刃意志
+"Mine Throwing and Detonation Speed",地雷投掷和引爆速度
+"Mine Damage and Reduced Mana Reservation",地雷伤害和降低魔力保留
+"Volatile Mines",零秒出手
+"Mine Damage and Duration",地雷伤害和持续时间
+"Revenge of the Hunted",死亡通缉
+"Utmost Intellect",终极智慧
+Physique,壮硕之体
+"Sword Attack Speed and Accuracy",剑类攻击速度和命中值
+"Sword Damage and Accuracy",剑类伤害和命中值
+"Honed Edge",锋芒毕露
+"Master of the Arena",决战宗师
+"Arcane Vision",奥术目光
+"Art of the Gladiator",斗士艺术
+"Essence Sap",灵魂虚空
+Agility,灵敏
+Alacrity,迅捷
+Berserking,狂战之魂
+"Attack and Cast Speed, Accuracy","命中, 攻击速度与施法速度"
+"Discipline and Training",严峻训练
+"Elemental Damage, Status Ailment Chance","元素伤害, 异常状态持续时间"
+"Beacon of Ruin",毁灭光炮塔
+"Shaper of Desolation",悲伤织者
+"Liege of the Primordial",原始之君
+"Mastermind of Discord",混沌天才
+"Pendulum of Destruction",毁灭之钟
+"Paragon of Calamity",模范灾难
+Elemancer,魔像使
+Sentinel,哨兵
+"Projectile Damage, Attack Speed",投射物伤害和攻击速度
+"Fast and Deadly",致命速度
+Ricochet,弹射
+"Projectile Damage, Accuracy",投射物伤害和命中值
+"Endless Munitions",无限弹药
+"Projectile Damage, Critical Strike Chance","投射物伤害, 暴击率"
+Rupture,断裂
+"Powerful Precision",极致准心
+"Gathering Winds",聚风
+Proficiency,熟能生巧
+Block,格挡
+"Block and Block Recovery",格挡与格挡回复
+"Poison and Bleed Damage",烈毒和流血伤害
+"Poison and Bleed Chance",中毒和流血几率
+"Dirty Techniques",卑劣手法
+"Two Handed Melee Critical Strike Chance and Accuracy",双手武器近战暴击率和命中值
+"Titanic Impacts",泰坦冲击
+"Evasion, Frenzy Charge Duration","闪避, 狂怒球持续时间"
+"Way of the Poacher",盗猎者之途
+"Avatar of the Slaughter",冷酷使徒
+"Evasion, Onslaught Duration","闪避, 猛攻持续时间"
+"Rapid Assault",极速进攻
+"Avatar of the Chase",追猎使徒
+"Evasion, Movement Speed","闪避, 移动速度"
+"Quartz Infusion",石英化身
+"Avatar of the Veil",面纱女神
+"Minion Damage and Area of Effect",召唤生物伤害和效果区域
+"Fearsome Force",恐怖之力
+"Minion Life and Block",召唤生物生命和格挡
+"Decay Ward",腐蚀之卫
+"Minion Life and Spell Block",召唤生物生命和法术格挡
+"Arcanist's Dominion",奥术师的统御
+"Thief's Craft",盗贼工艺
+"Life and Reduced Mana Cost",生命与减少魔力消耗
+Tireless,冷酷
+"Minion Damage and Movement Speed",召唤生物伤害和移动速度
+"Ravenous Horde",贪婪部落
+"Mana Flasks",魔力药剂
+"Essence Extraction",精华萃取
+"Chaos Damage with Attacks and Poison Damage Multiplier",攻击混沌伤害和烈毒伤害加成
+"Toxic Strikes",涂毒攻击
+"Righteous Army",公正大军
+Redemption,救赎
+"Spiritual Aid",灵魂援助
+"Whispers of Doom",灭世之语
+"Curse Cast Speed",诅咒施法速度
+Retribution,制裁
+"Armour and Energy Shield, Block Chance","护甲和能量护盾, 格挡几率"
+"Time of Need",紧急时刻
+"Radiant Faith",信念之辉
+"Bastion of Hope",希望壁垒
+"Armour and Energy Shield, Life Regeneration","护甲和能量护盾, 生命回复"
+"Armour and Energy Shield, Aura Effect","护甲和能量护盾, 光环效果"
+"Armour and Energy Shield, Charge Duration","护甲和能量护盾, 能量球持续时间"
+"Harmony of Purpose",和谐之源
+"Unwavering Faith",不动信念
+"Armour and Energy Shield, Minion Damage",护甲和能量护盾，召唤生物伤害
+"Radiant Crusade",光芒圣战军
+"Unwavering Crusade",坚毅圣战军
+"Weapon Elemental Damage, Status Ailment Chance","武器元素伤害, 异常状态几率"
+"Weapon Elemental Damage",武器元素伤害
+"Primeval Force",元素注入
+"Weapon Elemental Mastery",武器元素精通
+"Wisdom of the Glade",原野智慧
+"Galvanic Hammer",聚能之锤
+"Mace Critical Strike Chance and Multiplier",锤类暴击率和伤害加成
+"Sceptre Mastery",短杖专精
+"Mace Elemental Damage and Accuracy",锤的元素伤害与命中
+"Pain Forger",痛苦大师
+"Hard Knocks",静修
+"Skittering Runes",飞掠符文
+"Damage Over Time and Chaos Damage Over Time Multiplier",持续伤害和混沌持续伤害加成
+Atrophy,萎缩
+"Physical Damage and Attack and Cast Speed",物理伤害和攻击及施法速度
+"Force Shaper",力量成形
+"Physical and Chaos Damage",物理与混沌伤害
+"Physical and Chaos Mastery",物理与混沌专精
+"Armour and Evasion, Taunt Duration","护甲和闪避, 嘲讽持续时间"
+"Armour and Evasion, Attack Damage",护甲和闪避，攻击伤害
+"Armour and Evasion, Aura Effect","护甲和闪避, 光环效果"
+Fortitude,坚毅
+"Unstoppable Hero",不败英雄
+Conqueror,征服者
+"Worthy Foe",可敬的对手
+Inspirational,启发
+"First to Strike, Last to Fall",嗜战如命
+"Armour and Evasion, Impale Effect",护甲和闪避，穿刺效果
+"Master of Metal",钢铁大师
+"Attack and Cast Speed",攻击和施法速度
+"Warcry Cooldown Speed",战吼冷却速度
+"Warcry Duration",战吼持续时间
+"Battle Cry",战吼
+Finesse,娴熟
+"Attack Speed and Poison Chance",攻击速度和中毒几率
+"Attack Speed, Poison Damage and Poison Damage Multiplier",攻击速度、烈毒伤害和烈毒伤害加成
+"Attack Speed and Poison Duration",攻击速度和烈毒持续时间
+"Swift Venoms",迅速致毒
+"Poison Mastery",中毒专精
+Might,坚强力量
+"Energy Shield Leech",能量护盾偷取
+"Increased Energy Shield Leeched",能量护盾偷取提高
+"Ethereal Feast",空灵盛宴
+"Movement Speed",移动速度
+Assassination,暗影
+"Trap and Mine Throwing Speed",陷阱和地雷投掷速度
+"Twin Terrors",双重惧刃
+"Dual Wield Critical Strike Chance and Accuracy",双持武器暴击率和命中值
+"Dual Wield Critical Strike Multiplier and Accuracy",双持武器暴击伤害加成和命中值
+"Dual Wield Critical Strike Chance",双持暴击率
+"Doom Cast",灭世之灵
+"Spell Critical Mastery",法术暴击精通
+"Golem's Blood",魔像血统
+"Evasion and Elemental Resistances",闪避与元素抗性
+Survivalist,死里逃生
+"Thick Skin",强化之肤
+"Blast Radius",法术范围增幅
+"Necromantic Aegis",灵能护盾
+"Channelling Attack Damage and Speed",持续吟唱伤害和速度
+"Channelling Attack Damage",吟唱攻击伤害
+"Charging Offensive",长驱直入
+"One Handed Melee Damage and Life Leech",单手近战伤害和生命偷取
+"One Handed Melee Damage and Attack Speed",单手近战伤害和攻击速度
+"Gladiator's Perseverance",坚毅斗士
+"One Hand Mastery",单手武器专精
+"Acrobatics Improvement",闪避进化
+Charisma,魅力
+Leadership,领导精神
+"Coldhearted Calculation",冷酷计算
+"Piercing Shots",穿射箭矢
+"Fangs of the Viper",毒蛇之牙
+"Forces of Nature",自然之力
+"Trap and Mine Damage and Throwing Speed",陷阱及地雷伤害和投掷速度
+"Trap and Mine Critical Strike Chance",陷阱和地雷暴击率
+"High Explosives",炼狱炸弹
+"Trap and Mine Critical Strike Multiplier",陷阱和地雷暴击伤害
+"Clever Construction",聪明的建设
+"Trap and Mine Mastery",陷阱和地雷专精
+"Devastating Devices",毁灭装置
+"Mana Regeneration and Intelligence",魔力回复与智慧
+"Spell Damage and Intelligence",法术伤害与智慧
+"Projectile Damage and Dexterity",投射物伤害与敏捷
+"Attack Speed and Dexterity",攻击速度与敏捷
+"Life and Strength",生命与力量
+"Melee Damage and Strength",近战伤害与力量
+Seven,七
+"True Strike",真实之击
+"Life and Elemental Resistances",生命与元素抗性
+Barbarism,野蛮
+"Elemental Resistances and Attack Speed with Shields",元素抗性和盾牌攻击速度
+"Weapon Elemental Damage and Attack Speed with Shield",持盾武器元素伤害和攻击速度
+"Command of the Elements",元素之令
+"Weapon Elemental Damage, Elemental Resistance with Shields and Shield Defences",武器元素伤害，持盾元素抗性和盾牌防御
+"Mine Damage",地雷伤害
+"Mine Damage and Throwing Speed",地雷伤害和投掷速度
+"Destructive Apparatus",毁灭装置
+"Mine Throwing Speed",地雷投掷速度
+Melding,融合
+"Mana and Life Regeneration",生命回复和魔力回复
+"Totem Damage",图腾伤害
+"Shamanistic Fury",萨满之怒
+"Totem and Brand Damage, Totem Placement Speed",图腾和烙印伤害伤害，图腾放置速度
+"Totem Life and Physical Damage Reduction, Brand Duration",图腾生命和降减图腾物理伤害
+"Totem Life and Elemental Resistances, Brand Duration",图腾生命、元素抗性、烙印持续时间
+"Primal Manifestation",图腾专精
+"Totem Duration, Attack and Cast Speed","图腾持续时间, 攻击和施法速度"
+"Totem Placement Speed and Duration",图腾放置速度和持续时间
+"Totemic Zeal",热情图腾
+"Trap Throw Speed and Damage",陷阱投掷速度和伤害
+"Master Sapper",工兵大师
+"Bow Damage and Movement Speed",弓的伤害和移动速度
+"Bow Damage and Evasion",弓类伤害和闪避
+"Avatar of the Hunt",狩猎之征
+"Path of the Savant",贤者之路
+Shaper,圣杯
+"Path of the Marauder",野蛮人之道
+"Passive Point",天赋点数
+"Marauder Ascendancy",野蛮人升华职业
+Harrier,海猎鹰
+"Energy Shield and Minion Life",能量护盾和召唤生物生命
+"Chaos Damage and Chaos Damage Over Time Multiplier",混沌伤害和混沌持续伤害加成
+"Chaos Resistance and Chaos Damage",混沌抗性和混沌伤害
+"Method to the Madness",疯狂配方
+"Melee Attack Speed",近战攻击速度
+Annihilation,横扫千军
+"Ash, Frost and Storm",三相之力
+"Mana and Flasks",魔力与药剂
+"Arcane Chemistry",秘法学
+"Energy Shield and Mana",能量护盾和魔力
+Insightfulness,洞察万物
+"Energy Shield and Mana Mastery",能量护盾和魔力专精
+"Master of Force",蛮勇之力
+"Life and Life on Kill",生命与击败回复生命
+"Hired Killer",生命撷取
+"Mana and Mana Gain on Killing Blow",魔力与击败回复魔力
+"Thrill Seeker",颤栗追寻者
+"Trap and Mine Damage, Movement Speed","陷阱和地雷伤害, 移动速度"
+Pyromaniac,焚烧
+"Born in the Shadows",生在影中
+"Trap and Mine Damage, Elemental Resistances",陷阱和地雷伤害，元素抗性
+"Explosives Expert",爆破专家
+"Trap and Mine Damage, Mine Throwing Speed",陷阱和地雷伤害、地雷投掷速度
+"Bomb Specialist",炸弹专家
+"Trap and Mine Damage, Trap Throwing Speed","陷阱和地雷伤害, 陷阱投掷速度"
+"Perfect Crime",完美犯罪
+"Demolitions Specialist",爆破天才
+"Chain Reaction",连锁反应
+"Armour, Evasion and Life","护甲, 闪避与生命"
+"Attack Damage with Shield",持盾攻击伤害
+"Defences with Shield",持盾防御
+Defiance,抗争
+Sanctity,圣洁之力
+"Cold and Lightning Damage",冰霜与闪电伤害
+"Cold Damage and Cold Conversion",冰霜伤害和冰缓效果
+"Lightning Damage and Lightning Conversion",闪电伤害和感电效果
+"Storm Weaver",风暴织者
+"Bleed Damage",物理持续伤害
+"Bleed Damage Multiplier",流血伤害加成
+"Bleed Chance",流血几率
+Bloodletting,出血
+"Bleeding Mastery",流血专精
+"Evasion and Blind Duration",闪避值和致盲持续时间
+"Evasion and Blind Avoidance",闪避值和致盲回避率
+"Evasion and Blind Chance",闪避值和致盲几率
+"Silent Steps",神出鬼没
+"Attack Damage and Speed while Fortified",攻击伤害和护体时的速度
+"Fortify Effect and Duration",强化效果和持续时间
+Rampart,壁垒
+"Fortify Mastery",护体专精
+"Blast Cascade",串流爆破
+"Mine and Trap Mastery",地雷和陷阱专精
+"Armour, Endurance Charge Duration","护甲, 耐力球持续时间"
+"Armour, Attack Speed","护甲, 攻击伤害"
+"Armour, Stun Duration","护甲, 晕眩持续时间"
+Unyielding,屹立不摇
+Undeniable,不可置疑
+Unflinching,永不动摇
+Unrelenting,灭无赦
+"Armour, Movement Speed","护甲, 移动速度"
+Unstoppable,势不可挡
+Unbreakable,坚不可破
+"Dagger Damage and Leech",匕首伤害和偷取
+"Stabbing Thirst",嗜血渴望
+"Physical Attack Damage, Life Leeched per Second","物理攻击伤害, 每秒生命偷取速率"
+"Physical Attack Damage, Critical Strike Chance",物理攻击伤害，暴击率
+"Physical Attack Damage, Attack Speed","物理攻击伤害, 攻击速度"
+"Physical Attack Damage, Warcry Duration","物理攻击伤害, 战吼持续时间"
+"War Bringer",战争使者
+"Rite of Ruin",毁灭仪式
+"Pain Reaver",苦痛劫掠
+"Flawless Savagery",完美的暴行
+"Crave the Slaughter",屠戮之欲
+"Aspect of Carnage",血肉之章
+Blitz,疾电
+"Warcry Buff Effect",战吼增益效果
+"Words of Glory",荣耀之言
+"Ngamahu, Flame's Advance",火徒.努葛玛呼
+"Hinekora, Death's Fury",死之狂怒.辛格拉
+"Ramako, Sun's Light",雷默科，太阳之光
+"Energy Shield, Curse Effect","能量护盾, 诅咒效果"
+"Energy Shield, Cold and Chaos Damage","能量护盾, 冰霜和混沌伤害"
+"Energy Shield, Power Charge Duration","能量护盾, 暴击球持续时间"
+"Energy Shield, Energy Shield Recharge Rate","能量护盾, 能量护盾充能回复率"
+"Profane Bloom",秽言亡语
+Malediction,恶语术
+"Vile Bastion",残劣壁垒
+"Void Beacon",虚无之塔
+"Forbidden Power",禁忌力量
+"Energy Shield, Chaos Damage over Time Multiplier",能量护盾、混沌伤害持续加成
+"Energy Shield, Cold Damage over Time Multiplier",能量护盾、冰霜伤害持续加成
+"Withering Presence",凋零姿态
+"Frigid Wake",彻骨之径
+"Minion Damage and Life",召唤生物伤害和生命
+"Minion Damage, Skill Duration","召唤生物伤害, 技能持续时间"
+"Minion Damage, Mana",召唤生物伤害、魔力
+"Mindless Aggression",盲目挑衅
+"Unnatural Strength",亵渎之力
+"Bone Barrier",骸骨屏障
+"Mistress of Sacrifice",奉献女魔
+"Commander of Darkness",黑暗统御者
+"Minion Damage, Cast Speed",召唤生物伤害、施法速度
+Plaguebringer,疫病之源
+"Corpse Pact",灵枢契约
+"Trap Damage and Cooldown Recovery",陷阱伤害与冷却回复
+"Hasty Reconstruction",迅速重建
+"Minion Damage, Aura Effect",召唤生物伤害、光环效果
+"Attack Damage, Critical Strike Chance",攻击伤害、暴击率
+"Attack Damage, Attack Speed",攻击伤害、攻击速度
+"Attack Damage, Life Leech",攻击伤害、生命偷取
+"Attack Damage, Area of Effect",攻击伤害、效果区域
+"Bane of Legends",传奇灾星
+Overwhelm,镇压
+Headsman,刽子手
+"Endless Hunger",无尽饥饿
+"Brutal Fervour",残暴热情
+Impact,影响
+"Attack Damage, Frenzy and Endurance Charge Duration",攻击伤害，狂怒，耐力球持续时间
+"Masterful Form",大师之形
+"Attack Speed, Physical Damage",攻击速度，物理伤害
+"Attack Speed, Block Chance",攻击速度，格挡几率
+"Attack Speed and One Handed Damage",攻击速度和单手武器伤害
+"Gratuitous Violence",免费力量
+"Blood in the Eyes",血之眼
+"Outmatch and Outlast",完美胜出
+Painforged,痛苦铸造
+"Violent Retaliation",强力复仇
+"Attack Speed, Movement Speed",攻击速度，移动速度
+"Arena Challenger",竞技挑战者
+"Righteous Providence",正义之庭
+"Mana Regeneration, Spell Damage","魔力回复速度, 法术伤害"
+"Mana Regeneration, Totem Placement Speed","魔力回复速度, 图腾放置速度"
+"Mana Regeneration, Mana",魔力再生率和魔力
+"Mana Regeneration, Power and Endurance Charge Duration","魔力回复速度, 耐力球和暴击球持续时间"
+"Divine Guidance",神圣指引
+"Sanctuary of Thought",意识圣殿
+"Pursuit of Faith",信念之诉
+"Ritual of Awakening",升华仪式
+"Conviction of Power",力量定罪
+"Illuminated Devotion",无上奉献
+"Arcane Blessing",秘术保佑
+"Mana Regeneration, Brand Damage",魔力回复，烙印伤害
+"Sign of Purpose",目的标识
+"Critical Strike Chance, Power Charge Duration","暴击率, 暴击球持续时间"
+"Unstable Infusion",不稳定化身
+"Deadly Infusion",致命专注
+"Critical Strike Chance and Multiplier",暴击率和伤害
+"Ambush and Assassinate",伏击
+Opportunistic,暗影
+"Critical Strike Chance, Damage Over Time","暴击率, 持续伤害"
+"Toxic Delivery",毒物私运
+"Noxious Strike",淬毒打击
+"Critical Strike Chance, Movement Speed",暴击率、移动速度
+Mistwalker,迷雾行者
+"Attack and Cast Speed, Frenzy Charge Duration","攻击和施法速度, 狂怒球持续时间"
+"Swift Killer",敏捷克星
+"Attack and Cast Speed, Damage Over Time","攻击和施法速度, 闪避和持续伤害"
+"Patient Reaper",有耐心的死神
+"Attack and Cast Speed, Evasion and Energy Shield","攻击和施法速度, 闪避和能量护盾"
+"Escape Artist",逃脱艺术
+"Attack and Cast Speed, Maximum Mana","攻击和施法速度, 魔力上限"
+"Prolonged Pain",以太行者
+"Weave the Arcane",奇异织者
+"Harness the Void",虚空掌控
+"Path of the Ranger",游侠之道
+"Ranger Ascendancy",游侠升华职业
+"Path of the Witch",女巫之道
+"Witch Ascendancy",女巫升华职业
+"Path of the Duelist",决斗者之道
+"Strength and Dexterity",力量和敏捷
+"Duelist Ascendancy",决斗者升华职业
+"Path of the Shadow",暗影之道
+"Dexterity and Intelligence",敏捷和智慧
+"Shadow Ascendancy",暗影升华职业
+"Path of the Templar",圣堂武僧之道
+"Strength and Intelligence",力量和智慧
+"Templar Ascendancy",圣堂武僧升华职业
+"Poison Damage and Poison Damage Multiplier",烈毒伤害和烈毒伤害加成
+"Fatal Toxins",致命之毒
+"Poison Damage and Duration",中毒伤害和持续时间
+"Trap Throwing Speed and Trigger Area",陷阱抛射速度与触发范围
+"Expeditious Munitions",快速弹药
+Overcharged,超载
+"Charge on Kill",击败时充能
+"Bleed Damage and Bleed Damage Multiplier",流血伤害和流血伤害加成
+"Bleed Damage Multiplier and Bleed Chance",流血伤害加成和流血几率
+"Red Storm",红色风暴
+"Damage and Energy Shield",伤害和能量护盾
+"Attack and Minion Damage",攻击和召唤生物伤害
+"Impale Effect and Attack Speed",穿刺效果和攻击速度
+"Impale Chance and Physical Attack Damage",穿刺几率和物理攻击伤害
+"Forceful Skewering",强力穿刺
+"Brand Damage and Range",烙印伤害和范围
+"Brand Frequency and Duration",烙印激活速率和持续时间
+Runesmith,符文工匠
+"Brand Mastery",烙印宗师
+"Light Eater",光芒吞噬者
+"Channelling Speed",持续吟唱速度
+Lucidity,明朗
+"Dual Wield Cast Speed",双持施法速度
+"Dual Wield Cast Speed and Movement Skill Cooldown Recovery",双持施法速度和位移技能冷却恢复
+"Dual Wield Spell Damage and Movement Speed",双持法术伤害和移动速度
+"Dark Arts",黑暗艺术
+"Arcane Dual Wield Mastery",秘术双持专精
+"Dual Wield Attack and Cast Speed and Block",双持攻击与施法速度和格挡
+"Dual Wield Spell Damage and Attack and Cast Speed",双持法术伤害和攻击和施法速度
+"Dual Wield Spell Damage and Spell Block",双持法术伤害和法术格挡
+Mysticism,灵秘
+"Staff Spell Damage and Chaos Resistance",长杖法术伤害和混沌抗性
+"Staff Spell Damage",长杖法术伤害
+"Staff Spell Damage and Spell Block",长杖法术伤害和法术格挡
+"Staff Spell Damage and Block",长杖法术伤害和格挡
+"Enigmatic Defence",秘巫防御
+"Arcane Staff Mastery",秘术长杖专精
+"Staff Area of Effect",长杖效果区域
+"Staff Area of Effect and Attack and Cast Speed",长杖效果区域和攻击与施法速度
+"Enigmatic Reach",秘巫之触
+"Shield Spell Damage",护盾法术伤害
+"Shield Spell Damage and Spell Block",护盾法术伤害和法术格挡
+"Shield Spell Damage, Block Recovery and Energy Shield",护盾法术伤害、格挡硬直回复和能量护盾
+"Arcane Guarding",奥术护卫
+"Arcane Shield Mastery",秘术魔盾专精
+"Shield Spell Damage and Block",护盾法术伤害和格挡
+"Shield Spell Damage and Cast Speed",护盾法术伤害和施法速度
+"Arcane Swiftness",奥术迅捷
+"Spell Area of Effect and Damage",法术效果区域和伤害
+"Arcane Expanse",秘术扩张
+"Evasion and Movement Speed",闪避和移动速度
+"Evasion and Movement Skill Cooldown Recovery",闪避和位移技能冷却恢复
+Fleetfoot,迷踪步
+"Evasion and Phasing",闪避和迷踪
+"Freedom of Movement",行动自如
+"Armour and Endurance Charges",护甲和耐力球
+Inexorable,势不可挡
+"Armour and Guard Skill Cooldown Recovery",护甲和防卫技能冷却回复速度
+"Guard Skill Cooldown Recovery and Physical Damage Reduction",防卫技能冷却时间回复和物理伤害减免
+Adamant,金钟罩
+Dismembering,肢解
+"Fortify Effect and Melee Damage",护体效果和近战伤害
+"Fortify Effect and Armour",护体效果和护甲
+Steadfast,坚韧不拔
+"Channelling Attack Speed and Stun Avoidance",吟唱攻击速度和眩晕回避率
+"Unpredictable Offensive",攻其不备
+"Impale Effect",穿刺效果
+"Impale Chance",点燃几率
+"Swift Skewering",快速穿刺
+"Impale Mastery",穿刺专精
+"Damage and Critical Strikes against Blinded Enemies",对目盲敌人的伤害和暴击率
+"Blind Chance",目盲几率
+"Dazzling Strikes",耀目打击
+"Attack Blind Mastery",攻击致盲专精
+"Movement Speed per Frenzy Charge",每个狂怒球的移动速度
+"Evasion per Frenzy Charge",每个狂怒球的闪避值
+"Attack Speed per Frenzy Charge",每个狂怒球的攻击速度
+"Disciple of the Slaughter",冷血门徒
+"Stun Duration per Endurance Charge",每个耐力球的眩晕持续时间
+"Area of Effect per Endurance Charge",每个耐力球的效果区域
+"Disciple of the Unyielding",不屈门徒
+"Frenzy and Endurance Charge Mastery",狂怒和耐力球专精
+"Projectile Attack Damage",投射攻击伤害
+"Projectile Attack Damage and Speed",投射攻击伤害和速度
+"Projectile Speed and Attack Damage",投射速度和攻击伤害
+Longshot,远射
+"Projectile Attack Mastery",投射物攻击专精
+"Utmost Swiftness",终极之速
+"Utmost Might",终极之力
+"Axe Damage and Accuracy",斧类伤害和命中值
+"Harvester of Foes",斩敌者
+"Axe Damage and Critical Strike Chance",斧类伤害和暴击率
+"Feller of Foes",破敌者
+"Mace Damage and Accuracy",锤类伤害和命中值
+"Mace Accuracy and Attack Speed",锤类命中值和攻击速度
+"Bludgeon Blitz",闪电捶击
+"Mace Damage and Critical Strike Multiplier",锤类伤害和暴击伤害加成
+"Mace Damage and Critical Strike Chance",锤类伤害和暴击率
+"Blacksmith's Clout",铁匠之捶
+Spinecruncher,钻击者
+"Sword Damage and Area of Effect",剑类伤害和范围效果
+Bladedancer,剑舞者
+"Two Handed Melee Damage and Stun Duration",双手武器近战伤害和眩晕持续时间
+"Two Handed Melee Damage and Reduced Enemy Stun Threshold",双手武器近战伤害和敌人眩晕门槛降低
+"Kinetic Impacts",动能冲击
+"Shield Damage and Defences",盾牌伤害和防御
+"Shield Damage and Block",盾牌伤害和格挡
+"Aggressive Bastion",好战壁垒
+"Staff Damage and Block",长杖伤害和格挡
+"Staff Damage and Armour",长杖伤害和护甲
+"Steelwood Stance",身坚如铁
+"Cursed Concoction",被诅咒的灵药
+"Mana and Spell Damage",魔力和法术伤害
+"Prodigal Perfection",完美无缺
+"Mana and Spell Block",魔力和法术格挡
+"Mystic Bulwark",秘言守护
+"Golem Life and Buff Effect",魔像生命和增益效果
+"Golem Commander",魔像指挥官
+"Mana Flasks and Flask Duration",魔力药剂和药剂持续时间
+"Aqueous Accelerant",水溶
+"Mine Damage and Area of Effect",地雷伤害和效果区域
+"Blast Waves",冲击波纹
+"Efficient Explosives",高效爆炸
+"Dire Torment",恐怖折磨
+"Critical Ailment Damage Over Time Multiplier",暴击异常持续伤害加成
+"Spell Critical Strike Chance and Critical Ignite Damage Multiplier",法术暴击率和暴击点燃伤害加成
+"Searing Heat",灼热
+"Way of the Warrior",战士之道
+Transcendence,超然
+"Hardened Scars",百战伤疤
+"Cleansed Thoughts",净化的思想
+"Aspect of Stone",岩石之势
+"Deadly Inclinations",致命倾向
+"Mystic Talents",秘言天赋
+"Thunderous Salvos",雷鸣齐射
+"Vengeant Cascade",复仇奔流
+"Tribal Fury",部落之怒
+Tenacity,顽强
+Tranquility,宁静
+Crusader,圣战
+"Physical Attack Damage, Warcry Speed",物理攻击伤害、战吼速度
+"Life Regeneration, Endurance Charge on Kill",生命回复速度、击败敌人获得耐力球
+"Life Regeneration, Area of Effect",生命回复速度、效果区域
+"Position Proxy",安置代理
+"Small Jewel Socket",小型珠宝槽
+"Medium Jewel Socket",中型珠宝槽
+"Elemental Damage and Ailment Effect",元素伤害和异常效果
+"Large Jewel Socket",大型珠宝槽
+Persistence,锲而不舍
+"Totem Attack and Cast Speed, Brand Cast Speed",图腾攻击和施法速度、烙印施法速度
+"Basic Jewel Socket",基本珠宝槽
+"Exerted Attack Damage",增助攻击伤害
+"Warcry Cooldown Recovery",战吼冷却回复速度
+"Warcry Speed and Exerted Attack Damage",战吼速度和增助攻击伤害
+Escalation,擢升
+"Warcry Mastery",战吼专精
+"Staff Elemental Damage and Penetration",长杖元素伤害和穿透
+"Impale Effect with Two Handed Weapons",双手武器穿刺效果
+"Impale Duration and Chance with Two Handed Weapons",双手武器穿刺持续时间和几率
+Harpooner,鱼叉猎手
+"Warcry Speed and Duration",战吼速度和持续时间
+"Warcry Cooldown Recovery and Duration",战吼冷却回复速度和持续时间
+"Warcry Speed and Area of Effect",战吼速度和效果区域
+"Warcry Cooldown Recovery and Area of Effect",战吼冷却回复速度和效果区域
+"Natural Authority",自然威仪
+"Channelling Damage and Infusion Effect",吟唱伤害和灌注效果
+"Strikes Mastery",打击专精
+"Melee Damage and Strike Range",近战伤害和打击范围
+"Melee Damage and Splash Area of Effect",近战伤害和溅射效果区域
+"Staff Damage, Stun Duration and Block",长杖伤害、眩晕持续时间和格挡
+"Staff Damage, Armour and Stun Threshold",长杖伤害、护甲和晕眩门槛
+"Mace Critical Strike Multiplier",锤类暴击伤害加成
+"Fire Damage and Area of Effect",火焰伤害和效果区域
+"Fire Damage and Cast Speed",火焰伤害和施法速度
+"Chance to Ignite and Ignite Speed",点燃几率和点燃速度
+"Armour and Life",护甲和生命
+"Deep Breaths",深呼吸
+"Totem Attack and Cast Speed",图腾攻击和施法速度
+"Totem Damage and Placement Speed",图腾伤害和放置速度
+"Totem Life, Duration and Elemental Resistances",图腾生命、持续时间、元素抗性
+"Totem Life, Duration and Physical Damage Reduction",图腾生命、持续时间、物理伤害减免
+"Cold Damage and Cold Ailment Effect",冰霜伤害和冰霜异常状态效果
+"Lightning Damage and Lightning Ailment Effect",闪电伤害和闪电异常状态效果
+Bannerman,旗手
+"Aura Duration",光环持续时间
+"Chill and Freeze Resistance",冰缓和冻结抗性
+"Ignite Resistance",点燃抗性
+"Shock Resistance",感电抗性
+"Anointed Flesh",祝圣之体
+"Chaos Damage and Withered Expiry Rate",混沌伤害和枯萎衰退速率
+"Chaos Damage Penetration",混沌伤害穿透
+"Wand Elemental Damage and Penetration",法杖元素伤害和穿透
+"Combat Control",战斗操控
+"Mana and Guard Skill Duration",魔力和防卫技能持续时间
+"Mana and Guard Skill Cooldown Recovery",魔力和防卫技能冷却回复速度
+"Seal Generation Speed",封印生成速度
+"Bleed Damage and Chance",流血伤害和几率
+"Curse and Power Charge Mastery",诅咒和暴击球专精
+"Faster Doom Gain",获得灭能更快
+Admonisher,训诫
+"Warcry Speed",战吼速度
+"Warcry Speed and Cooldown Recovery",战吼速度和冷却回复速度
+"Axe Damage and Accuracy, Impale Chance",斧类伤害和命中值、穿刺几率
+"Mana Regeneration and Increased Mana Cost",魔力回复和提高魔力消耗
+Forethought,未卜先知
+"Mana Regeneration and Reduced Mana Cost",魔力回复和降低魔力消耗
+"Mana Cost Mastery",魔力消耗专精
+"Attack Speed and Rage ",攻击速度和狂怒
+"Damage against Cursed Enemies",对被诅咒的敌人的伤害
+"Reduced Mana Reservation of Curse Skills",诅咒技能的魔力保留降低
+"Warcry Cooldown Recovery and Exerted Attack Damage",战吼冷却回复速度和增助攻击伤害
+"Measured Fury",克制之怒
+"Physical Damage and Reflect Damage Taken",物理伤害和伤害反射
+"Risk Awareness",风险意识
+"Totem Damage and Attack Speed",图腾伤害和攻击速度
+Surveillance,洞若观火
+Panopticon,统揽全局
+"Totem Life and Physical Damage Reduction",图腾生命和物理伤害减免
+"Fire Damage, Ignite Chance and Ignite Duration",火焰伤害、点燃几率、点燃持续时间
+"Two Handed Melee Accuracy",双手武器近战命中值
+"Mana and Aura Area of Effect",魔力和光环效果区域
+"Brand Duration",烙印持续时间
+"Brand Equity",公正烙印
+"Brand Recall Cooldown Recovery",烙印召回冷却时间回复
+"Guard Skill Cooldown Recovery and Duration",防卫技能冷却回复速度和持续时间
+"Avoid Interruption while Casting, Strength and Dexterity",施法免打断、力量和敏捷
+"Lightning Damage and Lightning Ailment Duration",闪电伤害和闪电异常状态持续时间
+"Damage while you have a Herald",捷状态下的伤害
+"Herald Buff Effect",捷增益效果
+"Herald Mastery",捷专精
+"Discord Artisan",不谐之艺
+"Reduced Mana Reservation of Heralds",降低捷光环的魔力保留
+"Duration Mastery",持续时间专精
+"Reduced Skill Duration",降低技能持续时间
+"Window of Opportunity",大好时机
+"Cold Damage, Cold Ailment Duration",冰霜伤害、冰霜异常状态持续时间
+"Cold Damage, Cold Damage Over Time Multiplier, Cold Ailment Effect",冰霜伤害、持续冰霜伤害加成、冰霜异常状态效果
+"Gladiatoral Combat",角斗战术
+"Wand Damage and Attack Speed",法杖伤害和攻击速度
+"Stance Skill Cooldown Recovery",姿态技能冷却回复速度
+"Area of Effect in Sand Stance and Damage in Blood Stance",沙姿态效果区域和血姿态伤害
+"Versatile Stance",千姿百态
+"Two Handed Melee Critical Strike Multiplier and Accuracy",双手武器近战暴击伤害加成和命中值
+"Elemental Damage and Reflect Damage Taken",元素伤害和伤害反射
+"Exposure Tolerance",曝露韧性
+"Shield Block",盾牌格挡
+"Shock Chance and Lightning Ailment Effect",感电几率和闪电异常状态效果
+"Shock Chance, Lightning Ailment Effect and Duration",感电几率、闪电异常状态效果和持续时间
+"Axe Attack Speed and Rage",斧类攻击速度和怒火
+"Physical Bow Damage, Chance to Bleed and Faster Bleed",弓类物理伤害，出血和快速流血几率
+"Sword Damage and Melee Range",剑类伤害和近战范围
+"Damage if Consumed a Corpse",消耗灵枢伤害
+"Corpse Life",灵枢生命
+"Corpses Mastery",灵枢专精
+Undertaker,送葬者
+"Weapon Fire Damage and Ignite Chance",武器的火焰伤害和点燃几率
+"Weapon Fire Damage, Ignite Duration and Ignite Chance",武器的火焰伤害、点燃持续时间和点燃几率
+"Weapon Fire Damage and Burning Damage Multiplier",武器的火焰伤害和燃烧伤害加成
+"Ignite Attacks Mastery",点燃攻击专精
+"Burning Brutality",凶残烈焰
+"Area Spells Mastery",范围法术专精
+Intensity,凝聚
+"Damage against Marked Enemy",对咒印敌人的伤害
+"Marked for Death",死亡印记
+"Lightning Damage and Cast Speed",闪电伤害和施法速度
+"Chaos Damage Over Time Multiplier",持续混沌伤害加成
+"Brand Damage and Cast Speed",烙印伤害和施法速度
+"Brand Damage and Duration",烙印伤害和持续时间
+"Brand Range and Brand Recall Cooldown Recovery",烙印范围和烙印召回冷却回复速度
+"Life and Elemental Ailment Avoidance",生命和元素异常状态减免
+"Chance to Poison and Poison Damage Multiplier",中毒几率和中毒伤害加成
+"Chance to Poison with Spells",法术中毒几率
+"Poison Damage and Cast Speed",毒性伤害和施法速度
+"Poison Damage Multiplier with Spells",法术的中毒伤害加成
+"Serpentine Spellslinger",蜿蜒节魔
+"Bow Attack Speed and Accuracy",弓类攻击速度和命中值
+"One Handed Damage",单手武器伤害
+"Elemental Resistance with Shields and Shield Defences",持盾元素抗性和盾牌防御
+"Critical Strike Chance against Marked Enemy",对咒印敌人的暴击率
+"Marked Enemy Reduced Accuracy",降低咒印敌人的命中值
+"Mark the Prey",标记猎物
+"Mark Mastery",咒印专精
+"Adjacent Animosity",咫尺之恨
+"Weapon Lightning Damage and Lightning Ailment Effect",武器闪电伤害和闪电异常状态效果
+"Weapon Lightning Damage and Shock Chance",武器的闪电伤害和感电几率
+"Shocking Strikes",雷震打击
+"Bow Damage, Chance to Poison and Faster Poison",弓类伤害，至毒和快速中毒几率
+"Evasion and Elusive Effect",闪避值和灵巧效果
+"No Witnesses",遁入虚无
+"Shield Cast Speed",盾牌施法速度
+"Poison Chance",中毒几率
+"Poison Damage and Chance",中毒伤害和几率
+"Poison Damage",中毒伤害
+"Claw Accuracy and Critical Strike Multiplier",爪类命中值和暴击伤害加成
+"Cold Damage, Freeze Chance, Cold Ailment Effect",冰霜伤害、冻结几率、冰霜异常状态效果
+"Cold Damage, Cold Ailment Effect and Duration",冰霜伤害、冰霜异常状态效果和持续时间
+"Totem Critical Strike Chance and Multiplier",图腾暴击率和伤害加成
+"Totem Attack and Placement Speed",图腾攻击和放置速度
+Watchtowers,守望之塔
+"Sword Damage and Block",剑类伤害和格挡
+"Trick Shot",诡射
+"Split Shot",分裂射击
+"Projectile Damage and Forking Angle",投射物伤害和分裂角度
+"Projectile Damage and Pierce",投射物伤害和穿透
+"Damage for Chaining Hits and Chain Distance",连锁击中伤害和连锁距离
+"Projectile Damage and Chance for Extra Fork Projectile",投射物伤害和额外投射物分裂几率
+"Projectile Damage per Enemy Pierced",每个被穿透敌人的投射物伤害
+"Prodigious Defence",恢宏壁垒
+"Advance Guard",先遣卫士
+"Gladiatorial Combat",角斗战法
+"Strike Leader",领军之将
+"Powerful Ward",威力结界
+"Enduring Ward",持久结界
+"Gladiator's Fortitude",勇毅斗士
+"Precise Retaliation",睚眦必报
+"Veteran Defender",防御老手
+"Iron Breaker",钢铁斗士
+"Deep Cuts",凌迟
+"Master the Fundamentals",规律主宰
+"Force Multiplier",力量倍增
+"Furious Assault",狂风扫荡
+"Vicious Skewering",恶毒穿刺
+"Grim Oath",阴冷誓言
+Battle-Hardened,坚守战场
+"Replenishing Presence",重装上阵
+"Master of Command",统御之主
+"First Among Equals",鹤立鸡群
+"Purposeful Harbinger",勇毅先驱
+"Precise Commander",如臂使指
+"Pure Commander",心无旁骛
+"Stalwart Commander",沉着应战
+"Vengeful Commander",血仇必报
+Skullbreaker,碎颅斗士
+"Pressure Points",直攻要害
+"Overwhelming Malice",罪恶滔天
+Magnifier,放大器
+"Savage Response",凶蛮回荡
+"Eye of the Storm",风暴之眼
+"Basics of Pain",苦难根基
+"Quick Getaway",逃之夭夭
+"Assert Dominance",独断宣言
+"Vast Power",无垠之力
+"Powerful Assault",横扫千军
+"Titanic Swings",翻天横扫
+"Towering Threat",胁迫如山
+"Ancestral Echo",先祖回音
+"Ancestral Reach",先祖降临
+"Ancestral Might",先祖之力
+"Ancestral Preservation",先祖护佑
+"Snaring Spirits",激荡狂灵
+"Sleepless Sentries",不眠哨卫
+"Ancestral Guidance",先祖指引
+"Ancestral Inspiration",先祖教化
+"Vital Focus",活力专注
+"Rapid Infusion",猛烈灌注
+"Unwavering Focus",不动专注
+"Enduring Focus",持久专注
+"Precise Focus",精确专注
+"Stoic Focus",坚忍专注
+"Hex Breaker",巫灵斗士
+"Arcane Adept",奥术专家
+"Distilled Perfection",完美无暇
+"Spiked Concoction",钉刺调和
+Fasting,斋戒
+"Mender's Wellspring",弥补之源
+"Special Reserve",特别预备
+"Numbing Elixir",僵化灵药
+"Mob Mentality",暴民思维
+"Cry Wolf",恶狼哭号
+"Haunting Shout",恶灵之嚎
+"Lead By Example",按图索骥
+Provocateur,内奸
+"Warning Call",警戒之号
+"Rattling Bellow",野蛮嚎叫
+Bloodscent,鲜血之腥
+"Run Through",飘雪穿云
+"Wound Aggravation",恶化创伤
+Overlord,霸主
+"Expansive Might",万象之力
+"Weight Advantage",千斤坠
+Wind-up,螺旋之风
+"Fan of Blades",回风之剑
+"Disease Vector",疫病弥漫
+"Arcing Shot",弧光箭
+"Tempered Arrowheads",淬火箭头
+Broadside,侧舷炮
+"Explosive Force",混元震天
+"Opportunistic Fusilade",趁机发难
+"Storm's Hand",风暴之手
+"Battlefield Dominator",战场主宰
+"Martial Mastery",武艺专精
+"Surefooted Striker",好整以暇
+"Graceful Execution",优雅处刑
+"Brutal Infamy",恶名昭著
+"Fearsome Warrior",凶骇武士
+"Combat Rhythm",韵律战法
+"Hit and Run",连打带跑
+"Insatiable Killer",无尽杀戮
+"Mage Bane",破法
+"Martial Momentum",技如长虹
+"Deadly Repartee",疾雨摧花
+"Quick and Deadly",又快又狠
+"Smite the Weak",截心击
+"Heavy Hitter",金刚拳
+"Martial Prowess",武艺精湛
+Calamitous,灾殃
+Devastator,破坏者
+"Fuel the Fight",充能备战
+"Drive the Destruction",毁灭引擎
+"Feed the Fury",怒火盛宴
+"Seal Mender",弥补之印
+"Conjured Wall",咒法之墙
+"Arcane Heroism",奥术英姿
+"Practiced Caster",施法熟手
+"Burden Projection",掷象功
+Thaumophage,奥法蠕虫
+"Essence Rush",精华疾攻
+"Sap Psyche",心灵枯竭
+Sadist,狂虐者
+"Corrosive Elements",腐蚀元素
+"Doryani's Lesson",多利亚尼之训
+"Disorienting Display",心神错乱
+"Prismatic Heart",棱光之心
+"Widespread Destruction",毁天灭地
+"Master of Fire",火焰之主
+"Smoking Remains",燃烬之烟
+Cremator,焚化炉
+Snowstorm,暴风雪
+"Storm Drinker",风暴痛饮
+Paralysis,瘫痪
+Supercharge,超级聚能
+"Blanketed Snow",大雪漫天
+"Cold to the Core",冻彻心扉
+"Cold-Blooded Killer",冷血杀手
+"Touch of Cruelty",残酷之触
+"Unwaveringly Evil",不动之恶
+"Unspeakable Gifts",莫名之赐
+"Dark Ideation",黑暗构想
+"Unholy Grace",渎神雅量
+"Wicked Pall",邪恶烟云
+Renewal,复兴
+"Raze and Pillage",寸草不生
+"Rotten Claws",腐烂之爪
+"Call to the Slaughter",屠夫呼唤
+"Skeletal Atrophy",魔侍凋零
+"Hulking Corpses",肿胀灵枢
+"Vicious Bite",恶毒撕咬
+"Primordial Bond",原初之缚
+Blowback,还击
+"Fan the Flames",煽风点火
+"Cooked Alive",汤镬
+"Burning Bright",熊熊燃烧
+"Wrapped in Flame",火焰缠身
+"Vivid Hues",多彩之色
+Rend,撕裂
+"Disorienting Wounds",累累伤痕
+"Compound Injury",老痕新伤
+"Septic Spells",降蛊
+"Low Tolerance",低容忍
+"Steady Torment",缓慢折磨
+"Eternal Suffering",永恒苦难
+"Eldritch Inspiration",旧神启迪
+"Wasting Affliction",凌虐酷刑
+Haemorrhage,大出血
+"Flow of Life",放血
+"Exposure Therapy",解剖疗法
+"Brush with Death",梳洗之刑
+"Vile Reinvigoration",邪恶复兴
+"Circling Oblivion",循环湮灭
+"Brewed for Potency",力量萃取
+"Astonishing Affliction",惊怖酷刑
+"Cold Conduction",寒冰导体
+"Inspired Oppression",绝妙镇压
+"Chilling Presence",惊寒降临
+"Deep Chill",深寒
+Blast-Freeze,千里冰封
+Thunderstruck,天雷轰顶
+Stormrider,风暴骑手
+Overshock,霹雳雷震
+"Evil Eye",邪恶之眼
+"Whispers of Death",死亡私语
+"Forbidden Words",禁断之言
+"Dark Discourse",黑暗篇章
+"Victim Maker",牺牲制造者
+"Master of Fear",恐惧之主
+"Wish for Death",死亡之愿
+Heraldry,传令者
+Endbringer,末日使者
+Cult-Leader,祭仪领袖
+"Empowered Envoy",赋能使者
+"Dark Messenger",黑暗使者
+"Agent of Destruction",毁灭使徒
+"Lasting Impression",持久印象
+"Self-Fulfilling Prophecy",自圆其说
+"Invigorating Portents",欢欣预兆
+"Pure Agony",纯粹苦痛
+Disciples,门徒
+"Dread March",致命行军
+"Blessed Rebirth",受福重生
+"Life from Death",由死复生
+"Feasting Fiends",饕餮群魔
+Bodyguards,保镖
+Follow-Through,追随
+Streamlined,流线作业
+"Shrieking Bolts",呼啸飞箭
+"Eye to Eye",以眼还眼
+Repeater,连发
+Aerodynamics,空气力学
+"Chip Away",开凿
+"Seeker Runes",探索符文
+Remarkable,非凡瞩目
+"Brand Loyalty",忠诚钢印
+"Holy Conquest",神圣征服
+"Grand Design",宏伟计划
+"Set and Forget",高枕无忧
+"Expert Sabotage",破坏专家
+"Guerilla Tactics",游击战
+Expendability,扩张
+"Arcane Pyrotechnics",奥术烟花
+"Surprise Sabotage",惊奇破坏
+"Careful Handling",谨慎操纵
+"Peak Vigour",巅峰状态
+Fettle,整顿
+"Sublime Sensation",崇高感
+"Surging Vitality",活力振奋
+"Peace Amidst Chaos",乱中有静
+Adrenaline,肾上腺素
+"Wall of Muscle",肌肉之墙
+Mindfulness,正念
+"Liquid Inspiration",液化启迪
+Openness,坦率
+"Daring Ideas",激进理念
+"Clarity of Purpose",心意已决
+"Scintillating Idea",闪光理念
+"Holistic Health",天人化生
+Genius,天才
+Improvisor,即兴演出
+"Stubborn Student",倔强学徒
+"Savour the Moment",品味片刻
+"Energy From Naught",无中生有
+"Will Shaper",勇毅者
+"Spring Back",折回冲刺
+"Conservation of Energy",能量留存
+"Heart of Iron",钢铁之心
+"Prismatic Carapace",棱光之壳
+Militarism,穷兵黩武
+"Second Skin",天衣无缝
+"Dragon Hunter",屠龙猎手
+"Enduring Composure",持久冷静
+"Prismatic Dance",棱光之舞
+"Natural Vigour",万物滋生
+Untouchable,不可触及
+"Shifting Shadow",变换之影
+Readiness,准备就绪
+"Confident Combatant",自信斗士
+"Flexible Sentry",灵活哨兵
+"Vicious Guard",恶毒守卫
+"Mystical Ward",秘法结界
+"Rote Reinforcement",刻板援军
+"Mage Hunter",法师猎人
+"Riot Queller",骚乱平息
+"One with the Shield",顽强壁垒
+Aerialist,高空钢丝
+"Elegant Form",优雅形体
+"Darting Movements",突进时刻
+"Molten One's Mark",熔岩者印记
+"Fire Attunement",火冥功
+"Pure Might",纯粹之力
+Blacksmith,铁匠
+Non-Flammable,不可燃烧
+"Winter Prowler",深冬潜者
+Hibernator,冬眠者
+"Pure Guile",天生狡诈
+Alchemist,炼金师
+Antifreeze,防护冻结
+Wizardry,非凡才能
+Capacitor,充能器
+"Pure Aptitude",天赋禀异
+Sage,贤者
+Insulated,绝缘
+"Born of Chaos",混沌降生
+Antivenom,防护毒素
+Rot-Resistant,腐烂抗力
+Blessed,受福
+"Student of Decay",腐朽学徒
+"Lord of Drought",旱魃
+"Blizzard Caller",呼风唤雪
+"Tempt the Storm",风暴之诱
+"Misery Everlasting",苦痛永存
+"Exploit Weakness",开发要害
+Self-Control,自制
+Uncompromising,决不妥协
+"Sublime Form",崇高之形
+"Summer Commander",夏日都统
+"Winter Commander",冬日都统
+"Grounded Commander",理智都统
+"Attack Damage Mastery",攻击伤害专精
+"Spell Damage Mastery",法术伤害专精
+"Physical Damage Mastery",物理伤害专精
+"Chaos Damage Mastery",混沌伤害专精
+"Physical Damage over Time Multiplier",持续物理伤害加成
+"Damage over Time Multiplier",持续伤害加成
+"Damage over Time Multiplier Mastery",冰霜持续伤害加成专精
+"Projectile Damage Mastery",投射物伤害专精
+"Trap and Mine Damage Mastery",陷阱和地雷伤害专精
+"Instruments of Zeal",狂热之器
+"Armour, Life Regeneration",护甲和生命再生率
+"Mana Regeneration, Arcane Surge Effect",魔力再生率和秘术增强效果
+"Energy Shield, Chaos Damage",能量护盾和混沌伤害
+"Energy Shield, Cold Damage",能量护盾和冰霜伤害
+"Blade Sovereign",君王之刃
+"Call of Steel Speed and Area",钢铁呼唤速度和范围
+"Hex Area of Effect and Faster Doom Gain",魔蛊效果区域和快速获取灭能
+"Heart of Destruction",毁灭之心
+"Bastion of Elements",元素堡垒
+"Elemental Damage, Fire Damage over Time Multiplier",元素伤害和持续火焰伤害加成
+"Elemental Damage, Lightning Ailment Effect",元素伤害和闪电异常状态效果
+"Elemental Damage, Cold Ailment Effect",元素伤害和冰霜异常状态效果
+"Shaper of Flames",火焰塑形
+"Shaper of Storms",风暴塑形
+"Shaper of Winter",寒冬塑形
+"Armour and Evasion, Impale Chance",护甲、闪避值和穿刺几率
+"Armour and Evasion, Fortify Effect",护甲、闪避值和护体效果
+"Critical Strike Chance, Elusive Effect",暴击率和灵巧效果
+"Flask Effect, Poison Duration",药剂效果和中毒持续时间
+"Attack and Cast Speed, Damage",攻击和施法速度及伤害
+"Evasion, Onslaught Effect",闪避和猛攻效果
+"Projectile Damage, Mark Cast Speed",投射物伤害和咒印施法速度
+Rupturing,碎裂
+"Projectile Damage, Mirage Archer Duration",投射物伤害和幻影射手持续时间
+"Occupying Force",占领军
+"Projectile Damage, Projectile Speed",投射物伤害和投射物速度
+"Focal Point",聚焦点
+"Wind Ward",风之结界
+"Flask Charges Gained",药剂充能获取率
+"Reduced Reservation",降低保留
+"Physical Damage and Strength",物理伤害和力量
+"Mine Damage and Reduced Reservation",地雷伤害和降低魔力保留
+"Axe and Sword Mastery",斧剑专精
+"Dual Wield Mastery",双持精通
+"Flask Mastery",药剂专精
+"Life and Reduced Cost",生命与减少魔力消耗
+"Attack Damage while Fortified and Fortify Duration",强化效果和持续时间
+"Physical Damage, Life Leeched per Second","物理攻击伤害, 每秒生命偷取速率"
+"Physical Damage, Critical Strike Chance",物理攻击伤害，暴击率
+"Physical Damage, Attack Speed","物理攻击伤害, 攻击速度"
+"Physical Damage, Warcry Speed",物理攻击伤害、战吼速度
+"Defy Pain",苦痛劫掠
+"Evasion, Elemental Damage",闪避，移动速度
+"Armour and Evasion, Attack Damage while Fortified",护甲、闪避值和护体效果
+"Damage with Life Cost Skills",消耗生命施展技能的伤害
+"Damage with Life Cost Skills and Reduced Life Cost",消耗生命施展技能的伤害及降低生命消耗
+"Cannibalistic Rite",惨绝典礼
+"Physical and Minion Damage",物理和召唤生物伤害
+"Melee Damage while Fortified",护体效果和近战伤害
+"Armour while Fortified",护体效果和护甲
+"Rage Mastery",怒火专精
+"Reduced Reservation of Heralds",降低捷光环的魔力保留
+"Stance Skill Reservation",姿态技能冷却回复速度
+"Reduced Reservation of Curse Skills",诅咒技能的魔力保留降低
+"Physical Damage and Overwhelm",物理伤害和压制
+Vanquisher,百战百胜
+Relentless,冷酷无情
+"Physical Damage and Physical Damage Over Time Multiplier",物理伤害和持续物理伤害加成
+"Veteran Soldier",饱经征战
+"Curse Effect on You and Consecrated Ground Effect",你身上的诅咒效果和奉献地面效果
+Asylum,逃难所
+"Careful Conservationist",谨慎保护
+"Flask Effect Duration",药剂效果持续时间
+"Flask Charges Used",药剂充能获取
+"Natural Remedies",自然疗法
+"Blood Artist",赤血造诣
+Phlebotomist,赤血医师
+"Tireless Soldier",职业军人
+"Blood Oath",鲜血誓言
+"Thirst for Battle",处刑者之饿
+Veinslicer,静脉切割
+"Murderous Intent",坚韧磨砺
+"Arcane Recovery",智力防御
+"Moment's Respite",瞬间喘息
+"Shavronne's Secret",薛朗之秘
+Implacable,不动如山
+"Agile Combatant",冲刺者
+"Getaway Gambit",逍遥局
+"Perpetual Motion",持久运动
+"Thought Barrier",思维屏障
+"Sharp Intellect",锋锐智慧
+"Waking Dream",好奇的炼金师
+"Gargantuan Impacts",巨兽冲击
+"Vicious Bloodletter",角斗士之锋
+"Lifelong Warrior",正义惩击
+"Triad Torments",三重折磨
+"Way of the Blade",刀剑之道
+"Reckless Assault",破釜沉舟
+"Brutal Skewering",残忍穿刺
+"Martyr's Legacy",烈士遗产
+Dynamism,神秘远征
+"Energy Well",远征老兵
+"Apprentice Battlemage",魔武学徒
+"Elemental Adept",元素行家
+"Black Thumb",寸草不生
+"Debilitating Energy",影之锐
+"Blurred Form",模糊之形
+"Reigning Champion",勇士之愿
+"Personal Combat",私人战斗
+"Pride of the Arena",狂战之怒
+"Expert Fencer",部落凶蛮
+"Arrow to the Face",爆头箭
+Arrowstorm,箭矢风暴
+"Venomous Ire",恶毒之怒
+"Accelerated Volley",加速齐射
+"Born for the Hunt",天生猎手
+"Distant Snipe",远狙
+"Colossal Arrows",巨灵之箭
+"Spined Arrows",飞旋之箭
+"Feathered Arrows",钉穿箭矢
+"Orchestral Chant",苦痛灵曲
+Prestidigitation,灵能宗师
+Spellmaster,法术大师
+"One Man Leaves",女猎手
+Eyestabber,插眼
+"Bloody Vengeance",狂战之雅
+"Heart Eater",吞心者
+"Mystical Expansion",散射
+"Defensive Arts",坚定不移
+"Classic Wizardry",灵活专注
+"Vitality Draughts",活力跳棋
+"Spirit Draughts",灵魂跳棋
+"Punishing Gale",先祖魂约
+"Forceful Circuit",先祖守卫
+"Fanned Flames",雕竹
+"Machinist's Guarantee",破坏者的担保
+"Unstable Mechanisms",不稳定装置
+Swiftfooted,迅捷步
+"Element of Surprise",刺客的机会
+"Pernicious Infusion",极度凶残
+"Excessive Cruelty",狂热远征
+"Path to Power",超群之击
+Shieldbashing,猛力盾击
+Shieldbearer,持盾人
+"Volcanic Blood",火山之子
+"Heavy Combat",重甲战斗
+"Deadly Dance",双重闪击
+"Twin Savagery",暴行孪生
+"Draining Glare",灼人凝视
+"Thrill of the Kill",持续战役
+"Acquired Tolerance",老兵疤痕
+"Lingering Toxins",刺骨羞辱
+"Well-travelled Warrior",塔赫亚恩典
+Hardheaded,精明冷静
+"Sly Shot",诡秘射击
+Icebind,严冬笼罩
+"Unbearable Agony",封闭循环
+"Wildfire Emissary",野火密使
+Coalwalker,焦炭行者
+"Storm Ritual",风暴秘祭
+"Winter Hunt",寒冬狩猎
+"Dogged Refusal",严词拒绝
+"Constant Overcharge",持续超载
+"Head Smasher",不屈之志
+"Helmet Crusher",专注大奖
+"Skilled Poacher",无情蜂拥
+"Frenetic Fighter",钢铁之肌
+"Indomitable Warrior",护甲大师
+"Intellectual Defence",高瞻远瞩
+"Endless Endurance",猎人反应
+"Master of the Storm",醉拳
+"Cruel Voltage",残酷电压
+"Master of Immolation",血脉生烟
+"Master of Winter",凛冬之主
+"The Untouchable",浸骨之寒
+"Staff Block",长杖格挡
+"Elemental Resistances with a Shield",持盾元素抗性
+"Spiked Bulwark",荆刺守护
+"Elemental Resistances",元素抗性
+"Shock Chance",感电几率
+"Dagger Critical Strike Multiplier",匕首暴击伤害加成
+"Dagger Critical Strike Chance and Leech",匕首暴击率和偷取
+"Minion Resistances",召唤生物抗性
+"Wand Lightning Damage",法杖闪电伤害
+"Freeze Chance",冻结几率
+"Burning Damage Multiplier",燃烧伤害加成
+"Cold Damage and Freeze Chance",冰霜伤害和冻结几率
+"Cold Ailment Duration",冰霜异常状态持续时间
+Vampirism,吸血鬼症
+"One With Nature",天人合一
+"Life Raker",生命收割
+Intuition,直觉感知
+"Physical Bow Damage and Stun Threshold",弓类物理伤害和眩晕门槛
+"Bow Damage Over Time",弓类持续伤害
+"Poison Chance and Damage",中毒几率和伤害
+"Evasion and Spell Suppression",闪避和法术压制
+"Life and Stun Avoidance",生命和眩晕回避率
+"Mana and Flask Charges Gained",魔力和药剂充能获取率
+"Shock Avoidance",感电回避率
+"Ignite Avoidance",点燃回避率
+"Freeze and Chill Avoidance",冻结和冰缓回避率
+"Projectile Damage and Accuracy",投射物伤害和命中
+Ballistics,弹道学
+"Accuracy and Attack Damage",命中和攻击伤害
+"Projectile Attack Critical Strike Chance",投射物攻击暴击率
+"Projectile Attack Critical Strike Chance and Multiplier",投射物攻击暴击率和伤害加成
+"Spell Damage and Mana",法术伤害和魔力
+"Movement Speed and Spell Suppression",移动速度和法术压制
+"Mana Regeneration",魔力回复
+Presage,预知之力
+"Shield Block and Elemental Resistances with a Shield",持盾格挡和持盾元素抗性
+"Sword Critical Strike Chance",剑的暴击率
+"Savage Wounds",狂野之创
+"Dual Wield Block and Attack Speed",双持格挡和攻击速度
+"Ignite Chance and Duration",点燃几率和持续时间
+"Reservation Efficiency",保留效能
+"Attack Ignite Chance and Attack Speed",攻击点燃几率和攻击速度
+"Trap Critical Strike Chance and Multiplier",陷阱暴击率和伤害加成
+"Energy Shield Recharge Rate",能量护盾充能率
+"Mine Detonation Speed",地雷引爆速度
+"Trap Throwing Speed",陷阱投掷速度
+"Essence Infusion",精华灌注
+"One with Evil",极恶非道
+"Minion Block",召唤生物格挡
+"Minion Spell Block",召唤生物法术格挡
+Goliath,巨人之力
+"Axe Damage and Impale Chance",斧类伤害和穿刺几率
+"Clever Thief",机敏猎人
+"Cold Ailment Effect",冰霜异常状态效果
+"Chance to Ignite",点燃几率
+"Lightning Ailment Effect",闪电异常状态效果
+"Avoid Interruption while Casting and Elemental Resistances",施法免打断和元素抗性
+"Chance for Extra Fork Projectile",额外投射物分裂几率
+"Avoid Status Ailments",避免异常状态
+"Master of Blades",刀剑之主
+"Mana and Mana on Kill",魔力和击败获取魔力
+"Thrill Killer",颤栗打击者
+"Claw Critical Strike Chance and Accuracy",爪类暴击率和命中值
+"Claw Critical Strike Chance",爪类暴击几率
+"Claw Attack Speed",爪类攻击速度
+"Claw Ailment Damage and Poison Duration",爪类异常状态伤害和中毒持续时间
+"Claw Ailment Damage and Poison Chance",爪类异常状态伤害和中毒几率
+"Life Recoup",生命回收
+Robust,健壮
+"Shield Block and Elemental Resistances","盾牌 格挡和元素抗性"
+"Faster Bleeding",快速流血
+"Maximum Lightning Resistance",最大闪电抗性
+"Sword Critical Strike Multiplier",剑类暴击伤害加成
+"Sword Accuracy and Critical Strike Chance","剑类命中值和暴击率 "
+"Mana on Hit",击中魔力
+"Attack Damage while Fortified",护体时的攻击伤害
+"Fortification Gain",护体获取
+"Explosive Elements",爆破元素
+"Totem Critical Strike Chance",图腾暴击率
+"Totem Critical Strike Multiplier",图腾暴击伤害加成
+"Ignite Chance",点燃几率
+"Reigning Veteran",老当益壮
+Heartstopper,凝心者
+"Damage Over Time Multiplier and Life Regeneration",持续伤害加成和生命再生率
+"Poison Damage Multiplier",中毒伤害加成
+"Poison Chance and Duration",中毒几率和持续时间
+"Trap Trigger Area",陷阱触发区域
+"Trap Cooldown Recovery",陷阱冷却回复速度
+"Mine Duration",地雷持续时间
+"Physical Damage as Extra Cold Damage",物理伤害和额外冰霜伤害
+"Weapon Elemental Damage and Ailment Effect",武器元素伤害和异常状态效果
+"Ailment Damage",异常状态伤害
+"Damaging Ailment Duration",伤害型异常状态持续时间
+"Chain Distance",连锁距离
+"Minion Accuracy",召唤生物命中
+"Minion Damage and Attack and Cast Speed",召唤生物伤害与攻击和施法速度
+"Life Regeneration and Stun Threshold",生命再生和眩晕门槛
+"Brand Critical Strike Chance",烙印暴击率
+Avoidance,回避率
+"Stun Avoidance",眩晕回避率
+"Bleed Avoidance",流血回避率
+"Poison Avoidance",中毒回避率
+"Taste for Blood",赤色之味
+Tolerance,宽容
+"Chance to Ignite, Freeze and Shock",点燃、感电、冻结几率
+"Ailment Effect",异常状态效果
+"Life and Energy Shield on Kill",击败敌人的生命和能量护盾
+"Life and Mana on Hit",击中生命和魔力
+"Dual Wield Attack and Cast Speed",双持攻击与攻击和施法速度
+"Shield Spell Block",盾牌法术格挡
+"Block Recovery and Energy Shield",格挡硬直回复和能量护盾
+"Arcane Sanctuary",奥术圣所
+"Attack Damage and Leech",攻击伤害和偷取
+"Attack Damage and Speed",攻击伤害和速度
+"Evasion and Blind Effect",闪避和目盲效果
+"Blind Duration",目盲持续时间
+"Maximum Fortification",最大防卫
+"Season of Ice",寒冰之季
+"Spell Suppression",法术压制
+Inveterate,根深蒂固
+"Merciless Skewering",无情穿刺
+"Physical Damage as Extra Fire Damage",将物理伤害转为额外火焰伤害
+"Critical Strikes against Blinded Enemies",对目盲敌人的暴击率
+"Armour per Endurance Charge",每个耐力球的护甲值
+"Maximum Cold Resistance",最大冰霜抗性
+"Maximum Fire Resistance",最大火焰抗性
+"Prismatic Skin",虹光之肤
+Courage,勇毅
+"Mace Critical Strike Chance",锤类暴击率
+"Spell Suppression and Life Flask Recovery",法术压制和生命药剂回复率
+Entrench,牢固
+"Bow Area of Effect",弓类效果区域
+"Claw Critical Strike Multiplier",爪类暴击伤害加成
+"Dagger Ailment Damage",匕首异常状态伤害
+"Dagger Ailment Damage and Poison Chance",匕首异常状态伤害和中毒几率
+"Dagger Critical Strike Chance",匕首暴击率
+Wasting,浪费
+"Shield Damage",盾牌伤害
+"Spell Block",法术格挡
+"Spell Block and Elemental Resistances",法术格挡和元素抗性
+Safeguard,护卫
+"Life on Hit",击中生命
+"Life on Kill and Recoup",击中生命和回收
+"Warrior Training",武士训练
+"Staff Accuracy",长杖命中
+"Life on Kill against Cursed Enemies",击败被诅咒的敌人获取生命
+"Minion Area of Effect",召唤生物效果区域
+"Link Mana Cost",羁绊魔力消耗
+"Link Mana Cost and Cast Speed",羁绊魔力消耗和施法速度
+"Inspiring Bond",同进同退
+"Life Flasks and Flask Duration",生命药剂和药剂持续时间
+"Field Medicine",医学领域
+"Mine Area of Effect",地雷效果区域
+"Mine Damage and Reservation Efficiency",地雷伤害和保留效能
+"Faster Ignite",快速点燃
+"Powerful Bond",戮力同心
+"Link Duration and Cast Speed",羁绊持续时间和施法速度
+"Link Duration",连接持续时间
+"Attack Ignite Chance",攻击点燃几率
+"Burning Damage Multiplier with Attacks",攻击燃烧伤害加成
+"Warcry Area of Effect",战吼效果区域
+Unfaltering,稳步坚决
+"Reservation Efficiency of Heralds",捷保留效能
+"Spell Suppression and Energy Shield Recharge Rate",法术压制和能量护盾充能率
+Instinct,本能
+"Assured Strike",十拿九稳
+"Impale Chance with Two Handed Weapons",双手武器穿刺几率
+"Infused Flesh",血肉灌注
+"Forking Angle",分裂角度
+"Life Flask Charge Gain",生命药剂充能获取
+"Mana Flask Charge Gain",生命药剂充能获取
+"Replenishing Remedies",重装拯救
+Acrimony,尖刻
+"Reservation Efficiency of Curse Skills",诅咒技能的保留效能
+"Mark Effect",咒印效果
+Hearty,热忱
+"Curse Effect on You and Chaos Resistance",你身上的诅咒效果和混沌抗性
+"Bastion Breaker",破壁者
+"Accuracy Mastery",命中专精
+"Armour and Energy Shield Mastery",护甲和能量护盾专精
+"Attack Mastery",攻击专精
+"Spell Suppression Mastery",范围法术压制专精
+"Blind Mastery",目盲专精
+"Leech Mastery",偷取专精
+"Projectile Mastery",投射物专精
+"Caster Mastery",施法专精
+"Charge Mastery",冲锋专精
+"Critical Mastery",暴击专精
+"Link Mastery",连接专精
+"Damage Over Time Mastery",持续伤害专精
+"Dual Wielding Mastery",双持专精
+"Block Mastery",格挡专精
+"Elemental Mastery",元素专精
+"Evasion and Energy Shield Mastery",闪避和能量护盾专精
+"Armour and Evasion Mastery",护甲和闪避值专精
+"Physical Mastery",物理专精
+"Minion Offence Mastery",召唤生物斗志专精
+"Minion Defence Mastery",召唤生物防御专精
+"Reservation Mastery",保留专精
+"Trap Mastery",陷阱专精
+"Attributes Mastery",属性专精
+"Resistance and Ailment Protection Mastery",抗性和异常状态防护专精
+"Heart of Darkness",黑暗之心
+"Spiteful Presence",怨恨姿态
+"Destructive Aspect",毁灭之相
+"Electric Presence",电震姿态
+"Volatile Presence",无常姿态
+"Righteous Path",正义之路
+"Mortifying Aspect",禁欲之相
+"Frantic Aspect",狂乱之相
+Introspection,内省
+"Inevitable Doom",终焉必临
+"Doedre's Spite",德瑞的怨恨
+"Hound's Mark",猎犬面具
+"Doedre's Gluttony",德瑞的饕餮
+"Doedre's Apathy",德瑞的冷漠
+"Master of the Maelstrom",大漩涡之主
+"Aggressive Defence",以攻为守
