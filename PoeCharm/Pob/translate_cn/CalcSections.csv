@@ -1,74 +1,74 @@
-"Player modifiers:",玩家加成:
-"Enemy modifiers:",敌人加成:
+"Player modifiers:","玩家加成:"
+"Enemy modifiers:","敌人加成:"
 "Enemy resistance: {0}%","敌人抗性: {0}%"
-"Total Increased:",总提高:
-"Total More:",总计额外提高:
-"Effective DPS Mod:","有效 DPS Mod:"
-"Skill Hit Damage:",技能击中伤害:
-"Skill Average Hit:",技能平均击中:
-"MH Total Increased:",总提高(主手):
-"MH Total More:",总计额外提高(主手):
-"MH Eff. DPS Mod:","DPS Mod (主手):"
-"MH Hit Damage:",平均伤害(主手):
-"MH Average Hit:",平均击中(主手):
-"OH Total Increased:",总提高(副手):
-"OH Total More:",总计额外提高(副手)
-"OH Eff. DPS Mod:","DPS Mod (副手):"
-"OH Hit Damage:",平均伤害(副手):
-"OH Average Hit:",平均击中(副手):
+"Total Increased:","总提高:"
+"Total More:","总计额外提高:"
+"Effective DPS Mod:","有效 DPS修正:"
+"Skill Hit Damage:","技能击中伤害:"
+"Skill Average Hit:","技能平均击中:"
+"MH Total Increased:","总提高(主手):"
+"MH Total More:","总计额外提高(主手):"
+"MH Eff. DPS Mod:","DPS修正(主手):"
+"MH Hit Damage:","平均伤害(主手):"
+"MH Average Hit:","平均击中(主手):"
+"OH Total Increased:","总提高(副手):"
+"OH Total More:","总计额外提高(副手)"
+"OH Eff. DPS Mod:","DPS修正(副手):"
+"OH Hit Damage:","平均伤害(副手):"
+"OH Average Hit:","平均击中(副手):"
 "Skill DPS:","技能 DPS:"
-"Damage over Time:",持续伤害:
-"MH Inc. Att. Speed:",提高攻击速度(主手):
-"MH More Att. Speed:",额外提高攻击速度(主手):
-"MH Att. per second:",每秒攻击(主手):
-"OH Inc. Att. Speed:",提高攻击速度(副手):
-"OH More Att. Speed:",额外提高攻击速度(副手):
-"OH Att. per second:",每秒攻击(副手):
-"Attacks per second:",每秒攻击:
-"Inc. Cast Speed:",提高施法速度:
-"More Cast Speed:",额外提高施法速度:
-"Casts per second:",每秒施法:
-"Cast time:",施法时间:
-"Inc. Crit Chance:",提高暴击几率:
-"Crit Effect Mod:","有效暴击 Mod:"
-"MH Inc. Crit Chance:",提高暴击率(主手):
-"MH Crit Chance:",暴击率(主手):
-"MH Crit Multiplier:",暴击伤害(主手):
-"MH Crit Effect Mod:","有效暴击 Mod(主手):"
-"OH Inc. Crit Chance:",提高暴击率(副手):
-"OH Crit Chance:",暴击率(副手):
-"OH Crit Multiplier:",暴击伤害(副手):
-"OH Crit Effect Mod:","有效暴击 Mod(副手):"
-"MH Accuracy:",命中(主手):
-"MH Chance to Hit:",击中机率(主手):
-"Enemy Evasion modifiers:",敌人躲避加成:
-"OH Accuracy:",命中(副手):
-"OH Chance to Hit:",击中机率(副手):
-"Duration Mod:","持续时间 Mod:"
-"Skill Duration:",技能持续时间:
-"Secondary Duration:",附加持续时间:
-"Aura Duration:",光环持续时间:
-"Reserve Duration:",保留持续时间:
-"Max Chain Count:",最大连锁数:
-"Projectile Count:",投射物数:
-"Pierce Count:",穿刺数:
-"Proj. Speed Mod:","速度 Mod(投射物):"
-"Area of Effect Mod:","范围效果 Mod:"
-Radius:,半径:
-"Secondary Radius:",附加范围:
-"Weapon Range:",武器范围:
-"Trap Throw Time:",陷阱投郑时间:
-"Active Trap Limit:",陷阱激活时间:
-"Trap Trigg. Radius:",陷阱触发范围:
-"Area of Effect modifiers:",有效范围加成:
-"Mine Laying Time:",地雷引爆时间:
-"Active Mine Limit:",地雷激活时间:
-"Mine Deton. Radius:",地雷引爆范围:
-"Mine Aura Radius:",地雷光环范围:
-"Totem Place Time:",图腾放置时间:
-"Active Totem Limit:",图腾激活时间:
-"Totem Life Mod:","生命 Mod(图腾):"
-"Totem Life:",图腾生命:
+"Damage over Time:","持续伤害:"
+"MH Inc. Att. Speed:","攻击速度提高(主手):"
+"MH More Att. Speed:","额外攻击速度提高(主手):"
+"MH Att. per second:","每秒攻击(主手):"
+"OH Inc. Att. Speed:","攻击速度提高(副手):"
+"OH More Att. Speed:","额外攻击速度提高(副手):"
+"OH Att. per second:","每秒攻击(副手):"
+"Attacks per second:","每秒攻击:"
+"Inc. Cast Speed:","施法速度提高:"
+"More Cast Speed:","额外施法速度提高:"
+"Casts per second:","每秒施法:"
+"Cast time:","施法时间:"
+"Inc. Crit Chance:","暴击几率提高:"
+"Crit Effect Mod:","有效暴击修正:"
+"MH Inc. Crit Chance:","暴击率提高(主手):"
+"MH Crit Chance:","暴击率(主手):"
+"MH Crit Multiplier:","暴击伤害(主手):"
+"MH Crit Effect Mod:","有效暴击修正(主手):"
+"OH Inc. Crit Chance:","暴击率提高(副手):"
+"OH Crit Chance:","暴击率(副手):"
+"OH Crit Multiplier:","暴击伤害(副手):"
+"OH Crit Effect Mod:","有效暴击修正(副手):"
+"MH Accuracy:","命中(主手):"
+"MH Chance to Hit:","击中机率(主手):"
+"Enemy Evasion modifiers:","敌人躲避加成:"
+"OH Accuracy:","命中(副手):"
+"OH Chance to Hit:","击中机率(副手):"
+"Duration Mod:","持续时间修正:"
+"Skill Duration:","技能持续时间:"
+"Secondary Duration:","附加持续时间:"
+"Aura Duration:","光环持续时间:"
+"Reserve Duration:","保留持续时间:"
+"Max Chain Count:","最大连锁数:"
+"Projectile Count:","投射物数:"
+"Pierce Count:","穿刺数:"
+"Proj. Speed Mod:","速度修正(投射物):"
+"Area of Effect Mod:","范围效果修正:"
+"Radius:","半径:"
+"Secondary Radius:","附加范围:"
+"Weapon Range:","武器范围:"
+"Trap Throw Time:","陷阱投郑时间:"
+"Active Trap Limit:","陷阱激活时间:"
+"Trap Trigg. Radius:","陷阱触发范围:"
+"Area of Effect modifiers:","有效范围加成:"
+"Mine Laying Time:","地雷引爆时间:"
+"Active Mine Limit:","地雷激活时间:"
+"Mine Deton. Radius:","地雷引爆范围:"
+"Mine Aura Radius:","地雷光环范围:"
+"Totem Place Time:","图腾放置时间:"
+"Active Totem Limit:","图腾激活时间:"
+"Totem Life Mod:","生命修正(图腾):"
+"Totem Life:","图腾生命:"
 "Chance to Bleed:",几率流血:
 "Main Hand:",主手:
 "Off Hand:",副手:
@@ -113,20 +113,6 @@ Radius:,半径:
 "Mana Leech per Hit:",魔力偷取(每次击中):
 "Mana Gain Rate:",魔力击回速率:
 "Mana Gain per Hit:",魔力击回(每次击中):
-"Chance to Shock:",几率感电:
-"Shock Dur. Mod:","感电持续时间 Mod:"
-"Chance to Freeze:",几率冰冻:
-"Freeze Dur. Mod:","冰冻持续时间 Mod:"
-"Stun Threshold:",眩晕门槛:
-"Stun Duration:",眩晕持续时间:
-"MH Stun Threshold:",眩晕门槛(主手):
-"MH Stun Duration:",眩晕持续时间(主手):
-"OH Stun Threshold:",眩晕门槛(副手:)
-"OH Stun Duration:",眩晕持续时间(副手):
-"Knockback Chance:",击退几率:
-"Knockback Dist.:",击退距离:
-"Inc. Item Quantity:",物品数量(提高):
-"Inc. Item Rarity:",物品稀有度(提高):
 "Str. Required:",力量需求:
 "Dex. Required:",敏捷需求:
 "Int. Required:",智慧需求:
@@ -157,25 +143,81 @@ Sources:,来源:
 "Mind over Matter:",心灵升华:
 "Movement Speed:",移动速度:
 "Dodge Chance:",躲避几率:
-"Spell Ddg. Chance:",躲避几率(法术攻击):
-"Melee Avoid Ch.:",闪避几率(近战攻击):
-"Projectile Avoid Ch.:",闪避几率(投射物攻击):
-"Spell Avoid Ch.:",闪避几率(法术攻击):
-"Stun Avoid Chance:",闪避几率(眩晕):
-"Block Duration:",格挡持续时间:
-"Light Radius Mod:",光环范围:
+"Spell Ddg. Chance:","躲避几率(法术):"
+"Melee Avoid Ch.:","闪避几率(近战):"
+"Projectile Avoid Ch.:","闪避几率(投射物):"
+"Spell Avoid Ch.:","闪避几率(法术):"
+"Block Duration:","格挡持续时间:"
+"Light Radius Mod:","光环范围修正:"
 "Leech & Gain on Hit:","击中 (偷取 & 击回):"
 "Skill Damage over Time:",技能持续伤害:
 "Attack/Cast Rate:","攻击/施法 速度:"
 Crits:,暴击:
 Accuracy:,命中:
 "Skill type-specific Stats:",技能类型统计:
+"Fork Count:","分叉数:"
+"Mana Reserve Mod:","魔力保留修正:"
+"Life Reserve Mod:","生命保留修正:"
+"Cannot pierce","无法穿刺"
+"Cannot fork","无法分叉"
+"Cannot chain","无法连锁"
+"Aura Effect Mod:","光环效果修正:"
+"Curse Effect Mod:","诅咒效果修正:"
 Bleed:,流血:
 Poison:,中毒:
 Ignite:,点燃:
 Decay:,腐化:
-"Other Effects:",其它效果:
-"Damage Taken:",承受伤害:
+"Elemental Ailments:","元素异常:"
+"Inc. Scorch Effect:","灼烧效果提高:"
+"Chance to Scorch:","灼烧几率:"
+"Scorch Dur. Mod:","灼烧持续时间修正:"
+"Effect of Chill:","冰缓效果:"
+"Chill Effect Mod:","冰缓效果修正:"
+"Chill Dur. Mod:","冰缓持续时间修正:"
+"Chance to Freeze:","几率冰冻:"
+"Freeze Dur. Mod:","冰冻持续时间修正:"
+"Inc. Brittle Effect:","易碎效果提高:"
+"Chance to Brittle:","易碎几率:"
+"Brittle Dur. Mod:","易碎持续时间修正:"
+"Shock Effect Mod:","感电效果修正:"
+"Chance to Shock:","几率感电:"
+"Shock Dur. Mod:","感电持续时间修正:"
+"Maximum Shock:","最大感电所需伤害:"
+"Current Shock:","Current Shock:"
+"Inc. Sap Effect:","筋疲力尽效果提高:"
+"Chance to Sap:","筋疲力尽几率:"
+"Sap Duration Mod:","筋疲力尽持续时间修正:"
+"Other Effects:","其他效果:"
+"Stun Threshold:","眩晕门槛:"
+"Stun Duration:","眩晕持续时间:"
+"MH Stun Threshold:","眩晕门槛(主手):"
+"MH Stun Duration:","眩晕持续时间(主手):"
+"OH Stun Threshold:","眩晕门槛(副手:)"
+"OH Stun Duration:","眩晕持续时间(副手):"
+"Knockback Chance:","击退几率:"
+"Knockback Dist.:","击退距离:"
+"MH K.B. Chance:","击退几率(主手):"
+"MH K.B. Dist.:","击退距离(主手):"
+"OH K.B. Chance:","击退几率(副手):"
+"OH K.B. Dist.:","击退距离(副手):"
+"Maximum Rage:","最大怒火:"
+"Rage Regen:","怒火再生:"
+"Inc. Item Quantity:","物品数量(提高):"
+"Inc. Item Rarity:","物品稀有度(提高):"
+"Culling Strike:","终结:"
+"Damage Taken:","承受伤害:"
+"Attack Hit taken:","承受攻击击中伤害:"
+"Spell Hit taken:","承受法术击中伤害"
+"DoT taken:","承受持续伤害:"
+"Reflect taken:","承受反射伤害:"
+"Chance to not be Hit:","闪避击中几率:"
+"Melee Ch.:","近战免伤几率:"
+"Projectile Ch.:","投射物免伤几率:"
+"Spell Ch.:","法术免伤几率:"
+"Spell Projectile Ch.:","法术投射物免伤几率:"
+"Chance to not take Damage when Hit:","击中免伤几率:"
+"Chance to suppress Damage when Hit:","击中伤害压制几率:"
+"Hit Damage taken as:","承受击中伤害:"
 "Hit Damage taken as:",承受击中伤害:
 "Other Defences:",其它属性:
 Life:,生命:
@@ -287,12 +329,12 @@ Resistance,抗性
 "Bleed DPS","流血 DPS"
 "Ignite DPS","点燃 DPS"
 "Total Damage per Ignite",每次点燃总伤害
-"Total DPS inc. Ignite","提高总 DPS (点燃)"
-"Average Dmg. inc. Ignite","提高平均伤害 (点燃)"
+"Total DPS inc. Ignite","总+点燃 DPS"
+"Average Dmg. inc. Ignite","总+点燃平均伤害"
 "Poison DPS","中毒 DPS"
-"Total Damage per Poison",每次中毒总伤害
-"Total DPS inc. Poison","提高总 DPS (中毒)"
-"Average Dmg. inc. Poison","提高平均伤害 (中毒)"
+"Total Damage per Poison","每次中毒总伤害"
+"Total DPS inc. Poison","总+中毒 DPS"
+"Average Dmg. inc. Poison","总+中毒平均伤害"
 "Decay DPS","腐蚀 DPS"
 "Skill Cooldown",技能冷却
 "AoE Radius","AoE 范围"
@@ -340,7 +382,7 @@ Speed,速度
 "{0} (base throwing speed)","{0} (基础投射物速度)"
 "{0} (increased/reduced throwing speed)","{0} (提高/降低 投射物速度)"
 "{0} (more/less throwing speed)","{0} (额外提高/额外降低 投射物速度)"
-"{0} (action speed modifier)","{0} (动作速度加成)"
+"{0} (action speed modifier)","{0} (行动速度加成)"
 "{0} (base)","{0} (基础)"
 "/ {0} (increased/reduced cooldown recovery)","/ {0} (提高/降低 冷却回复)"
 "{0} (base placement speed)","{0} (基础放置速度)"
@@ -472,8 +514,9 @@ Conversion,转换
 "{0} Power Charges","{0} 暴击球"
 "{0} Endurance Charges","{0} 耐力球"
 "{0} Frenzy Charges","{0} 狂怒球"
+"{0} Inspiration Charges","{0} 启迪球"
+"Tailwind","提速尾流"
 "Exclusive to",限定
-"Impale DPS:","穿刺 DPS:"
 "Elemental Ailments:",元素异常:
 "Chill Dur. Mod:","冰缓持续时间 Mod:"
 "Chill Effect Mod:","冰缓效果 Mod:"
@@ -507,21 +550,17 @@ Block:,格挡:
 "Avoid Lightning Ch.:",闪电伤害避免几率:
 "Avoid Projectiles Ch.:",投射物伤害避免几率:
 "Other Avoidance:",其他避免:
-"Chill Avoid Ch.:",避免冰缓几率:
-"Blind Duration:",致盲持续时间:
-"Total Multiplier:",总加成:
-"Skill DoT DPS:",技能持续伤害DPS:
-"Culling Strike:",终结:
-"MH K.B. Chance:",击退几率(主手):
-"MH K.B. Dist.:",击退距离(主手):
-"Fork Count:",分叉数:
-"Mana Reserve Mod:",魔力保留:
-"Life Reserve Mod:",生命保留:
-"Cannot pierce",无法穿刺
-"Cannot fork",无法分叉
-"Cannot chain",无法连锁
-"Aura Effect Mod:",光环效果Mod:
-"Curse Effect Mod:",诅咒效果Mod:
+"Stun Avoid Chance:","避免眩晕几率:"
+"Interupt Avoid Ch.:","避免打断几率:"
+"Blind Avoid Ch.:","避免致盲几率:"
+"Shock Avoid Ch.:","避免感电几率:"
+"Freeze Avoid Ch.:","避免冰冻几率:"
+"Chill Avoid Ch.:","避免冰缓几率:"
+"Ignite Avoid Ch.:","避免点燃几率:"
+"Bleed Avoid Ch.:","避免流血几率:"
+"Poison Avoid Ch.:","避免中毒几率:"
+"Crit Reduction:","受到暴击伤害减少:"
+"Blind Duration:","致盲持续时间:"
 "Other Ailment Defences:",其他元素防御:
 "Freeze Duration:",冰冻持续时间:
 "Chill Duration:",冰缓持续时间:
@@ -529,19 +568,20 @@ Block:,格挡:
 "Chill Effect:",冰缓效果:
 "Shock Effect:",感电效果:
 Dodge:,躲避:
-"Spell Suppression:",法术抑制:
-"Suppression Ch.:",法术抑制几率:
-"Suppression Effect:",法术抑制效果:
+"Spell Suppression:",法术压制:
+"Suppression Ch.:",法术压制几率:
+"Suppression Effect:",法术压制效果:
 Ward:,结界:
 Impale:,穿刺:
 "Max Impale Stacks:",最大穿刺迭层
 "Stacks on Enemy:",对敌人迭层
 "MH Impale Chance:",穿刺几率(主手):
 "MH Stored Damage:",存储伤害(主手):
-"MH DMG Mod.:",伤害MOD(主手):
+"MH DMG Mod.:",伤害修正(主手):
 "OH Impale Chance:",穿刺几率(副手):
 "OH Stored Damage:",存储伤害(副手):
-"OH DMG Mod.:",伤害MOD(副手):
+"OH DMG Mod.:",伤害修正(副手):
+"Impale DPS:","穿刺 DPS:"
 "Max Bleed Stacks:",最大流血迭层:
 "Eff. DoT Multiplier:",持续伤害加成:
 "Skill Part:",技能部分:

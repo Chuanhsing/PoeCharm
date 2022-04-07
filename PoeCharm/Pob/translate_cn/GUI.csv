@@ -350,22 +350,37 @@ Resistance:,抗性:
 "Bleed DPS:","流血 DPS:"
 "Ignite DPS:","点燃 DPS"
 "Total Damage per Ignite:",每次点燃总伤害:
-"Total DPS inc. Ignite:","提高总 DPS (点燃):"
-"Average Dmg. inc. Ignite:","提高平均伤害 (点燃):"
-"Poison DPS:","中毒 DPS:"
-"Total Damage per Poison:",每次中毒总伤害:
-"Total DPS inc. Poison:","提高总 DPS (中毒):"
-"Average Dmg. inc. Poison:","提高平均伤害 (中毒):"
+"Total DPS inc. Ignite:","总+点燃 DPS"
+"Average Dmg. inc. Ignite:","总+点燃平均伤害"
+"Poison DPS:","中毒 DPS"
+"Total Damage per Poison:","每次中毒总伤害"
+"Total DPS inc. Poison:","总+中毒 DPS"
+"Average Dmg. inc. Poison:","总+中毒平均伤害"
 "Decay DPS:","腐蚀 DPS:"
+"Total DoT DPS:","总持续 DPS:"
+"Impale Damage:","穿刺伤害:"
+"Damage inc. Impale:","总+穿刺伤害:"
+"Impale DPS:","穿刺 DPS:"
+"Total DPS inc. Impale:","总+穿刺 DPS:"
+"Total Mirage DPS:","总幻影 DPS:"
+"Culling DPS:","终结 DPS:"
+"Combined DPS:","结合 DPS:"
+"Combined Total Damage:","结合总伤害:"
 "Skill Cooldown:",技能冷却:
 "AoE Radius:","AoE 范围:"
 "Mana Cost:",魔力消耗:
+"Life Cost:",生命消耗:
+"Energy Shield Cost:",能量护盾消耗:
+"Rage Cost:",怒气消耗:
 Strength:,力量:
 "Strength Required:",力量需求:
 Dexterity:,敏捷:
 "Dexterity Required:",敏捷需求:
 Intelligence:,智慧:
 "Intelligence Required:",智慧需求:
+"Omniscience:",全知:
+"Omniscience Required:",全知需求:
+"Eff. Maximum Hit Taken:",有效最大击中伤承受值:
 "Total Life:",最大生命:
 "%Inc Life from Tree:",生命加成(天赋):
 "Unreserved Life:",未保留生命:
@@ -550,7 +565,6 @@ Divergent,分歧
 Phantasmal,魅影
 "At {0}% Quality:","当 {0}% 品质时:"
 "Show gem quality variants:",显示技能石品质类型:
-"Combined DPS:","综合 DPS:"
 "The Pantheon:",万神殿:
 Nothing,没有
 "Soul of the Brine King","惊海之王 索亚格斯之魂"
@@ -569,9 +583,6 @@ Nothing,没有
 "Corruptor Eedaiak",腐化者艾达尔克
 "Sumter the Twisted",桑特
 "Ancient Architect",古代建筑师
-"Culling DPS:","终结 DPS:"
 "Full DPS:",最终总和DPS:
 "Total DPS inc. DoT:","提高总 DPS (持续):"
-"Life Cost:",生命消耗:
-"Total Mirage DPS:","总幻影弓手 DPS:"
-"Spell Suppression Chance:",法术抑制几率:
+"Spell Suppression Chance:",法术压制几率:

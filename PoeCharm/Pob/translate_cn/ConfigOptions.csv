@@ -8,23 +8,47 @@
 "This overrides the default damage amount used to estimate your physical damage reduction from armour.",设置伤害量会影响你来自护甲的物理伤害减免估算
 "The default is 1.5 times the enemy's base damage, which is the same value","默认值为敌人基础伤害的 1.5 倍,此设定与游戏相同"
 "used in-game to calculate the estimate shown on the character sheet.",在游戏中用于估算角色面板.
-"Enemy Corpse Life:",敌人灵柩生命:
+"Enemy Corpse Life:",敌人灵柩^xE05030生命:
 "Sets the maximum life of the target corpse for Detonate Dead and similar skills.","设置 【爆灵术】 等类似的技能的灵柩最大生命"
-"For reference, a level 70 monster has 6449 base life, and a level 80 monster has 12466.","仅供参考: 70 级怪物基础生命为 6449, 80 级怪物为 12466."
-"Are you always stationary?",是否处于静止状态?
-"Are you always moving?",是有处于移动状态?
-"Are you always on Full Life?",是否处于满血状态?
-"You will automatically be considered to be on Full Life if you have Chaos Innoculation,","如果你有【异灵之体】将视为满血状态,"
-"but you can use this option to force it if necessary.",如有必要可用此选项强制应用.
-"Are you always on Low Life?",是否处于濒血状态?
-"You will automatically be considered to be on Low Life if you have at least 65% life reserved,","如果你至少有 65% 生命保留将视为濒血状态,"
-"Are you always on Full Energy Shield?",是否处于满盾状态?
-"Do you always have Energy Shield?",是否一直有能量护盾?
-"Are your minions always on Full Life?",你的召唤物是否处于满血状态?
-"Ignite calculation mode:",点燃计算模式:
-"Controls how the base damage for ignite is calculated:",控制如何计算点燃的基础伤害:
-"Average Damage: Ignite is based on the average damage dealt, factoring in crits and non-crits.","平均伤害: 基于平均伤害的点燃,包括暴击和非暴击."
-"Crit Damage: Ignite is based on crit damage only.","暴击伤害: 仅基于暴击伤害的点燃."
+"For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","参考: 70 级怪物基础生命为 6937, 80 级怪物为 12787."
+"Time spent stationary","静止时长"
+"Applies mods that use `while stationary` and `per/every second while stationary`","启用'当你静止'、'静止时每秒'之类的修正"
+"Are you always moving?","是否处于移动状态?"
+"Are you always on Full Life?","是否处于满血状态?"
+"You will automatically be considered to be on Full Life if you have Chaos Inoculation,","如果你有【异灵之体】将一直被视为满血状态,"
+"but you can use this option to force it if necessary.","如有必要可用此选项强制应用."
+"Are you always on Low Life?","是否处于低血状态?"
+"You will automatically be considered to be on Low Life if you have at least 50% life reserved,","如果你至少有 50% 生命保留将一直被视为低血状态,"
+"Are you always on Low Mana?","是否处于低魔状态?"
+"You will automatically be considered to be on Low Mana if you have at least 50% life reserved,","如果你至少有 50% 魔力保留将一直被视为低魔状态,"
+"Are you always on Full Energy Shield?","是否处于满盾状态?"
+"Are you always on Low Energy Shield?","是否处于低盾状态?"
+"You will automatically be considered to be on Low Energy Shield if you have at least 50% ES reserved,","如果你至少有 50% 能量护盾保留将一直被视为低盾状态,"
+"Do you always have Energy Shield?","是否一直有能量护盾?"
+"Are your minions always on Full Life?","你的召唤物是否处于满血状态?"
+"Have your Minions been created Recently?","你的召唤物是否是近期内创造的?"
+"Ailment calculation mode:","异常状态计算模式:"
+"Average","平均"
+"Crits Only","仅暴击"
+"Minimum","最小值"
+"Maximum","最大值"
+"Controls how the base damage for applying Ailments is calculated:","控制如何计算异常状态的基础伤害:"
+"\tAverage: damage is based on the average application, including both crits and non-crits","平均:伤害计算基于平均应用，包括了暴击与非暴击"
+"\tCrits Only: damage is based solely on Ailments inflicted with crits","仅暴击:伤害计算只基于暴击产生的异常状态"
+"Life regen calculation mode:","生命回复计算模式:"
+"Controls how life regeneration is calculated:","控制如何计算生命回复:"
+"Armour calculation mode:","护甲计算模式:"
+"Controls how Defending with Double Armour is calculated:","控制如何计算使用双倍护甲防御:"
+"This setting has no effect if you have 100% chance to Defend with Double Aromur.","此设置在你有100%几率使用双倍护甲进行防御时无效"
+"EHP calculation mode:","有效生命值计算模式:"
+"Controls which types of damage the EHP calculation uses:","控制有效生命值计算时使用何种伤害类型:"
+"If a specific damage type is selected,that will be the pnly type used.","若选择了一个特定的伤害类型，那将会是唯一被用于计算的伤害类型"
+"Warcry calculation mode:","战吼计算模式:"
+"Max Hit","最大击中"
+"Controls how exerted attacks from Warcries are calculated:","控制如何计算战吼后的增助攻击:"
+"Average: Averages out Warcry usage with cast time, attack speed and warcry cooldown .","平均：用施法用时，攻击速度和战吼冷却时间来计算战吼的使用."
+"Max Hit: Shows maximum hit for lining up all warcries.","最大击中:显示排列所有战吼的最大击中伤害。"
+"Disable Emperor's Vigilance Bypass","禁用【皇帝的警戒】的规避效果"
 "When In Combat",战斗状态
 "Crit Damage",暴击伤害
 "Aspect of the Avian:",【鸟之势】:
@@ -173,65 +197,100 @@ Vulnerability:,【脆弱】:
 "In mid tier maps, 'of Vulnerability' applies level 10.","在中阶地图,【脆弱】的等级是 10."
 "In high tier maps, 'of Vulnerability' applies level 15.","在高阶地图,【脆弱】的等级是 15."
 "Warlord's Mark:",【督军印记】:
-"Sets the level of Warlord's Mark to apply to the player.",设置玩家应用的【督军印记】等级.
-"Do you use Power Charges?",是否有暴击球?
+"Sets the level of Warlord's Mark to apply to the player.","设置玩家应用的【督军印记】等级."
+"Do you use Power Charges?","是否有暴击球?"
 "# of Power Charges (if not maximum):","# 暴击球数量 (如果不是最大值):"
-"Do you use Frenzy Charges?",是否有狂怒球?
+"Do you use Frenzy Charges?","是否有狂怒球?"
 "# of Frenzy Charges (if not maximum):","# 狂怒球数量 (如果不是最大值):"
-"Do you use Endurance Charges?",是否有耐力球?
+"Do you use Endurance Charges?","是否有耐力球?"
 "# of Endurance Charges (if not maximum):","# 耐力球数量 (如果不是最大值):"
-"Do you use Siphoning Charges?",是否有轮回球?
+"Do you use Siphoning Charges?","是否有轮回球?"
 "# of Siphoning Charges (if not maximum):","# 轮回球数量 (如果不是最大值):"
-"Do you use Challenger Charges?",是否有挑战球?
+"Do you use Challenger Charges?","是否有挑战球?"
 "# of Challenger Charges (if not maximum):","# 挑战球数量 (如果不是最大值):"
-"Do you use Blitz Charges?",是否有疾电球?
+"Do you use Blitz Charges?","是否有疾电球?"
 "# of Blitz Charges (if not maximum):","# 疾电球数量 (如果不是最大值):"
-"Do you use Inspiration Charges?",是否有激励球?
-"# of Inspiration Charges (if not maximum):","# 激励球数量 (如果不是最大值):"
-"Do your minions use Power Charges?",召唤物是否有暴击球?
-"Do your minions use Frenzy Charges?",召唤物是否有狂怒球?
-"Do your minions use Endur. Charges?",召唤物是否有耐力球?
-"Are you Focussed?",是否专注时?
-"Do you have Onslaught?",是否有【猛攻】?
-"In addition to allowing any 'while you have Onslaught' modifiers to apply,","开启时 '你处于【猛攻】' 之类的加成生效,"
-"this will enable the Onslaught buff itself. (20% increased Attack/Cast/Movement Speed)","这将开启【猛攻】增益效果. (攻击/施法/移动速度提高 20% )"
-"Do you have Unholy Might?",是否有【不洁之力】?
-"This will enable the Unholy Might buff. (Gain 30% of Physical Damage as Extra Chaos Damage)","这将开启【不洁之力】增益效果. (物理伤害的 30% 额外混沌伤害)"
-"Do you have Phasing?",是否有【迷踪】?
-"Do you have Fortify?",是否有【护体】?
-"Do you have Tailwind?",是否有【提速尾流】?
-"In addition to allowing any 'while you have Tailwind' modifiers to apply,","开启时 '你处于【提速尾流】' 之类的加成生效,"
-"this will enable the Tailwind buff itself. (You are 10% faster)","这将开启【提速尾流】增益效果. (你比平常快 10%)"
-"Do you have Adrenaline?",是否有【肾上腺素】?
-"This will enable the Adrenaline buff:",这将开启【肾上腺素】增益效果:
+"# of Gale Force:","# 【飓风之力】个数"
+"Base maximum Gale Force is 10.","【飓风之力】个数基础上限为10."
+"Do you use Inspiration Charges?","是否有启迪球?"
+"# of Inspiration Charges (if not maximum):","# 启迪球数量 (如果不是最大值):"
+"Do you use Ghost Shrouds?","是否有【鬼影缠身】?"
+"# of Ghost Shrouds (if not maximum):","# 【鬼影缠身】层数 (如果不是最大值):"
+"Do you wait for Maximum Unleash Seals?","是否在等待获得最大封印层数?"
+"# of Blood Charges (if not maximum):","# 赤炼球数量 (如果不是最大值):"
+"Do your minions use Power Charges?","召唤物是否有暴击球?"
+"Do your minions use Frenzy Charges?","召唤物是否有狂怒球?"
+"Do your minions use Endur. Charges?","召唤物是否有耐力球?"
+"# of Rampage Kills:","# 【暴走】层数:"
+"Rampage grants the following, up to 1000 stacks:","# 暴走层数会带来以下效果，最大层数为1000层:"
+"You lose Rampage if you do not get a Kill within 5 seconds.","你会在持续5秒无击杀后失去暴走状态."
+"Are you Focused?","是否有【专注】?"
+"Do you have Lifetap?","是否有【赤炼】?"
+"Do you have Onslaught?","是否有【猛攻】?"
+"In addition to allowing any 'while you have Onslaught' modifiers to apply,","开启时 '当你处于【猛攻】' 之类的修正生效,"
+"this will enable the Onslaught buff itself. (Grants 20% increased Attack, Cast, and Movement Speed)","这将开启【猛攻】增益效果. (攻击/施法/移动速度提高 20% )"
+"Do your minions have Onslaught?","召唤物是否有【猛攻】?"
+"In addition to allowing any 'while your minions have Onslaught' modifiers to apply,","开启时 '当你的召唤物处于【猛攻】' 之类的修正生效,"
+"Do you have Unholy Might?","是否有【不洁之力】?"
+"This will enable the Unholy Might buff. (Grants 30% of Physical Damage as Extra Chaos Damage)","这将开启【不洁之力】增益效果. (获得等于30%物理伤害的额外混沌伤害)"
+"Do your minions have Unholy Might?","召唤物是否有【不洁之力】?"
+"This will enable the Unholy Might buff on your minions. (Grants 30% of Physical Damage as Extra Chaos Damage)","这将为你的召唤物开启【不洁之力】增益效果. (获得等于30%物理伤害的额外混沌伤害)"
+"Do you have Phasing?","是否有【迷踪】?"
+"Are you Fortified?","是否有【护体】?"
+"# of Fortification Stacks (if not maximum):","#【护体】层数（若非最大值）"
+"You have 1% less damage taken from hits per stack of fortification:","每层护体使你受到的击中伤害降低1%"
+"Has a default cap of 20 stacks.","默认层数上限为20"
+"Do you have Tailwind?","是否有【提速尾流】?"
+"In addition to allowing any 'while you have Tailwind' modifiers to apply,","开启时 '当你处于【提速尾流】' 之类的修正生效,"
+"this will enable the Tailwind buff itself. (Grants 8% increased Action Speed)","这将开启【提速尾流】增益效果. (赋予8%行动速度提升)"
+"Do you have Adrenaline?","是否有【肾上腺素】?"
+"This will enable the Adrenaline buff, which grants:","这将开启【肾上腺素】增益效果:"
 "100% increased Damage","伤害提高 100%"
 "25% increased Attack, Cast and Movement Speed","攻击/施法/移动速度提高 25%"
 "10% additional Physical Damage Reduction","额外 10% 物理伤害减免"
-"Do you have Divinity?",是否有【神性】?
-"This will enable the Divinity buff:",这将开启【神性】增益效果:
+"Do you have Alchemist's Genius?","是否有【炼金奇才】?"
+"This will enable the Alchemist's Genius buff:","这将开启【炼金奇才】增益效果:"
+"10% increased effect of Flasks","药剂效果提升10%"
+"Do you have Vaal Arc's Lucky Buff?","是否有瓦尔电弧的【幸运】增益?"
+"Causes Damage with Arc Hits to be rolled twice, and the maximum roll used.","以电弧击中造成的伤害会roll两次，取最大值实行."
+"Are you Elusive?","是否有【灵巧】?"
+"In addition to allowing any 'while Elusive' modifiers to apply,","开启时 '当你处于【灵巧】' 之类的修正生效,"
+"this will enable the Elusive buff itself:","这将开启【灵巧】增益效果:"
+"The effect of Elusive decays over time.","【灵巧】增益效果会随时间衰减"
+"Effect of Elusive (if not maximum):","【灵巧】效果强度(如果不是最大值):"
+"If you have a guaranteed source of Elusive, the strongest one will apply. ","如果你有一个可靠的【灵巧】来源，将会应用最大效果强度."
+"You can change this see decaying buff values","你可以改变此值以观察衰减后的增益效果"
+"Do you have Divinity?","是否有【神性】?"
+"This will enable the Divinity buff:","这将开启【神性】增益效果:"
 "50% more Elemental Damage","额外 50% 元素伤害"
 "20% less Elemental Damage Taken","承受的元素伤害额外降低 20%"
-Rage:,【怒火】:
-"Are you Leeching?",偷取生命时?
-"Are you Leeching Life?",是否偷取生命时?
-"Are you Leeching Energy Shield?",是否偷取能量护盾时?
-"Are you Leeching Mana?",是否偷取魔力时?
-"Do you have a Flask active?",是否有药剂激活?
+"Rage:","【怒火】:"
+"Are you Leeching?","是否在偷取?"
+"Are you Leeching Life?","是否在偷取生命?"
+"Are you Leeching Energy Shield?","是否在偷取能量护盾?"
+"Are you Leeching Mana?","是否在偷取魔力?"
+"Do you have a Flask active?","是否有药剂激活?"
 "This is automatically enabled if you have a flask active,","如果有使用药剂将会自动开启此状态,"
-"Do you have a Totem summoned?",是否有召唤图腾?
-"You will automatically be considered to have a Totem if your main skill is a Totem,","如果你的主技能是图腾技能将会自动开启此状态,"
+"Do you have a Totem summoned?","是否有召唤图腾?"
+"You will automatically be considered to have a Totem if your main skill is a Totem,","如果你的主技能是图腾技能将自动被视为有召唤图腾,"
+"Have you Summoned a Totem Recently?","是否近期内有召唤图腾?"
+"You will automatically be considered to have Summoned a Totem Recently if your main skill is a Totem,","如果你的主技能是图腾技能将自动被视为近期内有召唤图腾,"
+"# of Summoned Totems (if not maximum):","召唤的图腾数量(如果不是最大值):"
 "# of Nearby Allies","# 附近的友军数"
 "# of Nearby Enemies","# 附近的敌人数"
 "# of Nearby Corpses","# 附近的灵枢数"
-"Are you on Consecrated Ground?",是否在【奉献地面】上?
-"In addition to allowing any 'while on Consecrated Ground' modifiers to apply,","开启时 '你在【奉献地面】上' 之类的加成生效,"
+"Are you on Consecrated Ground?","是否在【奉献地面】上?"
+"In addition to allowing any 'while on Consecrated Ground' modifiers to apply,","开启时 '你在【奉献地面】上' 之类的修正生效,"
 "this will apply the 6% life regen modifier granted by Consecrated Ground.","这将应用【奉献地面】的 获得 6% 生命回复加成."
-"Are you on Burning Ground?",是否在【燃烧地面】上?
+"Are you on Fungal Ground?",是否在【真菌地表】上?
+"Allies on your Fungal Ground gain 10% of Non-Chaos Damage as extra Chaos Damage.",【真菌地表】上的盟友获得额外10%非混沌伤害的混沌伤害
+"Are you on Burning Ground?",是否在^xB97123【燃烧地面】^7上?
 "This also implies that you are Burning.",这也意味着你在燃烧.
 "Are you on Chilled Ground?",是否在【冰缓地面】上?
 "This also implies that you are Chilled.",这也意味着你被冰缓.
 "Are you on Shocked Ground?",是否在【感电地面】上?
 "This also implies that you are Shocked.",这也意味着你被感电.
+"Are you Blinded?",你被致盲?
 "Are you Burning?",你被燃烧?
 "Are you Ignited?",你被点燃?
 "Are you Chilled?",你被冰缓?
@@ -314,7 +373,7 @@ Rage:,【怒火】:
 "Is the enemy at Close Range?",是否近距离的敌人?
 "Is the enemy Moving?",是否移动的敌人?
 "Is the enemy on Full Life?",是否满血的敌人?
-"Is the enemy on Low Life?",是否濒血的敌人?
+"Is the enemy on Low Life?",是否低血的敌人?
 "Is the enemy Cursed?",是否诅咒的敌人?
 "Your enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的诅咒技能至少开启一个将会自动开启此状态,"
 "Is the enemy Bleeding?",是否流血的敌人?
@@ -323,7 +382,7 @@ Rage:,【怒火】:
 "Is the enemy Maimed?",是否瘫痪的敌人?
 "Is the enemy Hindered?",是否被干扰的敌人?
 "Is the enemy Blinded?",是否致盲的敌人?
-"In addition to allowing 'against Blinded Enemies' modifiers to apply,","开启时 '对致盲的敌人' 之类的加成生效,"
+"In addition to allowing 'against Blinded Enemies' modifiers to apply,","开启时 '对致盲的敌人' 之类的修正生效,"
 "this will lessen the enemy's chance to hit, and thereby increase your evade chance.",这将减少敌人的击中几率从而提高你的闪避几率.
 "Is the enemy Taunted?",是否嘲讽的敌人?
 "Is the enemy Burning?",是否燃烧的敌人?
@@ -333,7 +392,7 @@ Rage:,【怒火】:
 "Is the enemy Frozen?",是否冰冻的敌人?
 "This also implies that the enemy is Chilled.",这将意味着敌人被冰缓.
 "Is the enemy Shocked?",是否感电的敌人?
-"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","开启时 '对感电的敌人' 之类的加成生效,"
+"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","开启时 '对感电的敌人' 之类的修正生效,"
 "this will apply Shock's Damage Taken modifier to the enemy.",这将对敌人应用感电伤害的加成.
 "# of Freeze/Shock/Ignite on Enemy:","# 敌人冻结/感电/点燃数:"
 "Is the enemy Intimidated?",是否恐吓的敌人?
@@ -348,7 +407,7 @@ Rage:,【怒火】:
 "Is the enemy on consecrated ground?",是否【奉献地面】上的敌人?
 "is the enemy Rare or Unique?",是否稀有或传奇的敌人?
 "Your enemy will automatically be considered to be Unique if one of the Boss options is selected.","如果已选择 Boss 选项将会自动开启此状态."
-"Is the enemy a Boss?","是否敌人是 BOSS?"
+"Is the enemy a Boss?","敌人是否是BOSS?"   
 "Standard Boss adds the following modifiers:","标准 Boss 将会应用以下加成:"
 "{0}% to enemy Elemental Resistances","敌人元素抗性 {0}%"
 "{0}% to enemy Chaos Resistance","敌人混沌抗性 {0}%"
