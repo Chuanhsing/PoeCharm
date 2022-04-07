@@ -1524,14 +1524,14 @@ Rampage,暴走
 "{0}% reduced Accuracy Rating","命中值降低 {0}%"
 "{0}% chance to Ignite","有 {0}% 的几率点燃"
 "Always Ignite",必定点燃
-"{0}% chance to Scorch Enemies","{0}% 的几率烧灼敌人"
-"Always Scorch Enemies",必定烧灼敌人
+"{0}% chance to Scorch Enemies","{0}% 的几率灼烧敌人"
+"Always Scorch Enemies",必定灼烧敌人
 "{0}% more Burning Damage","燃烧伤害总增 {0}%"
 "{0}% less Burning Damage","燃烧伤害总降 {0}%"
 "Always Freezes Enemies on Hit",击中敌人始终造成冻结状态
 "{0}% chance to Freeze","有 {0}% 的几率造成冻结状态"
-"{0}% chance to inflict Brittle","{0}% 的几率造成脆弱"
-"Always inflict Brittle",必定造成脆弱
+"{0}% chance to inflict Brittle","{0}% 的几率造成易碎"
+"Always inflict Brittle",必定造成易碎
 "Critical Strikes do not always Freeze",暴击不会必定造成冰冻
 "{0}% chance to Freeze Enemies which are Chilled","有 {0}% 的几率冰冻被冰缓的敌人"
 "{0}% chance to Shock","闪电伤害击中时有 {0}% 的几率使敌人受到感电效果影响"
@@ -2937,10 +2937,10 @@ Transmogrification,化形
 "{0}% increased Damage with Hits against Rare and Unique Enemies","击中稀有怪和传奇怪伤害提高 {0}%"
 "{0}% reduced Damage with Hits against Rare and Unique Enemies","击中稀有怪和传奇怪伤害降低 {0}%"
 "{0}% of Overkill Damage is Leeched as Life","溢出伤害的 {0}% 转为生命偷取"
-"{0}% increased Attack Speed while Leeching","生命偷取时攻击速度提高 {0}%"
-"{0}% reduced Attack Speed while Leeching","生命偷取时攻击速度降低 {0}%"
+"{0}% increased Attack Speed while Leeching","偷取时攻击速度提高 {0}%"
+"{0}% reduced Attack Speed while Leeching","偷取时攻击速度降低 {0}%"
 "Life Leech effects are not removed at Full Life",生命偷取效果在满血时不会被移除
-"Cannot be Stunned while Leeching",生命偷取时免疫晕眩
+"Cannot be Stunned while Leeching",偷取时免疫晕眩
 "Attacks have Blood Magic",所有攻击都受到血魔法辅助
 "Skills which throw Traps have Blood Magic",投掷陷阱的技能受到血魔法辅助
 "{0}% increased Armour and Evasion Rating when on Low Life","低血时，护甲和闪避值提高 {0}%"
@@ -3066,7 +3066,7 @@ Transmogrification,化形
 "{0}% less chance to Evade Melee Attacks during Onslaught","【猛攻】状态下闪避近战攻击的几率总降 {0}%"
 "{0}% more chance to Evade Projectile Attacks during Onslaught","【猛攻】状态下闪避投射物的几率总增 {0}%"
 "{0}% less chance to Evade Projectile Attacks during Onslaught","【猛攻】状态下闪避投射物的几率总降 {0}%"
-"Removes Elemental Ailments when you use a Flask",药剂持续期间，驱散元素异常状态
+"Removes Elemental Ailments when you use a Flask","使用药剂时驱散元素异常状态"
 "{0}% chance to Avoid Elemental Ailments during any Flask Effect","药剂持续期间，有 {0}% 的几率避免元素异常状态"
 "Cannot be affected by Elemental Ailments during any Flask Effect",药剂持续期间，避免元素异常状态
 "{0}% increased Attack Speed during any Flask Effect","药剂持续期间，攻击速度提高 {0}%"
@@ -7670,7 +7670,7 @@ Hindered,被干扰
 "Your Raised Spectres also gain Arcane Surge when you do",你的【召唤灵体】也会随你一起获得【秘术增强】
 "{0}% chance for Spectres to gain Soul Eater on Kill for {1} seconds","灵体在击败敌人后有 {0}% 的几率获得噬魂者效果，持续 {1} 秒"
 "Spectres have a Base Duration of {0} seconds","灵体有 {0} 秒的持续时间"
-"Spectres do not travel between Areas",幽魂不会在区域间穿梭
+"Spectres do not travel between Areas",灵体不会在区域间穿梭
 "Spells have {0}% to Critical Strike Chance ","法术获得 {0}% 基础暴击率"
 "Adds {0} to {1} Chaos Damage to Spells and Attacks during any Flask Effect","药剂持续期间，攻击和法术附加 {0}{1} 基础混沌伤害"
 "Spell Skills have {0}% increased Area of Effect","法术技能的效果区域扩大 {0}%"
@@ -9931,8 +9931,8 @@ Runebinder,符文绑定者
 "This Attack and Minions have {0}% reduced Burning Damage","此攻击与召唤生物会使燃烧伤害降低 {0}%"
 "This Attack and Minions have {0}% chance to gain Endurance Charges when Stunning Enemies with Melee Damage","此攻击和召唤生物使用近战伤害晕眩敌人时有 {0}% 的几率获得耐力球"
 "This Attack and Minions gain Endurance Charges when Stunning Enemies with Melee Damage",此攻击和召唤生物使用近战伤害晕眩敌人时获得耐力球
-"This Attack and Minions have {0}% increased Attack Speed when on Low Life","濒血时攻击与召唤生物的攻击速度提高 {0}%"
-"This Attack and Minions have {0}% reduced Attack Speed when on Low Life","濒血时攻击与召唤生物的攻击速度降低 {0}%"
+"This Attack and Minions have {0}% increased Attack Speed when on Low Life","低血时攻击与召唤生物的攻击速度提高 {0}%"
+"This Attack and Minions have {0}% reduced Attack Speed when on Low Life","低血时攻击与召唤生物的攻击速度降低 {0}%"
 "This Attack and Minions have {0}% more Attack Speed","此攻击与召唤生物的攻击速度总增 {0}%"
 "This Attack and Minions have {0}% less Attack Speed","此攻击与召唤生物的攻击速度总降 {0}%"
 "This Attack and Minions deal {0}% more Melee Physical Damage against Bleeding Enemies","此攻击与召唤生物攻击流血敌人时，近战物理伤害总增 {0}%"
@@ -11126,8 +11126,8 @@ Charges,冲锋
 "All Damage from Monsters' Hits inflicts Shock",怪物击中造成的所有伤害都施加【感电】
 "Monsters have {0}% chance to Impale with Attacks","怪物攻击有 {0}% 的几率施加【穿刺】"
 "Monsters inflict Impale with Attacks",怪物攻击施加【穿刺】
-"Monsters have {0}% chance to inflict Brittle","怪物有 {0}% 的几率施加【脆弱】"
-"Monsters inflict Brittle",怪物施加【脆弱】
+"Monsters have {0}% chance to inflict Brittle","怪物有 {0}% 的几率施加【易碎】"
+"Monsters inflict Brittle",怪物施加【易碎】
 "Monsters have {0}% chance to inflict Sapped","怪物有 {0}% 的几率施加【精疲力尽】"
 "Monsters inflict Sapped",怪物施加【精疲力尽】
 "Monsters have {0}% chance to inflict Scorch","怪物有 {0}% 的几率施加【灼烧】"
@@ -11547,7 +11547,7 @@ Charges,冲锋
 "{0}% to Damage over Time Multiplier for Bleeding per Frenzy Charge","每个狂怒球使流血 {0}% 持续伤害加成"
 "Your Arc Towers have {0}% chance to inflict Sap","你的【电弧之塔】有 {0}% 的几率施加【精疲力尽】"
 "Your Flamethrower Towers have {0}% chance to inflict Scorch","你的【掷火之塔】有 {0}% 的几率施加【灼烧】"
-"Your Freezebolt Towers have {0} chance to inflict Brittle","你的【冰箭之塔】有 {0} 的几率施加【脆弱】"
+"Your Freezebolt Towers have {0} chance to inflict Brittle","你的【冰箭之塔】有 {0} 的几率施加【易碎】"
 "Cages created by Your Glacial Cage Towers are {0}% larger","你的【冰笼之塔】产生的冰笼变大 {0}%"
 "Your Imbuing Towers also grant Onslaught",你的【灌注之塔】还提供【猛攻】
 "Your Lightning Storm Towers create Storms centred on Enemies",你的【雷暴之塔】在敌人群中心产生风暴
@@ -11682,7 +11682,7 @@ Charges,冲锋
 "Grants {0}% increased Elemental Damage per {1}% Quality","每 {1}% 品质使元素伤害提高 {0}%"
 "Grants {0}% to Fire Resistance per {1}% Quality","每 {1}% 品质 {0}% 火焰抗性"
 "Grants {0} to Intelligence per {1}% Quality","每 {1}% 品质 {0} 智慧"
-"With at least {0} Intelligence in Radius, Fireball has {1}% chance to inflict scorch","若范围内至少有 {0} 点智慧，【火球】 {1}% 几率施加【烧灼】"
+"With at least {0} Intelligence in Radius, Fireball has {1}% chance to inflict scorch","若范围内至少有 {0} 点智慧，【火球】 {1}% 几率施加【灼烧】"
 "With at least {0} Intelligence in Radius, Magma Orb deals {1}% more Damage","若范围内至少有 {0} 点智慧，【熔岩之核】的总伤害额外提高 {1}%"
 "With at least {0} Intelligence in Radius, Magma Orb deals {1}% less Damage","若范围内至少有 {0} 点智慧，【熔岩之核】的总伤害额外降低 {1}%"
 "With at least {0} Intelligence in Radius, Magma Orb deals {1}% more Damage per Chain","若范围内至少有 {0} 点智慧，【熔岩之核】每次连锁的总伤害额外提高 {1}%"
@@ -13120,11 +13120,11 @@ Doomsday,灭亡之日
 "{0} increased Accuracy Rating","命中值提高 {0}"
 "{0} reduced Accuracy Rating","命中值降低 {0}"
 "{0} chance to Ignite","有 {0} 的几率点燃"
-"{0} chance to Scorch Enemies","{0} 的几率烧灼敌人"
+"{0} chance to Scorch Enemies","{0} 的几率灼烧敌人"
 "{0} more Burning Damage","燃烧总伤害额外提高 {0}"
 "{0} less Burning Damage","燃烧总伤害额外降低 {0}"
 "{0} chance to Freeze","{0} 的几率使用冰霜伤害击中时冰冻敌人"
-"{0} chance to inflict Brittle","{0} 的几率造成脆弱"
+"{0} chance to inflict Brittle","{0} 的几率造成易碎"
 "{0} chance to Freeze Enemies which are Chilled","有 {0} 的几率冰冻被冰缓的敌人"
 "{0} chance to Shock","闪电伤害击中时有 {0} 的几率使敌人受到感电效果影响"
 "{0} chance to Sap Enemies","{0} 的几率造成精疲力尽"
@@ -13957,8 +13957,8 @@ Doomsday,灭亡之日
 "{0} increased Damage with Hits against Rare and Unique Enemies","击中稀有怪和传奇怪伤害提高 {0}"
 "{0} reduced Damage with Hits against Rare and Unique Enemies","击中稀有怪和传奇怪伤害降低 {0}"
 "{0} of Overkill Damage is Leeched as Life","溢出伤害的 {0} 转为生命偷取"
-"{0} increased Attack Speed while Leeching","生命偷取时攻击速度提高 {0}"
-"{0} reduced Attack Speed while Leeching","生命偷取时攻击速度降低 {0}"
+"{0} increased Attack Speed while Leeching","偷取时攻击速度提高 {0}"
+"{0} reduced Attack Speed while Leeching","偷取时攻击速度降低 {0}"
 "{0} increased Armour and Evasion Rating when on Low Life","低血时，护甲和闪避值提高 {0}"
 "{0} reduced Armour and Evasion Rating when on Low Life","低血时，护甲和闪避值降低 {0}"
 "Enemies you Taunt have a {0} increased chance to be Stunned","受到你嘲讽的敌人被你晕眩的几率提高 {0}"
@@ -16087,8 +16087,8 @@ Doomsday,灭亡之日
 "{0} more chance to Hit while Blinded","被致盲时击中几率额外提高 {0}"
 "{0} less chance to Hit while Blinded","被致盲时击中几率额外降低 {0} 的几率"
 "{0} chance for Hexes to affect Hexproof Enemies","魔蛊有 {0} 的几率影响无咒的敌人"
-"{0} chance to inflict Brittle on Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0} 的几率给它们施加脆弱"
-"Inflict Brittle on Enemies when you Block their Damage",你格挡敌人的伤害时，给它们施加脆弱
+"{0} chance to inflict Brittle on Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0} 的几率给它们施加易碎"
+"Inflict Brittle on Enemies when you Block their Damage",你格挡敌人的伤害时，给它们施加易碎
 "{0} chance to Sap Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0} 的几率使它们精疲力尽"
 "Sap Enemies when you Block their Damage",你格挡敌人的伤害时使它们精疲力尽
 "{0} chance to Scorch Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0} 的几率灼烧敌人"
@@ -16419,7 +16419,7 @@ Doomsday,灭亡之日
 "{0} reduced Damage with Shield Skills per {1} Chance to Block Attack Damage","每有 {1} 攻击伤害格档率，护盾技能的伤害便降低 {0}"
 "{0} of Damage taken from Mana before Life while affected by Clarity","受到【清晰】影响时，受到伤害的 {0} 伤害优先从魔力扣除"
 "{0} of Damage is taken from Mana before Life while Focussed","专注时，{0} 的伤害优先从魔力扣除"
-"{0} of Damage from Hits is taken from your Spectres' Life before you","被击中时，有 {0} 的伤害优先由你的幽魂承受"
+"{0} of Damage from Hits is taken from your Spectres' Life before you","被击中时，有 {0} 的伤害优先由你的灵体承受"
 "{0} increased Damage Taken for {1} seconds after Spending a total of {2} Mana","消耗总计 {2} 魔力后，在 {1} 秒内受到的伤害提高 {0}"
 "{0} reduced Damage Taken for {1} seconds after Spending a total of {2} Mana","消耗总计 {2} 魔力后，在 {1} 秒内受到的伤害降低 {0}"
 "{0} increased Damage taken while there are at least two Rare or Unique Enemies nearby","若周围至少有两个稀有或传奇敌人，则受到的伤害提高 {0}"
@@ -16815,14 +16815,14 @@ Doomsday,灭亡之日
 "{0} chance to gain a Power Charge when you use a Vaal Skill","你使用瓦尔技能时有 {0} 的几率获得 1 个暴击球"
 "Gain a Power Charge every Second if you haven't lost Power Charges Recently",若你近期内没有失去暴击球，则每秒获得一个暴击球
 "{0} chance to gain an Inspiration Charge when you Spend Mana","当你消耗魔力时，有 {0} 的几率获得激励球"
-"You have Scorching Conflux, Brittle Conflux and Sapping Conflux while your two highest Attributes are equal",若你最高的两种属性相等，则你获得灼热汇流、脆弱汇流、力竭汇流
+"You have Scorching Conflux, Brittle Conflux and Sapping Conflux while your two highest Attributes are equal",若你最高的两种属性相等，则你获得灼烧汇流、易碎汇流、力竭汇流
 "Gain up to maximum Fragile Regrowth when Hit",被击中时，获得脆弱重生并达到上限
 "Gain {0} Fragile Regrowth each second ","每秒获得 {0} 次脆弱重生"
 "Lose {0} Fragile Regrowth each second ","每秒失去 {0} 次脆弱重生"
 "Galvanic Arrow has {0} increased Projectile Speed","【电光箭】的投射物速度提高 {0}"
 "Galvanic Arrow has {0} reduced Projectile Speed","【电光箭】的投射物速度降低 {0}"
 "General's Cry has {0} increased Cooldown Recovery Rate","【将军之吼】的冷却回复速度加快 {0}"
-"Every {1} seconds, gain a Ghost Shroud, up to a maximum of {0}","每 {1} 秒获得一个幽魂缠身，最大数量为 {0}"
+"Every {1} seconds, gain a Ghost Shroud, up to a maximum of {0}","每 {1} 秒获得一个鬼影缠身，最大数量为 {0}"
 "When Hit, lose a Ghost Shroud and Recover Energy Shield equal to {0} of your Evasion Rating","被击中时，失去一层【鬼影缠身】，并恢复等同于你闪避值 {0} 的能量护盾"
 "Glacial Cascade gains {0} of Physical Damage as Extra Cold Damage","冰川之刺将物理伤害的 {0} 视为额外冰霜伤害"
 "{0} of Glacial Hammer Physical Damage Converted to Cold Damage","【冰霜之锤】物理伤害的 {0} 转化为冰霜伤害"
@@ -17455,7 +17455,7 @@ Doomsday,灭亡之日
 "Grants {0} to Intelligence per {1} Quality","每 {1} 品质 {0} 智慧"
 "Has Elder, Shaper and all Conqueror Influences",具有裂界者、塑界者和所有征服者影响效果
 "{0} to Quality","{0} 品质"
-"With at least {0} Intelligence in Radius, Fireball has {1} chance to inflict scorch","若范围内至少有 {0} 点智慧，【火球】 {1} 的几率施加【烧灼】"
+"With at least {0} Intelligence in Radius, Fireball has {1} chance to inflict scorch","若范围内至少有 {0} 点智慧，【火球】 {1} 的几率施加【灼烧】"
 "With at least {0} Intelligence in Radius, Magma Orb deals {1} more Damage","若范围内至少有 {0} 点智慧，【熔岩之核】的总伤害额外提高 {1}"
 "With at least {0} Intelligence in Radius, Magma Orb deals {1} less Damage","若范围内至少有 {0} 点智慧，【熔岩之核】的总伤害额外降低 {1}"
 "With at least {0} Intelligence in Radius, Magma Orb deals {1} more Damage per Chain","若范围内至少有 {0} 点智慧，【熔岩之核】每次连锁的总伤害额外提高 {1}"
@@ -17630,8 +17630,8 @@ Doomsday,灭亡之日
 "{0} reduced Mana Regeneration Rate if you have Shocked an Enemy Recently","若你近期内使敌人感电，则魔力回复速度减慢 {0}"
 "{0} increased Mana Regeneration Rate if you've Hit a Cursed Enemy Recently","若你近期内击中被诅咒的敌人，则魔力回复速度提高 {0}"
 "{0} reduced Mana Regeneration Rate if you've Hit a Cursed Enemy Recently","若你近期内击中被诅咒的敌人，则魔力回复速度降低 {0}"
-"{0} increased Mana Regeneration Rate per Raised Spectre","每个复生的幽魂提高 {0} 魔力回复率"
-"{0} reduced Mana Regeneration Rate per Raised Spectre","每个复生的幽魂降低 {0} 魔力回复率"
+"{0} increased Mana Regeneration Rate per Raised Spectre","每个复生的灵体提高 {0} 魔力回复率"
+"{0} reduced Mana Regeneration Rate per Raised Spectre","每个复生的灵体降低 {0} 魔力回复率"
 "{0} increased Mana Regeneration Rate while moving","当移动时，魔力回复速度提高 {0}"
 "{0} reduced Mana Regeneration Rate while moving","当移动时，魔力回复速度降低 {0}"
 "{0} increased Mana Reservation of Skills that throw Mines","投掷地雷类技能的魔力保留提高 {0}"
@@ -17728,7 +17728,7 @@ Doomsday,灭亡之日
 "{0} Monster Elemental Resistance","{0} 怪物的元素抗性"
 "Monsters have a {0} chance to avoid Poison, Blind, and Bleeding","怪物有 {0} 的几率免疫中毒，致盲和流血"
 "Monsters have {0} chance to Impale with Attacks","怪物攻击有 {0} 的几率施加【穿刺】"
-"Monsters have {0} chance to inflict Brittle","怪物有 {0} 的几率施加【脆弱】"
+"Monsters have {0} chance to inflict Brittle","怪物有 {0} 的几率施加【易碎】"
 "Monsters have {0} chance to inflict Sapped","怪物有 {0} 的几率施加【精疲力尽】"
 "Monsters have {0} chance to inflict Scorch","怪物有 {0} 的几率施加【灼烧】"
 "{0} more effect of Curses on Monsters","对怪物的诅咒总效果额外提高 {0}"
@@ -20852,8 +20852,8 @@ Doomsday,灭亡之日
 "This Attack and Minions have {0} increased Burning Damage","此攻击与召唤生物会使燃烧伤害提高 {0}"
 "This Attack and Minions have {0} reduced Burning Damage","此攻击与召唤生物会使燃烧伤害降低 {0}"
 "This Attack and Minions have {0} chance to gain Endurance Charges when Stunning Enemies with Melee Damage","此攻击和召唤生物使用近战伤害晕眩敌人时有 {0} 的几率获得耐力球"
-"This Attack and Minions have {0} increased Attack Speed when on Low Life","濒血时攻击与召唤生物的攻击速度提高 {0}"
-"This Attack and Minions have {0} reduced Attack Speed when on Low Life","濒血时攻击与召唤生物的攻击速度降低 {0}"
+"This Attack and Minions have {0} increased Attack Speed when on Low Life","低血时攻击与召唤生物的攻击速度提高 {0}"
+"This Attack and Minions have {0} reduced Attack Speed when on Low Life","低血时攻击与召唤生物的攻击速度降低 {0}"
 "This Attack and Minions have {0} more Attack Speed","此攻击与召唤生物的总攻击速度额外提高 {0}"
 "This Attack and Minions have {0} less Attack Speed","此攻击与召唤生物的总攻击速度额外降低 {0}"
 "This Attack and Minions deal {0} more Melee Physical Damage against Bleeding Enemies","此攻击与召唤生物攻击流血敌人时，近战物理总伤害额外提高 {0}"
@@ -21078,7 +21078,7 @@ Doomsday,灭亡之日
 "Rolling Magma Chains an additional {0} times","熔岩奔涌额外连锁 {0} 次"
 "You and Allies affected by your placed Banners Regenerate {0} of",你和友军受到你放置的旗帜影响，
 "Life per second for each Stage","每层每秒再生 {0}% 生命"
-"Drops Scorched Ground while moving, lasting {0} seconds","移动时留下烧灼地面，持续 {0} 秒"
+"Drops Scorched Ground while moving, lasting {0} seconds","移动时留下灼烧地面，持续 {0} 秒"
 "Recover {0} of Life when you use a Flask","你使用药剂时回复 {0} 生命"
 "{0} increased Cooldown Recovery Rate of Travel Skills","旅行技能的冷却回复率提高 {0}"
 "{0} reduced Cooldown Recovery Rate of Travel Skills","旅行技能的冷却回复率降低 {0}"
@@ -21319,7 +21319,7 @@ Battlemage,战斗法师
 "Supported Non-Instant Skills have {0} Cooldown Uses","被辅助的非立即生效技能冷却时间次数 {0}"
 "Supported Skills have {0} chance to grant Onslaught for {1} seconds on",被辅助技能造成致命一击时，
 "dealing a Killing Blow","有 {0}% 的几率获得 {2} 秒猛攻"
-"Pulses every {0} seconds while Frozen, Shocked, Brittle or Sapped","在冰冻、感电、脆弱、筋疲力尽状态下，每 {0} 秒脉冲一次"
+"Pulses every {0} seconds while Frozen, Shocked, Brittle or Sapped","在冰冻、感电、易碎、筋疲力尽状态下，每 {0} 秒脉冲一次"
 "{0} increased Pulse Frequency","脉冲频率提高 {0}"
 "{0} reduced Pulse Frequency","脉冲频率降低 {0}"
 "Loses Intensity with {0} increased frequency while moving","移动时，失去凝聚的频率提高 {0}"
@@ -21354,7 +21354,7 @@ Battlemage,战斗法师
 "Drenched Enemies have Cold and Lightning Exposure, applying {0} to Resistances","浸湿的敌人具有冰霜和闪电的曝露效果，其抗性 {0}"
 "{0} of Physical Damage Converted to Cold Damage while Sphere has no Ailments","球体没有异常状态时，将 {0} 物理伤害转化为冰霜伤害"
 "{0} of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped","球体具有感电或筋疲力尽时，将 {0} 物理伤害转化为闪电伤害"
-"{0} of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle","球体具有冻结或脆弱时，将{0} 物理伤害转化为冰霜伤害"
+"{0} of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle","球体具有冻结或易碎时，将{0} 物理伤害转化为冰霜伤害"
 "Applies beams to the closest {0} nearby Bleeding Enemies","向周围最近的 {0} 个流血的怪物发射光束"
 "Minion's Projectiles have {0} chance to Return to them from final target","召唤生物的投射物有 {0} 的几率从最后的目标返回"
 "Minion's Projectiles Return to them from final target",召唤生物的投射物会从最后的目标返回
@@ -21916,7 +21916,7 @@ Undead,亡灵生物
 "{0}% more Spell Damage per Power Charge","每个暴击球使法术伤害总增 {0}%"
 "Gain Power Charges instead of Frenzy Charges",获得暴击球来取代狂怒球
 "Maximum Damage Reduction for any Damage Type is {0}%","任何伤害类型的最大伤害减免为 {0}%"
-"Critical Strikes inflict Scorch, Brittle and Sapped",暴击施加灼烧、脆弱、精疲力尽
+"Critical Strikes inflict Scorch, Brittle and Sapped",暴击施加灼烧、易碎、精疲力尽
 "All Damage will cause Elemental Ailments you are suffering",当你承受元素异常状态时，所有伤害均会传播该异常状态
 "Remove Elemental Ailments from you when you inflict them",当你传播元素异常状态时，将自身受到的该异常状态移除
 "Can't use Helmets",无法使用头部装备
@@ -22263,7 +22263,7 @@ Undead,亡灵生物
 "Drenched Enemies have Cold and Lightning Exposure, applying {0}% to Resistances","浸湿的敌人具有冰霜和闪电的曝露效果，其抗性 {0}%"
 "{0}% of Physical Damage Converted to Cold Damage while Sphere has no Ailments","球体没有异常状态时，将 {0}% 物理伤害转化为冰霜伤害"
 "{0}% of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped","球体具有感电或筋疲力尽时，将 {0}% 物理伤害转化为闪电伤害"
-"{0}% of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle","球体具有冻结或脆弱时，将{0}% 物理伤害转化为冰霜伤害"
+"{0}% of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle","球体具有冻结或易碎时，将{0}% 物理伤害转化为冰霜伤害"
 "{0}% increased Evasion Rating while Moving","移动时，闪避值提高 {0}%"
 "{0}% reduced Evasion Rating while Moving","移动时，闪避值降低 {0}%"
 "{0}% Chance to apply an additional stack of Wither​","有 {0}% 的几率施加一层额外枯萎"
@@ -22555,7 +22555,7 @@ Undead,亡灵生物
 "Void Sphere has {0}% reduced Pulse Frequency","虚空法球的脉冲频率降低 {0}%"
 "Blazing Salvo deals {0}% increased Damage","怒炎穿心的伤害提高 {0}%"
 "Blazing Salvo deals {0}% reduced Damage","怒炎穿心的伤害降低 {0}%"
-"Your Freezebolt Towers have {0}% chance to inflict Brittle","你的【冰箭之塔】有 {0}% 的几率施加【脆弱】"
+"Your Freezebolt Towers have {0}% chance to inflict Brittle","你的【冰箭之塔】有 {0}% 的几率施加【易碎】"
 "Your Glacial Cage Towers have {0}% increased Cooldown Recovery Rate","你的冰笼之塔冷却回复速度提高 {0}%"
 "Your Glacial Cage Towers have {0}% reduced Cooldown Recovery Rate","你的冰笼之塔冷却回复速度降低 {0}%"
 "Your Stone Gaze Towers have {0}% increased Cooldown Recovery Rate","你的石化之塔冷却回复速度提高 {0}%"
@@ -22573,7 +22573,7 @@ Undead,亡灵生物
 "{0}% chance to grant an Endurance Charge to nearby Allies on Hit","击中时有 {0}% 的几率为周围友军提供一个耐力球"
 "{0}% chance to grant a Frenzy Charge to nearby Allies on Kill","击败敌人时，有 {0}% 的几率为周围友军提供一个狂怒球"
 "{0}% chance for Hexes to affect Hexproof Enemies","魔蛊有 {0}% 的几率影响无咒的敌人"
-"{0}% chance to inflict Brittle on Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0}% 的几率给它们施加脆弱"
+"{0}% chance to inflict Brittle on Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0}% 的几率给它们施加易碎"
 "{0}% chance to Sap Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0}% 的几率使它们精疲力尽"
 "{0}% chance to Scorch Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0}% 的几率灼烧敌人"
 "Intimidate Enemies for {0} seconds on Hit","击中恐吓敌人 {0} 秒"
@@ -23259,7 +23259,7 @@ Undead,亡灵生物
 "{0} Added Passive Skill is a Jewel Socket","其中 {0} 个增加的天赋为【珠宝槽】"
 "Adds {0} Jewel Socket Passive Skill","增加 {0} 个珠宝插槽天赋"
 "With at least {0} Intelligence in Radius, Fireball cannot ignite","若范围内至少有 {0} 点智慧，【火球】无法【点燃】"
-"With at least {1} Intelligence in Radius, Fireball has {0}% chance to inflict scorch","若范围内至少有 {1} 点智慧，【火球】 {0}% 的几率施加【烧灼】"
+"With at least {1} Intelligence in Radius, Fireball has {0}% chance to inflict scorch","若范围内至少有 {1} 点智慧，【火球】 {0}% 的几率施加【灼烧】"
 "With at least {1} Intelligence in Radius, Rolling Magma deals {0}% more Damage","若范围内至少有 {1} 点智慧，则熔岩奔涌伤害总增 {0}%"
 "With at least {1} Intelligence in Radius, Rolling Magma deals {0}% less Damage","若范围内至少有 {1} 点智慧，则熔岩奔涌伤害总降 {0}%"
 "With at least {1} Intelligence in Radius, Rolling Magma deals {0}% more Damage per Chain","若范围内至少有 {1} 点智慧，则熔岩奔涌每次连锁的伤害总增 {0}%"
@@ -25064,7 +25064,7 @@ Solipsism,唯我独尊
 "3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second","近期被防止击中的 5% 总物理伤害，以每秒回复为能量护盾"
 "Skills that have dealt a Critical Strike in the past {0} seconds deal {1}% more Elemental Damage with Hits and Ailments","在过去 {0} 秒内造成暴击的技能使击中和异常状态伤害总增 {1}%"
 "Cannot Recover Energy Shield to above Evasion Rating",恢复的能量护盾不能超过闪避值
-"When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating","失去 1 层幽魂尸布以回复 5% 等同於你闪避值的能量护盾"
+"When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating","失去 1 层鬼影缠身以回复 5% 等同于你闪避值的能量护盾"
 "Cannot Recharge Energy Shield",能量护盾不能充能
 "Take {0}% less Damage over Time if you've started taking Damage over Time in the past second","承受的持续伤害在你过去一秒内开始承受持续伤害后总降 {0}%"
 "{0}% more Duration of Ailments on you","你身上的异常状态持续时间总增 {0}%"
