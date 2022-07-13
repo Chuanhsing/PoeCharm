@@ -41,7 +41,7 @@
 (base damage multiplier),(基礎傷害加成)
 (base),(基礎)
 "(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)",( 被致盲有20%更少命中率和閃避值，持續4秒 )
-"(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)",(處於灰燼纏身狀態的敵人移動速度減少20%，受到的火焰傷害增加20%，持續 4 秒)
+"(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)",(處於餘燼纏身狀態的敵人移動速度減少20%，受到的火焰傷害增加20%，持續 4 秒)
 "(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)",( 流血造成持續性物理傷害，傷害取決於初始的物理傷害。移動時受到的流血傷害增加 )
 (Blinded enemies have their Chance to Hit halved),( 被致盲的敵人命中率減半 )
 (Blitz Charges have a base Duration of 5 seconds),（疾電球的基礎持續時間為 5 秒）。
@@ -2607,7 +2607,7 @@ Adaptations apply to all Elemental Damage during Flask effect,藥劑效果持續
 Add,新增
 Add Modifier to Item,新增詞綴到物品
 Add modifier...,新增詞綴...
-Add to build,套用迷宮附魔...
+Add to build,新增至流派...
 Added Chaos Damage,附加混沌傷害輔助
 Added Cold Damage,附加冰冷傷害輔助
 Added Fire Damage,附加火焰傷害輔助
@@ -2886,7 +2886,7 @@ Applies a Memory Modifier to Memories placed on or next to this location,套用 
 Applies linked Curses on Hit,擊中時會觸發連接的詛咒
 Applies linked Hex Curses on Hit,擊中時套用連結的咒術詛咒
 Apply an additional stack of Wither​,造成 1 層額外凋零​
-Apply Enchantment...,套用迷宮附魔...
+Apply Enchantment...,套用附魔...
 Apprentice Battlemage,見習戰鬥法師
 Apprentice's,學徒的
 Aquamarine Flask,海藍藥劑
@@ -2948,7 +2948,7 @@ Are you Burning?,你被【燃燒】?
 Are you Channelling Cyclone?,是否引導旋風斬?
 Are you Chilled?,你被【冰緩】?
 Are you Elusive?,你有【靈巧】?
-Are you Focussed?,你有【專注】?
+Are you Focused?,你有【專注】?
 Are you Fortified?,你有【護體】?
 Are you Frozen?,你被【冰凍】?
 Are you Ignited?,你被【點燃】?
@@ -5292,7 +5292,7 @@ Damage Penetrates 10% of Enemy Elemental Resistances,傷害穿透敵人 10% 的�
 Damage Penetrates 15% Fire Resistance,傷害穿透 15% 火焰抗性
 Damage Penetrates 2% Elemental Resistances,傷害穿透 2% 元素抗性
 Damage Penetrates 20% of Enemy Elemental Resistances,傷害穿透敵人 20% 的元素抗性
-Damage penetrates 25% Cold Resistance while affected by Herald of Ice,受到【寒冰之捷】影響時，傷害穿透 25% 冰冷抗性
+Damage penetrates 25% Cold Resistance while affected by Herald of Ice,受到【冰霜之捷】影響時，傷害穿透 25% 冰冷抗性
 Damage penetrates 25% Fire Resistance while affected by Herald of Ash,受到【灰燼之捷】影響時，傷害穿透 25% 火焰抗性
 Damage penetrates 25% Lightning Resistance while affected by Herald of Thunder,受到【雷霆之捷】影響時，傷害穿透 25% 閃電抗性
 Damage Penetrates 4% Chaos Resistance,傷害穿透 4% 混沌抗性
@@ -5615,7 +5615,7 @@ Do you have Fortify?,你有【護體】?
 Do you have Lifetap?,你有【活栓】?
 Do you have Onslaught?,你有【猛攻】?
 Do you have Phasing?,你有【迷蹤】?
-Do you have Soul Gain Prevention?,你有【阻靈術】?
+Do you have Soul Gain Prevention?,你有【停止獲得靈魂】?
 Do you have Tailwind?,你有【流順之風】?
 Do you have Unholy Might?,你有【不潔之力】?
 Do you use Blitz Charges?,你有【閃電球】?
@@ -5840,8 +5840,7 @@ Effect of Scorched:,焦灼效果:
 Effect of Shock:,感電效果:
 "Effective ""Health"" Pool:",等效健康血池:
 Effective Crit Chance,等效暴擊率
-Effective Crit Chance:,等效暴擊率:
-Effective DoT Pool:,等效持續血池持續傷:
+Effective DoT Pool:,等效持續血池:
 Effective DPS,等效秒傷
 Effective DPS Mod:,等效秒傷修正:
 Effective DPS modifier:,等效秒傷修正:
@@ -6183,14 +6182,14 @@ Equipping this item in Boots will give you:,(鞋子)使用這個物品會給你:
 Equipping this item in Gloves will give you:,(手套)使用這個物品會給你:
 Equipping this item in Helmet will give you:,(頭盔)使用這個物品會給你:
 ES Bypass%:,能量護盾規避%:
-ES Gain per Hit:,ES 擊回(每次擊中):
-ES Gain Rate:,ES 擊回速率:
-ES Leech Cap:,ES 偷取極限:
-ES Leech per Hit:,ES 偷取(每次擊中):
-ES Leech Rate:,ES 偷取速度:
-ES Leech/Gain per Hit,ES 偷取(擊中獲得)
-ES Leech/Gain per Hit:,能盾偷取(擊中獲得)
-ES Leech/On Hit Rate,ES 偷取(擊中速率)
+ES Gain per Hit:,能盾擊回(每次擊中):
+ES Gain Rate:,能盾擊回速率:
+ES Leech Cap:,能盾偷取極限:
+ES Leech per Hit:,能盾偷取(每次擊中):
+ES Leech Rate:,能盾偷取速度:
+ES Leech/Gain per Hit,能盾偷取(每次擊中)
+ES Leech/Gain per Hit:,能盾偷取(每次擊中)
+ES Leech/On Hit Rate,能盾偷取(擊中速率)
 ES Leech/On Hit Rate:,能盾偷取(擊中速率)
 ES on Block:,格擋時回復能盾:
 ES on Spell Block:,法格時回復能盾:
@@ -7176,7 +7175,6 @@ Guard Skills have 20% increased Cooldown Recovery Rate,守護技能增加 20% �
 Guard Skills have 25% increased Duration,守衛技能增加 25% 持續時間
 Guard Skills have 40% increased Duration,守衛技能增加 40% 持續時間
 Guard:,守護技能:
-Guardian,守衛者
 Guardian,守護者
 Guards add additional Alert Level on Death,守衛死亡時增加額外警戒等級
 Guards remove Alert Level on Death,守衛死亡時減少額外警戒等級
@@ -7269,7 +7267,7 @@ Have you dealt a Non-Crit Recently?,你近期有非暴擊?
 Have you Frozen an enemy Recently?,你近期有冰凍敵人?
 Have you Hit Recently?,你近期有擊中?
 Have you Ignited an enemy Recently?,你近期有點燃敵人?
-Have you Killed Recently?,你近期有擊殺?
+Have you Killed Recently?,你近期有【擊殺】?
 Have you Shattered an Enemy Recently?,你近期有粉碎敵人?
 Have you Shocked an enemy Recently?,你近期有感電敵人?
 Have you stopped taking DoT recently?,你近期停止受到持續傷?
@@ -7355,7 +7353,7 @@ Herald of Agony:,【苦痛之捷】:
 Herald of Ash,灰燼之捷
 Herald of Ash:,灰燼之捷:
 Herald of Blood,赤血之捷
-Herald of Ice,冰冷之捷
+Herald of Ice,冰霜之捷
 Herald of Purity,純淨之捷
 Herald of Thunder,閃電之捷
 Herald of Thunder also creates a storm when you Shock an Enemy,當你感電敵人時，閃電之捷也會製造 1 個風暴
@@ -7371,7 +7369,7 @@ Hex Master,邪法宗師
 Hex Reflection,咒術反射
 Hex Skills have 100% increased Skill Effect Duration,咒術技能增加 100% 技能效果持續時間
 Hex Skills have 80% increased Skill Effect Duration,咒術技能增加 80% 技能效果持續時間
-Hex:,咒術
+Hex:,咒術:
 Hexblast,咒術枯萎
 Hexclaw Talisman,幻爪魔符
 Hexes applied by Socketed Curse Skills are Reflected back to you,插槽中詛咒技能所造成的咒術被反射至你身上
@@ -7551,7 +7549,7 @@ Ignite calculation mode:,點燃計算模式:
 Ignite Chance,點燃機率
 Ignite Chance and Duration,點燃機率和持續時間
 Ignite DPS,點燃秒傷
-Ignite DPS:,點燃秒傷
+Ignite DPS:,點燃秒傷:
 Ignite Duration:,點燃持續時間:
 Ignite Proliferation,點燃擴散輔助
 Ignite Resistance,點燃抗性
@@ -7596,7 +7594,7 @@ Immune to Elemental Ailments while you have Arcane Surge,當你有秘能波動�
 Immune to Fire Damage,免疫火焰傷害
 Immune to Freeze,免疫冰凍
 Immune to Freeze and Chill while Ignited,被點燃時免疫冰凍和冰緩
-Immune to Freeze while affected by Purity of Ice,被冰冷淨化影響時免疫冰凍
+Immune to Freeze while affected by Purity of Ice,被冰霜淨化影響時免疫冰凍
 "Immune to Freeze, Chill, Curses and Stuns during Flask Effect",藥劑持續期間，免疫冰凍、冰緩、詛咒和暈眩
 Immune to Hinder,免疫阻礙
 Immune to Ignite,免疫點燃
@@ -7664,8 +7662,8 @@ Import from Pastebin...,從 Pastebin 匯入...
 Import from website,從網站匯入:
 Import from website...,從網站匯入...
 Import from:,匯入:
-Import to a new build,匯入到新流派
-Import to this build,匯入到當前流派
+Import to a new build,匯入至新流派
+Import to this build,匯入至當前流派
 Import Tree,匯入天賦
 Import:,匯入:
 Import/Export Build,匯入/匯出流派
@@ -7901,7 +7899,7 @@ Is the enemy Blinded?,敵人是否被【致盲】?
 Is the enemy Brittle?,敵人是否被【易碎】?
 Is the enemy Burning?,敵人是否被【燃燒】?
 Is the enemy Chilled?,敵人是否被【冰緩】?
-Is the enemy covered in Ash?,敵人是否被【灰燼纏身】?
+Is the enemy covered in Ash?,敵人是否被【餘燼纏身】?
 Is the enemy covered in Frost?,敵人是否被【寒霜纏身】?
 Is the enemy Crushed?,敵人是否被【壓碎】?
 Is the enemy Cursed?,敵人是否被【詛咒】?
@@ -7915,8 +7913,8 @@ Is the enemy Maimed?,敵人是否被【癱瘓】?
 Is the enemy Moving?,敵人是否在【移動】?
 Is the enemy near you?,附近的敵人?
 Is the enemy on Consecrated Ground?,敵人是否在【奉獻地面】?
-Is the enemy on Full Life?,敵人是否在【滿血】?
-Is the enemy on Low Life?,敵人是否在【貧血】?
+Is the enemy on Full Life?,敵人是否為【滿血】?
+Is the enemy on Low Life?,敵人是否為【貧血】?
 Is the enemy Poisoned?,敵人至否被【中毒】?
 is the enemy Rare or Unique?,敵人是否為稀有或傳奇?
 Is the enemy Sapped?,敵人是否被【殘喘】?
@@ -8202,8 +8200,8 @@ Life Leech is instant during Flask Effect,藥劑效果期間內生命偷取為�
 Life Leech per Hit:,生命偷取(每次擊中):
 Life Leech Rate:,生命偷取速度:
 Life Leech Speed and Attack Speed,生命偷取速度和攻擊速度
-Life Leech/Gain per Hit,生命偷取(擊中獲得)
-Life Leech/Gain per Hit:,生命偷取(擊中獲得):
+Life Leech/Gain per Hit,生命偷取(每次擊中)
+Life Leech/Gain per Hit:,生命偷取(每次擊中):
 Life Leech/On Hit Rate,生命偷取(擊中速率)
 Life Leech/On Hit Rate:,生命偷取(擊中速率):
 Life Leeched per Second is doubled,每秒生命偷取加倍
@@ -8509,8 +8507,8 @@ Mana Leech,魔力偷取輔助
 Mana Leech Cap:,魔力偷取極限:
 Mana Leech per Hit:,魔力偷取(每次擊中):
 Mana Leech Rate:,魔力偷取速度:
-Mana Leech/Gain per Hit,魔力偷取(擊中獲得)
-Mana Leech/Gain per Hit:,魔力偷取(擊中獲得)
+Mana Leech/Gain per Hit,魔力偷取(每次擊中)
+Mana Leech/Gain per Hit:,魔力偷取(每次擊中)
 Mana Leech/On Hit Rate,魔力偷取(擊中速率)
 Mana Leech/On Hit Rate:,魔力偷取(擊中速率):
 Mana Mastery,魔力專精
@@ -8536,10 +8534,10 @@ Mana Regeneration:,魔力回復:
 Mana Reserve Mod:,魔力保留:
 Mana:,魔力:
 Manabond,魔能束縛
-Manage Item Sets,管理物品集
+Manage Item Sets,管理物品設定
 Manage Passive Trees,管理天賦樹
-Manage Spectres...,幽魂管理...
-Manage trees...,天賦樹管理...
+Manage Spectres...,管理幽魂...
+Manage trees...,管理天賦樹...
 Manage...,管理...
 Manastorm,魔能暴風
 Mandate,授權
@@ -8579,7 +8577,6 @@ Marble Amulet,理石護身符
 March,行靴
 March of the Legion,軍閥行軍
 Mark,印記
-Mark,寶記
 Mark Effect,印記效果
 Mark Mastery,印記專精
 Mark of Submission,臣服之記
@@ -9232,7 +9229,7 @@ Natural Remedies,自然療法
 Natural Vigour,自然活力
 Nature's Adrenaline,大自然的腎上腺素
 Nature's Boon,自然的恩賜
-Nature's Patience,造化自然
+Nature's Patience,自然之耐
 Nature's Reprisal,大自然的報仇
 Nearby Allies and Enemies Share Charges with you,附近的友方和敵人與你共享能量球
 Nearby Allies deal 30% increased Damage,週圍友軍的傷害增加 30%
@@ -9261,7 +9258,7 @@ Nearby enemies have -30% to Critical Strike Multiplier,週圍敵人獲得 -30% �
 Nearby Enemies have 100% reduced Life Regeneration rate,週圍敵人的生命回復減少 100%
 Nearby Enemies have 15% less Accuracy Rating while you have Phasing,【迷蹤】狀態下，週圍敵人的總命中值更少 15%
 Nearby Enemies have 20% less Accuracy Rating while you have Phasing,當你有迷蹤時，附近敵人有 20% 更少命中值
-Nearby Enemies have Cold Exposure while you are affected by Herald of Ice,你被冰冷之捷影響時，附近的敵人有冰冷曝曬
+Nearby Enemies have Cold Exposure while you are affected by Herald of Ice,你被冰霜之捷影響時，附近的敵人有冰冷曝曬
 Nearby Enemies have Fire Exposure,附近敵人有火焰曝曬
 Nearby Enemies have Fire Exposure while you are affected by Herald of Ash,你被灰燼之捷影響時，附近的敵人有火焰曝曬
 "Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying -15% to those Resistances",【迷蹤】狀態下，附近的敵人獲得火焰、冰冷、閃電曝露，並使它們的抗性 -15%
@@ -9274,7 +9271,7 @@ Nearby Enemies take 16% increased Elemental Damage,週圍敵人受到的元素�
 Nearby Enemies' Cold Resistance is Ignored by Hits,擊中附近的敵人無視他們的冰冷抗性
 Nearby Enemies' Fire Resistance is Ignored by Hits,擊中附近的敵人無視他們的火焰抗性
 Nearby Enemies' Lightning Resistance is Ignored by Hits,擊中附近的敵人無視他們的閃電抗性
-Nearby Hindered Enemies deal 15% reduced Damage over Time,週圍被幹擾的敵人的持續傷害減少 15%
+Nearby Hindered Enemies deal 15% reduced Damage over Time,週圍被阻礙的敵人的持續傷害減少 15%
 Nearby Party members gain Endurance Charges whenever you do,你獲得耐力球則附近隊友獲得耐力球
 Nearby Party members gain Frenzy Charges whenever you do,你獲得狂怒球則附近隊友獲得狂怒球
 Nearby Party members gain Power Charges whenever you do,你獲得暴擊球則附近隊友獲得暴擊球
@@ -9561,7 +9558,7 @@ of Warding,守護之
 of Wreaking,破壞之
 Off Hand Accuracy is equal to Main Hand Accuracy while wielding a Sword,持劍時，副手命中等同於主手命中
 Off Hand:,副手:
-Offence/Defence,進攻/防禦
+Offence/Defence,攻擊/防禦
 "Offensive power shows as red, defensive power as blue.","傷害類顯示為紅色,防禦類顯示為藍色."
 Offer,提供
 Offering Skills Triggered this way also affect you,以此方式觸發的奉獻技能同時影響你
@@ -10249,9 +10246,9 @@ Purity of Fire,火焰淨化
 Purity of Fire has no Reservation,火焰淨化無保留
 Purity of Fire Reserves no Mana,火焰淨化沒有魔力保留
 Purity of Flesh,肉體之純潔
-Purity of Ice,冰冷淨化
-Purity of Ice has no Reservation,冰冷淨化無保留
-Purity of Ice Reserves no Mana,冰冷淨化沒有魔力保留
+Purity of Ice,冰霜淨化
+Purity of Ice has no Reservation,冰霜淨化無保留
+Purity of Ice Reserves no Mana,冰霜淨化沒有魔力保留
 Purity of Lightning,閃電淨化
 Purity of Lightning has no Reservation,閃電淨化無保留
 Purity of Lightning Reserves no Mana,閃電淨化沒有魔力保留
@@ -11144,7 +11141,7 @@ Shockwaves,衝擊波
 Short Bow,短弓
 Shot,嘯空矢
 "Show all skills, not just those used by this build.","顯示所有技能,而不是只顯示當前流派的技能."
-Show gem quality variants:,顯示技能石品質類型:
+Show gem quality variants:,顯示技能寶石品質類型:
 Show Minion Stats:,顯示召喚物統計:
 Show Node Power:,顯示節點強度:
 Show Power Report,顯示強度報告
@@ -12658,7 +12655,7 @@ Track,蹤跡
 Trail,遠道
 Tranquil,寧靜
 Tranquility,寧靜
-Transcendence,超然
+Transcendence,超凡脫俗
 Transcendent Flesh,超凡之體
 Transcendent Mind,超凡之意
 Transcendent Spirit,超凡之靈
@@ -12914,14 +12911,14 @@ Unaffected by Burning Ground,不被燃燒地面影響
 Unaffected by Burning Ground while affected by Purity of Fire,在受到火焰淨化影響時，不被燃燒地面影響
 Unaffected by Chill,不受冰緩影響
 Unaffected by Chilled Ground,不被冰緩地面影響
-Unaffected by Chilled Ground while affected by Purity of Ice,在受到冰冷淨化影響時，不被冰緩地面影響
+Unaffected by Chilled Ground while affected by Purity of Ice,在受到冰霜淨化影響時，不被冰緩地面影響
 Unaffected by Conductivity while affected by Purity of Lightning,在受到閃電淨化影響時，不被導電影響
 Unaffected by Curses,不被詛咒影響
 Unaffected by Desecrated Ground,不被腐蝕地面影響
 Unaffected by Elemental Weakness while affected by Purity of Elements,在受到元素淨化影響時，不被元素要害影響
 Unaffected by Enfeeble while affected by Grace,在受到優雅影響時，不被衰弱影響
 Unaffected by Flammability while affected by Purity of Fire,在受到火焰淨化影響時，不被易燃影響
-Unaffected by Frostbite while affected by Purity of Ice,在受到冰冷淨化影響時，不被凍傷影響
+Unaffected by Frostbite while affected by Purity of Ice,在受到冰霜淨化影響時，不被凍傷影響
 Unaffected by Ignite,不被點燃影響
 Unaffected by Poison,不受中毒影響
 Unaffected by Poison while affected by Malevolence,被惡意影響時，不受到中毒影響
@@ -13292,7 +13289,6 @@ Voll's Devotion,福爾的忠誠之符
 Voll's Protector,福爾的戰鎧
 Voll's Vision,福爾的遠見
 Volley,齊射輔助
-Volley,和諧之弦
 Volley Fire,怒火齊發
 Voltaxic Burst,魔痕爆發
 Voltaxic Rift,魔暴之痕
@@ -13391,7 +13387,7 @@ Warlord's Mark,督軍印記
 Warlord's Mark:,【督軍印記】:
 Warlord's Reach,督軍之力
 Warning Call,預警呼喚
-Warning: Importing to the current build will erase ALL existing data for this build.,警告:匯入到當前流派將清除此流派的所有現存數據.
+Warning: Importing to the current build will erase ALL existing data for this build.,警告:匯入至當前流派將清除此流派的所有現存數據.
 Warped,曲空
 Warped Timepiece,扭曲之鐘
 Warrior Training,戰士訓練
@@ -13693,7 +13689,7 @@ You can Cast an additional Brand,你可以施放 1 個額外烙印
 You can catch Corrupted Fish,你可以捕獲汙染魚
 You can catch Exotic Fish,你可以捕獲外來魚種
 You can catch Scourged Fish,你可以捕抓災魘魚
-"You can Control + Click an item to equip it, or ","你可以 Ctrl + 左鍵 來裝備物品,"
+"You can Control + Click an item to equip it, or ","你可以 Ctrl+左鍵 來裝備物品,"
 You can have an additional Brand Attached to an Enemy,你可以對敵人附著 1 個額外烙印
 You can have an Offering of each type,你可以擁有每種獻祭效果
 You can have two different Banners at the same time,你同時可以有兩個不同的鬥旗
@@ -13963,3 +13959,102 @@ Zerphi's Youth,澤佛伊的青春
 Ziggurat,靈間
 Zodiac Leather,星辰皮甲
 Zone,區域
+Heist,劫盜
+Harvest,豐收
+Is the enemy Exposed to Cold?,敵人是否被【冰冷曝曬】?
+Is the enemy Exposed to Lightning?,敵人是否被【閃電曝曬】?
+CoC Triggering Skill,觸發暴擊時施放之技能
+Trigger Rate:,觸發速度:
+Trigger Rate Cap:,觸發速度上限:
+Skill Trigger Rate:,技能觸發速度:
+Adj. Trigger Rate:,校正觸發速度:
+Eff. Trigger Rate:,等效觸發速度:
+Config,配置
+Effective Trigger Rate:,等效觸發速度:
+Do you have Vaal Arc's Lucky Buff?,你有瓦爾‧電弧【幸運效果】?
+"Causes Damage with Arc Hits to be rolled twice, and the maximum roll used.","電弧擊中所造成的傷害會骰兩次,並且使用最大值."
+Anoint Item,塗抹物品
+No Anoint,未塗抹
+Update,更新
+Update Available,有可用的更新
+Do you want to save them before updating?,更新前是否要儲存?
+Version history:,版本歷史:
+Tree Converted,天賦轉換
+Note that some or all of the passives may have been de-allocated due to changes in the tree.,請注意，由於版本的更改，部分或全部天賦可能已被取消分配.
+You can switch back to the old tree using the tree selector at the bottom left.,你可以使用左下角的天賦選擇器切換回舊天賦.
+The tree has been converted to 3.18.,天賦已轉換為 3.18.
+Delete Tree,刪除天賦樹
+Synthesised Item,追憶物品
+Confirm Delete,確認刪除
+Are you sure you want to delete build:,你確定要刪除流派:
+This cannot be undone.,這不能被撤消.
+Weapon Range,武器範圍
+Replace Modifier of Node,置換節點的詞綴
+Reset Node,重置節點
+# of nearby Rare or Unique Enemies:,# 附近稀有或傳奇敵人數量:
+Phys Max Hit:,物理最大承受:
+Fire Max Hit:,火焰最大承受:
+Cold Max Hit:,冰冷最大承受:
+Lightning Max Hit:,閃電最大承受:
+Chaos Max Hit:,混沌最大承受:
+Life Recoverable:,可恢復的生命:
+Recoverable ES:,可恢復的能盾:
+(Active),(啟動)
+Disable EHP gain on block:,禁用格擋時獲得的等效健康血池:
+Enemy critical strike chance:,敵人暴擊機率:
+Enemy critical strike multipler:,敵人暴擊加成:
+Total Recoverable:,總計可恢復:
+"To import a build, enter URL or code here:","要匯入流派,請在此處輸入網址或代碼:"
+URL is valid,網址有效
+Invalid input,輸入無效
+Elemental Max Hit:,元素最大承受:
+Total DoT DPS:,總計持續秒傷:
+Effective Crit Chance:,等效暴擊率:
+Find Timeless Jewel,查詢永恆珠寶
+Find a Timeless Jewel,查詢永恆珠寶
+Jewel Type:,珠寶類型:
+Conqueror:,征服者:
+Jewel Socket:,珠寶插槽:
+Filter Nodes:,過濾節點:
+Primary Node Weight:,主節點權重:
+Secondary Node Weight:,次節點權重:
+Search for Node:,搜尋詞綴:
+Desired Nodes:,所需詞綴:
+Search Results:,搜尋結果:
+Search,搜尋
+Required,必要的
+Skill set:,技能設定:
+Usage Tips:,使用提示:
+- You can copy/paste socket groups using Ctrl+C and Ctrl+V.,- 你可以使用 Ctrl+C 和 Ctrl+V 複製/貼上插槽組.
+- Ctrl + Click to enable/disable socket groups.,- Ctrl+左鍵 以啟用/禁用插槽組.
+- Ctrl + Right click to include/exclude in FullDPS calculations.,- Ctrl+右鍵 以在完整秒傷計算中包含/排除.
+- Right click to set as the Main skill group.,- 點擊右鍵以設置為主技能組.
+Bandit quest:,盜賊任務:
+Kill all,全殺
+Help Oak,幫助歐克
+Help Kraityn,幫助克雷頓
+Help Alira,幫助阿莉亞
+Major God:,主神:
+Minor God:,次神:
+Guardian/Pinnacle Boss,守護者/巔峰頭目
+Uber Pinnacle Boss,終極巔峰頭目
+Boss Skill Preset,頭目技能預設:
+Enemy attack / cast time in ms:,敵人每毫秒攻擊/施放:
+Is the enemy on Brittle Ground?,敵人是否在【易碎地面】?
+Is the enemy on Scorched Ground?,敵人是否在【焦灼地面】?
+Is the enemy on Sapped Ground?,敵人是否在【殘喘地面】?
+Searing Exarch Item,灼烙總督物品
+Eater of Worlds Item,吞噬天地物品
+Are you sure you want to delete it?,你是否確定要刪除?
+Damage with Two Handed Weapons,雙手武器傷害
+Chaos Damage over Time,混沌持續傷害
+Cold Damage over Time,冰冷持續傷害
+Damage over Time,持續傷害
+Fire Damage over Time,火焰持續傷害
+Physical Damage over Time,物理持續傷害
+Chance to Suppress Spell Damage,壓抑法術傷害率
+Manage Skill Trees,管理技能設定
+(Current),(當前)
+Searing Exarch,灼烙總督
+Eater of Worlds,吞噬天地
+Curse Effect:,詛咒效果:

@@ -7,7 +7,7 @@
 {0} (average damage),{0} (平均傷害)
 {0} (average hit),{0} (平均擊中)
 {0} (base duration),{0} (基礎持續時間)
-{0} (base mana cost),{0} (基礎魔力消耗)
+{0} (base mana cost),{0} (基礎持續時間)
 {0} (base placement speed),{0} (基礎放置速度)
 {0} (base throwing speed),{0} (基礎投射物速度)
 {0} (base),{0} (基礎)
@@ -635,9 +635,9 @@
 {0} chance to Chill Attackers for {1} seconds on Block,格擋時有 {0} 的機率冰緩攻擊者 {1} 秒
 {0} chance to Consume a Void Charge to Trigger this Skill when you fire Arrows with a Non-Triggered Skill,你使用非觸發型技能發射箭矢時，有 {0} 的機率消耗一枚【虛空之矢】來觸發該技能
 {0} chance to Counterattack when Hit,被擊中時有 {0} 的機率反擊
-{0} chance to Cover Enemies in Ash on Hit,擊中有 {0} 的機率給敵人施加灰燼纏身
-{0} chance to Cover Enemies in Ash on Hit while you are Burning,你在燃燒狀態下，擊中時有 {0} 的機率給敵人施加【灰燼纏身】
-{0} chance to cover Enemies in Ash when they Hit you,被擊中時有 {0} 的機率讓敵人受到【灰燼纏身】
+{0} chance to Cover Enemies in Ash on Hit,擊中有 {0} 的機率給敵人施加餘燼纏身
+{0} chance to Cover Enemies in Ash on Hit while you are Burning,你在燃燒狀態下，擊中時有 {0} 的機率給敵人施加【餘燼纏身】
+{0} chance to cover Enemies in Ash when they Hit you,被擊中時有 {0} 的機率讓敵人受到【餘燼纏身】
 {0} chance to Cover Rare or Unique Enemies in Ash for {1} Seconds on Hit,擊中時有 {0} 的機率用灰燼包裹稀有或傳奇敵人 {1} 秒
 {0} chance to create a Charged Slam,{0} 的機率創造一次蓄力猛擊
 {0} chance to create a Smoke Cloud on Kill,擊敗敵人時，有 {0} 的機率創造一團煙霧
@@ -1531,7 +1531,7 @@
 {0} increased Cold Damage taken,承受的冰冷傷害增加 {0}
 {0} increased Cold Damage taken if you've been Hit Recently,若你近期內受到過傷害，則冰冷傷害增加 {0}
 {0} increased Cold Damage while affected by Hatred,受到【憎恨】影響時，冰冷傷害增加 {0}
-{0} increased Cold Damage while affected by Herald of Ice,受到【寒冰之捷】影響時，冰冷傷害增加 {0}
+{0} increased Cold Damage while affected by Herald of Ice,受到【冰霜之捷】影響時，冰冷傷害增加 {0}
 {0} increased Cold Damage while your Off Hand is empty,你的副手為空時，冰冷傷害增加 {0}
 {0} increased Cold Damage with Attack Skills,攻擊技能的冰冷傷害增加 {0}
 {0} increased Cold Damage with Axes,斧類攻擊的冰冷傷害增加 {0}
@@ -1942,7 +1942,7 @@
 {0} increased Effect of Fortify on you while Focussed,專注時，你身上的護體效果增加 {0}
 {0} increased Effect of Fortify on you while Stationary,靜止時，你身上的護體效果增加 {0}
 {0} increased Effect of Herald Buffs on you,你身上的捷增益效果增加 {0}
-{0} increased effect of Hinder on you,你受到的幹擾效果增加 {0}
+{0} increased effect of Hinder on you,你受到的阻礙效果增加 {0}
 {0} increased Effect of Impales inflicted by Hits that also inflict Bleeding,若擊中造成【流血】，則其施加的【穿刺】效果增加 {0}
 {0} increased Effect of Impales you inflict with Two Handed Weapons,你用雙手武器施加的穿刺效果增加 {0}
 {0} increased Effect of Impales you inflict with Two Handed Weapons on Non-Impaled Enemies,對未被穿刺的敵人時，你用雙手武器施加的穿刺效果增加 {0}
@@ -2178,7 +2178,7 @@
 {0} increased Galvanic Arrow Damage,【電流箭矢】的傷害增加 {0}
 {0} increased Glacial Cascade Area of Effect,【冰川之刺】範圍擴大 {0}
 {0} increased Glacial Cascade Damage,【冰川之刺】的傷害增加 {0}
-{0} increased Glacial Hammer Damage,【冰冷之鎚】的傷害增加 {0}
+{0} increased Glacial Hammer Damage,【冰霜之鎚】的傷害增加 {0}
 {0} increased Global Accuracy Rating,命中值增加 {0}
 {0} increased Global Armour while you have no Energy Shield,你沒有能量護盾時，全域護甲增加 {0}
 {0} increased Global Attack Speed per Green Socket,每個綠色插槽會使全域攻擊速度增加 {0}
@@ -2206,7 +2206,7 @@
 {0} increased Heavy Strike Attack Speed,【重擊】攻擊速度增加 {0}
 {0} increased Heavy Strike Damage,【重擊】的傷害增加 {0}
 {0} increased Herald of Ash Damage,【灰燼之捷】的傷害增加 {0}
-{0} increased Herald of Ice Damage,【寒冰之捷】的傷害增加 {0}
+{0} increased Herald of Ice Damage,【冰霜之捷】的傷害增加 {0}
 {0} increased Herald of Thunder Damage,【閃電之捷】的傷害增加 {0}
 {0} increased Hiring Fee of Rogues,賞金獵人招募費用增加 {0}
 {0} increased Hit Rate for each blade,每層刀刃會使刀刃速率增加 {0}
@@ -2590,7 +2590,7 @@
 {0} increased Rarity of Fish Caught,釣魚稀有度增加 {0}
 {0} increased Rarity of Items contained in Vaal Vessel,瓦爾容器裡的物品稀有度增加 {0}
 {0} increased Rarity of Items Dropped by Enemies killed with a Critical Strike,暴擊擊敗敵人時物品稀有度增加 {0}
-{0} increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer,被【冰冷之鎚】擊碎的敵人的物品稀有度增加 {0}
+{0} increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer,被【冰霜之錘】擊碎的敵人的物品稀有度增加 {0}
 {0} increased Rarity of Items Dropped by enemies Slain by Minions,被此召喚生物擊敗的怪物，其物品稀有度增加 {0}
 {0} increased Rarity of Items Dropped by enemies Slain by Minions or This Attack,此攻擊與召喚生物會使物品稀有度增加 {0}
 {0} increased Rarity of Items Dropped by Enemies Slain from Supported Skills,被輔助技能擊敗敵人時物品稀有度增加 {0}
@@ -2628,7 +2628,7 @@
 {0} increased Recovery rate of Life and Energy Shield while affected by Malevolence,受到【怨毒光環】影響時，生命和能量護盾回復率增加 {0}
 "{0} increased Recovery Rate of Life, Mana and Energy Shield if you've Killed an Enemy affected by your Damage Over Time Recently",若你近期內擊敗了有你持續傷害狀態的敵人，則生命，魔力，和能量護盾回復增加 {0}
 {0} increased Recovery when on Low Life,低血時回復量增加 {0}
-{0} increased Reflected Cold Damage taken while affected by Purity of Ice,受到【冰冷淨化】影響時，承受的反射冰冷傷害增加 {0}
+{0} increased Reflected Cold Damage taken while affected by Purity of Ice,受到【冰霜淨化】影響時，承受的反射冰冷傷害增加 {0}
 {0} increased Reflected Damage taken,受到的反射傷害增加 {0}
 {0} increased Reflected Elemental Damage taken,反射的元素傷害增加 {0}
 {0} increased Reflected Elemental Damage taken while affected by Purity of Elements,受到【元素淨化】影響時，承受的反射元素傷害增加 {0}
@@ -3302,8 +3302,8 @@
 {0} of Flask Life Recovery granted to Minions,藥劑的 {0} 生命回復效果套用於召喚生物
 {0} of Galvanic Arrow Physical Damage gained as extra Lightning Damage,【電流箭矢】獲得等同其 {0} 物理傷害的額外閃電傷害
 {0} of Glacial Cascade Physical Damage Converted to Cold Damage,【冰川之刺】的 {0} 物理傷害轉換為冰冷傷害
-{0} of Glacial Hammer Physical Damage Converted to Cold Damage,【冰冷之鎚】物理傷害的 {0} 轉化為冰冷傷害
-{0} of Glacial Hammer Physical Damage gained as Extra Cold Damage,【冰冷之鎚】獲得等同其 {0} 物理傷害的額外冰冷傷害
+{0} of Glacial Hammer Physical Damage Converted to Cold Damage,【冰霜之錘】物理傷害的 {0} 轉化為冰冷傷害
+{0} of Glacial Hammer Physical Damage gained as Extra Cold Damage,【冰霜之錘】獲得等同其 {0} 物理傷害的額外冰冷傷害
 {0} of Ice Crash Physical Damage gained as Extra Cold Damage,【寒冰衝擊】獲得等同其 {0} 物理傷害的額外冰冷傷害
 {0} of Infernal Blow Physical Damage gained as Extra Fire Damage,【鍊獄之擊】增加等同 {0} 物理傷害的火焰傷害
 {0} of Life Leech applies to Enemies as Chaos Damage,生命偷取造成傷害的 {0} 轉化為混沌傷害
@@ -3384,7 +3384,7 @@
 {0} of Physical Damage from Hits taken as Cold Damage,受到擊中物理傷害的 {0} 轉化為冰冷傷害
 {0} of Physical Damage from Hits taken as Cold Damage during Flask effect,藥劑持續期間，{0} 承受的擊中物理傷害轉化為冰冷傷害
 {0} of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements,受到【元素淨化】影響時，受到擊中物理傷害的 {0} 轉換為冰冷傷害
-{0} of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice,受到【冰冷淨化】影響時，受到擊中物理傷害的 {0} 轉換為冰冷傷害
+{0} of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice,受到【冰霜淨化】影響時，受到擊中物理傷害的 {0} 轉換為冰冷傷害
 {0} of Physical Damage from Hits taken as Damage of a Random Element,受到擊中物理傷害的 {0} 轉化為隨機元素傷害
 {0} of Physical Damage from Hits taken as Fire Damage,受到擊中物理傷害的 {0} 轉化為火焰傷害
 {0} of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements,受到【元素淨化】影響時，受到擊中物理傷害的 {0} 轉換為火焰傷害
@@ -3758,7 +3758,7 @@
 {0} reduced Cold Damage taken,承受的冰冷傷害減少 {0}
 {0} reduced Cold Damage taken if you've been Hit Recently,若你近期內受到過傷害，則冰冷傷害減少 {0}
 {0} reduced Cold Damage while affected by Hatred,受到【憎恨】影響時，冰冷傷害減少 {0}
-{0} reduced Cold Damage while affected by Herald of Ice,受到【寒冰之捷】影響時，冰冷傷害減少 {0}
+{0} reduced Cold Damage while affected by Herald of Ice,受到【冰霜之捷】影響時，冰冷傷害減少 {0}
 {0} reduced Cold Damage while your Off Hand is empty,你的副手為空時，冰冷傷害減少 {0}
 {0} reduced Cold Damage with Attack Skills,攻擊技能的冰冷傷害減少 {0}
 {0} reduced Cold Damage with Axes,斧類攻擊的冰冷傷害減少 {0}
@@ -4017,7 +4017,7 @@
 {0} reduced Damage with Hits and Ailments against Enemies affected by {1} Spider's Webs,對受 {1} 層蜘蛛網影響的敵人，擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Enemies affected by Ailments,對抗有異常狀態的敵人時，擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Enemies that are on Full Life,對滿血敵人的擊中和異常狀態的傷害減少 {0}
-{0} reduced Damage with Hits and Ailments against Hindered Enemies,擊中和異常狀態對被幹擾敵人的傷害減少 {0}
+{0} reduced Damage with Hits and Ailments against Hindered Enemies,擊中和異常狀態對被阻礙敵人的傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Marked Enemy,對抗標記的敵人時，擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Unique Enemies,對抗傳奇敵人時，擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments per Curse on Enemy,敵人身上每個詛咒可使擊中和異常狀態的傷害減少 {0}
@@ -4364,7 +4364,7 @@
 {0} reduced Galvanic Arrow Damage,【電流箭矢】的傷害減少 {0}
 {0} reduced Glacial Cascade Area of Effect,【冰川之刺】範圍縮小 {0}
 {0} reduced Glacial Cascade Damage,【冰川之刺】的傷害減少 {0}
-{0} reduced Glacial Hammer Damage,【冰冷之鎚】的傷害減少 {0}
+{0} reduced Glacial Hammer Damage,【冰霜之錘】的傷害減少 {0}
 {0} reduced Global Accuracy Rating,命中值減少 {0}
 {0} reduced Global Armour while you have no Energy Shield,你沒有能量護盾時，全域護甲減少 {0}
 {0} reduced Global Attack Speed per Level,每一級可使全域攻擊速度減少 {0}
@@ -4388,7 +4388,7 @@
 {0} reduced Heavy Strike  Speed,【重擊】攻擊速度減少 {0}
 {0} reduced Heavy Strike Damage,【重擊】的傷害減少 {0}
 {0} reduced Herald of Ash Damage,【灰燼之捷】的傷害減少 {0}
-{0} reduced Herald of Ice Damage,【寒冰之捷】的傷害減少 {0}
+{0} reduced Herald of Ice Damage,【冰霜之捷】的傷害減少 {0}
 {0} reduced Herald of Thunder Damage,【閃電之捷】的傷害減少 {0}
 {0} reduced Hiring Fee of Rogues,賞金獵人招募費用減少 {0}
 {0} reduced Hit Rate for each blade,每層刀刃會使刀刃速率減少 {0}
@@ -4770,7 +4770,7 @@
 {0} reduced Recovery Rate of Life and Energy Shield per Minion,每有一個召喚生物都使生命和能量護盾回復速度減慢 {0}
 {0} reduced Recovery rate of Life and Energy Shield per Power Charge,每有 1 個暴擊球，生命和能量護盾回復率減少 {0}
 {0} reduced Recovery rate of Life and Energy Shield while affected by Malevolence,受到【怨毒光環】影響時，生命和能量護盾回復率減少 {0}
-{0} reduced Reflected Cold Damage taken while affected by Purity of Ice,受到【冰冷淨化】影響時，承受的反射冰冷傷害減少 {0}
+{0} reduced Reflected Cold Damage taken while affected by Purity of Ice,受到【冰霜淨化】影響時，承受的反射冰冷傷害減少 {0}
 {0} reduced Reflected Damage taken,受到的反射傷害減少 {0}
 {0} reduced Reflected Elemental Damage taken,反射的元素傷害減少 {0}
 {0} reduced Reflected Elemental Damage taken while affected by Purity of Elements,受到【元素淨化】影響時，承受的反射元素傷害減低 {0}
@@ -5006,7 +5006,7 @@
 {0} to {1} Added Cold Damage with Sword Attacks,劍攻擊附加 {0} 至 {1} 冰冷傷害
 {0} to {1} Added Cold Damage with Wand Attacks,法杖攻擊附加 {0} 至 {1} 冰冷傷害
 {0} to {1} Added Fire Damage,附加 {0} 至 {1} 火焰傷害
-{0} to {1} added Fire Damage against Burning Enemies,對點燃的敵人附加 {0} 至 {1} 火焰傷害
+{0} to {1} added Fire Damage against Burning Enemies,對燃燒的敵人附加 {0} 至 {1} 火焰傷害
 "{0} to {1} added Fire Damage per {2} of Maximum Life or Maximum Mana, whichever is lower",每 {2} 最大生命或最大魔力附加 {0} 至 {1} 火焰傷害，兩者取低者
 {0} to {1} Added Fire Damage with Axe Attacks,斧攻擊附加 {0} 至 {1} 火焰傷害
 {0} to {1} Added Fire Damage with Bow Attacks,弓攻擊附加 {0} 至 {1} 火焰傷害
@@ -5144,7 +5144,7 @@
 {0} to Cold Damage over Time Multiplier while affected by Malevolence,受【怨毒光環】影響時，{0} 冰冷持續傷害加成
 {0} to Cold Resistance,{0} 冰冷抗性
 {0} to Cold Resistance when Socketed with a Green Gem,插上 1 個綠色技能石時獲得 {0} 冰冷抗性
-{0} to Cold Resistance while affected by Herald of Ice,受到【寒冰之捷】影響時，{0} 冰冷抗性
+{0} to Cold Resistance while affected by Herald of Ice,受到【冰霜之捷】影響時，{0} 冰冷抗性
 {0} to Counter-Thaumaturgy Level,逆向奇術等級 {0}
 {0} to Counter-Thaumaturgy Level for Heists,為劫盜 {0} 解咒師等級
 {0} to Critical Strike Chance,附加 {0} 攻擊和法術基礎暴擊率
@@ -5363,7 +5363,7 @@
 {0} to Maximum Charges,{0} 最大充能
 {0} to Maximum Charges. {1} to this value when used,{0} 最大充能。使用時 {1} 此數值
 {0} to maximum Cold Resistance,{0} 冰冷抗性上限
-{0} to maximum Cold Resistance while affected by Herald of Ice,受到【寒冰之捷】影響時，最大冰冷抗性 {0}
+{0} to maximum Cold Resistance while affected by Herald of Ice,受到【冰霜之捷】影響時，最大冰冷抗性 {0}
 {0} to maximum Divine Charges,{0} 最大神聖充能
 {0} to Maximum Endurance Charges,{0} 最大耐力球
 {0} to maximum Energy Shield,{0} 最大能量護盾
@@ -6252,8 +6252,7 @@
 {0}% chance to Summon an additional Skeleton Warrior with Summon Skeleton,召喚骷髏有 {0}% 機率額外召喚一個骷髏戰士
 {0}% chance to Suppress Spell Damage,{0}% 壓抑法術傷害率
 {0}% chance to Suppress Spell Damage for each Dagger you're Wielding,每個你裝備的匕首，{0}% 壓抑法術傷害率
-{0}% chance to Suppress Spell Damage if you've,若你近期有承受法術傷害，
-{0}% chance to Suppress Spell Damage if you've,若你近期有承受法術傷害，
+{0}% chance to Suppress Spell Damage if you've,若你近期有承受法術傷害，{0}% 壓抑法術傷害率
 {0}% chance to Suppress Spell Damage if you've Hit an Enemy Recently,若你近期有擊中敵人，{0}% 壓抑法術傷害率
 {0}% chance to Suppress Spell Damage if you've Suppressed Spell Damage Recently,若你近期有壓抑法術傷害，{0}% 壓抑法術傷害率
 "{0}% chance to Suppress Spell Damage if your Boots, Helmet and Gloves have Evasion",若你的鞋子、頭盔和手套有閃避，{0}% 壓抑法術傷害率
@@ -6884,7 +6883,7 @@
 {0}% increased Cold Damage taken if you've,若近期內被擊中
 {0}% increased Cold Damage taken if you've been Hit Recently,近期內你若受到過傷害，則冰冷傷害增加 {0}%
 {0}% increased Cold Damage while affected by Hatred,被憎恨影響時增加 {0}% 冰冷傷害
-{0}% increased Cold Damage while affected by Herald of Ice,被冰冷之捷影響時，增加 {0}% 冰冷傷害
+{0}% increased Cold Damage while affected by Herald of Ice,被冰霜之捷影響時，增加 {0}% 冰冷傷害
 {0}% increased Cold Damage while your Off Hand is empty,未裝備副手時，增加 {0}% 冰冷傷害
 {0}% increased Cold Damage with Attack Skills,攻擊技能增加 {0}% 冰冷傷害
 {0}% increased Cold Damage with Axes,持斧類武器時增加 {0}% 冰冷傷害
@@ -7685,7 +7684,7 @@
 {0}% increased Heavy Strike Attack Speed,增加 {0}% 沉重之擊攻擊速度
 {0}% increased Heavy Strike Damage,增加 {0}% 沉重之擊傷害
 {0}% increased Herald of Ash Damage,增加 {0}% 灰燼之捷傷害
-{0}% increased Herald of Ice Damage,增加 {0}% 冰冷之捷傷害
+{0}% increased Herald of Ice Damage,增加 {0}% 冰霜之捷傷害
 {0}% increased Herald of Thunder Damage,增加 {0}% 閃電之捷傷害
 {0}% increased Hiring Fee of Rogues,增加 {0}% 盜賊的僱用費
 {0}% increased Hit Rate for each blade,每把飛刀增加 {0}% 攻擊頻率
@@ -8183,7 +8182,7 @@
 "{0}% increased Recovery Rate of Life, Mana and Energy Shield if you've Killed an Enemy affected by your Damage Over Time Recently",近期內若你擊殺了有你持續傷害狀態的敵人，減少 {0}% 生命、魔力和能量護盾回復速度
 {0}% increased Recovery when on Low Life,貧血時增加 {0}% 回復量
 {0}% increased Reeling Stability,增加 {0}% 收線穩定度
-{0}% increased Reflected Cold Damage taken while affected by Purity of Ice,被冰冷淨化影響時增加 {0}% 反射冰冷傷害
+{0}% increased Reflected Cold Damage taken while affected by Purity of Ice,被冰霜淨化影響時增加 {0}% 反射冰冷傷害
 {0}% increased Reflected Damage taken,增加 {0}% 受到的反射傷害
 {0}% increased Reflected Damage taken during Flask Effect,藥劑效果期間增加承受 {0}% 反射傷害
 {0}% increased Reflected Elemental Damage taken,增加 {0}% 反射元素傷害
@@ -9057,7 +9056,7 @@
 {0}% of Physical Damage from Hits taken as Cold Damage,承受 {0}% 的擊中物理傷害視為冰冷傷害
 {0}% of Physical Damage from Hits taken as Cold Damage during Flask effect,藥劑效果持續時間內承受 {0}% 的擊中物理傷害視為冰冷傷害
 {0}% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Elements,被元素淨化影響時，{0}% 承受的擊中物理傷害視為冰冷傷害
-{0}% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice,被冰冷淨化影響時，{0}% 承受的擊中物理傷害視為冰冷傷害
+{0}% of Physical Damage from Hits taken as Cold Damage while affected by Purity of Ice,被冰霜淨化影響時，{0}% 承受的擊中物理傷害視為冰冷傷害
 {0}% of Physical Damage from Hits taken as Damage of a Random Element,{0}% 承受的擊中傷害視為 1 個隨機元素傷害
 {0}% of Physical Damage from Hits taken as Fire Damage,擊中的 {0}% 承受物理傷害視為火焰傷害
 {0}% of Physical Damage from Hits taken as Fire Damage while affected by Purity of Elements,被元素淨化影響時，{0}% 承受的物理傷害視為火焰傷害
@@ -9472,7 +9471,7 @@
 {0}% reduced Cold Damage taken if you've,若近期內被擊中
 {0}% reduced Cold Damage taken if you've been Hit Recently,近期內你若受到過傷害，則冰冷傷害減少 {0}%
 {0}% reduced Cold Damage while affected by Hatred,被憎恨影響時減少 {0}% 冰冷傷害
-{0}% reduced Cold Damage while affected by Herald of Ice,被冰冷之捷影響時，減少 {0}% 冰冷傷害
+{0}% reduced Cold Damage while affected by Herald of Ice,被冰霜之捷影響時，減少 {0}% 冰冷傷害
 {0}% reduced Cold Damage while your Off Hand is empty,未裝備副手時，減少 {0}% 冰冷傷害
 {0}% reduced Cold Damage with Attack Skills,攻擊技能減少 {0}% 冰冷傷害
 {0}% reduced Cold Damage with Axes,持斧類武器時減少 {0}% 冰冷傷害
@@ -10216,7 +10215,7 @@
 {0}% reduced Heavy Strike  Speed,減少 {0}% 沉重之擊攻擊速度
 {0}% reduced Heavy Strike Damage,減少 {0}% 沉重之擊傷害
 {0}% reduced Herald of Ash Damage,減少 {0}% 灰燼之捷傷害
-{0}% reduced Herald of Ice Damage,減少 {0}% 冰冷之捷傷害
+{0}% reduced Herald of Ice Damage,減少 {0}% 冰霜之捷傷害
 {0}% reduced Herald of Thunder Damage,減少 {0}% 閃電之捷傷害
 {0}% reduced Hiring Fee of Rogues,減少 {0}% 盜賊的僱用費
 {0}% reduced Hit Rate for each blade,每把飛刃減少 {0}% 攻擊頻率
@@ -10666,7 +10665,7 @@
 {0}% reduced Recovery rate of Life and Energy Shield per Power Charge,每顆暴擊球減少 {0}% 生命和能量護盾回復率
 {0}% reduced Recovery rate of Life and Energy Shield while affected by Malevolence,被惡意影響時，減少 {0}% 生命和能量護盾回復率
 {0}% reduced Reeling Stability,減少 {0}% 收線穩定度
-{0}% reduced Reflected Cold Damage taken while affected by Purity of Ice,被冰冷淨化影響時減少 {0}% 反射冰冷傷害
+{0}% reduced Reflected Cold Damage taken while affected by Purity of Ice,被冰霜淨化影響時減少 {0}% 反射冰冷傷害
 {0}% reduced Reflected Damage taken,減少 {0}% 受到的反射傷害
 {0}% reduced Reflected Damage taken during Flask Effect,藥劑效果期間減少承受 {0}% 反射傷害
 {0}% reduced Reflected Elemental Damage taken,減少 {0}% 反射元素傷害
@@ -10948,7 +10947,7 @@
 {0}% to Cold Damage over Time Multiplier while affected by Malevolence,被惡意影響時，{0}% 冰冷持續傷害加成
 {0}% to Cold Resistance,{0}% 冰冷抗性
 {0}% to Cold Resistance when Socketed with a Green Gem,插上 1 個綠色寶石時獲得 {0}% 冰冷抗性
-{0}% to Cold Resistance while affected by Herald of Ice,被冰冷之捷影響時，{0}% 冰冷抗性
+{0}% to Cold Resistance while affected by Herald of Ice,被冰霜之捷影響時，{0}% 冰冷抗性
 {0}% to Critical Strike Chance,{0}% 暴擊率
 {0}% to Critical Strike Chance against Enemies on Consecrated Ground during Effect,效果期間，對在奉獻地面上的敵人 {0}% 暴擊率
 {0}% to Critical Strike Chance of Herald Skills,{0}% 捷技能的暴擊率
@@ -11078,7 +11077,7 @@
 {0}% to maximum Chance to Dodge Spell Hits,{0}% 至最大躲避法術擊中率
 {0}% to maximum Chaos Resistance,{0}% 最大混沌抗性
 {0}% to maximum Cold Resistance,{0}% 最大冰冷抗性
-{0}% to maximum Cold Resistance while affected by Herald of Ice,被冰冷之捷影響時，{0}% 最大冰冷抗性
+{0}% to maximum Cold Resistance while affected by Herald of Ice,被冰霜之捷影響時，{0}% 最大冰冷抗性
 {0}% to maximum Fire Resistance,{0}% 最大火焰抗性
 {0}% to maximum Fire Resistance while affected by Herald of Ash,被灰燼之捷影響時，{0}% 最大火焰抗性
 {0}% to maximum Lightning Resistance,{0}% 最大閃電抗性
@@ -13088,7 +13087,7 @@ Damage Penetrates {0} Cold Resistance,傷害穿透 {0} 冰冷抗性
 Damage Penetrates {0} Cold Resistance against Chilled Enemies,對冰緩敵人穿透其 {0} 冰冷抗性
 Damage Penetrates {0} Cold Resistance if you've used a Fire Skill in the past {1} seconds,若你 {1} 秒內使用過火焰技能，你的傷害穿透 {0} 冰冷抗性
 Damage Penetrates {0} Cold Resistance while affected by Hatred,受到【憎恨】影響時，傷害穿透 {0} 冰冷抗性
-Damage penetrates {0} Cold Resistance while affected by Herald of Ice,受到【寒冰之捷】影響時，傷害穿透 {0} 冰冷抗性
+Damage penetrates {0} Cold Resistance while affected by Herald of Ice,受到【冰霜之捷】影響時，傷害穿透 {0} 冰冷抗性
 Damage Penetrates {0} Elemental Resistance if you haven't Killed Recently,若你近期內沒有擊敗過敵人，則傷害穿透 {0} 元素抗性
 Damage Penetrates {0} Elemental Resistances,傷害穿透 {0} 元素抗性
 Damage Penetrates {0} Elemental Resistances against Chilled Enemies,對冰緩敵人時，傷害穿透 {0} 元素抗性
@@ -13116,7 +13115,7 @@ Damage Penetrates {0}% Cold Resistance,傷害穿透 {0}% 冰冷抗性
 Damage Penetrates {0}% Cold Resistance against Chilled Enemies,傷害穿透冰緩敵人 {0}% 的冰冷抗性
 Damage Penetrates {0}% Cold Resistance if you've used a Fire Skill in the past {1} seconds,若你 {1} 秒內使用過火焰技能，你的傷害穿透 {0}% 冰冷抗性
 Damage Penetrates {0}% Cold Resistance while affected by Hatred,被憎恨影響時，傷害穿透 {0}% 冰冷抗性
-Damage penetrates {0}% Cold Resistance while affected by Herald of Ice,被冰冷之捷影響時傷害穿透 {0}% 冰冷抗性
+Damage penetrates {0}% Cold Resistance while affected by Herald of Ice,被冰霜之捷影響時傷害穿透 {0}% 冰冷抗性
 Damage Penetrates {0}% Elemental Resistance if you haven't Killed Recently,若近期沒有擊殺，傷害穿透 {0}% 元素抗性
 Damage Penetrates {0}% Elemental Resistances,傷害穿透 {0}% 元素抗性
 Damage Penetrates {0}% Elemental Resistances against Chilled Enemies,傷害對被冰緩的敵人穿透 {0}% 元素抗性
@@ -14718,7 +14717,7 @@ Glacial Cascade gains {0}% of Physical Damage as Extra Cold Damage,冰川之刺�
 Glacial Cascade gains an additional Burst with {0} Intelligence from Passives in Radius,天賦範圍內有 {0} 點智慧時，冰川之刺有 1 次額外爆炸
 Glacial Cascade gains an additional stage with {0} Intelligence from Passives in Radius,範圍內配置 {0} 點智慧，【冰川之刺】即可更多 1 個階段
 Glacial Cascade has {0} additional Bursts,冰川之刺額外爆炸 {0} 次
-Glacial Hammer has {0} chance to Freeze,冰冷之鎚有 {0} 的機率冰凍
+Glacial Hammer has {0} chance to Freeze,冰霜之錘有 {0} 的機率冰凍
 Glacial Hammer has {0}% chance to Freeze,冰霜之錘有 {0}% 機率冰凍
 Glorious Madness inflicts a random Touched Debuff every {0} seconds,榮耀瘋癲每 {0} 秒隨機造成 1 個觸之減益效果
 Golem Skills have {0} increased Cooldown Recovery Rate,魔像施放技能的冷卻速度增加 {0}
@@ -14904,7 +14903,7 @@ Grants Level {0} Haste Skill,獲得等級 {0} 的迅捷技能
 Grants Level {0} Hatred Skill,獲得等級 {0} 的憎恨技能
 Grants Level {0} Herald of Agony Skill,獲得等級 {0} 的苦痛之捷技能
 Grants Level {0} Herald of Ash Skill,獲得等級 {0} 灰燼之捷技能
-Grants Level {0} Herald of Ice Skill,獲得等級 {0} 冰冷之捷技能
+Grants Level {0} Herald of Ice Skill,獲得等級 {0} 冰霜之捷技能
 Grants Level {0} Herald of Purity Skill,獲得等級 {0} 的純淨之捷技能
 Grants Level {0} Herald of Thunder Skill,獲得等級 {0} 閃電之捷技能
 Grants Level {0} Icestorm Skill,獲得等級 {0} 的冰風暴技能
@@ -14918,7 +14917,7 @@ Grants Level {0} Pride Skill,獲得等級 {0} 的驕傲技能
 Grants Level {0} Projectile Weakness Skill,獲得 {0} 級的主動技能【投射物要害】，且可被此道具上的技能石輔助
 Grants Level {0} Purity of Elements Skill,獲得等級 {0} 的元素淨化技能
 Grants Level {0} Purity of Fire Skill,獲得等級 {0} 的火焰淨化技能
-Grants Level {0} Purity of Ice Skill,獲得等級 {0} 的冰冷淨化技能
+Grants Level {0} Purity of Ice Skill,獲得等級 {0} 的冰霜淨化技能
 Grants Level {0} Purity of Lightning Skill,獲得等級 {0} 的閃電淨化技能
 Grants Level {0} Queen's Demand Skill,獲得等級 {0} 的女王之慾技能
 Grants Level {0} Rallying Cry Skill,獲得等級 {0} 激勵戰吼技能
@@ -15109,18 +15108,18 @@ Herald of Ash has {0}% reduced Buff Effect,灰燼之捷減少 {0}% 增益效果
 Herald of Ash has {0}% reduced Mana Reservation,灰燼之捷減少 {0}% 魔力保留
 Herald of Ash has {0}% reduced Mana Reservation Efficiency,灰燼之捷減少 {0}% 魔力保留效用
 Herald of Ash has {0}% reduced Reservation,灰燼之捷減少 {0}% 保留
-Herald of Ice has {0} increased Buff Effect,【寒冰之捷】的增益效果增加 {0}
-Herald of Ice has {0} increased Mana Reservation,【寒冰之捷】的魔力保留增加 {0}
-Herald of Ice has {0} reduced Buff Effect,【寒冰之捷】的增益效果減少 {0}
-Herald of Ice has {0} reduced Mana Reservation,【寒冰之捷】的魔力保留減少 {0}
-Herald of Ice has {0}% increased Buff Effect,冰冷之捷增加 {0}% 增益效果
-Herald of Ice has {0}% increased Mana Reservation,冰冷之捷增加 {0}% 魔力保留
-Herald of Ice has {0}% increased Mana Reservation Efficiency,冰冷之捷增加 {0}% 魔力保留效用
-Herald of Ice has {0}% increased Reservation,冰冷之捷增加 {0}% 保留
-Herald of Ice has {0}% reduced Buff Effect,冰冷之捷減少 {0}% 增益效果
-Herald of Ice has {0}% reduced Mana Reservation,冰冷之捷減少 {0}% 魔力保留
-Herald of Ice has {0}% reduced Mana Reservation Efficiency,冰冷之捷減少 {0}% 魔力保留效用
-Herald of Ice has {0}% reduced Reservation,冰冷之捷減少 {0}% 保留
+Herald of Ice has {0} increased Buff Effect,【冰霜之捷】的增益效果增加 {0}
+Herald of Ice has {0} increased Mana Reservation,【冰霜之捷】的魔力保留增加 {0}
+Herald of Ice has {0} reduced Buff Effect,【冰霜之捷】的增益效果減少 {0}
+Herald of Ice has {0} reduced Mana Reservation,【冰霜之捷】的魔力保留減少 {0}
+Herald of Ice has {0}% increased Buff Effect,冰霜之捷增加 {0}% 增益效果
+Herald of Ice has {0}% increased Mana Reservation,冰霜之捷增加 {0}% 魔力保留
+Herald of Ice has {0}% increased Mana Reservation Efficiency,冰霜之捷增加 {0}% 魔力保留效用
+Herald of Ice has {0}% increased Reservation,冰霜之捷增加 {0}% 保留
+Herald of Ice has {0}% reduced Buff Effect,冰霜之捷減少 {0}% 增益效果
+Herald of Ice has {0}% reduced Mana Reservation,冰霜之捷減少 {0}% 魔力保留
+Herald of Ice has {0}% reduced Mana Reservation Efficiency,冰霜之捷減少 {0}% 魔力保留效用
+Herald of Ice has {0}% reduced Reservation,冰霜之捷減少 {0}% 保留
 Herald of Purity has {0} increased Buff Effect,【純淨之捷】的增益效果增加 {0}
 Herald of Purity has {0} increased Mana Reservation,【純淨之捷】的魔力保留增加 {0}
 Herald of Purity has {0} reduced Buff Effect,【純淨之捷】的增益效果減少 {0}
@@ -18126,18 +18125,18 @@ Purity of Fire has {0}% reduced Aura Effect,火焰淨化減少 {0}% 光環效果
 Purity of Fire has {0}% reduced Mana Reservation,火焰淨化減少 {0}% 魔力保留
 Purity of Fire has {0}% reduced Mana Reservation Efficiency,火焰淨化減少 {0}% 魔力保留效用
 Purity of Fire has {0}% reduced Reservation,火焰淨化減少 {0}% 保留
-Purity of Ice has {0} increased Aura Effect,【冰冷淨化】的光環效果增加 {0}
-Purity of Ice has {0} increased Mana Reservation,【冰冷淨化】的魔力保留增加 {0}
-Purity of Ice has {0} reduced Aura Effect,【冰冷淨化】的光環效果減少 {0}
-Purity of Ice has {0} reduced Mana Reservation,【冰冷淨化】的魔力保留減少 {0}
-Purity of Ice has {0}% increased Aura Effect,冰冷淨化增加 {0}% 光環效果
-Purity of Ice has {0}% increased Mana Reservation,冰冷淨化增加 {0}% 魔力保留
-Purity of Ice has {0}% increased Mana Reservation Efficiency,冰冷淨化增加 {0}% 魔力保留效用
-Purity of Ice has {0}% increased Reservation,冰冷淨化增加 {0}% 保留
-Purity of Ice has {0}% reduced Aura Effect,冰冷淨化減少 {0}% 光環效果
-Purity of Ice has {0}% reduced Mana Reservation,冰冷淨化減少 {0}% 魔力保留
-Purity of Ice has {0}% reduced Mana Reservation Efficiency,冰冷淨化減少 {0}% 魔力保留效用
-Purity of Ice has {0}% reduced Reservation,冰冷淨化減少 {0}% 保留
+Purity of Ice has {0} increased Aura Effect,【冰霜淨化】的光環效果增加 {0}
+Purity of Ice has {0} increased Mana Reservation,【冰霜淨化】的魔力保留增加 {0}
+Purity of Ice has {0} reduced Aura Effect,【冰霜淨化】的光環效果減少 {0}
+Purity of Ice has {0} reduced Mana Reservation,【冰霜淨化】的魔力保留減少 {0}
+Purity of Ice has {0}% increased Aura Effect,冰霜淨化增加 {0}% 光環效果
+Purity of Ice has {0}% increased Mana Reservation,冰霜淨化增加 {0}% 魔力保留
+Purity of Ice has {0}% increased Mana Reservation Efficiency,冰霜淨化增加 {0}% 魔力保留效用
+Purity of Ice has {0}% increased Reservation,冰霜淨化增加 {0}% 保留
+Purity of Ice has {0}% reduced Aura Effect,冰霜淨化減少 {0}% 光環效果
+Purity of Ice has {0}% reduced Mana Reservation,冰霜淨化減少 {0}% 魔力保留
+Purity of Ice has {0}% reduced Mana Reservation Efficiency,冰霜淨化減少 {0}% 魔力保留效用
+Purity of Ice has {0}% reduced Reservation,冰霜淨化減少 {0}% 保留
 Purity of Lightning has {0} increased Aura Effect,【閃電淨化】的光環效果增加 {0}
 Purity of Lightning has {0} increased Mana Reservation,【閃電淨化】的魔力保留增加 {0}
 Purity of Lightning has {0} reduced Aura Effect,【閃電淨化】的光環效果減少 {0}
@@ -18206,7 +18205,7 @@ Raised Zombies have {0}% reduced Attack Speed,殭屍減少 {0}% 攻擊速度
 Raised Zombies have {0}% reduced maximum Life,殭屍減少 {0}% 最大生命
 Raised Zombies have {0}% to all Resistances,殭屍復甦 {0}% 全部抗性
 Raised Zombies have {0}% to Elemental Resistances,殭屍復甦 {0}% 元素抗性
-Raised Zombies have a {0} chance to Cover Enemies in Ash on Hit,復甦的殭屍有 {0} 的機率擊中施加灰燼纏身
+Raised Zombies have a {0} chance to Cover Enemies in Ash on Hit,復甦的殭屍有 {0} 的機率擊中施加餘燼纏身
 Raised Zombies have a {0}% chance to Cover Enemies in Ash on Hit,殭屍復甦擊中時，有 {0}% 機率使敵人餘燼纏身
 Raised Zombies take {0} of their Maximum Life per second as Fire Damage,復甦的殭屍每秒將它們最大生命的 {0} 視為火焰傷害
 Raised Zombies take {0}% of their Maximum Life per second as Fire Damage,殭屍復甦每秒承受 {0}% 他們最大生命的火焰傷害
@@ -19757,7 +19756,7 @@ Summoned Skeletons have {0} chance to Wither Enemies for {1} seconds on Hit,【�
 Summoned Skeletons have {0} of Physical Damage Converted to Chaos Damage,【召喚骷髏】將其  {0} 物理傷害轉化為混沌傷害
 Summoned Skeletons have {0}% chance to Wither Enemies for {1} seconds on Hit,骷髏擊中時有 {0}% 機率凋零敵人 {1} 秒
 Summoned Skeletons have {0}% of Physical Damage Converted to Chaos Damage,召喚骷髏的 {0}% 物理傷害轉化為混沌傷害
-Summoned Skeletons have a {0} chance to Cover Enemies in Ash on Hit,召喚骷髏被擊中時有 {0} 的機率讓敵人受到【灰燼纏身】
+Summoned Skeletons have a {0} chance to Cover Enemies in Ash on Hit,召喚骷髏被擊中時有 {0} 的機率讓敵人受到【餘燼纏身】
 Summoned Skeletons have a {0}% chance to Cover Enemies in Ash on Hit,召喚骷髏擊中敵人時有 {0}% 機率使敵人餘燼纏身
 Summoned Skeletons take {0} of their Maximum Life per second as Fire Damage,召喚骷髏每秒將其最大生命的 {0} 轉化為火焰傷害
 Summoned Skeletons take {0}% of their Maximum Life per second as Fire Damage,召喚骷髏每秒承受 {0}% 他們最大生命的火焰傷害
@@ -22219,10 +22218,10 @@ With {1} Corrupted Items Equipped: Gain Soul Eater for {0} seconds on Vaal Skill
 "With at least {0} Intelligence in Radius, Spark Projectiles chain {1} additional times",若範圍內含有 {0} 點智慧，則【電球】的投射物額外連鎖彈射 {1} 次
 "With at least {0} Intelligence in Radius, Spark Projectiles chain an additional time",若範圍內含 {0} 點智力，電球投射物額外連鎖 1 次
 "With at least {0} Intelligence in Radius, Summon Skeletons can Summon up to {1} Skeleton Mages",若範圍內至少有 {0} 點智慧，則【召喚骷髏】技能可以召喚最多 {1} 個骷髏法師
-"With at least {0} Strength in Radius, {1} increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer",若範圍內含有 {0} 點力量，被【冰冷之鎚】擊碎的敵人的物品稀有度增加 {1}
-"With at least {0} Strength in Radius, {1} of Glacial Hammer Physical Damage Converted to Cold Damage",若範圍內含有 {0} 點力量，則【冰冷之鎚】{1} 的物理傷害會轉化為冰冷傷害
-"With at least {0} Strength in Radius, {1}% increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer",若範圍內含有 {0} 點力量，被【冰冷之鎚】擊碎的敵人的物品稀有度增加 {1}%
-"With at least {0} Strength in Radius, {1}% of Glacial Hammer Physical Damage Converted to Cold Damage",若範圍內含有 {0} 點力量，則【冰冷之鎚】{1}% 的物理傷害會轉化為冰冷傷害
+"With at least {0} Strength in Radius, {1} increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer",若範圍內含有 {0} 點力量，被【冰霜之錘】擊碎的敵人的物品稀有度增加 {1}
+"With at least {0} Strength in Radius, {1} of Glacial Hammer Physical Damage Converted to Cold Damage",若範圍內含有 {0} 點力量，則【冰霜之錘】{1} 的物理傷害會轉化為冰冷傷害
+"With at least {0} Strength in Radius, {1}% increased Rarity of Items dropped by Enemies Shattered by Glacial Hammer",若範圍內含有 {0} 點力量，被【冰霜之錘】擊碎的敵人的物品稀有度增加 {1}%
+"With at least {0} Strength in Radius, {1}% of Glacial Hammer Physical Damage Converted to Cold Damage",若範圍內含有 {0} 點力量，則【冰霜之錘】{1}% 的物理傷害會轉化為冰冷傷害
 "With at least {0} Strength in Radius, Cleave has {1} to Radius per Nearby Enemy, up to {2}",若範圍內至少有 {0} 點力量，則週圍每有一個敵人就使【劈砍】的擴散範圍 {1}，最大 {2}
 "With at least {0} Strength in Radius, Cleave has +1 to Radius per Nearby",若範圍內含 {0} 點力量，附近每個敵人
 "With at least {0} Strength in Radius, Glacial Hammer deals",若範圍內含 {0} 點力量，
@@ -23134,3 +23133,4 @@ x {0} enemy attack/cast time,x {0} 敵人攻擊/施放時間
 {0}% less Effect of your Hexes,你的咒術效果更少 {0}%
 {0}% of monster damage,怪物傷害 {0}%
 {0}% penetration,穿透 {0}%
+{0} average damage,{0} 平均傷害
