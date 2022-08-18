@@ -7,8 +7,8 @@
 "(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)","( 无视抗性表示你的伤害不被任和抗性所影响 )"
 "(You can only take one of the three Ranger Ascendancy passives)","( 你只能在游侠的三个升华职业中选择一个 )"
 "(You can only take one of the three Marauder Ascendancy passives)","( 你只能在野蛮人的三个升华职业中选择一个 )"
-"(Maximum Rage is 50)","(最大怒气为 50 层)"
-"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","(由于近期你没有被击中或获得怒气，正在以 0.5 每层的速度失去怒气)"
+"(Maximum Rage is 50)","(最大怒火为 50 层)"
+"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","(如果你近期没有被击中或获得怒火，你每0.5秒失去1层怒火)"
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance)","( 站在奉献地面上的友军每秒回复一定百分比的最大生命 )"
 "(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(被点燃、灼烧、冰缓、冰冻、易碎、感电和精疲力尽统称为元素异常状态)
 "(You can only take one of the three Shadow Ascendancy passives)","( 你只能在暗影的三个升华职业中选择一个 )"
@@ -62,7 +62,7 @@
 "(Chill reduces Enemy Action Speed by 10%)",(冰缓使敌人行动速度降低10%)
 "(While you have Phasing, your movement is not blocked by Enemies)","( 当你进入迷踪状态时, 你将不会被敌人所阻挡 )"
 "(Hindered enemies have reduced movement speed)",(被缓速的敌人移动速度会降低)
-"(A Hit that removes at least 15% of Maximum Life is a Savage Hit)","( 一次攻击使目标失去 15% 最大生命以上的伤害时, 该攻击会被视为残暴打击 )"
+"(A Hit that removes at least 15% of Maximum Life is a Savage Hit)","( 一次击中使目标失去 15% 最大生命以上的伤害时, 该攻击会被视为残暴打击 )"
 "(Blitz Charges have a base Duration of 5 seconds)","（疾电球的基础持续时间为 5 秒）。"
 "(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(非伤害类异常状态包括灼烧、冰缓、冰冻、易碎、感电和精疲力尽)
 "(Overkill Damage is any Damage from a Hit in excess of the Enemy's remaining Life)",(溢出伤害是造成的伤害超出怪物剩余生命的部分)

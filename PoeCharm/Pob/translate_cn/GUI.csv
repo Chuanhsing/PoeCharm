@@ -70,7 +70,6 @@ Import:,导入:
 "Import/Export Build","导入/导出 BD"
 Items,物品
 Manage...,管理...
-"Map Modifiers and Player Debuffs",地图词缀和玩家增益
 New,新建
 "New Folder",新建文件夹
 No,否
@@ -98,11 +97,8 @@ Quality:,品质:
 Start,开始
 Tree,天赋
 "Active Skill:",主动技能:
-"Added Max:","附加 (最大):"
-"Added Min:","附加 (最小):"
 "All Types:",所有类型:
 "All items:",所有物品:
-"Attack time:",攻击间隔:
 "Double-click an item from one of the lists,","双击列表中的某个物品,"
 "or copy and paste an item from in game (hover over the item and Ctrl+C)","或者复制粘贴游戏中的物品(鼠标悬停在物品上 Ctrl+C)"
 "to view or edit the item and add it to your build.","来查看或编辑物品并添加到你的 BD"
@@ -342,7 +338,8 @@ Resistance:,抗性:
 "Trap Cooldown:",陷阱冷却:
 "Totem Placement Time:",图腾放置间隔:
 "Crit Chance:",暴击率:
-"Effective Crit Chance:",有效暴击率:
+"Effective Crit Chance:",等效暴击率:
+"Effective Crit Chance",等效暴击率
 "Crit Multiplier:",暴击伤害:
 "Hit Chance:",命中率:
 "Total DPS:","总 DPS:"
@@ -371,7 +368,7 @@ Resistance:,抗性:
 "Mana Cost:",魔力消耗:
 "Life Cost:",生命消耗:
 "Energy Shield Cost:",能量护盾消耗:
-"Rage Cost:",怒气消耗:
+"Rage Cost:",怒火消耗:
 Strength:,力量:
 "Strength Required:",力量需求:
 Dexterity:,敏捷:
@@ -380,24 +377,33 @@ Intelligence:,智慧:
 "Intelligence Required:",智慧需求:
 "Omniscience:",全知:
 "Omniscience Required:",全知需求:
+
+Phys Max Hit:,物理击中最大承受值:
+Elemental Max Hit:,元素击中最大承受值:
+Fire Max Hit:,火焰击中最大承受值:
+Cold Max Hit:,冰霜击中最大承受值:
+Lightning Max Hit:,闪电击中最大承受值:
+Chaos Max Hit:,混沌击中最大承受值:
+
 "Eff. Maximum Hit Taken:",有效最大击中伤承受值:
 "Total Life:",最大生命:
 "%Inc Life from Tree:",生命加成(天赋):
 "Unreserved Life:",未保留生命:
-"Life Regen:",生命回复:
+"Life Regen:",生命再生:
 "Life Leech/On Hit Rate:",生命偷取(击中速率):
 "Life Leech/Gain per Hit:",生命偷取(击中获得):
 "Total Mana:",最大魔力:
 "%Inc Mana from Tree:",魔力加成(天赋):
 "Unreserved Mana:",未保留魔力:
-"Mana Regen:",魔力回复:
+"Mana Regen:",魔力再生:
 "Mana Leech/On Hit Rate:",魔力偷取(击中速率)
 "Mana Leech/Gain per Hit:",魔力偷取(击中获得)
 "Energy Shield:",能量护盾:
-"%Inc ES from Tree:","ES 加成(天赋):"
+Recoverable ES:,可恢复能量护盾:
+"%Inc ES from Tree:","能量护盾加成(天赋):"
 "Energy Shield Regen:",能量护盾回复:
-"ES Leech/On Hit Rate:","ES 偷取(击中速率)"
-"ES Leech/Gain per Hit:","ES 偷取(击中获得)"
+"ES Leech/On Hit Rate:","能量护盾偷取(击中速率)"
+"ES Leech/Gain per Hit:","能量护盾偷取(击中获得)"
 "Evasion rating:",闪避值:
 "%Inc Evasion from Tree:",闪避加成(天赋):
 "Evade Chance:",闪避几率:
@@ -565,20 +571,6 @@ Divergent,分歧
 Phantasmal,魅影
 "At {0}% Quality:","当 {0}% 品质时:"
 "Show gem quality variants:",显示技能石品质类型:
-"The Pantheon:",万神殿:
-Nothing,没有
-"Soul of the Brine King","惊海之王 索亚格斯之魂"
-"Soul of Lunaris",月影女神之魂
-"Soul of Solaris",日耀女神之魂
-"Soul of Arakaali","暗影女皇 阿拉卡力之魂"
-"Soul of Gruthkul","绝望之母 格鲁丝克之魂"
-"Soul of Yugul","恐惧之源 尤格尔之魂"
-"Soul of Abberath","割裂者 艾贝拉斯之魂"
-"Soul of Tukohama","战争之父 图克哈玛之魂"
-"Soul of Garukhan","风暴女神 格鲁坎之魂"
-"Soul of Ralakesh","万面之主 拉克斯之魂"
-"Soul of Ryslatha","傀儡女王 瑞斯拉萨之魂"
-"Soul of Shakari","沙之女神 沙卡丽之魂"
 "Puruna, the Challenger",挑战者普鲁纳
 "Corruptor Eedaiak",腐化者艾达尔克
 "Sumter the Twisted",桑特

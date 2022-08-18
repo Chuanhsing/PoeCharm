@@ -996,7 +996,7 @@ Steadfast,坚韧不拔
 "Channelling Attack Speed and Stun Avoidance",吟唱攻击速度和眩晕回避率
 "Unpredictable Offensive",攻其不备
 "Impale Effect",穿刺效果
-"Impale Chance",点燃几率
+"Impale Chance",穿刺几率
 "Swift Skewering",快速穿刺
 "Impale Mastery",穿刺专精
 "Damage and Critical Strikes against Blinded Enemies",对目盲敌人的伤害和暴击率
@@ -1057,7 +1057,7 @@ Bladedancer,剑舞者
 "Spell Critical Strike Chance and Critical Ignite Damage Multiplier",法术暴击率和暴击点燃伤害加成
 "Searing Heat",灼热
 "Way of the Warrior",战士之道
-Transcendence,超然
+Transcendence,超然飞升
 "Hardened Scars",百战伤疤
 "Cleansed Thoughts",净化的思想
 "Aspect of Stone",岩石之势
@@ -1231,10 +1231,10 @@ Watchtowers,守望之塔
 "Sword Damage and Block",剑类伤害和格挡
 "Trick Shot",诡射
 "Split Shot",分裂射击
-"Projectile Damage and Forking Angle",投射物伤害和分裂角度
+"Projectile Damage and Forking Angle",投射物伤害和分叉角度
 "Projectile Damage and Pierce",投射物伤害和穿透
 "Damage for Chaining Hits and Chain Distance",连锁击中伤害和连锁距离
-"Projectile Damage and Chance for Extra Fork Projectile",投射物伤害和额外投射物分裂几率
+"Projectile Damage and Chance for Extra Fork Projectile",投射物伤害和额外投射物分叉几率
 "Projectile Damage per Enemy Pierced",每个被穿透敌人的投射物伤害
 "Prodigious Defence",恢宏壁垒
 "Advance Guard",先遣卫士
@@ -1757,7 +1757,7 @@ Goliath,巨人之力
 "Chance to Ignite",点燃几率
 "Lightning Ailment Effect",闪电异常状态效果
 "Avoid Interruption while Casting and Elemental Resistances",施法免打断和元素抗性
-"Chance for Extra Fork Projectile",额外投射物分裂几率
+"Chance for Extra Fork Projectile",额外投射物分叉几率
 "Avoid Status Ailments",避免异常状态
 "Master of Blades",刀剑之主
 "Mana and Mana on Kill",魔力和击败获取魔力
@@ -1868,7 +1868,7 @@ Instinct,本能
 "Assured Strike",十拿九稳
 "Impale Chance with Two Handed Weapons",双手武器穿刺几率
 "Infused Flesh",血肉灌注
-"Forking Angle",分裂角度
+"Forking Angle",分叉角度
 "Life Flask Charge Gain",生命药剂充能获取
 "Mana Flask Charge Gain",生命药剂充能获取
 "Replenishing Remedies",重装拯救
