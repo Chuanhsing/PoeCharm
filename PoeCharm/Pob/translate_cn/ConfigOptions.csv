@@ -1,55 +1,85 @@
-"Resistance penalty:",抗性惩罚:
-"Act {0}{1}%)","第 {0} 章 {1}%)"
-"Enemy Level:",敌人等级:
-"This overrides the default enemy level used to estimate your hit and evade chances.",设置敌人等级会影响你的命中和闪避几率估算.
-"The default level is your character level, capped at 84, which is the same value","默认等级和你的角色等级相同(最高84级),此设定与游戏相同"
-"used in-game to calculate the stats on the character sheet.",在游戏中用于计算角色状态面板
-"Enemy Physical Hit Damage:",敌人击中物理伤害:
-"This overrides the default damage amount used to estimate your physical damage reduction from armour.",设置伤害量会影响你来自护甲的物理伤害减免估算
-"The default is 1.5 times the enemy's base damage, which is the same value","默认值为敌人基础伤害的 1.5 倍,此设定与游戏相同"
-"used in-game to calculate the estimate shown on the character sheet.",在游戏中用于估算角色面板.
-"Enemy Corpse Life:",敌人灵柩^xE05030生命:
-"Sets the maximum life of the target corpse for Detonate Dead and similar skills.","设置 【爆灵术】 等类似的技能的灵柩最大生命"
-"For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","参考: 70 级怪物基础生命为 6937, 80 级怪物为 12787."
-"Time spent stationary","静止时长"
-"Applies mods that use `while stationary` and `per/every second while stationary`","启用'当你静止'、'静止时每秒'之类的修正"
-"Are you always moving?","是否处于移动状态?"
-"Are you always on Full Life?","是否处于满血状态?"
-"You will automatically be considered to be on Full Life if you have Chaos Inoculation,","如果你有【异灵之体】将一直被视为满血状态,"
+Resistance penalty:,抗性惩罚:
+Act {0}{1}%),第{0}章{1}%)
+Bandit quest:,盗贼任务:
+Major God:,主神:
+Kill all,全杀
+Grants 2 Passive Skill Points,给予2天赋点
+Help Oak,帮助欧克
+Help Kraityn,帮助克雷顿
+Help Alira,帮助阿莉亚
+The Pantheon:,万神殿:
+Nothing,没有
+Soul of the Brine King,惊海之王 索亚格斯之魂
+Soul of Lunaris,月影女神之魂
+Soul of Solaris,日耀女神之魂
+Soul of Arakaali,暗影女皇 阿拉卡力之魂
+Minor God:,次神:
+Soul of Gruthkul,绝望之母 格鲁丝克之魂
+Soul of Yugul,恐惧之源 尤格尔之魂
+Soul of Abberath,割裂者 艾贝拉斯之魂
+Soul of Tukohama,战争之父 图克哈玛之魂
+Soul of Garukhan,风暴女神 格鲁坎之魂
+Soul of Ralakesh,万面之主 拉克斯之魂
+Soul of Ryslatha,傀儡女王 瑞斯拉萨之魂
+Soul of Shakari,沙之女神 沙卡丽之魂
+Enemy Corpse Life:,敌人灵柩^xE05030生命:
+Sets the maximum life of the target corpse for Detonate Dead and similar skills.,^xFFFFFF设置【爆灵术】等类似的技能的灵柩最大^xE05030生命^7
+"For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","^xFFFFFF參考: 70 级怪物^xE05030生命^7为6937, 80级怪物^xE05030生命^7为12787。"
+Time spent stationary,静止时长
+Applies mods that use `while stationary` and `per/every second while stationary`,启用'当你静止'、'静止时每秒'之类的修正
+Are you always moving?,是否处于移动状态?
+Are you insane?,是否处于疯狂状态?
+Are you always on Full Life?,^xFFFFFF是否处于满^xE05030血^7状态?
+"You will automatically be considered to be on Full Life if you have Chaos Inoculation,","^xFFFFFF如果你有【异灵之体】将一直被视为满^xE05030血^7状态,"
 "but you can use this option to force it if necessary.","如有必要可用此选项强制应用."
-"Are you always on Low Life?","是否处于低血状态?"
-"You will automatically be considered to be on Low Life if you have at least 50% life reserved,","如果你至少有 50% 生命保留将一直被视为低血状态,"
-"Are you always on Low Mana?","是否处于低魔状态?"
-"You will automatically be considered to be on Low Mana if you have at least 50% life reserved,","如果你至少有 50% 魔力保留将一直被视为低魔状态,"
-"Are you always on Full Energy Shield?","是否处于满盾状态?"
-"Are you always on Low Energy Shield?","是否处于低盾状态?"
-"You will automatically be considered to be on Low Energy Shield if you have at least 50% ES reserved,","如果你至少有 50% 能量护盾保留将一直被视为低盾状态,"
-"Do you always have Energy Shield?","是否一直有能量护盾?"
+Are you always on Low Life?,^xFFFFFF是否处于低^xE05030血^7状态?
+"You will automatically be considered to be on Low Life if you have at least 50% life reserved,","^xFFFFFF如果你至少有 50% ^xE05030生命^7保留将一直被视为低^xE05030血^7状态,"
+Are you always on Full Mana?,^xFFFFFF是否处于满^x7070FF魔^7状态?
+Are you always on Low Mana?,^xFFFFFF是否处于低^x7070FF魔^7状态?
+"You will automatically be considered to be on Low Mana if you have at least 50% life reserved,","^xFFFFFF如果你至少有 50% ^x7070FF魔力^7保留将一直被视为^x7070FF低魔^7状态,"
+"Are you always on Full Energy Shield?","^xFFFFFF是否处于满^x88FFFF盾^7状态?"
+"Are you always on Low Energy Shield?","^xFFFFFF是否处于低^x88FFFF盾^7状态?"
+"You will automatically be considered to be on Low Energy Shield if you have at least 50% ES reserved,","^xFFFFFF如果你至少有 50% ^x88FFFF能量护盾^7保留将一直被视为低^x88FFFF盾^7状态,"
+Do you always have Energy Shield?,^xFFFFFF是否一直有^x88FFFF能量护盾^7?
 "Are your minions always on Full Life?","你的召唤物是否处于满血状态?"
 "Have your Minions been created Recently?","你的召唤物是否是近期内创造的?"
 "Ailment calculation mode:","异常状态计算模式:"
-"Average","平均"
-"Crits Only","仅暴击"
-"Minimum","最小值"
-"Maximum","最大值"
+Average,平均
+Average:,平均:
+Crits Only,仅暴击
+Crits Only:,仅暴击:
+Minimum,最小值
+Minimum:,最小值:
+Maximum,最大值
 "Controls how the base damage for applying Ailments is calculated:","控制如何计算异常状态的基础伤害:"
-"\tAverage: damage is based on the average application, including both crits and non-crits","平均:伤害计算基于平均应用，包括了暴击与非暴击"
-"\tCrits Only: damage is based solely on Ailments inflicted with crits","仅暴击:伤害计算只基于暴击产生的异常状态"
-"Life regen calculation mode:","生命回复计算模式:"
-"Controls how life regeneration is calculated:","控制如何计算生命回复:"
-"Armour calculation mode:","护甲计算模式:"
+"damage is based on the average application, including both crits and non-crits","伤害计算基于平均应用，包括了暴击与非暴击"
+"damage is based solely on Ailments inflicted with crits","伤害计算只基于暴击产生的异常状态"
+Random element mode:,随机元素模式:
+Controls how modifiers which choose a random element will function.,控制选择随机元素的修正的运作。
+Life regen calculation mode:,^xE05030生命^7回复计算模式:
+Controls how life regeneration is calculated:,^xFFFFFF控制如何计算^xE05030生命^7回复:
+does not include burst regen,不计算瞬时回复
+"includes burst regen, averaged based on uptime",包括瞬时回复，基于生效时间进行平均计算
+includes full burst regen,包括完整的瞬时回复
+EHP calc unlucky:,等效生命值计算时不幸:
+Sets the EHP calc to pretend its unlucky and reduce the effects of random events,对等效生命值计算进行设置以假装它是不幸的并减少随机事件的效果
+Unlucky,不幸
+Very Unlucky,非常不幸
+Disable EHP gain on block:,禁用格挡时回复的等效生命值:
+Sets the EHP calc to not apply gain on block effects,对等效生命值计算进行设置以禁用格挡时回复效果
+Armour calculation mode:,护甲计算模式:
 "Controls how Defending with Double Armour is calculated:","控制如何计算使用双倍护甲防御:"
-"This setting has no effect if you have 100% chance to Defend with Double Aromur.","此设置在你有100%几率使用双倍护甲进行防御时无效"
-"EHP calculation mode:","有效生命值计算模式:"
-"Controls which types of damage the EHP calculation uses:","控制有效生命值计算时使用何种伤害类型:"
-"If a specific damage type is selected,that will be the pnly type used.","若选择了一个特定的伤害类型，那将会是唯一被用于计算的伤害类型"
-"Warcry calculation mode:","战吼计算模式:"
+never Defend with Double Armour,从不使用双倍护甲进行防御
+Damage Reduction from Defending with Double Armour is proportional to chance,双倍护甲防御的伤害减免与几率成正比
+always Defend with Double Armour,总使用双倍护甲进行防御
+This setting has no effect if you have 100% chance to Defend with Double Armour.,此设置在你有100%几率使用双倍护甲进行防御时无效。
+Warcry calculation mode:,战吼计算模式:
 "Max Hit","最大击中"
 "Controls how exerted attacks from Warcries are calculated:","控制如何计算战吼后的增助攻击:"
-"Average: Averages out Warcry usage with cast time, attack speed and warcry cooldown .","平均：用施法用时，攻击速度和战吼冷却时间来计算战吼的使用."
+"Averages out Warcry usage with cast time, attack speed and warcry cooldown.","用施法时间，攻击速度和战吼冷却时间计算平均战吼使用率。"
 "Max Hit: Shows maximum hit for lining up all warcries.","最大击中:显示排列所有战吼的最大击中伤害。"
 "Disable Emperor's Vigilance Bypass","禁用【皇帝的警戒】的规避效果"
-"When In Combat",战斗状态
+
 "Crit Damage",暴击伤害
 "Aspect of the Avian:",【鸟之势】:
 "Is Avian's Might active?",【鸟之力量】激活状态?
@@ -58,9 +88,9 @@
 "Is Cat's Stealth active?",【猫之隐匿】激活状态?
 "Is Cat's Agility active?",【猫之敏捷】激活状态?
 "Aspect of the Crab:",【蟹之势】:
-"# of Crab Barriers (if not maximum):","# 层【深海屏障】 (如果不是最大值)"
+"# of Crab Barriers (if not maximum):","【深海屏障】层数 (如果不是最大值)"
 "Aspect of the Spider:",【蛛之势】:
-"# of Spider's Web Stacks:","# 层蜘蛛网"
+"# of Spider's Web Stacks:","蜘蛛网层数"
 "Banner Skills:",旗帜技能:
 "Is Banner Planted?",旗帜已放置?
 "Banner Stages:",旗帜阶层:
@@ -81,7 +111,7 @@ Deathmark:,【死亡印记】:
 "15% increased Minion Movement Speed","提高 15% 召唤物移动速度"
 "15% increased Minion Attack and Cast Speed","提高 15% 召唤物攻击和施法速度"
 "Herald of Agony:",【苦痛之捷】:
-"# of Virulence Stacks:","# 【毒力】层数:"
+"# of Virulence Stacks:","【毒力】层数:"
 "Ice Nova:",【冰霜新星】:
 "Cast on Frostbolt?",施放【寒冰弹】?
 Infusion:,【灌注】:
@@ -89,7 +119,7 @@ Infusion:,【灌注】:
 Innervate:,【闪电支配】:
 "Is Innervation active?",【闪电支配】激活状态?
 Intensify:,【法术凝聚】:
-"# of Intensity:","# 【法术凝聚】:"
+"# of Intensity:","【法术凝聚】层数:"
 "Meat Shield:",【肉盾】:
 "Is the enemy near you?",附近的敌人?
 "Raise Spectre:",【召唤灵体】:
@@ -104,9 +134,9 @@ Intensify:,【法术凝聚】:
 "Scorching Ray Totem stage count:",【灼热光线】图腾阶数:
 "Enable Summoned Ursa's Rallying Cry:",启用【召唤之爪】的激励战吼:
 "Raise Spiders:",【召唤毒蛛】:
-"# of Spiders:","# 蜘蛛:"
+"# of Spiders:","蜘蛛数量:"
 "Siphoning Trap:",【虹吸陷阱】:
-"# of Enemies affected:","# 影响的敌人:"
+"# of Enemies affected:","影响的敌人数量:"
 "Sets the number of enemies affected by Siphoning Trap.",设置受【虹吸陷阱】影响的敌人数量.
 "Stance Skills:",姿态技能:
 Stance:,姿态:
@@ -120,50 +150,82 @@ Vortex:,【漩涡】:
 "Winter Orb:",【寒冬宝珠】:
 Stages:,等阶:
 "Withering Touch:",【凋零之触】:
-"# of Withered Stacks:","# 【死亡凋零】层数:"
-"Map Prefix Modifiers:",地图前缀加成:
-"Enemy Physical Damage reduction:",怪物物理伤害减伤:
+"# of Withered Stacks:","【死亡凋零】层数:"
+
+Map Modifiers and Player Debuffs,地图词缀和玩家减益
+Map Prefix Modifiers:,地图前缀加成:
+Enemy Physical Damage reduction:,怪物的物理伤害减伤:
 'Armoured','装甲的'
+20% (Low tier),20%(低阶)
+30% (Mid tier),30%(中阶)
+40% (High tier),40%(高阶)
 "Enemy is Hexproof?",敌人是【无咒的】?
 'Hexproof','无咒的'
-"Less effect of Curses on Enemy:",对怪物的诅咒总效果额外降低:
+Less effect of Curses on enemy:,对怪物的诅咒总效果总降:
 'Hexwarded','魔抗的'
-"Enemy avoid Poison/Blind/Bleed:",怪物几率免疫中毒，致盲和流血:
+25% (Low tier),25%(低阶)
+40% (Mid tier),40%(中阶)
+60% (High tier),60%(高阶)
+Enemy avoid Poison / Blind / Bleed:,怪物几率免疫中毒/致盲/流血:
 'Impervious','避毒的'
-"Enemy has Elemental/Chaos Resist:",增加怪物的火焰、冰霜、闪电、混沌抗性:
+25% (Low tier),25%(低阶)
+45% (Mid tier),45%(中阶)
+65% (High tier),65%(高阶)
+Enemy has Elemental / Chaos Resist:,怪物的元素/^xD02090混沌^7抗性增加:
 'Resistant','抗性的'
-"Map Suffix Modifiers:",地图后缀加成:
-"Player has Elemental Equilibrium?",玩家有【元素之相】?
-"'of Balance'",'平衡之'
-"Cannot Leech Life/Mana?",无法偷取怪物生命和魔力?
+20% / 15% (Low tier),20%/15%(低阶)
+30% /2 0% (Mid tier),30%/20%(中阶)
+40% / 25% (High tier),40%/25%(高阶)
+Map Suffix Modifiers:,地图后缀加成:
+Player has Elemental Equilibrium?,玩家有【元素之相】?
+'of Balance','平衡之'
+Cannot Leech Life / Mana?,^xFFFFFF无法偷取怪物^xE05030生命^7和^x7070FF魔力^7?
 "'of Congealment'",'凝血之'
 "Gains reduced Flask Charges:",玩家获得的药剂充能降低:
-"'of Drought'",'干枯之'
-"-X% maximum Resistances:","-X% 玩家的抗性上限:"
-"'of Exposure'",'曝露之'
-"Mid tier: 5-8%","中阶: 5-8%"
-"High tier: 9-12%","高阶: 9-12%"
-"Less Area of Effect:",玩家技能的总范围额外缩小:
-"'of Impotence'",'短程之'
-"Enemy avoid Elem. Status Ailments:",怪物免疫元素异常状态:
-"'of Insulation'",'隔绝之'
-"Unlucky Dodge/Enemy has inc. Accuracy:",玩家在躲避时很不幸/怪物命中值提高:
-"'of Miring'",'迟钝之'
-"Reduced Block Chance/less Armour:",玩家的格挡率和护甲额外降低:
-"'of Rust'",'生锈之'
+'of Drought','干枯之'
+30% (Low tier),30%(低阶)
+40% (Mid tier),40%(中阶)
+50% (High tier),50%(高阶)
+-X% maximum Resistances:,-X% 玩家的抗性上限:
+'of Exposure','曝露之'
+Mid tier: 5-8%,"中阶: 5-8%"
+High tier: 9-12%,"高阶: 9-12%"
+Less Area of Effect:,玩家的范围效果总降:
+'of Impotence','短程之'
+15% (Low tier),15%(低阶)
+20% (Mid tier),20%(中阶)
+25% (High tier),25%(高阶)
+Enemy avoid Elem. Status Ailments:,怪物几率免疫元素异常状态:
+'of Insulation','隔绝之'
+30% (Low tier),30%(低阶)
+60% (Mid tier),60%(中阶)
+90% (High tier),90%(高阶)
+Unlucky Dodge / Enemy has inc. Accuracy:,玩家在躲避时很不幸/怪物命中值提高:
+'of Miring','迟钝之'
+30% (Low tier),30%(低阶)
+40% (Mid tier),40%(中阶)
+50% (High tier),50%(高阶)
+Reduced Block Chance / less Armour:,玩家的格挡率降低/护甲总降:
+'of Rust','生锈之'
+20% / 20% (Low tier),20%/20%(低阶)
+30% / 25% (Mid tier),30%/25%(中阶)
+40% / 30% (High tier),40%/30%(高阶)
 "Player has Point Blank?",玩家拥有【零点射击】?
-"'of Skirmishing'",'冲突之'
-"Less Recovery of Life and Energy Shield:",玩家的生命和能量护盾总回复速度额外降低:
-"'of Smothering'",'窒息之'
-"Cannot Regen Life, Mana or ES?",玩家无法回复生命，魔力和能量护盾?
-"'of Stasis'",'瘀血之'
-"Enemy takes red. Extra Crit Damage:",怪物受到的暴击伤害降低:
-"'of Toughness'",'坚韧之'
-"Low tier: 25-30%","低阶: 25-30%"
-"Mid tier: 31-35%","中阶: 31-35%"
-"High tier: 36-40%","高阶: 36-40%"
-"# of Sextants affecting the area","# 个六分仪影响该地区"
-"Player is cursed by:",玩家被诅咒:
+'of Skirmishing','冲突之'
+Less Recovery Rate of Life and Energy Shield:,玩家的^xE05030生命^7和^x88FFFF能量护盾^7回复速度总降:
+'of Smothering','窒息之'
+20% (Low tier),20%(低阶)
+40% (Mid tier),40%(中阶)
+60% (High tier),60%(高阶)
+"Cannot Regen Life, Mana or ES?",^xFFFFFF玩家无法再生^xE05030生命^7，^x7070FF魔力^7和^x88FFFF能量护盾^7?
+'of Stasis','瘀血之'
+"Enemy takes red. Extra Crit Damage:",怪物受到的暴击额外伤害降低:
+'of Toughness','坚韧之'
+Low tier: 25-30%,低阶: 25-30%
+Mid tier: 31-35%,中阶: 31-35%
+High tier: 36-40%,高阶: 36-40%
+"# of Sextants affecting the area","该地区被#个六分仪影响"
+Player is cursed by:,玩家被诅咒:
 "Assassin's Mark:",【暗影印记】:
 "Sets the level of Assassin's Mark to apply to the player.",设置玩家应用的【暗影印记】等级.
 Conductivity:,【导电】:
@@ -198,165 +260,204 @@ Vulnerability:,【脆弱】:
 "In high tier maps, 'of Vulnerability' applies level 15.","在高阶地图,【脆弱】的等级是 15."
 "Warlord's Mark:",【督军印记】:
 "Sets the level of Warlord's Mark to apply to the player.","设置玩家应用的【督军印记】等级."
-"Do you use Power Charges?","是否有暴击球?"
-"# of Power Charges (if not maximum):","# 暴击球数量 (如果不是最大值):"
-"Do you use Frenzy Charges?","是否有狂怒球?"
-"# of Frenzy Charges (if not maximum):","# 狂怒球数量 (如果不是最大值):"
-"Do you use Endurance Charges?","是否有耐力球?"
-"# of Endurance Charges (if not maximum):","# 耐力球数量 (如果不是最大值):"
-"Do you use Siphoning Charges?","是否有轮回球?"
-"# of Siphoning Charges (if not maximum):","# 轮回球数量 (如果不是最大值):"
-"Do you use Challenger Charges?","是否有挑战球?"
-"# of Challenger Charges (if not maximum):","# 挑战球数量 (如果不是最大值):"
-"Do you use Blitz Charges?","是否有疾电球?"
-"# of Blitz Charges (if not maximum):","# 疾电球数量 (如果不是最大值):"
-"# of Gale Force:","# 【飓风之力】个数"
-"Base maximum Gale Force is 10.","【飓风之力】个数基础上限为10."
-"Do you use Inspiration Charges?","是否有启迪球?"
-"# of Inspiration Charges (if not maximum):","# 启迪球数量 (如果不是最大值):"
-"Do you use Ghost Shrouds?","是否有【鬼影缠身】?"
-"# of Ghost Shrouds (if not maximum):","# 【鬼影缠身】层数 (如果不是最大值):"
-"Do you wait for Maximum Unleash Seals?","是否在等待获得最大封印层数?"
-"# of Blood Charges (if not maximum):","# 赤炼球数量 (如果不是最大值):"
-"Do your minions use Power Charges?","召唤物是否有暴击球?"
-"Do your minions use Frenzy Charges?","召唤物是否有狂怒球?"
-"Do your minions use Endur. Charges?","召唤物是否有耐力球?"
-"# of Rampage Kills:","# 【暴走】层数:"
-"Rampage grants the following, up to 1000 stacks:","# 暴走层数会带来以下效果，最大层数为1000层:"
-"You lose Rampage if you do not get a Kill within 5 seconds.","你会在持续5秒无击杀后失去暴走状态."
-"Are you Focused?","是否有【专注】?"
-"Do you have Lifetap?","是否有【赤炼】?"
-"Do you have Onslaught?","是否有【猛攻】?"
-"In addition to allowing any 'while you have Onslaught' modifiers to apply,","开启时 '当你处于【猛攻】' 之类的修正生效,"
-"this will enable the Onslaught buff itself. (Grants 20% increased Attack, Cast, and Movement Speed)","这将开启【猛攻】增益效果. (攻击/施法/移动速度提高 20% )"
-"Do your minions have Onslaught?","召唤物是否有【猛攻】?"
-"In addition to allowing any 'while your minions have Onslaught' modifiers to apply,","开启时 '当你的召唤物处于【猛攻】' 之类的修正生效,"
-"Do you have Unholy Might?","是否有【不洁之力】?"
-"This will enable the Unholy Might buff. (Grants 30% of Physical Damage as Extra Chaos Damage)","这将开启【不洁之力】增益效果. (获得等于30%物理伤害的额外混沌伤害)"
-"Do your minions have Unholy Might?","召唤物是否有【不洁之力】?"
-"This will enable the Unholy Might buff on your minions. (Grants 30% of Physical Damage as Extra Chaos Damage)","这将为你的召唤物开启【不洁之力】增益效果. (获得等于30%物理伤害的额外混沌伤害)"
-"Do you have Phasing?","是否有【迷踪】?"
-"Are you Fortified?","是否有【护体】?"
-"# of Fortification Stacks (if not maximum):","#【护体】层数（若非最大值）"
-"You have 1% less damage taken from hits per stack of fortification:","每层护体使你受到的击中伤害降低1%"
-"Has a default cap of 20 stacks.","默认层数上限为20"
-"Do you have Tailwind?","是否有【提速尾流】?"
-"In addition to allowing any 'while you have Tailwind' modifiers to apply,","开启时 '当你处于【提速尾流】' 之类的修正生效,"
-"this will enable the Tailwind buff itself. (Grants 8% increased Action Speed)","这将开启【提速尾流】增益效果. (赋予8%行动速度提升)"
-"Do you have Adrenaline?","是否有【肾上腺素】?"
-"This will enable the Adrenaline buff, which grants:","这将开启【肾上腺素】增益效果:"
-"100% increased Damage","伤害提高 100%"
+
+When In Combat,战斗状态
+Do you use Power Charges?,你有【暴击球】?
+# of Power Charges (if not maximum):,【暴击球】数量 (如果不是最大值):
+Do you use Frenzy Charges?,你有【狂怒球】?
+# of Frenzy Charges (if not maximum):,【狂怒球】数量 (如果不是最大值):
+Do you use Endurance Charges?,你有【耐力球】?
+# of Endurance Charges (if not maximum):,【耐力球】数量 (如果不是最大值):
+Do you use Siphoning Charges?,你有【轮回球】?
+# of Siphoning Charges (if not maximum):,【轮回球】数量 (如果不是最大值):
+Do you use Challenger Charges?,你有【挑战球】?
+# of Challenger Charges (if not maximum):,【挑战球】数量 (如果不是最大值):
+Do you use Blitz Charges?,你有【疾电球】?
+# of Blitz Charges (if not maximum):,【疾电球】数量 (如果不是最大值):
+# of Gale Force:,【飓风之力】个数
+Base maximum Gale Force is 10.,【飓风之力】个数基础上限为10.
+# of Inspiration Charges (if not maximum):,【启迪球】数量 (如果不是最大值):
+Do you use Ghost Shrouds?,你有【鬼影缠身】?
+# of Ghost Shrouds (if not maximum):,【鬼影缠身】层数 (如果不是最大值):
+Do you wait for Max Unleash Seals?,你在等待获得最大封印层数?
+# of Blood Charges (if not maximum):,【赤炼球】数量 (如果不是最大值):
+Do your Minions use Power Charges?,你的召唤物有【暴击球】?
+Do your Minions use Frenzy Charges?,你的召唤物有【狂怒球】?
+Do your Minions use Endur. Charges?,你的召唤物有【耐力球】?
+# of Rampage Kills:,【暴走】层数:
+"Rampage grants the following, up to 1000 stacks:","暴走层数会带来以下效果，最大层数为1000层:"
+You lose Rampage if you do not get a Kill within 5 seconds.,你会在持续5秒无击杀后失去暴走状态.
+Are you Focused?,你有【专注】?
+Do you have Lifetap?,你有【赤炼】?
+Do you have Onslaught?,你有【猛攻】?
+"In addition to allowing any 'while you have Onslaught' modifiers to apply,","启用时 '当你处于【猛攻】' 之类的修正生效,"
+"this will enable the Onslaught buff itself. (Grants 20% increased Attack, Cast, and Movement Speed)","这将启用【猛攻】增益效果. (攻击/施法/移动速度提高 20% )"
+Do your minions have Onslaught?,你的召唤物是否有【猛攻】?
+"In addition to allowing any 'while your minions have Onslaught' modifiers to apply,","启用时 '当你的召唤物处于【猛攻】' 之类的修正生效,"
+Do you have Unholy Might?,你有【不洁之力】?
+This will enable the Unholy Might buff. (Grants 30% of Physical Damage as Extra Chaos Damage),^xFFFFFF这将启用【不洁之力】增益效果. (获得等于30%物理伤害的额外^xD02090混沌^7伤害)
+Do your minions have Unholy Might?,你的召唤物有【不洁之力】?
+This will enable the Unholy Might buff on your minions. (Grants 30% of Physical Damage as Extra Chaos Damage),^xFFFFFF这将为你的召唤物启用【不洁之力】增益效果. (获得等于30%物理伤害的额外^xD02090混沌^7伤害)
+Do you have Phasing?,你有【迷踪】?
+Are you Fortified?,你有【护体】?
+# of Fortification Stacks (if not maximum):,【护体】层数（若非最大值）
+You have 1% less damage taken from hits per stack of fortification:,每层护体使你受到的击中伤害总降1%
+Has a default cap of 20 stacks.,默认层数上限为20。
+Do you have Tailwind?,你有【提速尾流】?
+"In addition to allowing any 'while you have Tailwind' modifiers to apply,","启用时 '当你处于【提速尾流】' 之类的修正生效,"
+this will enable the Tailwind buff itself. (Grants 8% increased Action Speed),这将启用【提速尾流】增益效果. (赋予8%行动速度提升)
+Do you have Adrenaline?,你有【肾上腺素】?
+"This will enable the Adrenaline buff, which grants:","这将启用【肾上腺素】增益效果:"
+100% increased Damage,伤害提高100%
 "25% increased Attack, Cast and Movement Speed","攻击/施法/移动速度提高 25%"
-"10% additional Physical Damage Reduction","额外 10% 物理伤害减免"
-"Do you have Alchemist's Genius?","是否有【炼金奇才】?"
-"This will enable the Alchemist's Genius buff:","这将开启【炼金奇才】增益效果:"
-"10% increased effect of Flasks","药剂效果提升10%"
-"Do you have Vaal Arc's Lucky Buff?","是否有瓦尔电弧的【幸运】增益?"
+10% additional Physical Damage Reduction,额外 10% 物理伤害减免
+Do you have Alchemist's Genius?,你有【炼金奇才】?
+This will enable the Alchemist's Genius buff:,这将启用【炼金奇才】增益效果:
+10% increased effect of Flasks,药剂效果提升10%
+Do you have Vaal Arc's Lucky Buff?,是否有瓦尔电弧的【幸运】增益?
 "Causes Damage with Arc Hits to be rolled twice, and the maximum roll used.","以电弧击中造成的伤害会roll两次，取最大值实行."
-"Are you Elusive?","是否有【灵巧】?"
-"In addition to allowing any 'while Elusive' modifiers to apply,","开启时 '当你处于【灵巧】' 之类的修正生效,"
-"this will enable the Elusive buff itself:","这将开启【灵巧】增益效果:"
-"The effect of Elusive decays over time.","【灵巧】增益效果会随时间衰减"
-"Effect of Elusive (if not maximum):","【灵巧】效果强度(如果不是最大值):"
+Are you Elusive?,你有【灵巧】?
+"In addition to allowing any 'while Elusive' modifiers to apply,","启用时 '当你处于【灵巧】' 之类的修正生效,"
+this will enable the Elusive buff itself:,这将启用【灵巧】增益效果:
+The effect of Elusive decays over time.,【灵巧】增益效果会随时间衰减。
+Effect of Elusive (if not maximum):,【灵巧】效果强度(如果不是最大值):
 "If you have a guaranteed source of Elusive, the strongest one will apply. ","如果你有一个可靠的【灵巧】来源，将会应用最大效果强度."
-"You can change this see decaying buff values","你可以改变此值以观察衰减后的增益效果"
-"Do you have Divinity?","是否有【神性】?"
-"This will enable the Divinity buff:","这将开启【神性】增益效果:"
-"50% more Elemental Damage","额外 50% 元素伤害"
-"20% less Elemental Damage Taken","承受的元素伤害额外降低 20%"
-"Rage:","【怒火】:"
-"Are you Leeching?","是否在偷取?"
-"Are you Leeching Life?","是否在偷取生命?"
-"Are you Leeching Energy Shield?","是否在偷取能量护盾?"
-"Are you Leeching Mana?","是否在偷取魔力?"
-"Do you have a Flask active?","是否有药剂激活?"
-"This is automatically enabled if you have a flask active,","如果有使用药剂将会自动开启此状态,"
-"Do you have a Totem summoned?","是否有召唤图腾?"
+You can change this to see decaying buff values,你可以改变此值以观察衰减后的增益效果
+Do you have Divinity?,你有【神性】?
+"This will enable the Divinity buff, which grants:","这将启用【神性】增益效果，赋予:"
+Defiance:,【抗争】层数:
+Rage:,【怒火】层数:
+"Base Maximum Rage is 50, and inherently grants the following:","怒火的基础最大层数为50,并赋予以下几点固定效果:"
+You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently.,如果你近期没有被击中或获得怒火，你每0.5秒失去1层怒火。
+Are you Leeching?,你在【偷取】?
+Are you Leeching Life?,^xFFFFFF你在【偷取^xE05030生命^7】?
+Are you Leeching Energy Shield?,^xFFFFFF你在【偷取^x88FFFF能量护盾^7】?
+Are you Leeching Mana?,^xFFFFFF你在【偷取^x7070FF魔力^7】?
+Do you have a Flask active?,你在【使用药剂】?
+"This is automatically enabled if you have a flask active,","如果有使用药剂将会自动启用此状态,"
+Do you have a Totem summoned?,你有召唤图腾?
 "You will automatically be considered to have a Totem if your main skill is a Totem,","如果你的主技能是图腾技能将自动被视为有召唤图腾,"
-"Have you Summoned a Totem Recently?","是否近期内有召唤图腾?"
+Have you Summoned a Totem Recently?,你近期内有召唤图腾?
 "You will automatically be considered to have Summoned a Totem Recently if your main skill is a Totem,","如果你的主技能是图腾技能将自动被视为近期内有召唤图腾,"
 "# of Summoned Totems (if not maximum):","召唤的图腾数量(如果不是最大值):"
-"# of Nearby Allies","# 附近的友军数"
-"# of Nearby Enemies","# 附近的敌人数"
-"# of Nearby Corpses","# 附近的灵枢数"
-"Are you on Consecrated Ground?","是否在【奉献地面】上?"
-"In addition to allowing any 'while on Consecrated Ground' modifiers to apply,","开启时 '你在【奉献地面】上' 之类的修正生效,"
-"this will apply the 6% life regen modifier granted by Consecrated Ground.","这将应用【奉献地面】的 获得 6% 生命回复加成."
-"Are you on Fungal Ground?",是否在【真菌地表】上?
-"Allies on your Fungal Ground gain 10% of Non-Chaos Damage as extra Chaos Damage.",【真菌地表】上的盟友获得额外10%非混沌伤害的混沌伤害
-"Are you on Burning Ground?",是否在^xB97123【燃烧地面】^7上?
-"This also implies that you are Burning.",这也意味着你在燃烧.
-"Are you on Chilled Ground?",是否在【冰缓地面】上?
-"This also implies that you are Chilled.",这也意味着你被冰缓.
-"Are you on Shocked Ground?",是否在【感电地面】上?
-"This also implies that you are Shocked.",这也意味着你被感电.
-"Are you Blinded?",你被致盲?
-"Are you Burning?",你被燃烧?
-"Are you Ignited?",你被点燃?
-"Are you Chilled?",你被冰缓?
-"Are you Frozen?",你被冰冻?
-"Are you Shocked?",你被感电?
-"Are you Bleeding?",你被流血?
-"Are you Poisoned?",你被中毒?
-"# of Poison on You:","# 你的中毒层数:"
-"This also implies that you are Poisoned.",这也意味着你中毒了.
-"Is there only one nearby Enemy?",附近只有一个敌人?
-"Have you Hit Recently?",你近期有击中?
-"You will automatically be considered to have Hit Recently if your main skill is self-cast,","如果你的主技能是自施放将自动开启此状态,"
-"Have you Crit Recently?",你近期有暴击?
-"This also implies that your Skills have Crit Recently.",这也意味着你近期有暴击.
-"Have your Skills Crit Recently?",你的技能近期有暴击?
-"Have you dealt a Non-Crit Recently?",你近期有非暴击?
-"Have you Killed Recently?",你近期有击杀?
-"# of Enemies Killed Recently","# 近期击杀敌人数"
-"This also implies that you have Killed Recently.",这也意味着你近期有击杀.
-"Have your Totems Killed Recently?",你的图腾近期有击杀?
-"# of Enemies Killed by Totems Recently","# 图腾近期击杀敌人数"
-"This also implies that your Totems have Killed Recently.",这也意味着你的图腾近期有击杀.
-"Have your Minions Killed Recently?",你的召唤物近期有击杀?
-"# of Enemies Killed by Minions Recently","# 召唤物近期击杀数"
-"This also implies that your Minions have Killed Recently.",这也意味着你的召唤物近期有击杀.
-"Killed Enemy affected by your DoT Recently?",你的持续伤害效果近期有击杀敌人?
-"# of Shocked Enemies Killed Recently:","# 近期击杀感电的敌人数:"
-"Have you Frozen an Enemy Recently?",你近期有冰冻敌人?
-"Have you Shattered an Enemy Recently?",你近期有粉碎敌人?
-"Have you Ignited an Enemy Recently?",你近期有点燃敌人?
-"Have you Shocked an Enemy Recently?",你近期有感电敌人?
-"# of Poisons applied Recently:","# 近期中毒数:"
-"Have you been Hit Recently?",你近期被击中?
-"Have you been Crit Recently?",你近期被暴击?
-"Have you been Savage Hit Recently?",你近期被【残暴打击】?
-"This also implies that you have been Hit Recently.",这也意味着你近期被击中.
-"Have you been hit by Fire Recently?",你近期被火焰击中?
-"Have you been hit by Cold Recently?",你近期被冰霜击中?
-"Have you been hit by Light. Recently?",你近期被闪电击中?
-"Have you Blocked Recently?",你近期有格挡?
-"Have you Blocked an Attack Recently?",你近期有格挡攻击?
-"This also implies that you have Blocked Recently.",这将意味着你近期有格挡.
-"Have you Blocked a Spell Recently?",你近期有格挡法术?
-"Energy Shield Recharge started Recently?",近期有启动能量护盾充能?
-"Is Pendulum of Destruction active?",【毁灭光炮塔】激活状态?
-"Conflux Buff:",汇流增益效果:
-"Is Bastion of Hope active?",【希望壁垒】激活状态?
-"Are you in Her Embrace?",你有【她的拥抱】?
-"This option is specific to Oni-Goroshi.",这是【鬼弑·查兰之剑】的选项.
-"Have you used a Skill Recently?",你近期有使用技能?
-"# of Skills Used Recently:","# 近期使用技能数:"
-"Have you Attacked Recently?",你近期有攻击?
-"This also implies that you have used a Skill Recently.",这将意味着你近期有使用技能.
-"You will automatically be considered to have Attacked Recently if your main skill is an attack,","如果你的主技能是攻击技能将会自动开启此状态,"
-"Have you Cast a Spell Recently?",你近期有施放法术?
-"You will automatically be considered to have Cast a Spell Recently if your main skill is a spell,","如果你的主技能是法术技能将会自动开启此状态,"
-"Have you used a Fire Skill Recently?",你近期有使用火焰技能?
-"Have you used a Cold Skill Recently?",你近期有使用冰霜技能?
-"Have you used a Minion Skill Recently?",你近期有使用召唤物技能?
-"You will automatically be considered to have used a Minion skill Recently if your main skill is a minion skill,","如果你的主技能是召唤生物技能将会自动开启此状态,"
-"Have you used a Movement Skill Recently?",你近期有使用移动技能?
-"You will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,","如果你的主技能是移动技能将会自动开启此状态,"
-"Have you used a Vaal Skill Recently?",你近期有使用瓦尔技能?
-"You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,","如果你的主技能是瓦尔技能将会自动开启此状态,"
-"Do you have Soul Gain Prevention?",是否有【阻灵术】?
-"Have you used a Warcry Recently?",你近期有使用战吼?
+This also implies that you have a Totem summoned.,这也意味着你召唤了一个图腾。
+"This will affect all 'per Summoned Totem' modifiers, even for non-Totem skills.","这将影响所有'每召唤一个图腾'修正，即使是对于非图腾技能。"
+Summoned a Golem in the past 8 Seconds?,过去8秒内召唤了魔像?
+Summoned a Golem in the past 10 Seconds?,过去10秒内召唤了魔像?
+# of Nearby Allies:,附近的友军数:
+# of Nearby Corpses:,附近的灵枢数:
+# of Summoned Minions:,召唤物数:
+Are you on Consecrated Ground?,你在【奉献地面】上?
+"In addition to allowing any 'while on Consecrated Ground' modifiers to apply,","启用时 '你在【奉献地面】上' 之类的修正生效,"
+Consecrated Ground grants 5% Life Regeneration to players and allies.,^xFFFFFF【奉献地面】使在上面的玩家和友军获得每秒6%^xE05030生命^7回复。
+Are you on Fungal Ground?,你在【真菌地表】上?
+Allies on your Fungal Ground gain 10% of Non-Chaos Damage as extra Chaos Damage.,xFFFFFF【真菌地表】上的友军获得10%非混沌伤害的额外^xD02090混沌^7伤害。
+Are you on Burning Ground?,^xFFFFFF你在【^xB97123燃烧^7地面】上?
+This also implies that you are Burning.,^xFFFFFF这也意味着你在^xB97123燃烧^7。
+Are you on Chilled Ground?,^xFFFFFF你在【^x3F6DB3冰缓^7地面】上?
+This also implies that you are Chilled.,^xFFFFFF这也意味着你被^x3F6DB3冰缓^7。
+Are you on Shocked Ground?,^xFFFFFF你在【^xADAA47感电^7地面】上?
+This also implies that you are Shocked.,^xFFFFFF这也意味着你被^xADAA47感电^7。
+Are you Blinded?,你被致盲?
+Are you Burning,^xFFFFFF你在^xB97123燃烧^7?
+Are you Ignited?,^xFFFFFF你被^xB97123点燃^7?
+Are you Chilled?,^xFFFFFF你被^x3F6DB3冰缓^7?
+Did you Chill yourself?,^xFFFFFF你^x3F6DB3冰缓^7你自己?
+Are you Frozen?,^xFFFFFF你被^x3F6DB3冰冻^7?
+Are you Shocked?,^xFFFFFF你被^xADAA47感电^7?
+Are you Bleeding?,你在流血?
+Are you Poisoned?,你在中毒?
+# of Poison on You:,你所受中毒层数:
+This also implies that you are Poisoned.,这也意味着你中毒了。
+Are you against Damage over Time?,你受持续伤?
+# of nearby Enemies:,附近的敌人数:
+# of nearby Rare or Unique Enemies:,附近的稀有或传奇敌人数:
+Have you Hit Recently?,你近期有击中?
+"You will automatically be considered to have Hit Recently if your main skill is self-cast,","如果你的主技能是自施放的将自动启用此状态,"
+Have you Crit Recently?,你近期有造成暴击?
+This also implies that your Skills have Crit Recently.,这也意味着你的技能近期有暴击。
+Have your Skills Crit Recently?,你的技能近期有暴击?
+Have your Herald Skills Crit Recently?,你的捷技能近期有暴击?
+Lost a Non-Vaal Guard Skill buff recently?,你近期失去了一个非瓦尔技能的增益?
+Have you dealt a Non-Crit Recently?,你近期有造成非暴击?
+Are you Channelling?,你在持续吟唱?
+"You will automatically be considered to be Channeling if your main skill is a channelled skill,","如果你的主技能是持续吟唱技能的将自动被视为在持续吟唱,"
+Have you Hit Recently with Your Weapon?,你在近期有用你的武器击中?
+This also implies that you have Hit Recently.,这也意味着你的近期有击中。
+Have you Killed Recently?,你近期有击杀?
+# of Enemies Killed Recently:,近期击杀敌人数:
+This also implies that you have Killed Recently.,这也意味着你近期有击杀。
+Have you Killed in the last 3 Seconds?,你3秒内有击杀?
+Killed a poisoned enemy in the last 2 Seconds?,你2秒内有击杀中毒的敌人?
+No summoned Totems in the past 2 seconds?,你2秒内没有召唤图腾?
+Have your Totems Killed Recently?,你的图腾近期有击杀?
+This also implies that your Totems have Killed Recently.,这也意味着你的图腾近期有击杀。
+Have you used a Brand Skill recently?,你近期有使用烙印技能?
+# of Enemies Killed by Totems Recently:,图腾近期击杀敌人数:
+Have your Minions Killed Recently?,你的召唤物近期有击杀?
+Has a Minion Died Recently?,你近期有召唤物死亡?
+# of Enemies Killed by Minions Recently:,召唤物近期击杀数:
+This also implies that your Minions have Killed Recently.,这也意味着你的召唤物近期有击杀。
+Killed enemy affected by your DoT Recently?,你的持续伤害效果近期有击杀敌人?
+# of Shocked Enemies Killed Recently:,^xFFFFFF近期击杀^xADAA47感电^7的敌人数:
+Have you Frozen an enemy Recently?,^xFFFFFF你近期有^x3F6DB3冰冻^7敌人?
+Have you Chilled an enemy Recently?,^xFFFFFF你近期有^x3F6DB3冰缓^7敌人?
+Have you Shattered an enemy Recently?,^xFFFFFF你近期有^x3F6DB3粉碎^7敌人?
+Have you Ignited an Enemy Recently?,^xFFFFFF你近期有^xB97123点燃^7敌人?
+Have you Shocked an Enemy Recently?,^xFFFFFF你近期有^xADAA47感电^7敌人?
+Have you Stunned an enemy Recently?,你近期有击晕敌人?
+# of Poisons applied Recently:,近期施加中毒层数:
+# of Life spent Recently:,近期^xE05030生命^7消耗量:
+# of Mana spent Recently:,近期^x7070FF魔力^7消耗量:
+Have you been Hit Recently?,你近期被击中?
+# of times you have been Hit Recently:,你近期被击中次数:
+Have you been Hit by an Attack Recently?,你近期被攻击击中?
+Have you been Crit Recently?,你近期被暴击?
+Consumed 12 Steel Shards Recently?,你近期消耗12钢刃碎片?
+Gained a Power Charge Recently?,你近期有获得【暴击球】?
+Have you been Savage Hit Recently?,你近期被【残暴打击】?
+This also implies that you have been Hit Recently.,这也意味着你近期被击中。
+Have you been hit by Fire Recently?,^xFFFFFF你近期被^xB97123火焰^7伤害击中?
+Have you been hit by Cold Recently?,^xFFFFFF你近期被^x3F6DB3冰霜^7伤害击中?
+Have you been hit by Light. Recently?,^xFFFFFF你近期被^xADAA47闪电^7伤害击中?
+Have you taken Spell Damage Recently?,你近期受到法术伤害?
+Taken Fire Damage from enemy Hit Recently?,^xFFFFFF你近期有受敌人^xB97123火焰^7击中伤害?
+Have you Blocked Recently?,你近期有格挡?
+Have you Blocked an Attack Recently?,你近期有格挡攻击?
+This also implies that you have Blocked Recently.,这也意味着你近期有格挡。
+Have you Blocked a Spell Recently?,你近期有格挡法术?
+Energy Shield Recharge started Recently?,^xFFFFFF近期有启动^x88FFFF能量护盾^7充能?
+Have you stopped taking DoT recently?,你近期停止受到持续伤害?
+Do you have Convergence?,你有【汇聚】效果?
+Is Pendulum of Destruction active?,【毁灭之钟】激活?
+Conflux Buff:,汇流增益效果:
+Is Bastion of Hope active?,【希望壁垒】激活?
+"Is Ngamahu, Flame's Advance active?","【火徒.努葛玛呼】激活?"
+Are you in Her Embrace?,你有【她的拥抱】?
+This option is specific to Oni-Goroshi.,这是【鬼弑·查兰之剑】的特有选项。
+Have you used a Skill Recently?,你近期有使用技能?
+# of Skills Used Recently:,近期使用技能数:
+This also implies that you have used a Skill Recently.,这也意味着你近期有使用技能。
+Have you Attacked Recently?,你近期有攻击?
+"You will automatically be considered to have Attacked Recently if your main skill is an attack,","如果你的主技能是攻击技能将会自动启用此状态,"
+Have you Cast a Spell Recently?,你近期有施放法术?
+"You will automatically be considered to have Cast a Spell Recently if your main skill is a spell,","如果你的主技能是法术技能将会自动启用此状态,"
+Have you Cast a Spell in the last second?,你过去1秒内有施放法术?
+How many spells cast in the last 8 seconds?,过去8秒内施放了多少法术?
+Only non-instant spells you cast count,仅计算非立即施放法术
+Have you used a Fire Skill Recently?,^xFFFFFF你近期有使用^xB97123火焰^7技能?
+Have you used a Cold Skill Recently?,^xFFFFFF你近期有使用^x3F6DB3冰霜^7技能?
+Have you used a Minion Skill Recently?,你近期有使用召唤物技能?
+"You will automatically be considered to have used a Minion skill Recently if your main skill is a minion skill,","如果你的主技能是召唤生物技能将会自动启用此状态,"
+Have you used a Travel Skill Recently?,你近期有使用旅行技能?
+Have you cast Dash Recently?,你近期有使用技能【冲刺】?
+Have you used a Movement Skill Recently?,你近期有使用位移技能?
+This also implies that you have used a Skill Recently..,这也意味着你近期有使用技能。
+"You will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,","如果你的主技能是移动技能将会自动启用此状态,"
+Have you used a Vaal Skill Recently?,你近期有使用瓦尔技能?
+"You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,","如果你的主技能是瓦尔技能将会自动启用此状态,"
+Do you have Soul Gain Prevention?,你有【阻灵术】?
+Have you used a Warcry Recently?,你近期有使用战吼?
 "# of Mines Detonated Recently:","# 近期引爆地雷数:"
 "# of Traps Triggered Recently:","# 近期触发地雷数:"
 "Consumed a corpse Recently?",近期有消耗灵柩?
@@ -375,24 +476,24 @@ Vulnerability:,【脆弱】:
 "Is the enemy on Full Life?",是否满血的敌人?
 "Is the enemy on Low Life?",是否低血的敌人?
 "Is the enemy Cursed?",是否诅咒的敌人?
-"Your enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的诅咒技能至少开启一个将会自动开启此状态,"
+"Your enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的诅咒技能至少启用一个将会自动启用此状态,"
 "Is the enemy Bleeding?",是否流血的敌人?
 "Is the enemy Poisoned?",是否中毒的敌人?
 "# of Poison on Enemy:","# 敌人中毒数:"
 "Is the enemy Maimed?",是否瘫痪的敌人?
 "Is the enemy Hindered?",是否被干扰的敌人?
 "Is the enemy Blinded?",是否致盲的敌人?
-"In addition to allowing 'against Blinded Enemies' modifiers to apply,","开启时 '对致盲的敌人' 之类的修正生效,"
+"In addition to allowing 'against Blinded Enemies' modifiers to apply,","启用时 '对致盲的敌人' 之类的修正生效,"
 "this will lessen the enemy's chance to hit, and thereby increase your evade chance.",这将减少敌人的击中几率从而提高你的闪避几率.
 "Is the enemy Taunted?",是否嘲讽的敌人?
 "Is the enemy Burning?",是否燃烧的敌人?
 "Is the enemy Ignited?",是否点燃的敌人?
-"This also implies that the enemy is Burning.",这将意味着敌人被燃烧.
+"This also implies that the enemy is Burning.",这也意味着敌人被燃烧.
 "Is the enemy Chilled?",是否冰缓的敌人?
 "Is the enemy Frozen?",是否冰冻的敌人?
-"This also implies that the enemy is Chilled.",这将意味着敌人被冰缓.
+"This also implies that the enemy is Chilled.",这也意味着敌人被冰缓.
 "Is the enemy Shocked?",是否感电的敌人?
-"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","开启时 '对感电的敌人' 之类的修正生效,"
+"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","启用时 '对感电的敌人' 之类的修正生效,"
 "this will apply Shock's Damage Taken modifier to the enemy.",这将对敌人应用感电伤害的加成.
 "# of Freeze/Shock/Ignite on Enemy:","# 敌人冻结/感电/点燃数:"
 "Is the enemy Intimidated?",是否恐吓的敌人?
@@ -406,8 +507,8 @@ Vulnerability:,【脆弱】:
 "20% increased Fire Damage Taken by enemy","敌人承受火焰伤害提高 20%"
 "Is the enemy on consecrated ground?",是否【奉献地面】上的敌人?
 "is the enemy Rare or Unique?",是否稀有或传奇的敌人?
-"Your enemy will automatically be considered to be Unique if one of the Boss options is selected.","如果已选择 Boss 选项将会自动开启此状态."
-"Is the enemy a Boss?","敌人是否是BOSS?"   
+"Your enemy will automatically be considered to be Unique if one of the Boss options is selected.","如果已选择 Boss 选项将会自动启用此状态."
+"Is the enemy a Boss?","敌人是否是BOSS?"
 "Standard Boss adds the following modifiers:","标准 Boss 将会应用以下加成:"
 "{0}% to enemy Elemental Resistances","敌人元素抗性 {0}%"
 "{0}% to enemy Chaos Resistance","敌人混沌抗性 {0}%"
@@ -427,3 +528,14 @@ Shaper/Guardian,岳父/长老
 "Enemy was Hit by Light. Damage?",敌人被闪电伤害击中?
 "Ignore Skill Hit Damage?",忽略技能击中伤害?
 "This option prevents EE from being reset by the hit damage of your main skill.","此选项可防止 【元素之相】(EE) 被你主技能的击中伤害重置."
+"Enemy Level:",敌人等级:
+"This overrides the default enemy level used to estimate your hit and evade chance.",设置敌人等级会影响你的命中和闪避几率估算.
+The default level for normal enemies and standard bosses is 83.,普通敌人和普通Boss的默认等级是83。
+Their default level is capped by your character level.,他们的默认等级是由你的角色等级限制的。
+"The default level for pinnacle bosses is 84, and the default level for uber pinnacle bosses is 85.","终盘 Boss的默认级别是84，而uber 终盘 Boss的默认级别是85。"
+Their default level is not capped by your character level.,他们的默认等级不由你的角色等级限制。
+"used in-game to calculate the stats on the character sheet.",在游戏中用于计算角色状态面板
+"Enemy Physical Hit Damage:",敌人击中物理伤害:
+"This overrides the default damage amount used to estimate your physical damage reduction from armour.",设置伤害量会影响你来自护甲的物理伤害减免估算
+"The default is 1.5 times the enemy's base damage, which is the same value","默认值为敌人基础伤害的 1.5 倍,此设定与游戏相同"
+"used in-game to calculate the estimate shown on the character sheet.",在游戏中用于估算角色面板.
