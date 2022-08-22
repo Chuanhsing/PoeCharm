@@ -12,7 +12,7 @@
 'of Balance','平衡之'
 'of Congealment','凝血之'
 'of Drought','幹枯之'
-'of Exposure','曝露之'
+'of Exposure','曝曬之'
 'of Impotence','短程之'
 'of Insulation','隔絕之'
 'of Miring','遲鈍之'
@@ -25,9 +25,9 @@
 (A Hit that removes at least 15% of Maximum Life is a Savage Hit),"( 一次攻擊使目標失去 15% 最大生命以上的傷害時, 該攻擊會被視為殘暴打擊 )"
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",( 腎上腺素提供增加 100% 傷害，增加 25% 攻擊、施放和移動速度、和 10% 額外物理傷害減免 )
 "(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)",（影響近戰打擊，包括普通攻擊。無法用於效果區域）
-"(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)",(異常狀態包括流血、點燃、冰緩、冰凍、感電、中毒、脆弱、精疲力盡和燒灼)
+"(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)",(異常狀態包括流血、點燃、焦灼、冰緩、冰凍、易碎、感電、殘喘和中毒)
 "(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)",(傷害類異常狀態包括流血、點燃和中毒)
-"(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(非傷害類異常狀態包括冰緩、冰凍、燒灼、脆弱、精疲力盡和感電)
+"(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(非傷害類異常狀態包括焦灼、冰緩、冰凍、易碎、感電和殘喘)
 "(Alchemist's Genius increases Flask Charges gained and effect of Flasks by 20%, for 4 seconds)",（鍊金奇才使藥劑使用次數和藥劑效果增加 20%，持續 4 秒）
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)",( 站在奉獻地面上的友方每秒回復他們最大生命的百分比，且減少 50% 他們身上的詛咒效果 )
 (Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance),( 站在奉獻地面上的友方每秒回復一定百分比的最大生命 )
@@ -58,8 +58,8 @@
 (Chill reduces Enemy Action Speed by 10%),(冰緩敵人10%)
 "(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)",(冰緩依據擊中的冰冷傷害總量減少敵人行動速度，至多30%，持續2秒)
 (Choose one of the three attached options),( 請在三個選項中擇一 )
-"(Cold Ailments are Chilled, Frozen and Brittle)",（冰冷元素異常狀態指冰緩、凍結、脆弱）
-(Cold Exposure applies -10% to Cold Resistance for 4 seconds),(【畏寒】-10% 冰冷抗性，持續 4 秒）
+"(Cold Ailments are Chilled, Frozen and Brittle)",（冰冷元素異常狀態指冰緩、冰凍、易碎）
+(Cold Exposure applies -10% to Cold Resistance for 4 seconds),(【冰冷曝曬】-10% 冰冷抗性，持續 4 秒）
 (Convergence grants 30% more Elemental Damage and lasts 4 seconds),（匯聚使總元素傷害更多 30%，並持續 4 秒）
 (cost multiplier),(消耗加成)
 (crit chance),(暴擊率)
@@ -78,19 +78,19 @@
 (Enemies that are Covered in Ash have 20% less Movement Speed and 20% increased Fire Damage Taken),（灰燼覆蓋的敵人移動速度減少 20%，所承受的火焰傷害增加 20 %）
 (Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage),（【疲憊】的敵人總移動速度額外減慢 20%，造成的總傷害更少 20 %）
 (Enemies with Malediction deal 10% reduced damage and take 10% increased damage),(帶有惡語術詛咒的敵人造成的傷害減少10%，受到的傷害增加10%)
-"(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)",（被你嘲諷敵人只能以你為目標，並對其他人造成 10% 較少傷害。嘲諷持續 3 秒）
+"(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)",（被你嘲諷敵人只能以你為目標，並對其它人造成 10% 較少傷害。嘲諷持續 3 秒）
 "(Fanaticism grants Spells you Cast yourself 75% more Cast Speed, 75% reduced mana cost and 75% increased Area of Effect)",（欣喜若狂使對自我施放的法術的總施放速度額外加快 75%，魔力消耗減少 75%，效果區域擴大 75%）
-(Fire Exposure applies -10% to Fire Resistance for 4 seconds),(【畏火】-10% 火焰抗性，持續 4 秒）
+(Fire Exposure applies -10% to Fire Resistance for 4 seconds),(【火焰曝曬】-10% 火焰抗性，持續 4 秒）
 "(Fortify grants 20% less Damage Taken from Hits, for 4 seconds)",( 護體承受 20% 更少來自擊中的傷害 ，持續 4 秒)
 (Fortify grants 20% less Damage Taken from Hits),( 護體承受 20% 更少來自擊中的傷害 )
 (Fortify grants 20% reduced Damage Taken from Hits),( 護體減少 20% 被擊中的傷害 )
 "(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)",(冰凍使敵人行動速度降至 0，使他們無法行動。根據擊中的冰冷傷害決定持續時間)
-"(Freeze lowers Enemy Action Speed to zero, preventing them from acting)",(凍結可將敵人的動作速度減緩至零，使其無法行動）
+"(Freeze lowers Enemy Action Speed to zero, preventing them from acting)",(冰凍可將敵人的動作速度減緩至零，使其無法行動）
 (Gain Added Spell Damage equal to the Damage of your Main Hand Weapon),（獲得等於你主手武器傷害的附加法術傷害）
 (guard limit),(守護上限)
 (Hexes can gain Doom up to a maximum of 30. The effect of a Hex is increased by the amount of Doom it has),（魔蠱可以獲得最多 30 點滅能。增加滅能數值能增加魔蠱的效果）
 (Hindered enemies have reduced movement speed),(被緩速的敵人移動速度會減少)
-"(Hits have up to +15% Critical Strike Chance against Brittle Enemies, based on the Cold Damage of the Hit which inflicted Brittle, for 4 seconds)",（基於造成【脆弱】的擊中冰冷傷害，使對抗【脆弱】的敵人時，最多 +15% 暴擊率，持續 4 秒）
+"(Hits have up to +15% Critical Strike Chance against Brittle Enemies, based on the Cold Damage of the Hit which inflicted Brittle, for 4 seconds)",（基於造成【易碎】的擊中冰冷傷害，使對抗【易碎】的敵人時，最多 +15% 暴擊率，持續 4 秒）
 (hover over the item and Ctrl+C) to view or edit,(鼠標懸停在物品上並 Ctrl+C )
 "(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)",(點燃根據技能的基礎火焰傷害，造成持續火焰傷害，持續4秒)
 (Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats),( 無視抗性表示你的傷害不被任和抗性所影響 )
@@ -112,12 +112,12 @@
 "(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)",（被偷取的能量護盾會持續恢復。可以同時進行多次偷取，次數有上限）
 "(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)","(吸取的生命會隨時間逐漸回復。多個吸取效果可以同時發生, 但有一個上限)"
 "(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)","(吸取的魔力會隨時間逐漸回復。多個吸取效果可以同時發生, 但有一個上限)"
-(Lightning Ailments are Shocked and Sapped),（閃電異常狀態指感電、精疲力盡）
-(Lightning Exposure applies -10% to Lightning Resistance for 4 seconds),(【閃電曝露】-10% 閃電抗性，持續 4 秒）
+(Lightning Ailments are Shocked and Sapped),（閃電異常狀態指感電、殘喘）
+(Lightning Exposure applies -10% to Lightning Resistance for 4 seconds),(【閃電曝曬】-10% 閃電抗性，持續 4 秒）
 (Maimed enemies have 30% reduced Movement Speed),( 被癱瘓的敵人減少 30% 移動速度 )
 (Maximum Rage is 50),( 盛怒最大層數 50 )
 (Maximum Resistances cannot be raised above 90%),（最大抗性不能超過 90%）
-(modifiers to enemy damage),(敵人傷害修正)
+(modifiers to enemy damage),(敵人傷害詞綴)
 (No chance to avoid damage can be higher than 75%),（躲避傷害的機率不能高於 75%）
 "(Normal Monsters have 1 Power, Magic Monsters 2, Rare Monsters 10, Unique Monsters 20, and Players 5)",（普通怪物的威力為 1，魔法怪物為 2，稀有怪物為 10，傳奇怪物為 20，玩家為 5）
 (Number of mitigated hits),(減輕後可被擊中數)
@@ -140,8 +140,8 @@
 (resistance),(抗性)
 (Rune Daggers are considered Daggers),（符文匕首視為匕首）
 "(Ruptured targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, for 3 seconds. Up to 3 Ruptures can affect a target)",（殘破的目標從流血中受到的總傷害更多 25%，身上的流血效果總消減速度額外加快 25%，持續 3 秒。一個目標最多 3 層殘破）
-"(Sapped Enemies deal up to 20% less Damage, based on the Lightning Damage of the Hit, for 4 seconds)",（基於擊中的閃電傷害，使【精疲力盡】的敵人造成的總傷害減少最多 20%，持續 4 秒）
-"(Scorched Enemies have their Elemental Resistances lowered by up to 30%, based on the Fire Damage of the Hit, for 4 seconds)",（基於擊中的火焰傷害，使被【灼燒】的敵人元素抗性最多減少 30%，持續 4 秒）
+"(Sapped Enemies deal up to 20% less Damage, based on the Lightning Damage of the Hit, for 4 seconds)",（基於擊中的閃電傷害，使【殘喘】的敵人造成的總傷害減少最多 20%，持續 4 秒）
+"(Scorched Enemies have their Elemental Resistances lowered by up to 30%, based on the Fire Damage of the Hit, for 4 seconds)",（基於擊中的火焰傷害，使被【焦灼】的敵人元素抗性最多減少 30%，持續 4 秒）
 (Shock increases Damage taken by 15%),（感電使敵人承受的傷害增加 15%）
 "(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)",(感電根據擊中的閃電傷害總量，增加至多50%承受傷害，持續2秒)
 (suppression effect),(法壓效果)
@@ -196,7 +196,7 @@
 # of Fortification Stacks (if not maximum):,# 護體層數 (如果不是最大值):
 # of Freeze / Shock / Ignite on enemy:,# 敵人身上的冰凍/感電/點燃數量:
 # of Frenzy Charges (if not maximum):,# 狂怒球數量 (如果不是最大值):
-# of Gale Force:,# 【颶風之力】:
+# of Gale Force:,# 【颶風之力】 :
 # of Impales on enemy (if not maximum):,# 敵人身上的穿刺數量 (如果不是最大值):
 # of Inspiration Charges (if not maximum):,# 啟發球數量 (如果不是最大值):
 # of Intensity:,# 【強化】:
@@ -210,7 +210,7 @@
 # of Poison on You:,# 你被中毒層數:
 # of Poisons applied Recently:,# 近期中毒層數:
 # of Power Charges (if not maximum):,# 暴擊球數量 (如果不是最大值):
-# of Rampage Kills:,# 【暴怒】擊殺數量:
+# of Rampage Kills:,# 擊殺數【暴怒】 :
 # of Sextants affecting the area,# 個六分儀影響該地區
 # of Shocked Enemies Killed Recently:,# 近期擊殺感電的敵人數量:
 # of Siphoning Charges (if not maximum):,# 虹吸球數量 (如果不是最大值):
@@ -220,7 +220,7 @@
 # of Summoned Totems (if not maximum):,# 召喚圖騰數量 (如果不是最大值):
 # of times Skill has Chained:,# 技能已連鎖次數:
 # of times Skill has Pierced:,# 技能已穿透次數:
-# of Traps Triggered Recently:,# 近期觸發地雷數量:
+# of Traps Triggered Recently:,# 近期觸發陷阱數量:
 # of Virulence Stacks:,# 【毒性】層數:
 # of Withered Stacks:,# 【死亡凋零】層數:
 %Inc Armour from Tree,護甲加成(天賦)
@@ -1233,9 +1233,9 @@
 15% increased Armour,增加 15% 護甲
 15% increased Armour while you have Fortify,獲得護體時增加 15% 護甲
 15% increased Attack and Cast Speed if you've used a Movement Skill Recently,近期內你若有使用移動技能，增加 15% 攻擊和施放速度
-15% increased Attack Damage while holding a Shield,持盾牌時造成的攻擊傷害增加 15%
+15% increased Attack Damage while holding a Shield,持盾牌時增加 15% 攻擊傷害
 15% increased Attack Physical Damage,攻擊造成的物理傷害增加 15%
-15% increased Attack Speed while Leeching,生命偷取時攻擊速度增加 15%
+15% increased Attack Speed while Leeching,偷取時增加 15% 攻擊速度
 15% increased Attack Speed with Bows,使用弓類武器時增加 15% 攻擊速度
 15% increased Attack Speed with Wands,使用法杖類武器時增加 15% 攻擊速度
 15% increased Brand Attachment range,增加 15% 烙印附著距離
@@ -1800,7 +1800,7 @@
 25% increased Totem Damage,增加 25% 圖騰傷害
 25% increased Totem Placement speed,增加 25% 圖騰放置速度
 25% less Damage over Time taken during Effect of any Life Flask,任何生命藥劑效果期間，承受 25% 更少持續傷害
-25% less Damage taken from other Enemies near your Marked Enemy,承受 25% 更少來自靠近被你印記敵人的其他敵人的傷害
+25% less Damage taken from other Enemies near your Marked Enemy,承受 25% 更少來自靠近被你印記敵人的其它敵人的傷害
 25% more Damage while there is at most one Rare or Unique Enemy nearby,當附近最多至有 1 個稀有或傳奇敵人，你造成 25% 更多傷害
 25% more Damage with Bleeding,流血有 25% 更多傷害
 25% more Damage with Hits and Ailments against Enemies that are on Low Life,對貧血的敵人有 25% 更多擊中和異常狀態傷害
@@ -2340,7 +2340,7 @@
 50% more Global Accuracy Rating,全域命中值更多 50%
 50% of Physical Damage Converted to Fire Damage,50% 物理傷害轉換為火焰傷害
 "50% of Physical, Cold and Lightning Damage Converted to Fire Damage",50% 的物理、冰冷和閃電傷害轉換為火焰傷害
-"50% of Physical, Cold and Lightning Damage Converted to Fire Damage\nDeal no Non-Fire Damage",50% 物理、冰冷、閃電傷害轉換成火焰傷害。\n除火焰傷害外不造成其他傷害
+"50% of Physical, Cold and Lightning Damage Converted to Fire Damage\nDeal no Non-Fire Damage",50% 物理、冰冷、閃電傷害轉換成火焰傷害。\n除火焰傷害外不造成其它傷害
 50% reduced Effect of Shock on you,減少 50% 你身上的感電效果
 50% reduced Maximum Recovery per Life Leech,從生命偷取中獲得的最大總恢復量減少 50%
 50% reduced Projectile Fork angle,減少 50% 投射物分裂角度
@@ -3168,8 +3168,8 @@ Area is very Repulsive,此區域非常令人反感
 Area of Effect,影響範圍
 Area of Effect Damage,範圍傷害
 Area of Effect in Sand Stance and Damage in Blood Stance,沙戮姿態範圍效果和血腥姿態傷害
-Area of Effect Mod:,範圍效果修正:
-Area of Effect modifiers:,範圍效果修正:
+Area of Effect Mod:,範圍效果詞綴:
+Area of Effect modifiers:,範圍效果詞綴:
 Area of Effect per Endurance Charge,每顆耐力球範圍效果
 Area Spells Mastery,範圍法術專精
 Area's inhabitants are lying in ambush,區域內怪物都處於伏擊狀態
@@ -3517,15 +3517,11 @@ Aura Duration,光環持續時間
 Aura Duration:,光環持續時間:
 Aura Effect,光環效果
 Aura Effect Mastery,光環效果專精
-Aura Effect Mod:,光環效果修正:
+Aura Effect Mod:,光環效果詞綴:
 Aura Mastery,光環專精
 Auras from your Skills do not affect Allies,來自你技能的光環不會影響友方
 Auras from your Skills grant +1% Physical Damage Reduction to you and Allies,你的技能光環給予你和友方 +1% 物理傷害減免
 Auras from your Skills grant 0.2% of Life Regenerated per second to,你技能施放的光環給予你和友方每秒回復 0.2% 生命
-Auras from your Skills grant 2% increased Attack and Cast,你技能的光環可使你和週圍友軍的攻擊和施放
-Auras from your Skills grant 2% increased Attack and Cast\nSpeed to you and Allies,你的技能光環給予你和友方增加 2% 攻擊和施放速度
-Auras from your Skills grant 3% increased Attack and Cast,你技能的光環可使你和週圍友軍的攻擊和施放
-Auras from your Skills grant 3% increased Attack and Cast\nSpeed to you and Allies,你的技能光環給予你和友方增加 3% 攻擊和施放速度
 Auric Mace,聖約之錘
 Aurseize,富貴之運
 Aurumvorax,靈護
@@ -3845,7 +3841,8 @@ Bleed Nova,流血冰冷
 Bleed:,流血:
 Bleeding cannot be inflicted on you,流血對你沒有影響
 Bleeding DPS,流血秒傷
-"Bleeding Enemies you Kill Explode, dealing 10% of\ntheir Maximum Life as Physical Damage",擊殺流血的敵人時產生爆炸，造成等同其 10% 最大生命的物理傷害
+Bleeding Enemies you Kill Explode,擊殺流血的敵人時產生爆炸
+dealing 10% of their Maximum Life as Physical Damage,造成等同其 10% 最大生命的物理傷害
 Bleeding Enemies you Kill with Hits Shatter,你擊中擊殺流血的敵人會粉碎
 Bleeding Mastery,流血專精
 Bleeding you inflict deals Damage 10% faster,你造成的流血傷害加速 10%
@@ -4080,7 +4077,7 @@ Brittle,易碎
 Brittle Barrier,易碎屏障
 Brittle Bleeder,嗜血枯骨
 Brittle Duration:,易碎時間:
-Brittle Effect Mod:,易碎效果修正:
+Brittle Effect Mod:,易碎效果詞綴:
 Brittle Poacher,盜獵者殘骨
 Broad Axe,闊斧
 Broad Sword,闊劍
@@ -4189,7 +4186,7 @@ Can be modified while Corrupted,已汙染時仍可調整
 "Can consume Charges from Ruby, Sapphire, and Topaz Flasks",可以消耗紅玉、藍玉和黃玉藥劑充能
 Can have a second Enchantment Modifier,可以有第二個附魔詞綴
 Can have an additional Brand Attached to an Enemy,可以對敵人附著 1 個額外烙印
-Can have multiple Crafted Modifiers,可以擁有多個大師工藝屬性修正
+Can have multiple Crafted Modifiers,可以擁有多個大師工藝屬性詞綴
 Can have up to 2 additional Remote Mines placed at a time,同時最多可以有 2 個額外已放置的遙控地雷
 Can have up to 2 additional Traps placed at a time,同時至多可以放置 2 個額外陷阱
 Can have up to 3 additional Remote Mines placed at a time,同時最多可以有 3 個額外已放置的遙控地雷
@@ -4206,7 +4203,7 @@ Can't be Evaded,無法閃避
 Can't use Chest armour,不能使用胸甲
 Can't use Flask in Fifth Slot,不能使用第 5 欄位的藥劑
 Can't use Helmets,不能使用頭盔
-Can't use other Rings,不能使用其他戒指
+Can't use other Rings,不能使用其它戒指
 Cancel,取消
 Cane of Kulemak,骷髏馬克的靈杖
 Cane of Unravelling,初惡枝枒
@@ -4603,9 +4600,9 @@ Child of Violence,暴力之子
 Chill and Freeze Reflection,反射冰緩和冰凍狀態
 Chill and Freeze Resistance,冰緩和冰凍抗性
 Chill Avoid Ch.:,避免冰緩機率:
-Chill Dur. Mod:,冰緩持續時間修正:
+Chill Dur. Mod:,冰緩持續時間詞綴:
 Chill Duration:,冰緩持續時間:
-Chill Effect Mod:,冰緩效果修正:
+Chill Effect Mod:,冰緩效果詞綴:
 Chill Effect:,冰緩效果:
 Chill effects on you Proliferate to nearby Enemies,你身上的冰緩狀態擴散至周圍敵人身上
 Chill Nearby Enemies when you Block,當你格擋時冰緩附近敵人
@@ -5053,7 +5050,7 @@ Crit Chance,暴擊率
 Crit Chance:,暴擊率:
 Crit Damage,暴擊傷害
 Crit Damage: Ignite is based on crit damage only.,暴擊傷害: 僅基於暴擊傷害的點燃.
-Crit Effect Mod:,等效暴傷:
+Crit Effect Mod:,有效暴傷:
 Crit Multiplier,暴擊傷害
 Crit Multiplier:,暴擊傷害:
 Critical,暴擊
@@ -5159,7 +5156,7 @@ Curse does not expire while in the Hexed Area,在咒術範圍內時，詛咒不�
 Curse Duration,詛咒持續時間
 Curse Effect,詛咒效果
 Curse Effect Mastery,詛咒效果專精
-Curse Effect Mod:,詛咒效果修正:
+Curse Effect Mod:,詛咒效果詞綴:
 Curse Effect on You and Chaos Resistance,你身上的詛咒和混沌抗性
 Curse Effect on You and Consecrated Ground Effect,你身上的詛咒和奉獻地面效果
 Curse Enemies with Conductivity on Hit,擊中時詛咒敵人導電
@@ -5380,7 +5377,7 @@ Deal no Elemental Damage,無法造成元素傷害
 Deal no Fire Damage,無法造成火焰傷害
 Deal no Lightning Damage,無法造成閃電傷害
 Deal no Non-Elemental Damage,無法造成非元素傷害
-Deal no Non-Fire Damage,除火焰傷害外不造成其他傷害
+Deal no Non-Fire Damage,除火焰傷害外不造成其它傷害
 Deal no Non-Lightning Damage,不會造成非閃電傷害
 Deal no Non-Physical Damage,不會造成非物理傷害
 Deal no Physical Damage,沒有物理傷害
@@ -5388,7 +5385,7 @@ Deal Triple Damage,造成 3 倍傷害
 "Deal up to 15% more Melee Damage to Enemies, based on proximity",根據敵人離多近，造成至多 15% 更多近戰傷害
 Deals Damage without removing Charges,不移除能量球下造成傷害
 Deals no Chaos Damage,無法造成混沌傷害
-Deals no Damage of other Damage Types,其他傷害類型不會造成傷害
+Deals no Damage of other Damage Types,其它傷害類型不會造成傷害
 Deals no Elemental Damage,無法造成元素傷害
 Death,死寂
 Death and Taxes,亡者之財
@@ -5450,8 +5447,8 @@ Deerskin Gloves,鹿皮手套
 Deerstalker,獵蹤
 Default,預設
 Default Attack,普通攻擊
-Default gem level:,技能寶石預設等級:
-Default gem quality:,技能寶石預設品質:
+Default gem level:,預設技能寶石等級:
+Default gem quality:,預設技能寶石品質:
 Default is 1; maximum is 5.,預設為 1; 最大為 5.
 Defences are Zero,防禦為 0
 Defences of Items attached to Animated Guardian also apply to Animated Weapons,幻化守衛上附加的防禦道具也套用至幻化武器
@@ -5681,7 +5678,7 @@ Doryani's Lesson,多里亞尼的教程
 Doryani's Machinarium,多里亞尼的機械迷城
 Doryani's Prototype,多里亞尼之型
 Doryani's Touch,多里亞尼之觸
-Dot Damage Taken modifier,承受持續傷害修正
+Dot Damage Taken modifier,承受持續傷害詞綴
 DoT DPS,持續秒傷
 DoT DPS:,持續秒傷:
 DoT taken:,承受持續傷害:
@@ -5767,7 +5764,7 @@ Dune Hellion,沙丘獄犬
 Duplicates your other ring,複製你的另一隻戒指
 Duration,持續時間
 Duration Mastery,持續時間專精
-Duration Mod:,持續時間修正:
+Duration Mod:,持續時間詞綴:
 Dusk,暮色
 Dusk Blade,暮色之刃
 Duskblight,日落破滅
@@ -5826,7 +5823,7 @@ Eelskin Boots,鰻皮短靴
 Eelskin Gloves,鰻皮手套
 Eelskin Tunic,鰻皮之衣
 Eff. DoT Multiplier:,持續傷害加成:
-Eff. Maximum Hit Taken:,承受等效大傷:
+Eff. Maximum Hit Taken:,承受有效大傷:
 Effect of Blind (if not maximum):,致盲效果 (如果不是最大值):
 Effect of Blind:,致盲效果:
 Effect of Brittle:,易碎效果:
@@ -5838,23 +5835,23 @@ Effect of Non-Damaging Ailments Mastery,非傷害型異常狀態效果專精
 Effect of Sap:,殘喘效果:
 Effect of Scorched:,焦灼效果:
 Effect of Shock:,感電效果:
-"Effective ""Health"" Pool:",等效健康血池:
-Effective Crit Chance,等效暴擊率
-Effective DoT Pool:,等效持續血池:
-Effective DPS,等效秒傷
-Effective DPS Mod:,等效秒傷修正:
-Effective DPS modifier:,等效秒傷修正:
-Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.,等效秒傷: 詛咒和敵人屬性(例如敵人的抗性和狀態條件)將被套用. 這會估算你的真實秒傷.
-Effective flask stats:,藥劑等效統計:
-Effective Hit Pool:,等效擊中血池:
-Effective resistance:,等效抗性:
+"Effective ""Health"" Pool:",有效生命血池:
+Effective Crit Chance,有效暴擊率
+Effective DoT Pool:,有效持續血池:
+Effective DPS,有效秒傷
+Effective DPS Mod:,有效秒傷詞綴:
+Effective DPS modifier:,有效秒傷詞綴:
+Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.,有效秒傷: 詛咒和敵人屬性(例如敵人的抗性和狀態條件)將被套用. 這會估算你的真實秒傷.
+Effective flask stats:,藥劑有效統計:
+Effective Hit Pool:,有效擊中血池:
+Effective resistance:,有效抗性:
 Effects of Consecrated Ground you create Linger for 4 seconds,你製造的奉獻地面效果多留存 4 秒
 Effervescent,泡騰的
 Efficacy,效能輔助
 Efficient Explosives,高能炸彈
 Efficient Training,充分訓練
 Effusive,熱情洋溢的
-EHP calc unlucky:,等效健康血池計算很不幸:
+EHP calc unlucky:,有效生命血池計算很不幸:
 Elder,尊師
 Elder Item,尊師物品
 Elder Power,智慧之力
@@ -6044,8 +6041,8 @@ Enemies take Damage when using Movement skills,敵人使用位移技能時受到
 Enemies take increased Damage,增加敵人受到傷害
 Enemies Taunted by this Warcry are Intimidated,被此戰吼嘲諷的敵人被威嚇
 Enemies Taunted by you cannot Evade Attacks,被你嘲諷的敵人無法閃避攻擊
-Enemies Taunted by you deal 10% less Damage with Hits and,被你嘲諷的敵人攻擊其他目標時，造成的擊中和
-Enemies Taunted by you deal 20% less Damage with Hits and\nAilments against other targets,被你嘲諷的敵人對其他目標造成 20% 更少擊中和異常狀態傷害
+Enemies Taunted by you deal 10% less Damage with Hits and,被你嘲諷的敵人攻擊其它目標時，造成的擊中和
+Enemies Taunted by you deal 20% less Damage with Hits and\nAilments against other targets,被你嘲諷的敵人對其它目標造成 20% 更少擊中和異常狀態傷害
 Enemies Taunted by you take 10% increased Damage,受到你嘲諷的敵人增加 10% 承受的傷害
 Enemies Taunted by you take 20% increased Damage,受到你嘲諷的敵人增加 20% 承受的傷害
 Enemies Taunted by your Warcries are Intimidated,被你戰吼嘲諷的敵人被威嚇
@@ -6056,11 +6053,10 @@ Enemies you Curse are Intimidated,你詛咒的敵人被威嚇
 Enemies you Curse are Unnerved,你詛咒的敵人被膽怯
 Enemies you Curse have Malediction,你詛咒的敵人有惡語術
 Enemies you hit are destroyed on Kill,你所擊中的敵人死亡時將被摧毀
-Enemies you hit with Elemental Damage temporarily get +25% Resistance to those Elements and -50% Resistance to other Elements,被你用元素傷害擊中的敵人暫時增加 25% 該屬性的元素抗性，並減少 50% 其他屬性的元素抗性
+Enemies you hit with Elemental Damage temporarily get +25% Resistance to those Elements and -50% Resistance to other Elements,被你用元素傷害擊中的敵人暫時增加 25% 該屬性的元素抗性，並減少 50% 其它的元素抗性
 Enemies you Impale have -10% to Total Physical Damage Reduction against Impale Hits,被你穿刺的敵人對抗穿刺擊中的總物理傷害減免 -10%
 Enemies you Impale have -5% to Total Physical Damage Reduction against Impale Hits,被你穿刺的敵人對抗穿刺擊中的總物理傷害減免 -5%
 Enemies you kill are Shocked,你擊殺的敵人被感電
-"Enemies you Kill Explode, dealing 10% of their Life as Physical Damage",被你擊殺的敵人會爆炸，造成 10% 它們生命的物理傷害
 Enemies you Kill that are affected by Elemental Ailments,擊殺受元素異常狀態影響的敵人
 Enemies you Kill that are affected by Elemental Ailments\ngrant 100% increased Flask Charges,擊殺受元素異常狀態影響的敵人\n增加 100% 藥劑充能
 Enemies' Damage with Critical Strikes against you is Lucky,敵人的暴擊傷害對你很幸運
@@ -6074,7 +6070,7 @@ Enemy Condition,敵人條件
 Enemy Corpse Life:,敵人屍體生命:
 Enemy Damage Type:,敵人傷害類型:
 Enemy Damage:,敵人傷害:
-Enemy Evasion modifiers:,敵人閃避修正:
+Enemy Evasion modifiers:,敵人閃避詞綴:
 Enemy Fire Resistance:,敵人火焰抗性:
 Enemy has Elemental / Chaos Resist:,敵人有元素/混沌抗性:
 Enemy has Elemental/Chaos Resist:,增加怪物的火焰、冰冷、閃電、混沌抗性:
@@ -6084,7 +6080,7 @@ Enemy is Hexproof?,敵人是【無咒的】?
 Enemy Level:,敵人等級:
 Enemy Lightning Resistance:,敵人閃電抗性:
 Enemy miss chance:,敵人未擊中機率:
-Enemy modifiers:,敵人修正:
+Enemy modifiers:,敵人詞綴:
 Enemy Phys. Damage Reduction:,敵人物理傷害減免:
 Enemy Physical Damage reduction:,怪物物理傷害減傷:
 Enemy Physical Hit Damage:,敵人擊中物理傷害:
@@ -6279,8 +6275,8 @@ Everlasting Sacrifice,永恆奉獻
 "Every 10 seconds, gain 100% of Physical Damage",每 10 秒，獲得額外火焰傷害，
 "Every 10 seconds, take no Damage over Time for 5 seconds",每 10 秒，不受到持續傷害 5 秒
 "Every 2 seconds, gain a Ghost Shroud, up to a maximum of 3",每 2 秒獲得 1 個幽魂屍布，至多最大上限 3
-"Every 4 seconds, 33% chance to Freeze nearby Chilled Unique Enemies for 0.6 seconds",每 4 秒便有 33% 機率凍結週圍被冰緩的傳奇敵人，持續 0.6 秒
-"Every 4 seconds, Freeze nearby Chilled Non-Unique Enemies for 0.6 seconds",每 4 秒，凍結週圍被冰緩的非傳奇敵人，持續 0.6 秒
+"Every 4 seconds, 33% chance to Freeze nearby Chilled Unique Enemies for 0.6 seconds",每 4 秒便有 33% 機率冰凍週圍被冰緩的傳奇敵人，持續 0.6 秒
+"Every 4 seconds, Freeze nearby Chilled Non-Unique Enemies for 0.6 seconds",每 4 秒，冰凍週圍被冰緩的非傳奇敵人，持續 0.6 秒
 "Every 4 seconds, Regenerate 20% of Life over one second",每 4 秒在 1 秒內回復 20% 生命
 "Every 4 seconds, Regenerate 30% of Life over one second",每 4 秒在 1 秒內回復 30% 生命
 "Every 5 seconds, Regenerate 20% of Life over one second",每隔 5 秒，在一秒內回復 20% 生命
@@ -6650,7 +6646,7 @@ Footman Sword,士兵巨劍
 "For each Element you've been hit by Damage of Recently, 8% reduced Damage taken of that Element",近期內，每個擊中你的元素可使你所承受的該元素傷害減少 8%
 "For each nearby corpse, you and nearby Allies Regenerate 0.2% of Energy Shield per second, up to 2.0% per second",附近每個屍體，你和附近友方每秒回復 0.2% 能量護盾，至多每秒 2.0%
 "For each nearby corpse, you and nearby Allies Regenerate 5 Mana\nper second, up to 50 per second",每個附近的屍體，使你和附近友方每秒回復 5 魔力，至多每秒 50
-For Effective DPS,等效秒傷
+For Effective DPS,有效秒傷
 "For reference, a level 70 monster has 6449 base life, and a level 80 monster has 12466.","僅供參考: 70 級怪物基礎生命為 6449, 80 級怪物為 12466."
 "For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","僅供參考: 70 級怪物基礎生命為 6937, 80 級怪物為 12787."
 Forbidden,禁禮
@@ -6705,7 +6701,7 @@ Freedom of Movement,解放行動
 Freeze and Chill Avoidance,避免冰凍與冰緩
 Freeze Avoid Ch.:,避免冰凍機率:
 Freeze Chance,冰凍機率
-Freeze Dur. Mod:,冰凍持續時間修正:
+Freeze Dur. Mod:,冰凍持續時間詞綴:
 Freeze Duration:,冰凍持續時間:
 Freeze effects on you Proliferate to nearby Enemies,你身上的冰凍狀態擴散至周圍敵人身上
 Freeze Mine,冰凍地雷
@@ -7254,7 +7250,7 @@ Have you been Crit Recently?,你近期被暴擊?
 Have you been hit by Cold Recently?,你近期被冰冷擊中?
 Have you been hit by Fire Recently?,你近期被火焰擊中?
 Have you been hit by Light. Recently?,你近期被閃電擊中?
-Have you been Hit Recently?,你近期被擊中?
+Have you been Hit Recently?,你近期被【擊中】?
 Have you been Savage Hit Recently?,你近期被【殘暴打擊】?
 Have you Blocked a Spell Recently?,你近期有格擋法術?
 Have you Blocked an Attack Recently?,你近期有格擋攻擊?
@@ -7433,8 +7429,8 @@ Hits ignore Enemy Monster Fire Resistance while you are Ignited,當你被點燃�
 Hits ignore Enemy Monster Physical Damage Reduction,擊中無視敵人怪物物理傷害減免
 Hits ignore Enemy Monster Physical Damage Reduction if you've Blocked in the past 20 seconds,若你過去 20 秒有格擋，擊中無視敵人怪物物理傷害減免
 Hits ignore Enemy Monster Resistances,擊中無視敵人怪物抗性
-Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements,擊中造成的元素傷害移除該元素曝曬並造成其他元素曝曬
-Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements\nExposure inflicted this way applies -25% to Resistances,擊中造成的元素傷害移除該元素曝曬並造成其他元素曝曬\n以此方式造成的曝曬 -25% 抗性
+Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements,擊中造成的元素傷害移除該元素曝曬並造成其它元素曝曬
+Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements\nExposure inflicted this way applies -25% to Resistances,擊中造成的元素傷害移除該元素曝曬並造成其它元素曝曬\n以此方式造成的曝曬 -25% 抗性
 Hits that Stun Enemies have Culling Strike,造成敵人暈眩的攻擊和法術帶有撲殺效果
 Hits with Cleave Fortify,劈砍擊中護體
 "Hits with this Weapon always Ignite, Freeze, and Shock",使用此武器擊中總是造成點燃、冰凍和感電
@@ -7559,7 +7555,7 @@ Ignited Enemies you hit are destroyed on Kill,你的擊中所擊殺被點燃敵�
 Ignites caused by Minions spread to other nearby Enemies,召喚物造成點燃時擴散至附近敵人
 Ignites caused by this Attack or Minions spread to other nearby Enemies,攻擊和召喚物造成點燃時擴散至附近敵人
 Ignites caused by this Skill spread to other nearby Enemies,技能造成點燃時擴散至附近敵人
-Ignites caused by this Spell or Minions spread to other nearby Enemies,此法術或召喚物造成的點燃擴散至其他附近的敵人
+Ignites caused by this Spell or Minions spread to other nearby Enemies,此法術或召喚物造成的點燃擴散至其它附近的敵人
 Ignites you cause are reflected back to you,你造成的點燃會被反射回自身
 Ignites you inflict deal Damage 15% faster,你造成的點燃傷害加速 15%
 Ignites you inflict deal Damage 5% faster,你造成的點燃傷害加速 5%
@@ -7752,7 +7748,7 @@ Increases and Reductions to Maximum Energy Shield instead apply to Ward,增加�
 Increases and Reductions to Mine Duration also apply to this Skill's Buff Duration,增加和減少地雷持續時間同時套用至此技能的增益效果持續時間
 Increases and Reductions to Minion Attack Speed also affect you,增加和減少召喚物攻擊速度同時影響你
 Increases and Reductions to Minion Damage also affect you,召喚物傷害的增減同時套用在你身上
-Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage,範圍內其他傷害類型的增減轉換成火焰傷害
+Increases and Reductions to other Damage Types in Radius are Transformed to apply to Fire Damage,範圍內其它傷害類型的增減轉換成火焰傷害
 Increases and Reductions to Physical Damage in Radius are Transformed to apply to Cold Damage,範圍內物理傷害的增減轉換成冰冷傷害
 Increases and Reductions to Projectile Speed also apply to Damage with Bows,增加和減少投射物速度同時套用至弓的傷害
 Increases and Reductions to Spell Damage also apply to Attack Damage from this Skill,增加和減少法術傷害同時影響此技能的攻擊傷害
@@ -8247,7 +8243,7 @@ Light of Divinity,神聖啟蒙
 Light of Lunaris,月影之耀
 Light Quiver,輕巧箭袋
 Light Radius is based on Energy Shield instead of Life,基於能量護盾的照亮範圍
-Light Radius Mod:,視野修正:
+Light Radius Mod:,視野詞綴:
 Lightbane Raiment,魔道之衣
 Lightning,閃電
 Lightning Aegis,閃電聖盾
@@ -8435,7 +8431,7 @@ Mage's Vestment,博學長衣
 Magebane,咒術災厄
 Mageblood,魔血
 Magic,魔法的
-Magic Monster Packs each have a Bloodline Mod,魔法怪物群皆有血族屬性
+Magic Monster Packs each have a Bloodline Mod,魔法怪物群皆有血族詞綴
 Magic Monsters are Maimed,魔法怪物被癱瘓
 Magic Utility Flask Effects cannot be removed,魔法功能型藥劑效果不能被移除
 Magic Utility Flasks cannot be Used,魔法功能型藥劑不能使用
@@ -8761,10 +8757,10 @@ MH Att. per second:,每秒攻擊(主手):
 MH Average Hit:,平均擊中(主手):
 MH Chance to Hit:,擊中機率(主手):
 MH Crit Chance:,暴擊率(主手):
-MH Crit Effect Mod:,等效暴傷(主手):
+MH Crit Effect Mod:,有效暴傷(主手):
 MH Crit Multiplier:,暴擊傷害(主手):
-MH DMG Mod.:,傷害修正(主手):
-MH Eff. DPS Mod:,等效秒傷修正(主手):
+MH DMG Mod.:,傷害詞綴(主手):
+MH Eff. DPS Mod:,有效秒傷詞綴(主手):
 MH Hit Damage:,平均傷害(主手):
 MH Impale Chance:,穿刺機率(主手):
 MH Inc. Att. Speed:,增加攻速(主手):
@@ -9067,16 +9063,16 @@ Modifiers to Claw Damage also apply to Unarmed Attack Damage with Melee Skills,�
 Modifiers to Critical Strike Multiplier also apply to Damage over Time Multiplier for Ailments from Critical Strikes at 50% of their value,暴擊造成異常狀態時，用於暴擊傷害加成的詞綴也套用於持續傷害加成，等於其數值的 50%
 Modifiers to Critical Strike Multiplier also apply to Damage over Time Multiplier for Ailments from Critical Strikes at 50% of their value\n30% less Damage with Hits,暴擊加成詞綴同時以它們數值的 50% 套用至來自暴擊異常狀態的持續傷害\n30% 更少擊中傷害
 Modifiers to Debuff Duration also apply to this Skill's Soul Gain Prevention,減益效果詞綴同時影響此技能的停止獲得靈魂
-Modifiers to Melee Attack Range also apply to this Skill's Area radius,對近戰攻擊距離的修正同樣作用於該技能的擴散範圍。
+Modifiers to Melee Attack Range also apply to this Skill's Area radius,對近戰攻擊距離的詞綴同樣作用於該技能的擴散範圍。
 Modifiers to Melee Strike Range also apply to this Skill's Area radius,近戰打擊距離詞綴同時影響此技能的範圍距離
 Modifiers to Minimum Endurance Charges instead apply to Minimum Brutal Charges,最小耐力球詞綴改為套用為最小殘暴球
 Modifiers to Minimum Frenzy Charges instead apply to Minimum Affliction Charges,最小狂怒球詞綴改為套用最小苦痛球
 Modifiers to Minimum Power Charges instead apply to Minimum Absorption Charges,最小暴擊球詞綴改為套用最小吸收球
-Modifiers to Minion Cast Speed also affect you,召喚物施放速度的修正同時套用在你身上
-Modifiers to Minion Damage also affect you,召喚物傷害的修正同時套用在你身上
-Modifiers to Minion Life Regeneration also affect you,召喚物生命回復的修正同時套用在你身上
-Modifiers to Minion Movement Speed also affect you,召喚物移動速度的修正同時套用在你身上
-Modifiers to Minion Resistances also affect you,召喚物抗性的修正同時套用在你身上
+Modifiers to Minion Cast Speed also affect you,召喚物施放速度的詞綴同時套用在你身上
+Modifiers to Minion Damage also affect you,召喚物傷害的詞綴同時套用在你身上
+Modifiers to Minion Life Regeneration also affect you,召喚物生命回復的詞綴同時套用在你身上
+Modifiers to Minion Movement Speed also affect you,召喚物移動速度的詞綴同時套用在你身上
+Modifiers to Minion Resistances also affect you,召喚物抗性的詞綴同時套用在你身上
 Modifiers to number of Projectiles instead apply,調整投射物數量的詞綴改為
 Modifiers to number of Projectiles instead apply to,投射物數量詞綴套用至
 Modifiers to number of Projectiles instead apply to the number of Bounces,投射物數量詞綴改為套用至彈射次數
@@ -9183,9 +9179,9 @@ Movement Skills Cost no Mana,移動技能不消耗魔力
 Movement Skills deal no Physical Damage,位移技能無法造成物理傷害
 Movement Speed,移動速度
 Movement Speed and Spell Suppression,移動速度和法術壓抑
-Movement Speed cannot be modified to below base value,你的移動速度修正不會讓你降至基礎速度以下
-Movement Speed Modifier,移動速度修正
-Movement Speed Modifier:,移動速度修正:
+Movement Speed cannot be modified to below base value,你的移動速度詞綴不會讓你降至基礎速度以下
+Movement Speed Modifier,移動速度詞綴
+Movement Speed Modifier:,移動速度詞綴:
 Movement Speed per Frenzy Charge,移動速度
 Movement Speed:,移動速度:
 Moving while Bleeding doesn't cause Minions to take extra Damage,流血時移動不使召喚物承受額外傷害
@@ -9261,7 +9257,7 @@ Nearby Enemies have 20% less Accuracy Rating while you have Phasing,當你有迷
 Nearby Enemies have Cold Exposure while you are affected by Herald of Ice,你被冰霜之捷影響時，附近的敵人有冰冷曝曬
 Nearby Enemies have Fire Exposure,附近敵人有火焰曝曬
 Nearby Enemies have Fire Exposure while you are affected by Herald of Ash,你被灰燼之捷影響時，附近的敵人有火焰曝曬
-"Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying -15% to those Resistances",【迷蹤】狀態下，附近的敵人獲得火焰、冰冷、閃電曝露，並使它們的抗性 -15%
+"Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying -15% to those Resistances",【迷蹤】狀態下，附近的敵人獲得火焰、冰冷、閃電曝曬，並使它們的抗性 -15%
 "Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying -20% to those Resistances",當你有迷蹤時，附近敵人有火焰、冰冷和閃電曝曬，-20% 這些元素抗性
 Nearby Enemies have Lightning Exposure while you are affected by Herald of Thunder,你被閃電之捷影響時，附近的敵人有閃電曝曬
 Nearby Enemies have Lightning Resistance equal to yours,附近敵人的閃電抗性等於你的閃電抗性
@@ -9568,10 +9564,10 @@ OH Att. per second:,每秒攻擊(副手):
 OH Average Hit:,平均擊中(副手):
 OH Chance to Hit:,擊中機率(副手):
 OH Crit Chance:,暴擊率(副手):
-OH Crit Effect Mod:,等效暴傷(副手):
+OH Crit Effect Mod:,有效暴傷(副手):
 OH Crit Multiplier:,暴擊傷害(副手):
-OH DMG Mod.:,傷害修正(副手):
-OH Eff. DPS Mod:,等效秒傷修正(主手):
+OH DMG Mod.:,傷害詞綴(副手):
+OH Eff. DPS Mod:,有效秒傷詞綴(主手):
 OH Hit Damage:,平均傷害(副手):
 OH Impale Chance:,穿刺機率(副手):
 OH Inc. Att. Speed:,增加攻速(副手):
@@ -9664,10 +9660,10 @@ Ornate Sword,名貴巨劍
 Oro's Sacrifice,歐羅的貢品
 Oscillating Sceptre,猶疑權杖
 Oskarm,厄斯根
-Other Aegis Skills are Disabled,其他聖盾技能失效
-Other Ailment Defences:,其他異常狀態防禦:
-Other Avoidance:,其他避免:
-Other Defences:,其它屬性:
+Other Aegis Skills are Disabled,其它聖盾技能失效
+Other Ailment Defences:,其它異常狀態防禦:
+Other Avoidance:,其它避免:
+Other Defences:,其它防禦:
 Other Effects:,其它效果:
 Oubliette,窖間
 Outgoing Projectile,發射的投射物
@@ -9895,7 +9891,7 @@ Player chance to Dodge is Unlucky,玩家在躲避時很不幸
 Player has Elemental Equilibrium?,玩家有【元素之相】?
 Player has Point Blank?,玩家擁有【零點射擊】?
 Player is cursed by:,玩家被詛咒:
-Player modifiers:,玩家修正:
+Player modifiers:,玩家詞綴:
 Player:,玩家:
 Player's and Monster's Curses are Reflected,玩家和怪物會反射詛咒
 Player's and Monster's Hexes are Reflected,玩家和怪物的咒術被反射
@@ -10103,7 +10099,7 @@ Profane Chemistry,生物學
 Profane Proxy,褻瀆之替
 Profane Wand,褻瀆法杖
 Proficiency,熟能生巧
-Proj. Speed Mod:,投射物速度修正:
+Proj. Speed Mod:,投射物速度詞綴:
 Projectile,投射物
 Projectile Attack Critical Strike Chance,投射物攻擊暴擊率
 Projectile Attack Critical Strike Chance and Multiplier,投射物攻擊暴擊率和加成
@@ -10356,7 +10352,7 @@ Rare Breach Monsters drop an additional Oil,稀有裂痕怪物掉落 1 個額外
 Rare Breach Monsters drop an additional Splinter,稀有裂痕怪物會額外掉落 1 個裂片
 Rare Monsters drop a Rare Prismatic Ring,稀有怪物會掉落 1 個稀有三相戒指
 Rare Monsters drop an additional Rare Item,稀有怪物額外掉落 1 個稀有物品
-Rare Monsters each have a Nemesis Mod,稀有怪有復仇屬性
+Rare Monsters each have a Nemesis Mod,稀有怪有復仇詞綴
 Rare Monsters have Inner Treasure in addition to their other Modifiers,稀有怪物除了本身的詞綴外還有珍寶之魂
 Rare Templates,稀有裝備
 Rarity:,稀有度:
@@ -10425,7 +10421,7 @@ Recover 6% of Life when you use a Flask,當你使用藥劑時回復 6% 生命
 Recover Full Life at the end of the Flask Effect,藥劑效果結束時回復所有生命
 Recover Full Life on use,使用時回復所有生命
 Recovery from Life Leech is not applied,生命偷取的回復不會作用
-Recovery modifiers:,回復修正:
+Recovery modifiers:,回復詞綴:
 Recurve Bow,反曲弓
 Red Storm,血紅風暴
 Redbeak,赤紅短刃
@@ -10876,7 +10872,7 @@ Sandstorm,沙塵暴
 Sandworn Slaves,沙瀑奴隸
 Sanguine Gambol,血腥之躍
 Sap Duration:,殘喘時間:
-Sap Effect Mod:,殘喘效果修正:
+Sap Effect Mod:,殘喘效果詞綴:
 Sap Enemies when you Block their Damage,當你格擋敵人的傷害時，對他們造成殘喘
 Sap Psyche,心靈乾枯
 Sapphire Flask,藍玉藥劑
@@ -10921,7 +10917,7 @@ Scion,貴族
 Scold's Bridle,禁語
 Scorch,焦灼
 Scorch Duration:,焦灼時間:
-Scorch Effect Mod:,焦灼效果修正:
+Scorch Effect Mod:,焦灼效果詞綴:
 Scorch Enemies when you Block their Damage,當你格擋敵人的傷害時，對他們造成焦灼
 Scorching Ray,熾灼奔流
 Scorching Ray debuff spreads to nearby Enemies on death,熾灼奔流的負面效果會在目標死亡時擴散至周圍敵人
@@ -10995,7 +10991,7 @@ Serrated Foil,鋸齒細劍
 Set and Forget,設定和遺忘
 Set Name,設定名稱
 Sets the blade count for Blade Vortex skills used by spectres.,設定幽魂擁有的【飛刃風暴】刀片數量.
-Sets the EHP calc to pretend its unlucky and reduce the effects of random events,設定等效生命計算假裝它很不幸並減少隨機事件的效果
+Sets the EHP calc to pretend its unlucky and reduce the effects of random events,設定有效生命計算假裝它很不幸並減少隨機事件的效果
 Sets the level of Assassin's Mark to apply to the player.,設定玩家應用的【刺客印記】等級.
 Sets the level of Conductivity to apply to the player.,設定玩家應用的【導電】等級.
 Sets the level of Despair to apply to the player.,設定玩家應用的【絕望】等級.
@@ -11120,9 +11116,9 @@ Shock Chance and Effect,感電機率和效果
 Shock Chance and Lightning Ailment Effect,感電機率和閃電異常狀態效果
 "Shock Chance, Duration and Effect",感電機率、持續時間和效果
 "Shock Chance, Lightning Ailment Effect and Duration",感電機率、閃電異常狀態效果和持續時間
-Shock Dur. Mod:,感電持續時間修正:
+Shock Dur. Mod:,感電持續時間詞綴:
 Shock Duration:,感電持續時間:
-Shock Effect Mod:,感電效果修正:
+Shock Effect Mod:,感電效果詞綴:
 Shock Effect:,感電效果:
 Shock Ground,感電地面
 Shock Nova,閃電新星
@@ -11508,7 +11504,7 @@ Spell Suppression,法術壓抑
 Spell Suppression and Energy Shield Recharge Rate,法術壓抑和能量護盾充能率
 Spell Suppression and Life Flask Recovery,法術壓抑和生命藥劑恢復
 Spell Suppression Chance:,法術壓抑機率:
-Spell Suppression Mastery,法術壓抑專經
+Spell Suppression Mastery,法術壓抑專精
 Spell Suppression:,法術壓抑:
 Spell Totem,法術圖騰輔助
 Spell Wand,法術法杖
@@ -11689,7 +11685,7 @@ Stibnite Flask,迷霧藥劑
 Stiletto,銳利刺匕
 Stinger,刺針
 Stoic Focus,專注禁慾
-Stone,贈禮
+Stone,骸骨
 Stone Axe,石斧
 Stone Golem,巨石魔像
 Stone Hammer,石錘
@@ -12300,7 +12296,7 @@ The Snowblind Grace,雪盲恩惠
 The Sorrow of the Divine,神聖哀悼
 The Squire,大地主
 The Stampede,潰逃之靴
-"The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.","左側欄的統計資料始終是「等效秒傷」模式,不受此設定影響."
+"The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.","左側欄的統計資料始終是「有效秒傷」模式,不受此設定影響."
 The Stormheart,風暴之眼
 The Stormwall,風暴堅牆
 The Supreme Truth,無上箴言
@@ -12383,7 +12379,7 @@ This is a list of items that will be shared between all of,這個列表中的物
 "This is an older tree version, which may not be fully compatible with the current game version.","這個天賦樹是舊版,可能有個別地方與當前最新版本的遊戲不兼容."
 "This is automatically enabled if you have a flask active,","如果有使用藥劑將會自動開啟此狀態,"
 This is divided by 4.25 to represent 4 damage types + some chaos,這裡除以 4.25 代表 4 種傷害類型 + 一些渾沌傷害
-This Map's Modifiers to Quantity of Items found also apply to Rarity,此地圖的物品數量修正同時套用在物品稀有度上
+This Map's Modifiers to Quantity of Items found also apply to Rarity,此地圖的物品數量詞綴同時套用在物品稀有度上
 This Map's Quality also applies to Rarity of Items found,該地圖的品質加成將同時套用在掉落物品稀有度上
 This option is specific to Oni-Goroshi.,這是【西拉氣流殺】的選項.
 This option prevents EE from being reset by the hit damage of your main skill.,此選項可防止【元素之相】被你主技能的擊中傷害重置.
@@ -12418,7 +12414,7 @@ This Skill is Triggered by the Item granting it,此技能透過物品給予而�
 This Skill is used by Mirage Warriors Summoned by General's Cry,此技能被將軍戰吼召喚的幻影戰士使用
 This Skill will Trigger Shockwave Skill on Hit,此技能擊中時觸發震波技能
 this Skill's Area of Effect,此技能的範圍效果
-This Skill's Cast Speed cannot be modified,此技能的施放速度不能被修正
+This Skill's Cast Speed cannot be modified,此技能的施放速度不能被詞綴
 This Skill's Cooldown does not recover during its effect,此技能的冷卻時間在它的效果持續時間內不會恢復
 This Skill's Duration cannot be modified,此技能的持續時間無法被調整
 "This Skill's Mana Reservation is the total of the Mana Reservations of Supported Skills, and cannot be further modified",此技能的魔力保留為被輔助技能的總魔力保留，且不能被改變
@@ -12440,7 +12436,7 @@ This Spell is Triggered by a Crafted Modifier,此法術被工藝詞綴觸發
 This Spell is Triggered by Attacks Exerted by Battlemage's Cry,此法術被戰法戰吼的竭盡攻擊觸發
 This Spell is Triggered when Equipped,裝備時觸發此技能
 This Spell is Triggered when Gained,當獲得時觸發此法術
-This Spell's Cast Speed cannot be modified,此技能的施放速度不能被修正
+This Spell's Cast Speed cannot be modified,此技能的施放速度不能被詞綴
 This will allow the skill to benefit from modifiers on the item that affect socketed gems.,這將會使物品上的技能寶石受到物品上的詞綴加成.
 this will apply Shock's Damage Taken modifier to the enemy.,這將對敵人應用感電傷害的加成.
 this will apply the 6% life regen modifier granted by Consecrated Ground.,這將應用【奉獻地面】的 獲得 6% 生命回復加成.
@@ -12561,7 +12557,7 @@ Total DPS inc. Impale:,總計秒傷(含穿刺):
 Total DPS inc. Poison,總計秒傷(含中毒)
 Total DPS inc. Poison:,總計秒傷(含中毒):
 Total DPS:,總計秒傷:
-Total Effective Dot Pool,總計等效持續血池
+Total Effective Dot Pool,總計有效持續血池
 Total from Base:,基礎總計:
 Total from Dexterity:,敏捷總計:
 Total from Intelligence:,智慧總計:
@@ -12612,13 +12608,13 @@ Totem Life and Elemental Resistances,圖騰生命和元素抗性
 Totem Life and Physical Damage Reduction,圖騰生命和物理傷害減免
 "Totem Life and Physical Damage Reduction, Brand Duration",圖騰生命和降減圖騰物理傷害
 Totem Life and Placement Speed,圖騰生命和放置速度
-Totem Life Mod:,圖騰生命修正:
+Totem Life Mod:,圖騰生命詞綴:
 "Totem Life, Duration and Elemental Resistances",圖騰生命、持續時間和圖騰元素抗性
 "Totem Life, Duration and Physical Damage Reduction",圖騰生命、持續時間和物理傷害減免
 Totem Life:,圖騰生命:
 Totem mastery,圖騰專精
 Totem Mastery,圖騰專精
-Totem modifiers:,圖騰修正:
+Totem modifiers:,圖騰詞綴:
 Totem Place Time:,圖騰放置時間:
 Totem Placement Speed and Brand Range,圖騰放置速度和烙印距離
 Totem Placement Speed and Duration,圖騰放置速度和持續時間
@@ -12806,7 +12802,7 @@ Trigger this Skill when you Hit a Frozen Enemy,當你擊中冰凍的敵人時，
 Trigger this Skill when you Hit a Rare or Unique Enemy,當你擊中稀有或傳奇敵人時，觸發此技能
 Trigger this Skill when you Hit a Rare or Unique Enemy and have no Mark,當你擊中稀有或傳奇敵人且沒有印記時觸發此技能
 Trigger this Skill when you kill a Bleeding Enemy,擊敗流血敵人時觸發該技能
-Trigger this skill when you Kill a Frozen Enemy,你擊敗一個被凍結的敵人時，觸發此技能
+Trigger this skill when you Kill a Frozen Enemy,你擊敗一個被冰凍的敵人時，觸發此技能
 Trigger this Skill when your Animated Guardian Kills an Enemy,你的幻化守衛擊殺敵人時觸發此法術
 Trigger this Spell on Kill,擊殺時，觸發此法術
 Trigger this Spell on Melee Hit while Cursed,被詛咒時，近戰擊中觸發此法術
@@ -13451,9 +13447,7 @@ Wheel of the Stormsail,暴雨之舵
 "When a Bloodline Pack is Slain, it drops a Currency Item",擊敗血族怪物群會掉落額外 1 個通貨
 "When a Bloodline Pack is Slain, it drops a Rare Item",擊殺血族怪群掉落額外 1 個稀有物品
 "When enabled, an estimate of the offensive and defensive strength of",開啟後將估算並高亮顯示
-"When Hit, lose a Ghost Shroud and Recover Energy Shield equal to 4% of your Evasion Rating",被擊中時，失去一層【鬼影纏身】，並恢復等同於你閃避值 4% 的能量護盾
-"When Hit, lose a Ghost Shroud and Recover Energy Shield equal to 5% of your Evasion Rating",當被擊中時，失去 1 個幽魂屍布並回復等同於你閃避值 5% 的能量護盾
-"When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating",失去 1 層幽魂屍布以回復 5% 等同於你閃避值的能量護盾
+"When Hit, lose a Ghost Shroud to Recover Energy Shield equal to {0}% of your Evasion Rating",被擊中失去 1 層幽魂屍布以回復等同於 {0}% 你閃避值的能量護盾
 When In Combat,戰鬥狀態
 "When used in the Synthesiser, the new item will have an additional Herald Modifier",當在追憶喚器使用時，新物品會有 1 個額外捷光環詞綴
 "When you create a Banner, it gains 40% of the Stages of your placed Banner",當你製造鬥旗時，它獲得你已放置過鬥旗 40% 的疊層
@@ -13836,7 +13830,7 @@ Your and nearby allies' Skills Cost no Mana,你與附近的隊友的技能施放
 Your Attacks do not cost Mana,你的攻擊不會花費魔力
 Your Aura Buffs do not affect allies,光環效果對友方沒有作用
 Your Aura Skills are Disabled,你的光環技能無效
-Your Bleeding does not deal extra Damage while the Enemy is moving,當敵人移動時，你的流血無法造成無外傷害
+Your Bleeding does not deal extra Damage while the Enemy is moving,當敵人移動時，你的流血無法造成額外傷害
 your build if it's from the unique/template list.,(如果它來自 傳奇裝備 / 稀有裝備 列表)
 your builds.,你所有的流派.
 Your Chaos Damage can Chill,你的混沌傷害可以冰緩
@@ -13868,7 +13862,7 @@ Your Critical Strikes do not deal extra Damage during Flask effect,在藥劑效�
 Your Critical Strikes Knock Back Shocked Enemies,你的暴擊擊退感電的敵人
 Your Critical Strikes with Attacks Maim Enemies,你的攻擊暴擊時造成敵人癱瘓
 Your Curse Spells are Cast as Auras,你的詛咒將以光環的形式施放
-Your Curses can apply to Hexproof Enemies,你的詛咒對有【無咒】詞綴的敵人依然等效
+Your Curses can apply to Hexproof Enemies,你的詛咒對有【無咒】詞綴的敵人依然有效
 Your Damage with Critical Strikes is Lucky,你暴擊的傷害很幸運
 Your Damaging Hits always Stun Enemies that are on Full Life,擊中滿血的敵人並造成傷害時必造成暈眩
 Your Elemental Damage can Shock,你的元素傷害可以造成感電
@@ -13911,7 +13905,7 @@ Your Lightning Damage can Poison,你的閃電傷害可以造成中毒
 Your Lightning Damage cannot Shock,你的閃電傷害無法感電
 Your Lightning Storm Towers create Storms centred on Enemies,你的雷霆風暴塔在敵人中心製造風暴
 Your Linked targets deal 30% increased Damage,你的連結目標增加 30% 傷害
-Your Mark transfers to another Enemy when Marked Enemy dies,當被印記的敵人死亡時，你的印記轉移至其他敵人
+Your Mark transfers to another Enemy when Marked Enemy dies,當被印記的敵人死亡時，你的印記轉移至其它敵人
 Your Maximum Endurance Charges is equal to your Maximum Frenzy Charges,你的耐力球最大數量等於你的狂怒球最大數量
 Your Maximum Frenzy Charges is equal to your Maximum Power Charges,你的最大狂怒球等於你的最大暴擊球
 your maximum number of Crab Barriers,獲得你最大層數的蟹將重盾
@@ -13968,9 +13962,9 @@ Trigger Rate:,觸發速度:
 Trigger Rate Cap:,觸發速度上限:
 Skill Trigger Rate:,技能觸發速度:
 Adj. Trigger Rate:,校正觸發速度:
-Eff. Trigger Rate:,等效觸發速度:
+Eff. Trigger Rate:,有效觸發速度:
 Config,配置
-Effective Trigger Rate:,等效觸發速度:
+Effective Trigger Rate:,有效觸發速度:
 Do you have Vaal Arc's Lucky Buff?,你有瓦爾‧電弧【幸運效果】?
 "Causes Damage with Arc Hits to be rolled twice, and the maximum roll used.","電弧擊中所造成的傷害會骰兩次,並且使用最大值."
 Anoint Item,塗抹物品
@@ -13982,7 +13976,6 @@ Version history:,版本歷史:
 Tree Converted,天賦轉換
 Note that some or all of the passives may have been de-allocated due to changes in the tree.,請注意，由於版本的更改，部分或全部天賦可能已被取消分配.
 You can switch back to the old tree using the tree selector at the bottom left.,你可以使用左下角的天賦選擇器切換回舊天賦.
-The tree has been converted to 3.18.,天賦已轉換為 3.18.
 Delete Tree,刪除天賦樹
 Synthesised Item,追憶物品
 Confirm Delete,確認刪除
@@ -14000,7 +13993,7 @@ Chaos Max Hit:,混沌最大承受:
 Life Recoverable:,可恢復的生命:
 Recoverable ES:,可恢復的能盾:
 (Active),(啟動)
-Disable EHP gain on block:,禁用格擋時獲得的等效健康血池:
+Disable EHP gain on block:,禁用格擋時獲得的有效生命血池:
 Enemy critical strike chance:,敵人暴擊機率:
 Enemy critical strike multipler:,敵人暴擊加成:
 Total Recoverable:,總計可恢復:
@@ -14009,7 +14002,7 @@ URL is valid,網址有效
 Invalid input,輸入無效
 Elemental Max Hit:,元素最大承受:
 Total DoT DPS:,總計持續秒傷:
-Effective Crit Chance:,等效暴擊率:
+Effective Crit Chance:,有效暴擊率:
 Find Timeless Jewel,查詢永恆珠寶
 Find a Timeless Jewel,查詢永恆珠寶
 Jewel Type:,珠寶類型:
@@ -14058,3 +14051,109 @@ Manage Skill Trees,管理技能設定
 Searing Exarch,灼烙總督
 Eater of Worlds,吞噬天地
 Curse Effect:,詛咒效果:
+Trigger Supported Skill when you Hit a Rare or Unique Enemy with an Attack,當你使用攻擊擊中稀有或傳奇敵人時，觸發被輔助的技能
+Flame Wall:,烈焰之牆:
+Projectile Travelled through Flame Wall?,投射物穿過烈焰之牆?
+Awakened Empower,覺醒‧賦予輔助
+Awakened Enlighten,覺醒‧啟蒙輔助
+Awakened Enhance,覺醒‧增幅輔助
+Upfront Costs and Effects of a Supported Skill,在被輔助技能的消耗和效果之前
+Costs and Effects of a Supported Skill,在被輔助技能的消耗和效果之前
+Supported Skills also count as Blessing Skills,被輔助的技能被視為祝福技能
+You can only have one Aura on you from your Blessing Skills,你身上只能有 1 個來自你祝福技能的光環
+Uber Pinnacle Boss adds the following modifiers:,終極巔峰頭目新增以下詞綴:
+Guardian / Pinnacle Boss adds the following modifiers:,守護者/巔峰頭目新增以下詞綴:
+Modifiers to Attributes instead Apply to Omniscience,能力詞綴改為套用至全知
++1% to All Elemental Resistances per 15 Omniscience,每 15 全知 +1% 全部元素抗性
+Penetrate 1% Elemental Resistances per 15 Omniscience,每 15 全知穿透 1% 元素抗性
+Unique Map Modifiers:,傳奇地圖詞綴:
+Enemy critical strike multiplier:,敵人暴擊傷害加成:
+Enemy Skill Physical Overwhelm:,敵人技能物理鎮壓:
+One Step Ahead,領先一步
+Your Action Speed is at least {0}% of base value,你的行動速度至少是基礎值的 {0}%
+Nearby Enemy Monsters' Action Speed is at most {0}% of base value,附近敵人的行動速度最多是基礎值的 {0}%
+Spellbreaker,破法者
+{0}% chance for Energy Shield Recharge to start when you Suppress Spell Damage,當你壓抑法術傷害時有 {0}% 機率使能量護盾開始充能
+Prevent {0}% of Suppressed Spell Damage while on Full Energy Shield,滿能量護盾時阻止 {0}% 的壓抑法術傷害
+Soul Drinker,飲魂者
+Energy Shield Leech effects are not removed when Energy Shield is Filled,"滿能量護盾時,偷取效果不會被移除"
+Take 40% less Damage from Hits for 5 seconds,受到 40% 更少擊中傷害持續 5 秒
+Take 40% less Damage over Time for 5 seconds,受到 40% 更少持續傷害持續 5 秒
+Polymath,博學者
+{0}% more Damage for each different type of Mastery you have Allocated,每配置一個不同的專精類型則提供 {0}% 更多傷害
+Recover {0}% of Life on Kill for each different type of Mastery you have Allocated,每配置一個不同的專精類型擊殺時回復 {0}% 生命
+Recover {0}% of Energy Shield on Kill for each different type of Mastery you have Allocated,每配置一個不同的專精類型擊殺時回復 {0}% 能量護盾
+Recover {0}% of Mana on Kill for each different type of Mastery you have Allocated,每配置一個不同的專精類型擊殺時回復 {0}% 魔力
+Prevent {0}% of Suppressed Spell Damage while on Full Energy Shield,"滿能量護盾時,阻止 {0}% 的壓抑法術傷害"
+{0}% more Damage for each different type of Mastery you have Allocated,每配置一個不同的專精類型則提供 {0}% 更多傷害
+{0}% of Physical Damage prevented from Hits in the past,過去 10 秒阻止擊中的 {0}% 總物理傷害
+10 seconds is Regenerated as Life per second,將會每秒回復生命
+"{0}% of Armour applies to Fire, Cold and Lightning Damage taken from Hits",{0}% 護甲套用承受火焰、冰冷和閃電擊中傷害
+Minimum Node Weight:,最小節點權重:
+Fallback Weight Mode:,後備節點權重:
+Desired Nodes,所需節點
+Fallback Nodes,後備節點
+Bounces Count:,彈射數:
+Curse Effect on You:,你身上的詛咒效果:
+Stun Chance:,暈眩機率:
+Block Stun Duration:,格擋暈眩時間:
+Sap Avoid Ch.:,避免殘喘機率:
+Brittle Avoid Ch.:,避免易碎機率:
+Scorch Avoid Ch.:,避免焦灼機率:
+Crit Reduction:,暴擊減免:
+Have you Cursed an enemy Recently?,你近期有詛咒敵人?
+ES on Suppression:,法術壓抑回盾:
+Is the enemy in a Chilling area?,敵人是否在【冰緩地面】?
+Cold Snap:,霜暴:
+Bypass CD?,無視冷卻時間?
+Do you have Convergence?,你有【聚輻】?
+Highest damage type Override:,最高傷害類型覆蓋:
+Hits always Ignite,擊中總是點燃
+Hits always Shock,擊中總是感電
+Minions have Unholy Might,召喚物獲得不潔之力
+"For each nearby corpse, you and nearby Allies Regenerate 5 Mana",附近每個屍體，你和附近友方每秒回復 5 魔力
+"per second, up to 50 per second",至多每秒 50
+Auras from your Skills grant 3% increased Attack and Cast,你的技能光環給予你和友方
+Speed to you and Allies,增加 3% 攻擊和施放速度
+"Bleeding Enemies you Kill Explode, dealing 10% of",流血的敵人被你擊殺時爆炸
+their Maximum Life as Physical Damage,造成 10% 最大生命的物理傷害
+Life per second for each Stage,每秒回復 0.1% 生命
+Ailments against other targets,異常狀態有 20% 更少傷害
+do not have Adrenaline,獲得 20 秒的腎上腺素
+"If you've Impaled an Enemy Recently, you",若你近期有穿刺敵人
+and nearby Allies have +1000 to Armour,你和友方獲得 1000 護甲值
+You and nearby Allies deal {0} to {1} added Physical Damage for,你和附近友方附加 {0} 至 {1} 物理傷害根據
+each Impale on Enemy,敵人身上每層穿刺
+Magic Utility Flasks applied to you have 20% increased Effect,作用在你身上的魔法功能藥劑增加 20% 效果
+Exerted Attacks deal 50% more Attack Damage if a Warcry Sacrificed Rage Recently,若近期戰吼獻祭盛怒，竭盡攻擊造成 50% 更多攻擊傷害
+Grants 1 Passive Skill Point,獲得 1 點天賦技能點數
+Sand Stance,沙戮姿態
+Blood Stance,血腥姿態
+The tree has been converted to {0}.{1}.,天賦已轉換為 {0}.{1}.
+Have you been Hit by an Attack Recently?,你近期有被攻擊擊中?
+Build-related options,流派相關設定
+Application options,軟體設定
+Show thousands separators:,顯示千位數分隔:
+Thousands separator:,千位數分隔符號:
+Decimal separator:,小數分隔符號:
+Show build name in window title:,在視窗標題顯示流派名稱:
+Default character level:,預設角色等級:
+Default item affix quality:,預設物品詞綴品質:
+Show build warnings:,顯示流派警告:
+Active Mines:,啟動地雷:
+Main Links,主要連線
+Evasion Rating is Doubled against Projectile Attacks,對投射物攻擊有兩倍閃避值
+25% less Evasion Rating against Melee Attacks,對近戰攻擊有 25% 更少閃避值
+Sublime Vision,崇高願景
+1 Rage regenerated for every 25 Mana Regeneration per second,每 25 魔力秒回增加 1 層盛怒回復
+Mana Recovery from Regeneration is not applied,魔力秒回不再作用
+High Voltage,高壓電
+Lightning Critical Strike Multiplier,閃電暴擊加成
+Show tooltips only for affected slots:,僅顯示受影響插槽的面板提示：
+Invert slider scroll direction:,反轉滑塊滾動方向:
+Connection Protocol:,連接協議:
+Proxy server:,代理伺服器:
+Build save path:,流派儲存路徑:
+Node Power colours:,節點強度顏色:
+Opt-in to weekly beta test builds:,選擇加入每週 beta 測試版本:
+Rage Cost:,盛怒消耗:

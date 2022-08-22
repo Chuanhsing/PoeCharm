@@ -2,8 +2,8 @@
 (base life for a level {0} monster),({0} 級怪物基礎生命)
 {0},{0}
 {0} - {1} (portion of damage from non-crits),{0} - {1} (來自非暴擊傷害百分比)
-{0} (action speed modifier),{0} (動作速度修正)
-{0} (ailment effect modifier),{0} (異常狀態效果修正)
+{0} (action speed modifier),{0} (動作速度詞綴)
+{0} (ailment effect modifier),{0} (異常狀態效果詞綴)
 {0} (average damage),{0} (平均傷害)
 {0} (average hit),{0} (平均擊中)
 {0} (base duration),{0} (基礎持續時間)
@@ -11,11 +11,11 @@
 {0} (base placement speed),{0} (基礎放置速度)
 {0} (base throwing speed),{0} (基礎投射物速度)
 {0} (base),{0} (基礎)
-{0} (burn rate modifier),{0} (燃燒速度修正)
+{0} (burn rate modifier),{0} (燃燒速度詞綴)
 {0} (damage per second),{0} (每秒傷害)
-{0} (damage rate modifier),{0} (傷害速度修正)
+{0} (damage rate modifier),{0} (傷害速度詞綴)
 {0} (dps multiplier for this skill),{0} (此技能秒傷加成)
-{0} (effective DPS modifier),{0} (等效秒傷修正)
+{0} (effective DPS modifier),{0} (有效秒傷詞綴)
 {0} (hit chance),{0} (擊中機率)
 {0} (hits per second),{0} (每秒擊中)
 {0} (ignite chance),{0} (點燃機率)
@@ -385,7 +385,7 @@
 {0} additional Physical Damage Reduction while Bleeding,流血時獲得 {0} 的額外物理傷害減免
 {0} additional Physical Damage Reduction while Channelling,持續吟唱時獲得 {0} 額外物理傷害減傷
 {0} additional Physical Damage Reduction while Focussed,專注時獲得額外 {0} 物理傷害減免
-{0} additional Physical Damage Reduction while Frozen,凍結時獲得 {0} 額外物理傷害減免
+{0} additional Physical Damage Reduction while Frozen,冰凍時獲得 {0} 額外物理傷害減免
 {0} additional Physical Damage Reduction while moving,移動時獲得額外 {0} 物理傷害減免
 {0} additional Physical Damage Reduction while stationary,靜止時受到的物理傷害減少 {0}
 {0} additional Physical Damage Reduction while there is only one nearby Enemy,若附近只有 1 個敵人，則受到的物理傷害減少 {0}
@@ -553,7 +553,7 @@
 {0} chance to avoid Projectiles that have Chained,{0} 的機率避免被連鎖彈射的投射物擊中
 {0} chance to Avoid Projectiles while Phasing,【迷蹤】狀態時有 {0} 的機率躲避投射物
 {0} chance to Avoid Stun if you've Killed Recently,若你近期內有擊敗敵人，則有 {0} 的機率避免暈眩
-"{0} chance to be Frozen, Shocked and Ignited",凍結、感電、點燃 機率 {0}
+"{0} chance to be Frozen, Shocked and Ignited",冰凍、感電、點燃 機率 {0}
 {0} chance to be Ignited,{0} 的機率被點燃
 {0} chance to be inflicted with Bleeding when Hit by an Attack,被攻擊擊中時，有 {0} 的機率流血
 {0} chance to be Poisoned,{0} 的機率中毒
@@ -732,13 +732,13 @@
 {0} chance to Freeze,{0} 的機率使用冰冷傷害擊中時冰凍敵人
 {0} chance to Freeze during any Flask Effect,藥劑持續期間，有 {0} 的機率冰凍
 {0} chance to Freeze enemies,{0} 的機率冰凍敵人
-{0} chance to Freeze Enemies for {1} ms when Hit,被擊中時有 {0} 的機率凍結敵人 {1} 毫秒
+{0} chance to Freeze Enemies for {1} ms when Hit,被擊中時有 {0} 的機率冰凍敵人 {1} 毫秒
 {0} chance to Freeze Enemies which are Chilled,有 {0} 的機率冰凍被冰緩的敵人
 "{0} chance to Freeze, Shock and Ignite",{0} 的機率使敵人受到冰凍，感電與點燃
 "{0} chance to Freeze, Shock and Ignite during any Flask Effect",藥劑持續期間，有 {0} 的機率冰凍，感電和點燃敵人
 "{0} chance to Freeze, Shock and Ignite during Flask effect",藥劑持續期間，冰凍、感電和點燃機率增加 {0}
 "{0} chance to Freeze, Shock and Ignite if you haven't Crit Recently",若你近期內沒有打出過暴擊，則有 {0} 的機率造成冰凍，感電，和點燃
-"{0} chance to Freeze, Shock and Ignite while affected by a Herald",受捷影響時，有 {0} 的機率造成凍結、感電、點燃
+"{0} chance to Freeze, Shock and Ignite while affected by a Herald",受捷影響時，有 {0} 的機率造成冰凍、感電、點燃
 {0} chance to gain {1} of Non-Chaos Damage with Hits as Extra Chaos Damage,有 {0} 的機率獲得額外混沌傷害，其數值等同於非混沌傷害的 {1}
 {0} chance to gain {1} Rage on Hit,擊中有 {0} 的機率獲得 {1} 點怒火
 {0} chance to gain {1} Rage on use,使用時有 {0} 的機率獲得 {1} 點怒火
@@ -792,7 +792,7 @@
 {0} chance to gain a Power Charge when Projectile Hits a Rare or Unique Enemy,投射物擊中稀有或傳奇敵人時，有 {0} 的機率獲得 1 個暴擊球
 {0} chance to gain a Power Charge when you Block,格擋時 {0} 的機率獲得 1 個暴擊球
 {0} chance to gain a Power Charge when you Block Spell Damage,格擋法術傷害時有 {0} 的機率獲得暴擊球
-{0} chance to gain a Power Charge when you Hit a Frozen Enemy,你擊中凍結的敵人時，有 {0} 的機率獲得一個暴擊球
+{0} chance to gain a Power Charge when you Hit a Frozen Enemy,你擊中冰凍的敵人時，有 {0} 的機率獲得一個暴擊球
 {0} chance to gain a Power Charge when you Hit a Rare or Unique Enemy,擊中稀有或傳奇敵人時，有 {0} 的機率獲得 1 個暴擊球
 {0} chance to gain a Power Charge when you Shock a Chilled Enemy,給冰緩的敵人造成感電效果時，有 {0} 的機率獲得一個暴擊球
 {0} chance to gain a Power Charge when you Stun,暈眩時有 {0} 的機率獲得暴擊球
@@ -892,14 +892,14 @@
 {0} chance to inflict an additional Impale when this Skill inflicts Impale,該技能施加穿刺時，有 {0} 的機率施加一次額外穿刺
 {0} chance to inflict Bleeding on Critical Strike with Attacks,攻擊打出暴擊時，有 {0} 的機率造成流血
 {0} chance to inflict Bleeding on Hit with Attacks against Taunted Enemies,攻擊擊中被嘲諷的敵人時，有 {0} 的機率造成流血
-{0} chance to inflict Bleeding with Hits on Maimed Enemies,擊中癱瘓的敵人有 {0} 的機率施加流血
-{0} chance to inflict Brittle,{0} 的機率造成脆弱
-{0} chance to inflict Brittle on Enemies when you Block their Damage,你格擋敵人的傷害時，有 {0} 的機率給它們施加脆弱
-{0} chance to inflict Cold Exposure on Hit,擊中時有 {0} 的機率施加畏寒
-{0} chance to inflict Cold Exposure on Hit if you have at least {1} Devotion,至少 {1} 奉獻時，擊中有 {0} 的機率附加【畏寒】
-{0} chance to inflict Fire Exposure on Hit,擊中時有 {0} 的機率施加畏火
-{0} chance to inflict Fire Exposure on Hit if you have at least {1} Devotion,至少 {1} 奉獻時，擊中有 {0} 的機率附加【畏火】
-{0} chance to inflict Lightning Exposure on Hit,擊中時有 {0} 的機率施加閃電曝露
+{0} chance to inflict Bleeding with Hits on Maimed Enemies,擊中癱瘓的敵人有 {0} 的機率造成流血
+{0} chance to inflict Brittle,{0} 的機率造成易碎
+{0} chance to inflict Brittle on Enemies when you Block their Damage,你格擋敵人的傷害時，有 {0} 的機率給它們施加易碎
+{0} chance to inflict Cold Exposure on Hit,擊中時有 {0} 的機率施加冰冷曝曬
+{0} chance to inflict Cold Exposure on Hit if you have at least {1} Devotion,至少 {1} 奉獻時，擊中有 {0} 的機率附加【冰冷曝曬】
+{0} chance to inflict Fire Exposure on Hit,擊中時有 {0} 的機率施加火焰曝曬
+{0} chance to inflict Fire Exposure on Hit if you have at least {1} Devotion,至少 {1} 奉獻時，擊中有 {0} 的機率附加【火焰曝曬】
+{0} chance to inflict Lightning Exposure on Hit,擊中時有 {0} 的機率施加閃電曝曬
 {0} chance to inflict Lightning Exposure on Hit if you have at least {1} Devotion,至少 {1} 奉獻時，擊中有 {0} 的機率附加【畏電】
 {0} chance to inflict Withered for {1} seconds on Hit,擊中有 {0} 的機率施加【枯萎】，持續 {1} 秒
 {0} chance to inflict Withered for {1} seconds on Hit with this Weapon,用該武器擊中時有 {0} 的機率施加 {1} 秒枯萎
@@ -951,12 +951,12 @@
 {0} chance to Recover {1} of Mana when you use a Skill while affected by Clarity,受到【清晰】影響時，你使用技能時有 {0} 的機率回復 {1} 魔力
 {0} chance to Reflect Enemy Chills and Freezes,有 {0} 的機率反射敵人的冰緩和冰凍
 {0} chance to refresh Bleeding Duration on Hit,擊中有 {0} 的機率刷新流血持續時間
-{0} chance to Sap Enemies,{0} 的機率造成精疲力盡
-{0} chance to Sap Enemies in Chilling Areas,有 {0} 的機率使冰緩區域中的敵人【精疲力盡】
-{0} chance to Sap Enemies when you Block their Damage,你格擋敵人的傷害時，有 {0} 的機率使它們精疲力盡
-{0} chance to Scorch,有 {0} 的機率導致灼燒
-{0} chance to Scorch Enemies,{0} 的機率燒灼敵人
-{0} chance to Scorch Enemies when you Block their Damage,你格擋敵人的傷害時，有 {0} 的機率灼燒敵人
+{0} chance to Sap Enemies,{0} 的機率造成殘喘
+{0} chance to Sap Enemies in Chilling Areas,有 {0} 的機率使冰緩區域中的敵人【殘喘】
+{0} chance to Sap Enemies when you Block their Damage,你格擋敵人的傷害時，有 {0} 的機率使它們殘喘
+{0} chance to Scorch,有 {0} 的機率導致焦灼
+{0} chance to Scorch Enemies,{0} 的機率焦灼敵人
+{0} chance to Scorch Enemies when you Block their Damage,你格擋敵人的傷害時，有 {0} 的機率焦灼敵人
 {0} chance to Shock,閃電傷害擊中時有 {0} 的機率使敵人受到感電效果影響
 {0} chance to Shock Attackers for {1} seconds on Block,格擋時有 {0} 的機率使攻擊者感電 {1} 秒
 {0} chance to Shock Chilled Enemies,有 {0} 的機率感電已被冰緩的敵人
@@ -1076,7 +1076,7 @@
 {0} chance to Trigger this Skill when you Consume a corpse,當你吞噬屍體時有 {0} 的機率觸發該技能
 {0} chance to Trigger this Skill when you Hit,擊中時有 {0} 的機率觸發該技能
 {0} chance to Trigger this Skill when you Hit a Bleeding Enemy,擊中流血的敵人時，有 {0} 的機率觸發該技能
-{0} chance to Trigger this Skill when you Hit a Frozen Enemy,你擊中凍結的敵人時有 {0} 的機率觸發該技能
+{0} chance to Trigger this Skill when you Hit a Frozen Enemy,你擊中冰凍的敵人時有 {0} 的機率觸發該技能
 {0} chance to Trigger this Skill when your Animated Guardian Kills an Enemy,當你的幻化守衛擊敗一個敵人時，有 {0} 的機率觸發此技能
 {0} chance to Trigger this Spell on Death,死亡時有 {0} 的機率觸發該法術
 {0} chance to Trigger this Spell on Kill,擊敗敵人時有 {0} 的機率觸發該法術
@@ -1118,7 +1118,7 @@
 {0} chance to Unnerve Enemies for {1} seconds on Hit,擊中時有 {0} 的機率恐懼敵人 {1} 秒
 {0} chance when throwing Mines to throw up to {1} additional Mine,投擲地雷時有 {0} 的機率額外再投擲 {1} 個
 {0} chance when you Kill a Magic Monster to gain its Non-Bloodline Modifiers for {1} seconds,擊敗魔法敵人時，有 {0} 的機率獲得它的非血族詞綴，持續 {1} 秒
-{0} chance when you Kill a Scorched Enemy to Burn Each surrounding,你擊敗灼燒的敵人時有 {0} 的機率使週圍所有敵人燃燒 4 秒，
+{0} chance when you Kill a Scorched Enemy to Burn Each surrounding,你擊敗焦灼的敵人時有 {0} 的機率使週圍所有敵人燃燒 4 秒，
 {0} chance when you pay a Skill's Mana Cost to gain that much Mana,你施放技能時有 {0} 的機率獲得其等量的魔力
 {0} Chaos Damage taken,{0} 承受的混沌傷害
 {0} Chaos Damage taken from Attack Hits,攻擊擊中承受 {0} 混沌傷害
@@ -1329,10 +1329,10 @@
 {0} increased Attack Damage against Bleeding Enemies,對流血敵人的攻擊傷害增加 {0}
 {0} increased Attack Damage against Maimed Enemies,對抗【癱瘓】的敵人時，攻擊傷害增加 {0}
 {0} increased Attack Damage during Onslaught,【猛攻】狀態下攻擊傷害增加 {0}
-{0} increased Attack Damage for each Map Item Modifier affecting the Area,每有 1 個地圖物品屬性影響該地區，則攻擊傷害增加 {0}
+{0} increased Attack Damage for each Map Item Modifier affecting the Area,每有 1 個地圖物品詞綴影響該地區，則攻擊傷害增加 {0}
 {0} increased Attack Damage if Corrupted,若腐化，則攻擊傷害增加 {0}
 {0} increased Attack Damage if you've Cast a Spell Recently,若你近期內有施放法術，則攻擊傷害增加 {0}
-{0} increased Attack Damage if your other Ring is a Shaper Item,若你的其他戒指中有【塑界之器】，則攻擊傷害增加 {0}
+{0} increased Attack Damage if your other Ring is a Shaper Item,若你的其它戒指中有【塑界之器】，則攻擊傷害增加 {0}
 {0} increased Attack Damage per {1} Armour,每 {1} 點護甲都使攻擊傷害增加 {0}
 {0} increased Attack Damage per {1} Armour or Evasion Rating on Shield,盾牌上每 {1} 點護甲值或閃避值都使攻擊傷害增加 {0}
 {0} increased Attack Damage per {1} Evasion Rating,每 {1} 點閃避值可使攻擊傷害增加 {0}
@@ -1355,7 +1355,7 @@
 {0} increased Attack Speed,攻擊速度增加 {0}
 {0} increased Attack Speed during any Flask Effect,藥劑持續期間，攻擊速度增加 {0}
 {0} increased Attack Speed during Flask effect,藥劑持續期間，攻擊速度增加 {0}
-{0} increased Attack Speed for each Map Item Modifier affecting the Area,每有 1 個地圖物品屬性影響該地區，則攻擊速度增加 {0}
+{0} increased Attack Speed for each Map Item Modifier affecting the Area,每有 1 個地圖物品詞綴影響該地區，則攻擊速度增加 {0}
 {0} increased Attack Speed if you have at least {1} Strength,你若至少有 {1} 點力量，則攻擊速度加快 {0}
 {0} increased Attack Speed if you have Blocked Recently,若你近期內有過格擋，則攻擊速度增加 {0}
 {0} increased Attack Speed if you haven't Cast Dash recently,若你近期內沒有施放過衝刺，則攻擊速度加快 {0}
@@ -1503,7 +1503,7 @@
 {0} increased Charge Recovery,增加 {0} 充能回復
 {0} increased Charged Dash Damage,【蓄力疾風閃】的傷害增加 {0}
 {0} increased Charges,{0} 額外補充量
-{0} increased Charges gained by Other Flasks during Flask Effect,藥劑持續期間增加 {0} 其他藥劑獲得的充能
+{0} increased Charges gained by Other Flasks during Flask Effect,藥劑持續期間增加 {0} 其它藥劑獲得的充能
 {0} increased Charges used,充能次數增加 {0}
 {0} increased Charges used. {1} to this value when used,充能次數增加 {0}。使用時該數值 {1}
 {0} increased Chill and Freeze Duration on Enemies,對敵人的冰緩和冰凍持續時間增加 {0}
@@ -1726,7 +1726,7 @@
 {0} increased Damage taken if Corrupted,若腐化，則承受傷害增加 {0}
 {0} increased Damage taken if you haven't been Hit Recently,若你近期內沒有被擊中，則承受的傷害增加 {0}
 {0} increased Damage taken if you Killed a Taunted Enemy Recently,若你近期內有擊敗受到嘲諷的敵人，傷害增加 {0}
-{0} increased Damage taken if you've been Frozen Recently,若你近期內被凍結，則承受的傷害增加 {0}
+{0} increased Damage taken if you've been Frozen Recently,若你近期內被冰凍，則承受的傷害增加 {0}
 {0} increased Damage taken if you've Killed Recently,若你近期內有擊敗敵人，則承受的傷害增加 {0}
 {0} increased Damage taken if you've taken a Savage Hit Recently,若你近期內受到【殘暴打擊】，則傷害增加 {0}
 {0} increased Damage taken if you've Taunted an Enemy Recently,若你近期內有成功嘲諷敵人，則受到的傷害增加 {0}
@@ -1820,7 +1820,7 @@
 {0} increased Damage with Hits and Ailments against Marked Enemy,對抗標記的敵人時，擊中和異常狀態傷害增加 {0}
 {0} increased Damage with Hits and Ailments against Unique Enemies,對抗傳奇敵人時，擊中和異常狀態傷害增加 {0}
 {0} increased Damage with Hits and Ailments per Curse on Enemy,敵人身上每個詛咒可使擊中和異常狀態的傷害增加 {0}
-"{0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",若敵人身上有凍結、感電、點燃效果，每有一種都使對它的擊中和異常狀態傷害增加 {0}
+"{0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",若敵人身上有冰凍、感電、點燃效果，每有一種都使對它的擊中和異常狀態傷害增加 {0}
 {0} increased Damage with Hits and Poison,擊中傷害和中毒傷害增加 {0}
 {0} increased Damage with Hits and Poison for each Poison on the Enemy,敵人的每層中毒狀態會使擊中傷害和中毒傷害增加 {0}
 {0} increased Damage with Ignite inflicted on Chilled Enemies,對冰緩敵人造成的點燃傷害增加 {0}
@@ -1964,7 +1964,7 @@
 {0} increased Effect of non-Keystone Passive Skills in Radius,範圍內的非核心天賦技能效果增加 {0}
 {0} increased effect of Offerings,奉獻效果增加 {0}
 {0} increased effect of Onslaught on Players and Monsters,玩家和怪物的【猛攻】效果增加 {0}
-{0} increased Effect of Scorch,灼燒效果增加 {0}
+{0} increased Effect of Scorch,焦灼效果增加 {0}
 {0} increased Effect of Shock,感電效果增加 {0}
 {0} increased Effect of Shock on you,你受到的感電效果增加 {0}
 {0} increased Effect of Shock you inflict with Critical Strikes,你暴擊施加的感電效果增加 {0}
@@ -2325,7 +2325,7 @@
 {0} increased Mana Regeneration if you've used a Movement Skill Recently,若你近期內使用過位移技能，則魔力回復增加 {0}
 {0} increased Mana Regeneration Rate,魔力回復速度增加 {0}
 {0} increased Mana Regeneration Rate during any Flask Effect,藥劑持續期間，魔力回復增加 {0}
-{0} increased Mana Regeneration Rate if you have Frozen an Enemy Recently,若你近期內凍結過敵人，則魔力回復速度加快 {0}
+{0} increased Mana Regeneration Rate if you have Frozen an Enemy Recently,若你近期內冰凍過敵人，則魔力回復速度加快 {0}
 {0} increased Mana Regeneration Rate if you have Shocked an Enemy Recently,若你近期內使敵人感電，則魔力回復速度加快 {0}
 {0} increased Mana Regeneration Rate if you've cast a Spell Recently,若你近期內有施放法術，則魔力回復率增加 {0}
 {0} increased Mana Regeneration Rate if you've Hit a Cursed Enemy Recently,若你近期內擊中被詛咒的敵人，則魔力回復速度增加 {0}
@@ -2483,7 +2483,7 @@
 {0} increased Physical Attack Damage while holding a Shield,持盾牌時攻擊造成的物理傷害增加 {0}
 {0} increased Physical Damage,物理傷害增加 {0}
 {0} increased Physical Damage against Poisoned Enemies,對中毒敵人的物理總傷害增加 {0}
-{0} increased Physical Damage for each Map Item Modifier affecting the Area,每有 1 個地圖物品屬性影響該地區，則物理傷害增加 {0}
+{0} increased Physical Damage for each Map Item Modifier affecting the Area,每有 1 個地圖物品詞綴影響該地區，則物理傷害增加 {0}
 {0} increased Physical Damage for each time you've Blocked in the past {1} seconds,過去 {1} 秒內格擋的每個攻擊可使你的物理傷害增加 {0}
 {0} increased Physical Damage if you've Blocked Damage from a Unique Enemy in the past {1} seconds,過去 {1} 秒內你若成功格擋傳奇怪物，則物理傷害增加 {0}
 {0} increased Physical Damage over Time,物理持續傷害效果增加 {0}
@@ -2697,7 +2697,7 @@
 {0} increased Spell Damage if you've Cast a Spell Recently,若你近期內有施放法術，則法術傷害增加 {0}
 {0} increased Spell Damage if you've dealt a Critical Strike in the past {1} seconds,若過去 {1} 秒內你打出過暴擊，則法術傷害增加 {0}
 {0} increased Spell Damage if you've dealt a Critical Strike Recently,近期若打出過暴擊，則法術傷害增加 {0}
-{0} increased Spell Damage if your other Ring is an Elder Item,若你的其他戒指中有【裂界之器】，則法術傷害增加 {0}
+{0} increased Spell Damage if your other Ring is an Elder Item,若你的其它戒指中有【裂界之器】，則法術傷害增加 {0}
 {0} increased Spell Damage per {1} Chance to Block Attack Damage,每 {1} 的攻擊傷害格擋機率會使法術傷害增加 {0}
 {0} increased Spell Damage per {1} Dexterity,每 {1} 點敏捷可使法術傷害增加 {0}
 {0} increased Spell Damage per {1} Intelligence,每 {1} 點智慧會使法術傷害增加 {0}
@@ -3362,7 +3362,7 @@
 {0} of Physical Damage Converted to Cold Damage,{0} 的物理傷害轉換為冰冷傷害
 {0} of Physical Damage Converted to Cold Damage while affected by Hatred,受到【憎恨】影響時，{0} 的物理傷害轉換為冰冷傷害
 {0} of Physical Damage Converted to Cold Damage while Sphere has no Ailments,球體沒有異常狀態時，將 {0} 物理傷害轉化為冰冷傷害
-{0} of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle,球體具有凍結或脆弱時，將{0} 物理傷害轉化為冰冷傷害
+{0} of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle,球體具有冰凍或易碎時，將{0} 物理傷害轉化為冰冷傷害
 {0} of Physical Damage Converted to Cold Damage while you have at least {1} Devotion,至少 {1} 點奉獻時，{0} 的物理傷害轉換為冰冷傷害
 {0} of Physical Damage Converted to Fire Damage,{0} 的物理傷害轉換為火焰傷害
 {0} of Physical Damage Converted to Fire Damage against Ignited Enemies,對點燃的敵人所造成的 {0} 物理傷害轉化為火焰傷害
@@ -3372,7 +3372,7 @@
 "{0} of Physical Damage Converted to Fire, Cold or Lightning Damage",{0} 的物理傷害轉換為火焰、冰冷或閃電傷害
 {0} of Physical Damage Converted to Lightning Damage,物理傷害的 {0} 轉換為閃電傷害
 {0} of Physical Damage Converted to Lightning Damage while affected by Wrath,受到【雷霆】影響時，{0} 的物理傷害轉化為閃電傷害
-{0} of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped,球體具有感電或筋疲力盡時，將 {0} 物理傷害轉化為閃電傷害
+{0} of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped,球體具有感電或殘喘時，將 {0} 物理傷害轉化為閃電傷害
 {0} of Physical Damage Converted to Lightning Damage while you have at least {1} Devotion,至少 {1} 點奉獻時，{0} 的物理傷害轉換為閃電傷害
 {0} of Physical Damage Converted to Lightning during Flask effect,藥劑持續期間，物理傷害的 {0} 轉換為閃電傷害
 {0} of Physical Damage Converted to other Damage Types matching the Brand Gem's Tags,根據烙印種類，將 {0} 物理傷害轉化為其它對應類型的傷害
@@ -3580,7 +3580,7 @@
 {0} reduced Attack Damage during Onslaught,【猛攻】狀態下攻擊傷害減少 {0}
 {0} reduced Attack Damage if Corrupted,若腐化，則攻擊傷害減少 {0}
 {0} reduced Attack Damage if you've Cast a Spell Recently,若你近期內有施放法術，則攻擊傷害減少 {0}
-{0} reduced Attack Damage if your other Ring is a Shaper Item,若你的其他戒指中有【塑界之器】，則攻擊傷害減少 {0}
+{0} reduced Attack Damage if your other Ring is a Shaper Item,若你的其它戒指中有【塑界之器】，則攻擊傷害減少 {0}
 {0} reduced Attack Damage per {1} Armour or Evasion Rating on Shield,盾牌上每 {1} 點護甲值或閃避值都使攻擊傷害減少 {0}
 {0} reduced Attack Damage per {1} Evasion Rating,每 {1} 點閃避值可使攻擊傷害減少 {0}
 {0} reduced Attack Damage per {1} Maximum Mana,每 {1} 點最大魔力會使攻擊傷害減少 {0}
@@ -3933,7 +3933,7 @@
 {0} reduced Damage taken if Corrupted,若腐化，則承受傷害減少 {0}
 {0} reduced Damage taken if you haven't been Hit Recently,若你近期內沒有被擊中，則承受的傷害減少 {0}
 {0} reduced Damage taken if you Killed a Taunted Enemy Recently,若你近期內有擊敗受到嘲諷的敵人，傷害減少 {0}
-{0} reduced Damage taken if you've been Frozen Recently,若你近期內被凍結，則承受的傷害減少 {0}
+{0} reduced Damage taken if you've been Frozen Recently,若你近期內被冰凍，則承受的傷害減少 {0}
 {0} reduced Damage taken if you've Killed Recently,若你近期內有擊敗敵人，則承受的傷害減少 {0}
 {0} reduced Damage taken if you've taken a Savage Hit Recently,若你近期內受到【殘暴打擊】，則傷害減少 {0}
 {0} reduced Damage taken if you've Taunted an Enemy Recently,若你近期內有成功嘲諷敵人，則受到的傷害減少 {0}
@@ -4008,7 +4008,7 @@
 {0} reduced Damage with Hits against Shocked Enemies,對感電敵人的擊中傷害減少 {0}
 {0} reduced Damage with Hits and Ailments,擊中和異常狀態的傷害減少 {0}
 {0} reduced Damage with Hits and Ailments  against Bleeding Enemies,擊中和異常狀態對流血敵人的傷害減少 {0}
-"{0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",若敵人身上有凍結、感電、點燃效果，每有一種都使對它的擊中和異常狀態傷害減少 {0}
+"{0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",若敵人身上有冰凍、感電、點燃效果，每有一種都使對它的擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Bleeding Enemies,對流血敵人的擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Blinded Enemies,對致盲的敵人的擊中和異常狀態傷害減少 {0}
 {0} reduced Damage with Hits and Ailments against Burning Enemies,對燃燒敵人的擊中傷害和異常狀態傷害減少 {0}
@@ -4155,7 +4155,7 @@
 {0} reduced Effect of non-Keystone Passive Skills in Radius,範圍內的非核心天賦效果減少 {0}
 {0} reduced effect of Offerings,奉獻效果減少 {0}
 {0} reduced effect of Onslaught on Players and Monsters,玩家和怪物的【猛攻】效果減少 {0}
-{0} reduced Effect of Scorch,灼燒效果減少 {0}
+{0} reduced Effect of Scorch,焦灼效果減少 {0}
 {0} reduced Effect of Shock,感電效果減少 {0}
 {0} reduced Effect of Shock on you,你受到的感電效果減少 {0}
 {0} reduced Effect of Shock you inflict with Critical Strikes,你暴擊施加的感電效果減少 {0}
@@ -4501,7 +4501,7 @@
 {0} reduced Mana Regeneration if you've used a Movement Skill Recently,若你近期內使用過位移技能，則魔力回復減少 {0}
 {0} reduced Mana Regeneration Rate,魔力回復速度減少 {0}
 {0} reduced Mana Regeneration Rate during any Flask Effect,藥劑持續期間，魔力回復減少 {0}
-{0} reduced Mana Regeneration Rate if you have Frozen an Enemy Recently,若你近期內凍結過敵人，則魔力回復速度減慢 {0}
+{0} reduced Mana Regeneration Rate if you have Frozen an Enemy Recently,若你近期內冰凍過敵人，則魔力回復速度減慢 {0}
 {0} reduced Mana Regeneration Rate if you have Shocked an Enemy Recently,若你近期內使敵人感電，則魔力回復速度減慢 {0}
 {0} reduced Mana Regeneration Rate if you've cast a Spell Recently,若你近期內有施放法術，則魔力回復率減少 {0}
 {0} reduced Mana Regeneration Rate if you've Hit a Cursed Enemy Recently,若你近期內擊中被詛咒的敵人，則魔力回復速度減少 {0}
@@ -4836,7 +4836,7 @@
 {0} reduced Spell Damage if you've Cast a Spell Recently,若你近期內有施放法術，則法術傷害減少 {0}
 {0} reduced Spell Damage if you've dealt a Critical Strike in the past {1} seconds,若過去 {1} 秒內你打出過暴擊，則法術傷害減少 {0}
 {0} reduced Spell Damage if you've dealt a Critical Strike Recently,近期若打出過暴擊，則法術傷害減少 {0}
-{0} reduced Spell Damage if your other Ring is an Elder Item,若你的其他戒指中有【裂界之器】，則法術傷害減少 {0}
+{0} reduced Spell Damage if your other Ring is an Elder Item,若你的其它戒指中有【裂界之器】，則法術傷害減少 {0}
 {0} reduced Spell Damage per {1} Dexterity,每 {1} 點敏捷可使法術傷害減少 {0}
 {0} reduced Spell Damage per {1} Intelligence,每 {1} 點智慧會使法術傷害減少 {0}
 {0} reduced Spell Damage per {1} Maximum Mana,每 {1} 點最大魔力會使法術傷害減少 {0}
@@ -6388,7 +6388,7 @@
 {0}% chance to Trigger this Skill when you Hit a Bleeding Enemy,當你擊中流血的敵人時，有 {0}% 機率觸發此技能
 {0}% chance to Trigger this Skill when you Hit a Frozen Enemy,當你擊中冰凍的敵人時，有 {0}% 機率觸發此法術
 {0}% chance to Trigger this Skill when you kill a Bleeding Enemy,擊敗流血敵人時有 {0}% 機率觸發該技能
-{0}% chance to Trigger this skill when you Kill a Frozen Enemy,你擊敗一個被凍結的敵人時，有 {0}% 機率觸發此技能
+{0}% chance to Trigger this skill when you Kill a Frozen Enemy,你擊敗一個被冰凍的敵人時，有 {0}% 機率觸發此技能
 {0}% chance to Trigger this Skill when your Animated Guardian Kills an Enemy,你的幻化守衛擊殺敵人時有 {0}% 機率觸發此法術
 {0}% chance to Trigger this Spell on Death,死亡時，有 {0}% 機率觸發此法術
 {0}% chance to Trigger this Spell on Kill,擊殺時，有 {0}% 機率觸發此法術
@@ -6851,7 +6851,7 @@
 {0}% increased Charge Recovery,增加 {0}% 充能回復
 {0}% increased Charged Dash Damage,增加 {0}% 雷霆衝鋒傷害
 {0}% increased Charges,{0}% 額外補充量
-{0}% increased Charges gained by Other Flasks during Flask Effect,藥劑效果期間增加 {0}% 其他藥劑獲得的充能
+{0}% increased Charges gained by Other Flasks during Flask Effect,藥劑效果期間增加 {0}% 其它藥劑獲得的充能
 {0}% increased Charges per use,每次使用增加 {0}% 充能
 {0}% increased Charges per use. {1}% to this value when used,每次使用增加 {0}% 充能。使用時 {1}% 此數值
 {0}% increased Charges used,增加 {0}% 充能消耗
@@ -8445,7 +8445,7 @@
 {0}% less Armour,{0}% 更少護甲
 {0}% less Attack Damage for each Non-Instant Spell you've Cast in the past {1} seconds,過去 {1} 秒你使用的每個非立即施放的法術，有 {0}% 更少攻擊傷害
 {0}% less Attack Damage per Frenzy Charge,每顆狂怒球有 {0}% 更少攻擊傷害
-{0}% less Attack Damage taken if you haven't been Hit by an Attack Recently,若你近期沒有被擊中，承受 {0}% 更少攻擊傷害
+{0}% less Attack Damage taken if you haven't been Hit by an Attack Recently,若你近期未被攻擊擊中，承受 {0}% 更少攻擊傷害
 {0}% less Attack Damage with Two Handed Weapons,持雙手武器有 {0}% 更少攻擊傷害
 {0}% less Attack Speed,{0}% 更少攻擊速度
 {0}% Less Attack Speed if Dual Wielding,當雙持武器時，{0}% 更少攻擊速度
@@ -8497,7 +8497,7 @@
 {0}% less Damage taken for every {1}% Life Recovery per second from Leech,每秒來自偷取回復每 {1}% 生命，減少承受 {0}% 傷害
 {0}% less Damage taken for every {1}% Recovery per second from Life Leech,每 {1}% 的生命偷取每秒恢復，承受 {0}% 更少傷害
 {0}% less Damage Taken from Damage over Time,承受 {0}% 更少持續傷害
-{0}% less Damage taken from other Enemies near your Marked Enemy,承受 {0}% 更少來自靠近被你印記敵人的其他敵人的傷害
+{0}% less Damage taken from other Enemies near your Marked Enemy,承受 {0}% 更少來自靠近被你印記敵人的其它敵人的傷害
 {0}% less Damage taken if you have not been Hit Recently,若近期未被擊中，承受 {0}% 較少傷害
 {0}% less Damage taken if you haven't been Hit Recently,若你近期沒有被擊中，{0}% 更少傷害承受
 {0}% less Damage taken per Gale Force,每個颶風之力承受 {0}% 更少傷害
@@ -8659,7 +8659,7 @@
 {0}% more Attack and Movement Speed per Challenger Charge,每顆挑戰球有 {0}% 更多攻擊和移動速度
 "{0}% more Attack Damage for each Non-Instant Spell you've Cast in the past {1} seconds, up to a maximum of {2}%",過去 {1} 秒你使用的每個非立即施放的法術，有 {0}% 更多攻擊傷害，至多 {2}%
 {0}% more Attack Damage per Frenzy Charge,每顆狂怒球有 {0}% 更多攻擊傷害
-{0}% more Attack Damage taken if you have been Hit by an Attack Recently,若你近期被擊中，{0}% 更多攻擊傷害
+{0}% more Attack Damage taken if you have been Hit by an Attack Recently,若你近期被攻擊擊中，承受 {0}% 更多攻擊傷害
 {0}% more Attack Damage with Two Handed Weapons,持雙手武器有 {0}% 更多攻擊傷害
 {0}% more Attack Speed,{0}% 更多攻擊速度
 {0}% More Attack Speed if Dual Wielding,當雙持武器時，{0}% 更多攻擊速度
@@ -8714,7 +8714,7 @@
 {0}% more Damage per Volley,每一階段造成 {0}% 更多傷害
 {0}% more Damage taken,承受 {0}% 更多傷害
 {0}% more Damage Taken from Damage over Time,承受 {0}% 更多持續傷害
-{0}% more Damage taken from other Enemies near your Marked Enemy,承受 {0}% 更多來自靠近被你印記敵人的其他敵人的傷害
+{0}% more Damage taken from other Enemies near your Marked Enemy,承受 {0}% 更多來自靠近被你印記敵人的其它敵人的傷害
 {0}% more Damage taken if a Non-Vaal Guard Buff was lost Recently,若近期失去非瓦爾守護增益效果，承受 {0}% 更多傷害
 {0}% more Damage taken if you have not been Hit Recently,若近期未被擊中，承受 {0}% 更多傷害
 {0}% more Damage taken if you haven't Consumed a Corpse Recently,若你近期沒有消耗屍體，承受 {0}% 更多傷害
@@ -8870,7 +8870,7 @@
 {0}% of Attack Damage Leeched as Life against Poisoned Enemies,對中毒敵人有 {0}% 攻擊傷害偷取生命
 {0}% of Attack Damage Leeched as Life against Taunted Enemies,攻擊受嘲諷的敵人時，偷取等同攻擊傷害 {0}% 的生命
 {0}% of Attack Damage Leeched as Life and Mana if you've Killed Recently,若你近期有擊殺，{0}% 攻擊傷害偷取生命和魔力
-{0}% of Attack Damage Leeched as Life during Flask effect,藥劑效果期間 {0}% 攻擊傷害偷取能量護盾
+{0}% of Attack Damage Leeched as Life during Flask effect,藥劑效果期間 {0}% 攻擊傷害偷取生命
 {0}% of Attack Damage Leeched as Life on Critical Strike,暴擊時 {0}% 攻擊傷害偷取生命
 {0}% of Attack Damage Leeched as Life per Frenzy Charge,每顆狂怒球，{0}% 攻擊傷害偷取生命
 {0}% of Attack Damage Leeched as Mana,{0}% 攻擊傷害偷取魔力
@@ -9017,7 +9017,7 @@
 {0}% of Monster Damage is Converted to Fire,怪物 {0}% 的傷害轉換為火焰屬性
 {0}% of Monster Damage is Converted to Lightning,怪物 {0}% 的傷害轉換為閃電屬性
 {0}% of Non-Chaos Damage taken bypasses Energy Shield,承受的 {0}% 非混沌傷害穿透能量護盾
-{0}% of Overkill Damage from Killing Blows on Cursed Enemies is Reflected to other Enemies as Physical Damage,對被詛咒敵人擊殺之擊溢出傷害的 {0}% ，以物理傷害反射至其他敵人
+{0}% of Overkill Damage from Killing Blows on Cursed Enemies is Reflected to other Enemies as Physical Damage,對被詛咒敵人擊殺之擊溢出傷害的 {0}% ，以物理傷害反射至其它敵人
 {0}% of Overkill Damage is Leeched as Life,{0}% 滿溢的傷害轉為生命偷取
 {0}% of Physical Attack Damage Leeched as Life,{0}% 的物理攻擊傷害偷取生命
 {0}% of Physical Attack Damage Leeched as Life and Mana,物理攻擊傷害的 {0}% 偷取為生命和魔力
@@ -9047,7 +9047,7 @@
 {0}% of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped,球體有感電或殘喘時，{0}% 物理傷害轉化至閃電傷害
 {0}% of Physical Damage Converted to Lightning Damage while you have at least {1} Devotion,當你至少有 {1} 個奉獻，{0}% 的物理傷害轉化為閃電傷害
 {0}% of Physical Damage Converted to Lightning during Flask effect,藥劑效果期間 {0}% 物理傷害轉換為閃電傷害
-{0}% of Physical Damage Converted to other Damage Types matching the Brand Gem's Tags,{0}% 物理傷害轉化至其他與烙印寶石標籤相符的傷害類型
+{0}% of Physical Damage Converted to other Damage Types matching the Brand Gem's Tags,{0}% 物理傷害轉化至其它與烙印寶石標籤相符的傷害類型
 {0}% of Physical Damage Dealt with Bows Leeched as Life,{0}% 的弓類武器造成的物理傷害偷取生命
 {0}% of Physical Damage Dealt with Bows Leeched as Mana,{0}% 弓類武器造成的物理傷害偷取魔力
 {0}% of Physical Damage Dealt with Claws Leeched as Life,{0}% 爪類武器造成的物理傷害偷取生命
@@ -11153,7 +11153,7 @@
 {1}% increased Rarity of Items found per {0} Rampage Kills,每 {0} 暴怒擊殺增加 {1}% 物品稀有度
 {1}% reduced Chill and Freeze Duration per {0} Dexterity Allocated in Radius,範圍內每 {0} 敏捷減少冰緩和冰凍 {1}% 持續時間
 {1}% reduced Melee Physical Damage with Unarmed Attacks per {0} Dexterity Allocated in Radius,空手時範圍內每分配 {0} 敏捷減少 {1}% 近戰物理傷害
-/ {0} (damage rate modifier),/ {0} (傷害速率修正)
+/ {0} (damage rate modifier),/ {0} (傷害速率詞綴)
 / {0} (debuff expires slower/faster),/ {0} (減益效果時間 更快/更慢)
 / {0} (increased/reduced cooldown recovery),/ {0} (增加/減少 冷卻回復)
 / {0} (increased/reduced enemy stun recovery),/ {0} (增加/減少 敵人暈眩時間)
@@ -11833,7 +11833,7 @@ Attack Damage Penetrates {0}% of Enemy Lightning Resistance,攻擊傷害穿透 {
 Attack deals {0} increased Damage,【殭屍復甦】的重擊攻擊傷害增加 {0}
 Attack deals {0}% increased Damage,復甦殭屍的重擊攻擊增加 {0}% 傷害
 Attack Hits against nearby Enemies have {0}% chance to inflict Bleeding,對附近敵人的攻擊擊中有 {0}% 機率造成流血
-Attack Hits againts nearby Enemies have {0} chance to inflict Bleeding,對週圍敵人的攻擊擊中有 {0} 的機率施加流血
+Attack Hits againts nearby Enemies have {0} chance to inflict Bleeding,對週圍敵人的攻擊擊中有 {0} 的機率造成流血
 Attack Hits againts nearby Enemies have {0}% chance to inflict Bleeding,對附近敵人的攻擊擊中有 {0}% 機率造成流血
 Attack Hits have {0} chance to Maim Cursed Enemies for {1} seconds,攻擊擊中有 {0} 的機率使被詛咒的敵人【癱瘓】，持續 {1} 秒
 Attack Hits have {0}% chance to Maim Cursed Enemies for {1} seconds,攻擊擊中有 {0}% 機率癱瘓被詛咒的敵人 {1} 秒
@@ -11889,7 +11889,7 @@ Attacks have {0}% chance to inflict Bleeding when Hitting Cursed Enemies,當攻�
 Attacks have {0}% chance to Maim on Hit,攻擊擊中時有 {0}% 機率造成癱瘓
 Attacks have {0}% chance to Poison while at maximum Frenzy Charges,當獲得最大狂怒球時，攻擊有 {0}% 機率造成中毒
 Attacks have {0}% to Critical Strike Chance,攻擊有 {0}% 機率造成暴擊
-Attacks Hits against Cursed Enemies have {0} chance to inflict Bleeding,對抗被詛咒的敵人時，攻擊擊中有 {0} 的機率施加流血
+Attacks Hits against Cursed Enemies have {0} chance to inflict Bleeding,對抗被詛咒的敵人時，攻擊擊中有 {0} 的機率造成流血
 Attacks Hits against Cursed Enemies have {0}% chance to inflict Bleeding,攻擊擊中被詛咒的敵人，有 {0}% 機率造成流血
 Attacks that Fire Projectiles Consume up to {0} additional Steel Shard,會發射投射物的攻擊消耗最多 {0} 個額外鋼鐵碎片
 Attacks that Fire Projectiles Consume up to {0} additional Steel Shards,會發射投射物的攻擊消耗最多 {0} 個額外鋼鐵碎片
@@ -12292,7 +12292,7 @@ Buff causes Debuffs on you to expire {0}% slower,增益效果使你身上的減�
 "Buff causes your Hits to Overwhelm {0}% Physical Damage Reduction per {1} Power, up to {2}%",每 {1} 強度增益效果使你的擊中鎮壓 {0}% 物理傷害減免，至多 {2}%
 Buff Duration is refreshed after you spend a total of {0} Life,在你消耗總 {0} 生命後，刷新增益效果持續時間
 Buff grants {0} additional Physical Damage Reduction per Endurance Charge,每個耐力球使增益效果獲得 {0} 額外物理傷害減免
-Buff grants {0} chance to Freeze,增益效果有 {0} 的機率導致凍結
+Buff grants {0} chance to Freeze,增益效果有 {0} 的機率導致冰凍
 Buff grants {0} chance to gain a Frenzy Charge when you Hit a Rare or Unique Enemy,你擊中稀有或傳奇敵人時，增益效果有 {0} 的機率獲得一個狂怒球
 Buff grants {0} chance to gain a Frenzy Charge when you Hit a Unique Enemy,你擊中傳奇敵人時，增益效果有 {0} 的機率獲得一個狂怒球
 Buff Grants {0} chance to Shock enemies,增益效果使敵人有 {0} 的機率獲得感電效果
@@ -12667,7 +12667,7 @@ Cobra Lash has {0}% reduced Projectile Speed,毒蛇鞭笞減少 {0}% 投射物�
 Cold Damage is increased by {0} per {1} Intelligence from Allocated Passives in Radius,範圍內每配置 {1} 點智慧，冰冷傷害增加 {0}
 Cold Damage is increased by {0}% per {1} Intelligence from Allocated Passives in Radius,範圍內每配置 {1} 點智慧，冰冷傷害增加 {0}%
 Cold Damage is increased by {1}% per {0} Intelligence from Allocated Passives in Radius,範圍內每配置 {0} 點智慧增加 {1}% 冰冷傷害
-Cold Exposure applies {0} to Cold Resistance,【畏寒】 {0} 冰冷抗性
+Cold Exposure applies {0} to Cold Resistance,【冰冷曝曬】 {0} 冰冷抗性
 Cold Exposure applies {0}% to Cold Resistance,冰冷曝曬 {0}% 冰冷抗性
 Cold Exposure you inflict applies an extra {0}% to Cold Resistance,你造成的冰冷曝曬套用額外 {0}% 冰冷抗性
 Cold Modifiers have {0} increased Effect,冰冷詞綴的效果增加 {0}
@@ -12678,7 +12678,7 @@ Cold Resistance is {0},冰冷抗性 {0}
 Cold Resistance is {0}%,冰冷抗性為 {0}%
 Cold Skills have {0} chance to Poison on Hit,冰冷技能有 {0} 的機率使敵人中毒
 Cold Skills have {0}% chance to Poison on Hit,冰冷技能擊中時有 {0}% 造成中毒
-Cold Skills have a {0} chance to apply Cold Exposure on Hit,冰冷技能有 {0} 的機率在擊中時附加【畏寒】
+Cold Skills have a {0} chance to apply Cold Exposure on Hit,冰冷技能有 {0} 的機率在擊中時附加【冰冷曝曬】
 Cold Skills have a {0}% chance to apply Cold Exposure on Hit,冰冷技能擊中時有 {0}% 機率造成冰冷曝曬
 Cold Snap has {0} increased Cooldown Recovery Rate,霜暴的冷卻回復率增加 {0}
 Cold Snap has {0} reduced Cooldown Recovery Rate,霜暴的冷卻回復率減少 {0}
@@ -13245,7 +13245,7 @@ Deals {0}% of your Maximum Energy Shield as Base Fire Damage per second,每秒�
 Deals {0}% of your maximum Life as base Chaos Damage,造成 {0}% 你最大生命的基礎混沌傷害
 Deals {0}% of your Maximum Life as Base Fire Damage per second,每秒造成 {0}% 你最大生命的基礎火焰傷害
 Deals {0}% reduced Damage if you've lost an Endurance Charge in the past {1} seconds,若過去 {1} 秒你有失去耐力球，減少 {0}% 傷害
-Deals base Lightning Damage equal to {0}% of missing Unreserved Mana,造成等同於 {0}% 遺失未保留魔力的基礎閃點傷害
+Deals base Lightning Damage equal to {0}% of missing Unreserved Mana,造成等同於 {0}% 遺失未保留魔力的基礎閃電傷害
 Deals Damage every {0} second,每 {0} 秒造成傷害
 Deals Damage every {0} seconds,每 {0} 秒造成傷害
 Deals up to {0} less Damage to closer targets,對近身目標造成的總傷害最多更少 {0}
@@ -13385,7 +13385,7 @@ Dread Banner has {0}% reduced Aura Effect,恐懼之旗減少 {0}% 光環效果
 Dread Banner has {0}% reduced Fortification duration,恐懼之旗減少 {0}% 護體持續時間
 Dread Banner has {0}% reduced Fortify duration,恐懼之旗減少 {0}% 護體持續時間
 Dread Banner has {0}% reduced Mana Reservation Efficiency,恐懼之旗減少 {0}% 魔力保留效用
-"Drenched Enemies have Cold and Lightning Exposure, applying {0} to Resistances",浸濕的敵人具有冰冷和閃電的曝露效果，其抗性 {0}
+"Drenched Enemies have Cold and Lightning Exposure, applying {0} to Resistances",浸濕的敵人具有冰冷和閃電的曝曬效果，其抗性 {0}
 "Drenched Enemies have Cold and Lightning Exposure, applying {0}% to Resistances",濕透的敵人有冰冷和閃電曝曬，{0}% 抗性
 "Drops Burning Ground while moving, dealing {0} Fire Damage per second",移動時制造燃燒地面，每秒造成 {0} 火焰傷害
 "Drops Burning Ground while moving, dealing {0} Fire Damage per second for {1} second",移動時留下燃燒地面，每秒造成 {0} 火焰傷害，持續 {1} 秒
@@ -13497,8 +13497,8 @@ Effects of Consecrated Ground you create Linger for {0} second,你製造的奉�
 Effects of Consecrated Ground you create Linger for {0} seconds,你製造的奉獻地面效果多留存 {0} 秒
 Effects of Consecrated Ground you create while affected by Zealotry Linger for {0} seconds,被狂熱影響時，你製造的奉獻地面效果持續 {0} 秒
 Elemental Ailments caused by Supported Skills spread to other enemies in a Radius of {0},被輔助的技能造成元素異常擴散至半徑 {0} 的敵人
-Elemental Ailments inflicted on Enemies Exposed by you have {0} increased Duration,施加在被你曝露的敵人身上的元素異常狀態持續時間延長 {0}
-Elemental Ailments inflicted on Enemies Exposed by you have {0} reduced Duration,施加在被你曝露的敵人身上的元素異常狀態持續時間縮短 {0}
+Elemental Ailments inflicted on Enemies Exposed by you have {0} increased Duration,施加在被你曝曬的敵人身上的元素異常狀態持續時間延長 {0}
+Elemental Ailments inflicted on Enemies Exposed by you have {0} reduced Duration,施加在被你曝曬的敵人身上的元素異常狀態持續時間縮短 {0}
 Elemental Ailments inflicted on Enemies Exposed by you have {0}% increased Duration,敵人被你曝曬造成的元素異常狀態，增加 {0}% 持續時間
 Elemental Ailments inflicted on Enemies Exposed by you have {0}% reduced Duration,敵人被你曝曬造成的元素異常狀態，減少 {0}% 持續時間
 Elemental Ailments inflicted on you spread to Enemies in a radius of {0},對你造成的元素異常狀態，擴散至範圍 {0} 內的敵人
@@ -13585,11 +13585,11 @@ Enemies Cursed by you take {0}% increased Damage if {1}% of Curse Duration expir
 Enemies Cursed by you take {0}% reduced Damage if {1}% of Curse Duration expired,若詛咒持續時間過去 {1}%，被你詛咒的敵人減少 {0}% 承受傷害
 Enemies do not block your movement for {0} second on Rampage,暴怒時無視敵人碰撞 {0} 秒
 Enemies do not block your movement for {0} seconds on Rampage,暴怒時無視敵人碰撞 {0} 秒
-"Enemies Drenched by Hydrosphere have Cold and Lightning Exposure, applying {0} to Resistances",被水弒界浸濕的敵人有冰冷和閃電曝露效果，抗性 {0}
+"Enemies Drenched by Hydrosphere have Cold and Lightning Exposure, applying {0} to Resistances",被水弒界浸濕的敵人有冰冷和閃電曝曬效果，抗性 {0}
 "Enemies Drenched by Hydrosphere have Cold and Lightning Exposure, applying {0}% to Resistances",被水弒界溼透的敵人有冰冷和閃電曝曬，{0}% 抗性
-Enemies Frozen by Supported Skills have {0} to Cold Resistance,被輔助技能導致敵人凍結時，它的冰冷抗性 {0}
+Enemies Frozen by Supported Skills have {0} to Cold Resistance,被輔助技能導致敵人冰凍時，它的冰冷抗性 {0}
 Enemies Frozen by Supported Skills have {0}% to Cold Resistance,被輔助技能冰凍的敵人 {0}% 冰冷抗性
-Enemies Frozen by this Skill have {0} to Cold Resistance,若敵人被該技能凍結，則它們的冰冷抗性 {0}
+Enemies Frozen by this Skill have {0} to Cold Resistance,若敵人被該技能冰凍，則它們的冰冷抗性 {0}
 Enemies Frozen by this Skill have {0}% to Cold Resistance,被此技能冰凍的敵人 {0}% 冰冷抗性
 Enemies Frozen by you take {0} increased Damage,被你冰凍的敵人額外承受 {0} 傷害
 Enemies Frozen by you take {0}% increased Damage,被你冰凍的敵人額外承受 {0}% 傷害
@@ -13811,17 +13811,17 @@ Enemies take {0}% reduced Elemental Damage from your Hits for,根據你套用在
 Enemies take {0}% reduced Elemental Damage from your Hits for,根據你套用在敵人身上的每層凋零，
 Enemies take {0}% reduced Elemental Damage from your Hits for each Withered you have inflicted on them,給敵人施加的每個【枯萎】都使它們從你的擊中中受到的元素傷害減少 {0}%
 Enemies Taunted by you deal {0} less Area Damage,被你嘲諷的敵人總範圍傷害更少 {0}
-Enemies Taunted by you deal {0} less Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其他目標時，造成的擊中和異常狀態總傷害更少 {0}
+Enemies Taunted by you deal {0} less Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其它目標時，造成的擊中和異常狀態總傷害更少 {0}
 Enemies Taunted by you deal {0} more Area Damage,被你嘲諷的敵人總範圍傷害更多 {0}
-Enemies Taunted by you deal {0} more Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其他目標時，造成的擊中和異常狀態總傷害更多 {0}
+Enemies Taunted by you deal {0} more Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其它目標時，造成的擊中和異常狀態總傷害更多 {0}
 Enemies Taunted by you deal {0}% less Area Damage,被你嘲諷的敵人造成 {0}% 更少範圍傷害
-Enemies Taunted by you deal {0}% less Damage with Hits and,被你嘲諷的敵人攻擊其他目標時，造成的擊中和
-Enemies Taunted by you deal {0}% less Damage with Hits and,被你嘲諷的敵人攻擊其他目標時，造成的擊中和
-Enemies Taunted by you deal {0}% less Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其他目標時，造成的擊中和異常狀態總傷害更少 {0}%
+Enemies Taunted by you deal {0}% less Damage with Hits and,被你嘲諷的敵人攻擊其它目標時，造成的擊中和
+Enemies Taunted by you deal {0}% less Damage with Hits and,被你嘲諷的敵人攻擊其它目標時，造成的擊中和
+Enemies Taunted by you deal {0}% less Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其它目標時，造成的擊中和異常狀態總傷害更少 {0}%
 Enemies Taunted by you deal {0}% more Area Damage,被你嘲諷的敵人造成 {0}% 更多範圍傷害
-Enemies Taunted by you deal {0}% more Damage with Hits and,被你嘲諷的敵人攻擊其他目標時，造成的擊中和
-Enemies Taunted by you deal {0}% more Damage with Hits and,被你嘲諷的敵人攻擊其他目標時，造成的擊中和
-Enemies Taunted by you deal {0}% more Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其他目標時，造成的擊中和異常狀態總傷害更多 {0}%
+Enemies Taunted by you deal {0}% more Damage with Hits and,被你嘲諷的敵人攻擊其它目標時，造成的擊中和
+Enemies Taunted by you deal {0}% more Damage with Hits and,被你嘲諷的敵人攻擊其它目標時，造成的擊中和
+Enemies Taunted by you deal {0}% more Damage with Hits and Ailments against other targets,被你嘲諷的敵人攻擊其它目標時，造成的擊中和異常狀態總傷害更多 {0}%
 Enemies Taunted by you take {0} increased Damage,受到你嘲諷的敵人所承受的傷害增加 {0}
 Enemies Taunted by you take {0} reduced Damage,受到你嘲諷的敵人所承受的傷害減少 {0}
 Enemies Taunted by you take {0}% increased Damage,受到你嘲諷的敵人增加 {0}% 承受的傷害
@@ -13964,7 +13964,7 @@ Every {0} Volleys leave a Lingering Blade in the ground,每 {0} 次齊射留下 
 "Every {1} seconds, take no Damage over Time for {0} seconds",每 {1} 秒，不受到持續傷害 {0} 秒
 "Every second, Consume a nearby Corpse to Recover {0}% of Life and Mana",每秒消耗附近 1 個屍體回復 {0}% 生命和魔力
 "Every second, inflict Withered on nearby Enemies for {0} seconds",每秒對附近敵人造成 {0} 秒凋零
-Every third successive strike Freezes enemies as though dealing {0} more Damage,現在每三次連續打擊會凍結敵人，如同造成 {0} 傷害
+Every third successive strike Freezes enemies as though dealing {0} more Damage,現在每三次連續打擊會冰凍敵人，如同造成 {0} 傷害
 Every third successive strike Freezes enemies as though dealing {0}% more Damage,每個第三次成功的打擊有如造成 {0}% 更多傷害來冰凍敵人
 Excavated Chests have a {0}% chance to contain twice as many Items,發掘的保險箱有 {0}% 機率含有 2 倍的物品
 Exerted Attacks deal {0} increased Damage,增助攻擊的傷害增加 {0}
@@ -14082,7 +14082,7 @@ Explosive Trap has {0}% reduced Area of Effect,爆裂陷阱減少 {0}% 範圍效
 Exposure applies {0} to Elemental Resistance matching highest Damage taken,根據敵人受到的最高傷害的類型，使其對該元素的抗性 {0}
 Exposure applies {0}% to Elemental Resistance matching highest Damage taken,曝曬使承受最高的元素傷害，{0}% 對應的元素抗性
 Exposure inflicted this way applies {0}% to Resistances,以此方式造成的曝曬 {0}% 抗性
-Exposure you inflict applies an extra {0} to the affected Resistance,你施加的曝露效果會使受影響的抗性額外 {0}
+Exposure you inflict applies an extra {0} to the affected Resistance,你施加的曝曬效果會使受影響的抗性額外 {0}
 Exposure you inflict applies an extra {0}% to the affected Resistance,你造成的曝曬額外 {0}% 至影響的抗性
 Exposure you inflict applies at least {0}% to the affected Resistance,你造成的曝曬至少套用 {0}% 被影響的抗性
 Exsanguinate deals {0}% increased Damage,抽血增加 {0}% 傷害
@@ -14140,7 +14140,7 @@ Fire Elementals have {0} increased maximum Life,火元素的最大生命增加 {
 Fire Elementals have {0} reduced maximum Life,火元素的最大生命減少 {0}
 Fire Elementals have {0}% increased maximum Life,火元素增加 {0}% 最大生命
 Fire Elementals have {0}% reduced maximum Life,火元素減少 {0}% 最大生命
-Fire Exposure applies {0} to Fire Resistance,【畏火】 {0} 火焰抗性
+Fire Exposure applies {0} to Fire Resistance,【火焰曝曬】 {0} 火焰抗性
 Fire Exposure applies {0}% to Fire Resistance,火焰曝曬 {0}% 火焰抗性
 Fire Exposure you inflict applies an extra {0}% to Fire Resistance,你造成的火焰曝曬套用額外 {0}% 火焰抗性
 Fire Modifiers have {0} increased Effect,火焰詞綴的效果增加 {0}
@@ -14152,7 +14152,7 @@ Fire Resistance is {0},火焰抗性 {0}
 Fire Resistance is {0}%,火焰抗性為 {0}%
 Fire Skills have {0} chance to Poison on Hit,火焰技能有 {0} 的機率使敵人中毒
 Fire Skills have {0}% chance to Poison on Hit,火焰技能擊中時有 {0}% 機率造成中毒
-Fire Skills have a {0} chance to apply Fire Exposure on Hit,火焰技能在擊中時有 {0} 的機率附加【畏火】
+Fire Skills have a {0} chance to apply Fire Exposure on Hit,火焰技能在擊中時有 {0} 的機率附加【火焰曝曬】
 Fire Skills have a {0}% chance to apply Fire Exposure on Hit,火焰技能擊中時有 {0}% 機率造成火焰曝曬
 Fire Spells have {0} of Physical Damage Converted to Fire Damage,火焰法術的 {0} 物理傷害轉換為火焰傷害
 Fire Spells have {0}% of Physical Damage Converted to Fire Damage,火焰法術 {0}% 物理傷害轉化至火焰傷害
@@ -14163,7 +14163,7 @@ Fire Trap has {0}% reduced Fire Trap Cooldown Recovery Rate,火焰陷阱減少 {
 Fire Trap throws up to {0} additional Trap,火焰陷阱投擲至多 {0} 個額外陷阱
 Fire Trap throws up to {0} additional Traps,火焰陷阱投擲至多 {0} 個額外陷阱
 Fireball has {0} chance to Ignite,火球有 {0} 的機率點燃
-Fireball has {0} chance to Scorch,【火球】有 {0} 的機率導致灼燒
+Fireball has {0} chance to Scorch,【火球】有 {0} 的機率導致焦灼
 Fireball has {0}% chance to Ignite,火球有 {0}% 機率點燃
 Fireball has {0}% chance to Scorch,火球 {0}% 機率焦灼
 "Fireball Projectiles gain Area as they travel farther, up to {0} increased Area of Effect",火球投射物的爆炸範圍將隨飛行距離擴大，最多擴大 {0}
@@ -14339,7 +14339,7 @@ Focus has {0}% reduced Cooldown Recovery Speed,專注的冷卻回復速度減少
 "For each nearby corpse, you and nearby Allies Regenerate {0} Mana per second, up to {1} per second",週圍每個屍體使你和週圍友軍每秒回復 {0} 魔力，最多每秒 {1} 點
 "For each nearby corpse, you and nearby Allies Regenerate {0} of Energy Shield per second, up to {1} per second",週圍每個屍體使你和週圍友軍每秒回復 {0} 能量護盾，每秒最多 {1}
 "For each nearby corpse, you and nearby Allies Regenerate {0}% of Energy Shield per second, up to {1}% per second",附近每個屍體，你和附近友方每秒回復 {0}% 能量護盾，至多每秒 {1}%
-"For freeze to apply, target must have no more than {0} life.","要凍結敵人, 目標生命不能低於 {0}"
+"For freeze to apply, target must have no more than {0} life.","要冰凍敵人, 目標生命不能低於 {0}"
 "For shock to apply, target must have no more than {0} life.","要感電敵人, 目標生命不能低於 {0}"
 Forbidden Rite fires {0} additional Projectiles,禁忌儀式發射 {0} 個額外投射物
 Forbidden Rite fires extra Projectiles at up to {0} surrounding Enemies,禁忌儀式對附近最多 {0} 名敵人發射額外投射物
@@ -14357,11 +14357,11 @@ Found Items have {0} chance to drop Corrupted in Area,區域內找到的物品�
 Found Items have {0}% chance to drop Corrupted in Area,區域中掉落的物品有 {0}% 機率為已汙染
 Found Items have a {0} chance to drop Corrupted in Area,該區域掉落的物品有 {0} 機率已被腐化
 Found Items have a {0}% chance to drop Corrupted in Area,該區域掉落的物品有 {0}% 機率已被腐化
-Freeze Chilled Enemies as though dealing {0} less Damage,凍結冰緩的敵人如同總傷害更少 {0}
-Freeze Chilled Enemies as though dealing {0} more Damage,凍結冰緩的敵人如同總傷害更多 {0}
+Freeze Chilled Enemies as though dealing {0} less Damage,冰凍冰緩的敵人如同總傷害更少 {0}
+Freeze Chilled Enemies as though dealing {0} more Damage,冰凍冰緩的敵人如同總傷害更多 {0}
 Freeze Chilled Enemies as though dealing {0}% less Damage,冰凍冰緩的敵人，有如造成 {0}% 更少傷害
 Freeze Chilled Enemies as though dealing {0}% more Damage,冰凍冰緩的敵人，有如造成 {0}% 更多傷害
-Freeze Enemies as though dealing {0} more Damage,凍結敵人如同總傷害更多 {0}
+Freeze Enemies as though dealing {0} more Damage,冰凍敵人如同總傷害更多 {0}
 Freeze Enemies as though dealing {0}% more Damage,冰凍的敵人如同造成 {0}% 更多傷害
 Freeze Mine causes Enemies to lose an additional {0} Cold Resistance while Frozen,冰凍地雷冰凍敵人時，使其冰冷抗性更少 {0}
 Freeze Mine causes Enemies to lose an additional {0}% Cold Resistance while Frozen,冰凍地雷造成冰凍的敵人減少額外 {0}% 冰冷抗性
@@ -14371,7 +14371,7 @@ Freezes on Cursed enemies have {0} increased Duration,被詛咒敵人的冰凍�
 Freezes on Cursed enemies have {0} reduced Duration,被詛咒敵人的冰凍持續時間縮短 {0}
 Freezes on Cursed enemies have {0}% increased Duration,被詛咒敵人增加 {0}% 冰凍持續時間
 Freezes on Cursed enemies have {0}% reduced Duration,被詛咒敵人減少 {0}% 冰凍持續時間
-Freezes you inflict spread to other Enemies within a Radius of {0},你造成的冰凍擴散至距離 {0} 內的其他敵人
+Freezes you inflict spread to other Enemies within a Radius of {0},你造成的冰凍擴散至距離 {0} 內的其它敵人
 Freezing Pulse fires {0} additional Projectiles,【冰冷脈衝】增加 {0} 個拋射物
 Frost Blades Melee Damage Penetrates {0} Cold Resistance,冰霜之刃的近戰傷害穿透 {0} 冰冷抗性
 Frost Blades Melee Damage Penetrates {0}% Cold Resistance,冰霜之刃的近戰傷害穿透 {0}% 冰冷抗性
@@ -14632,8 +14632,7 @@ Gain Adrenaline for {0} seconds when you reach Low Life if you do not have Adren
 Gain an Endurance Charge every {0} seconds while Stationary,當靜止時每 {0} 秒獲得 1 顆耐力球
 "Gain an Endurance, Frenzy or Power Charge every {0} seconds",每 {0} 秒獲得 1 顆耐力、狂怒或暴擊球
 Gain Arcane Surge after Channelling for {0} second,引導施放 {0} 秒後獲得秘能波動
-Gain Arcane Surge after Spending a total of {0} Mana on,在被輔助技能的前期消耗和效果的
-Gain Arcane Surge after Spending a total of {0} Mana on,在被輔助技能的前期消耗和效果的
+Gain Arcane Surge after Spending a total of {0} Mana on,花費總計 {0} 點魔力後獲得秘能波動
 Gain Arcane Surge after Spending a total of {0} Mana on Upfront Costs and Effects of this Spell,在此法術的前期消耗和效果的總消耗 {0} 魔力時獲得秘能波動
 Gain Arcane Surge after Spending a total of {0} Mana with a Supported Skill,被輔助的技能消耗總 {0} 魔力後，獲得秘能波動
 Gain Arcane Surge after Spending a total of {0} Mana with Supported Skills,使用被輔助的技能消耗 {0} 總魔力後獲得秘能波動
@@ -14658,8 +14657,7 @@ Gain Infusion after Channelling a Supported Skill for {0} second,引導施放被
 Gain Infusion after Channelling a Supported Skill for {0} seconds,引導施放被輔助的技能 {0} 秒後獲得注入
 Gain Infusion after Channelling for {0} second,引導施放 {0} 秒後獲得注入
 Gain Infusion after Channelling for {0} seconds,引導施放 {0} 秒後獲得注入
-Gain Lifetap after Spending a total of {0} Life on Upfront,在被輔助技能的前期消耗和效果的
-Gain Lifetap after Spending a total of {0} Life on Upfront,在被輔助技能的前期消耗和效果的
+Gain Lifetap after Spending a total of {0} Life on Upfront,花費總計 {0} 點生命後獲得活栓
 Gain Lifetap after Spending a total of {0} Life on Upfront Costs and Effects of this Skill,在此技能的前期消耗和效果的總消耗 {0} 生命時獲得活栓
 Gain Lifetap after Spending a total of {0} Life with a Supported Skill,被輔助的技能消耗總 {0} 生命後獲得活栓
 Gain Lifetap after Spending a total of {0} Life with this Skill,此技能消耗總 {0} 生命後獲得活栓
@@ -15208,7 +15206,7 @@ Hits after the first on each Enemy deal {0} more Damage,首次擊中每個敵人
 Hits after the first on each Enemy deal {0}% less Damage,對每個敵人初始後的擊中造成 {0}% 更少傷害
 Hits after the first on each Enemy deal {0}% more Damage,對每個敵人初始後的擊中造成 {0}% 更多傷害
 Hits against Cursed Enemies have {0} chance to double Stun Duration,對抗被詛咒的敵人時，擊中有 {0} 的機率使暈眩時間翻倍
-Hits against Cursed Enemies have {0} chance to Freeze,對抗被詛咒的敵人時，擊中的凍結機率 {0}
+Hits against Cursed Enemies have {0} chance to Freeze,對抗被詛咒的敵人時，擊中的冰凍機率 {0}
 Hits against Cursed Enemies have {0} chance to Ignite,對抗被詛咒的敵人時，擊中的點燃機率 {0}
 Hits against Cursed Enemies have {0} chance to Shock,對抗被詛咒的敵人時，擊中的感電機率 {0}
 Hits against Cursed Enemies have {0} to Critical Strike Chance,對被詛咒敵人的擊中獲得 {0} 基礎暴擊機率
@@ -15228,7 +15226,7 @@ Hits against Nearby Enemies have {0} reduced Critical Strike Chance,對週圍敵
 Hits against Nearby Enemies have {0}% increased Critical Strike Chance,對附近敵人的擊中增加 {0}% 暴擊率
 Hits against Nearby Enemies have {0}% reduced Critical Strike Chance,對附近敵人的擊中減少 {0}% 暴擊率
 Hits Enemies every {0} Seconds,每 {0} 秒對敵人進行攻擊
-Hits for which the highest Damage Type is Elemental cause you to gain {0} Resonance of other Elements per second for {1} seconds,最高傷害類型的元素擊中，使你每秒獲得其他元素 {0} 共鳴，持續 {1} 秒
+Hits for which the highest Damage Type is Elemental cause you to gain {0} Resonance of other Elements per second for {1} seconds,最高傷害類型的元素擊中，使你每秒獲得其它元素 {0} 共鳴，持續 {1} 秒
 Hits from Supported Skills Overwhelm {0} of Physical Damage Reduction while you have Fortify,你在護體狀態下時，被輔助技能的擊中壓制{0} 的物理傷害減免
 Hits from Supported Skills Overwhelm {0}% of Physical Damage Reduction while at maximum Fortification,達到最大護體時，來自被輔助技能的擊中鎮壓 {0}% 物理傷害減免
 Hits from Supported Skills Overwhelm {0}% of Physical Damage Reduction while you have Fortify,你有護體時，來自被輔助技能的擊中鎮壓 {0}% 物理傷害減免
@@ -15250,7 +15248,7 @@ Hits Overwhelm {0}% of Physical Damage Reduction while you have Sacrificial Zeal
 Hits up to {0} additional enemies near the target,額外擊中 {0} 個目標附近敵人
 Hits up to {0} additional enemy near the target,最多可以擊中目標週圍的 {0} 個額外敵人
 Hits with Melee Movement Skills have {0}% chance to Fortify,此用位移技能擊中有 {0}% 機率護體
-Hits with Supported Skills for which the highest Damage Type is Elemental cause you to gain {0} Resonance of other Elements per second for {1} seconds,最高傷害類型的元素由被輔助的技能擊中，使你每秒獲得其他元素 {0} 共鳴，持續 {1} 秒
+Hits with Supported Skills for which the highest Damage Type is Elemental cause you to gain {0} Resonance of other Elements per second for {1} seconds,最高傷害類型的元素由被輔助的技能擊中，使你每秒獲得其它元素 {0} 共鳴，持續 {1} 秒
 Hits with this Weapon deal {0} increased Damage to Frozen Enemies,該武器對被冰凍敵人的擊中傷害增加 {0}
 Hits with this Weapon deal {0} increased Damage to Ignited Enemies,該武器對被點燃敵人的擊中傷害增加 {0}
 Hits with this Weapon deal {0} increased Damage to Shocked Enemies,該武器對被感電敵人的擊中傷害增加 {0}
@@ -15371,7 +15369,7 @@ Ignites you inflict deal Damage {0} faster,你造成的點燃的傷害生效速�
 Ignites you inflict deal Damage {0} slower,你施加的點燃傷害生效速度減慢 {0}
 Ignites you inflict deal Damage {0}% faster,你造成的點燃傷害加速 {0}%
 Ignites you inflict deal Damage {0}% slower,你造成的點燃比平常慢 {0}% 造成傷害
-Ignites you inflict spread to other Enemies within a Radius of {0},你造成的點燃擴散至距離 {0} 內的其他敵人
+Ignites you inflict spread to other Enemies within a Radius of {0},你造成的點燃擴散至距離 {0} 內的其它敵人
 Ignites you inflict with Attacks deal Damage {0} faster,你攻擊造成的點燃的傷害生效速度加快 {0}
 Ignites you inflict with Attacks deal Damage {0}% faster,你攻擊造成的點燃傷害加速 {0}%
 Illusion moves at {0} of your Movement Speed,幻象以你移動速度的 {0} 前進
@@ -15461,7 +15459,7 @@ Inflicts {0} Withered Debuffs the first time each Enemy enters the Area,每個�
 "Inflicts a random Hex on you when your Totems die, with {0} more Effect",你的圖騰被毀時，給你施加一種隨機魔蠱，其總效果更多 {0}
 "Inflicts a random Hex on you when your Totems die, with {0}% more Effect",當你的圖騰死亡時造成 1 個隨機咒術，有 {0}% 更多效果
 Inflicts a random Level {0} Curse on you when your Totems die,當你的圖騰死亡時，玩家受到 1 個 {0} 級的隨機詛咒
-"Inflicts Fire Exposure for {0} seconds when Enemies enter the wall, applying {1} to their Fire Resistance",對進入火牆的敵人施加 {0} 秒畏火，使它們的火焰抗性 {1}
+"Inflicts Fire Exposure for {0} seconds when Enemies enter the wall, applying {1} to their Fire Resistance",對進入火牆的敵人施加 {0} 秒火焰曝曬，使它們的火焰抗性 {1}
 "Inflicts Fire Exposure for {1} seconds when Enemies enter the wall, applying {0}% to their Fire Resistance",當敵人進入牆時造成火焰曝曬 {1} 秒，{0}% 他們的火焰抗性
 Inflicts Spider's Webs and Hinder every {0} Seconds,每 {0} 秒造成蛛網和緩速
 Inflicts Withered for {0} seconds on Hit,擊中時造成凋零 {0} 秒
@@ -16198,7 +16196,7 @@ Minions deal {0} increased Damage while you are affected by a Herald,你受捷�
 Minions deal {0} increased Damage with Ailments,召喚生物的異常狀態傷害增加 {0}
 Minions deal {0} increased Damage with Hits against Enemies that are on Low Life,對抗低血敵人時，召喚生物的擊中傷害增加 {0}
 Minions deal {0} increased Damage with Hits and Ailments per Curse on Enemy,敵人身上的每個詛咒都使召喚生物的擊中和異常狀態傷害增加 {0}
-"Minions deal {0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",敵人身上每種凍結、感電、點燃效果都使召喚生物的擊中和異常狀態傷害增加 {0}
+"Minions deal {0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",敵人身上每種冰凍、感電、點燃效果都使召喚生物的擊中和異常狀態傷害增加 {0}
 Minions deal {0} increased Elemental Damage,召喚生物的元素傷害增加 {0}
 Minions deal {0} increased Elemental Damage with Weapons,召喚生物的武器元素傷害增加 {0}
 Minions deal {0} increased Fire Damage,召喚生物的火焰傷害增加 {0}
@@ -16300,7 +16298,7 @@ Minions deal {0} reduced Damage while Leeching Mana,此攻擊和召喚生物的�
 Minions deal {0} reduced Damage while on Full Life,召喚生物滿血時的傷害減少 {0}
 Minions deal {0} reduced Damage while you are affected by a Herald,你受捷影響時，召喚生物的傷害減少 {0}
 Minions deal {0} reduced Damage with Ailments,召喚生物的異常狀態傷害減少 {0}
-"Minions deal {0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",敵人身上每種凍結、感電、點燃效果都使召喚生物的擊中和異常狀態傷害減少 {0}
+"Minions deal {0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",敵人身上每種冰凍、感電、點燃效果都使召喚生物的擊中和異常狀態傷害減少 {0}
 Minions deal {0} reduced Damage with Hits and Ailments per Curse on Enemy,敵人身上的每個詛咒都使召喚生物的擊中和異常狀態傷害減少 {0}
 Minions deal {0} reduced Elemental Damage,召喚生物的元素傷害減少 {0}
 Minions deal {0} reduced Elemental Damage with Weapons,召喚生物的武器元素傷害減少 {0}
@@ -16517,7 +16515,7 @@ Minions from Supported Skills have {0} additional Physical Damage Reduction,被�
 Minions from Supported Skills have {0} Chance to Block Attack Damage,被輔助技能召喚生物時，它們的攻擊傷害格擋機率 {0}
 Minions from Supported Skills have {0} chance to deal Double Damage,被輔助技能召喚生物時，它們有 {0} 的機率傷害翻倍
 Minions from Supported Skills have {0} chance to grant Feeding Frenzy to you on Hit,被輔助技能創造的召喚生物擊中有 {0} 的機率獲得【狂噬】
-"Minions from Supported Skills have {0} chance to inflict Exposure on Hit, applying {1} to the Elemental Resistance matching highest Damage type taken by Enemy",被輔助技能創造的召喚生物擊中敵人有 {0} 的機率施加【曝露】，使其 {1} 元素抗性，其類型由該敵人所受最高傷害類型決定
+"Minions from Supported Skills have {0} chance to inflict Exposure on Hit, applying {1} to the Elemental Resistance matching highest Damage type taken by Enemy",被輔助技能創造的召喚生物擊中敵人有 {0} 的機率施加【曝曬】，使其 {1} 元素抗性，其類型由該敵人所受最高傷害類型決定
 Minions from Supported Skills have {0} chance to Taunt on Hit,被輔助技能創造的召喚生物擊中時有 {0} 的機率嘲諷
 Minions from Supported Skills have {0} increased Cooldown Recovery Rate,被輔助技能召喚生物時，它們的冷卻回復率增加 {0}
 Minions from Supported Skills have {0} increased Critical Strike Chance against the Prey,來自被輔助技能的召喚生物對獵物的暴擊率增加 {0}
@@ -16546,7 +16544,7 @@ Minions from Supported Skills have {0}% reduced Projectile Speed,來自被輔助
 Minions from Supported Skills have {0}% to all Elemental Resistances,透過輔助技能製造的召喚物 {0}% 全部元素抗性
 Minions from Supported Skills have {0}% to all maximum Elemental Resistances,透過輔助技能製造的召喚物 {0}% 全部最大元素抗性
 Minions from Supported Skills have {0}% to Critical Strike Multiplier against the Prey,來自被輔助技能的召喚物，對獵物 {0}% 暴擊加成
-"Minions from Supported Skills inflict Exposure on Hit, applying {0} to the Elemental Resistance matching highest Damage type taken by Enemy",被輔助技能創造的召喚生物擊中敵人後施加【曝露】，使其 {0} 元素抗性，其類型由該敵人所受最高傷害類型決定
+"Minions from Supported Skills inflict Exposure on Hit, applying {0} to the Elemental Resistance matching highest Damage type taken by Enemy",被輔助技能創造的召喚生物擊中敵人後施加【曝曬】，使其 {0} 元素抗性，其類型由該敵人所受最高傷害類型決定
 "Minions from Supported Skills inflict Exposure on Hit, applying {0}% to the Elemental Resistance matching highest Damage type taken by Enemy",透過輔助技能製造的召喚物擊中時造成曝曬，根據敵人受到最高的傷害種類 {0}% 對應的元素抗性
 Minions from Supported Skills recover {0} of Life on Hit,被輔助技能召喚生物時，它們擊中回復 {0} 生命
 Minions from Supported Skills recover {0}% of Life on Hit,來自被輔助技能的召喚物擊中時回復 {0}% 生命
@@ -16617,7 +16615,7 @@ Minions have {0} chance to grant Feeding Frenzy to you on Hit,召喚生物擊中
 "Minions have {0} chance to Hinder Enemies on Hit with Spells, with {1} reduced Movement Speed",召喚生物的法術擊中時有 {0} 的機率使敵人的移動速度減少 {1}
 Minions have {0} chance to Ignite,召喚生物有 {0} 的機率施加【點燃】
 Minions have {0} chance to Ignite enemies,召喚生物的火焰傷害有 {0} 的機率點燃敵人
-"Minions have {0} chance to inflict Exposure on Hit, applying {1} to the Elemental Resistance matching highest Damage type taken by Enemy",召喚生物擊中敵人後有 {0} 的機率造成【曝露】，使其 {1} 元素抗性，其類型由該敵人所受最高傷害類型決定
+"Minions have {0} chance to inflict Exposure on Hit, applying {1} to the Elemental Resistance matching highest Damage type taken by Enemy",召喚生物擊中敵人後有 {0} 的機率造成【曝曬】，使其 {1} 元素抗性，其類型由該敵人所受最高傷害類型決定
 Minions have {0} chance to inflict Withered on Hit,召喚生物擊中敵人後有 {0} 的機率造成【死亡凋零】
 Minions have {0} chance to Intimidate Enemies for {1} seconds on Hit,召喚生物在擊中時有 {0} 的機率威嚇敵人 {1} 秒
 Minions have {0} chance to Knock Enemies Back on Hit with Attacks,召喚生物的攻擊擊中有 {0} 的機率擊退敵人
@@ -16944,7 +16942,7 @@ Minions have an additional {0}% chance to Knock Enemies Back on Hit,召喚物有
 "Minions Hinder Enemies on Hit with Spells, with {0} reduced Movement Speed",召喚生物的法術擊中時，使敵人的移動速度減少 {0}
 "Minions Hinder Enemies on Hit with Spells, with {0}% reduced Movement Speed",召喚物使用法術擊中敵人時，減少敵人 {0}% 移動速度
 "Minions inflict Decay on Hit, dealing {0} Chaos Damage per second for {1} seconds",召喚物擊中造成腐化，每秒造成 {0} 混沌傷害，持續 {1} 秒
-"Minions inflict Exposure on Hit, applying {0} to the Elemental Resistance matching highest Damage type taken by Enemy",召喚生物擊中敵人後造成【曝露】，使其 {0} 元素抗性，其類型由該敵人所受最高傷害類型決定
+"Minions inflict Exposure on Hit, applying {0} to the Elemental Resistance matching highest Damage type taken by Enemy",召喚生物擊中敵人後造成【曝曬】，使其 {0} 元素抗性，其類型由該敵人所受最高傷害類型決定
 "Minions inflict Exposure on Hit, applying {0}% to the Elemental Resistance matching highest Damage type taken by Enemy",召喚物擊中時造成曝曬，根據敵人受到最高的傷害種類 {0}% 對應的元素抗性
 Minions inflict Overpowered for a base Duration of {0} seconds when Their Hits are Blocked,當召喚物擊中被格擋時，他們造成壓制持續 {0} 秒的基礎持續時間
 Minions Intimidate Enemies for {0} seconds on Hit,召喚物擊中時威嚇敵人 {0} 秒
@@ -17194,8 +17192,8 @@ Monsters have {0} chance to Hinder on Hit with Spells,怪物的法術擊中有 {
 Monsters have {0} chance to Impale with Attacks,怪物攻擊有 {0} 的機率施加【穿刺】
 Monsters have {0} chance to inflict a random Hex on Hit,怪物擊中有 {0} 的機率施加一種隨機魔蠱
 Monsters have {0} chance to inflict Brittle,怪物有 {0} 的機率施加【脆弱】
-Monsters have {0} chance to inflict Sapped,怪物有 {0} 的機率施加【精疲力盡】
-Monsters have {0} chance to inflict Scorch,怪物有 {0} 的機率施加【灼燒】
+Monsters have {0} chance to inflict Sapped,怪物有 {0} 的機率施加【殘喘】
+Monsters have {0} chance to inflict Scorch,怪物有 {0} 的機率造成【焦灼】
 Monsters have {0} chance to Maim on Hit with Attacks,怪物的攻擊擊中有 {0} 的機率施加【癱瘓】
 Monsters have {0} chance to remove a Flask Charge on Hit,怪物擊中時有 {0} 的機率移除一次藥劑使用次數
 "Monsters have {0} chance to remove Power, Frenzy and Endurance charges on Hit",怪物擊中時有 {0} 的機率移除暴擊球，狂暴球，耐力球
@@ -17442,7 +17440,7 @@ Nearby Enemies have {0}% to Critical Strike Multiplier,附近敵人 {0}% 暴擊�
 Nearby Enemies have {0}% to Fire Resistance,附近敵人 {0}% 火焰抗性
 Nearby Enemies have {0}% to Lightning Resistance,附近敵人 {0}% 閃電抗性
 Nearby Enemies have {0}% to Physical Damage Reduction,附近敵人有 {0}% 物理傷害減免
-"Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying {0} to those Resistances",【迷蹤】狀態下，附近的敵人獲得火焰、冰冷、閃電曝露，並使它們的抗性 {0}
+"Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying {0} to those Resistances",【迷蹤】狀態下，附近的敵人獲得火焰、冰冷、閃電曝曬，並使它們的抗性 {0}
 "Nearby Enemies have Fire, Cold and Lightning Exposure while you have Phasing, applying {0}% to those Resistances",當你有迷蹤時，附近敵人有火焰、冰冷和閃電曝曬，{0}% 這些元素抗性
 Nearby Enemies take {0} Chaos Damage per second,附近的敵人每秒受到 {0} 混沌傷害
 Nearby Enemies take {0} increased Elemental Damage,週圍敵人受到的元素傷害增加 {0}
@@ -17485,7 +17483,7 @@ Non-Curse Auras from Supported Skills have {0}% reduced Effect,被輔助的技�
 Non-Cursed Enemies you inflict Non-Aura Curses on are Blinded for {0} seconds,你對未被詛咒的敵人造成非光環的詛咒時，使敵人被致盲 {0} 秒
 Non-Damaging Ailments have {0}% increased Effect on you while you have Arcane Surge,當你有秘能波動時，增加 {0}% 你身上非傷害型異常狀態的效果
 Non-Damaging Ailments have {0}% reduced Effect on you while you have Arcane Surge,當你有秘能波動時，減少 {0}% 你身上非傷害型異常狀態的效果
-Non-Projectile Chaining Lightning Skills Chain {0} times,非投射物連鎖閃點技能連鎖 {0} 次
+Non-Projectile Chaining Lightning Skills Chain {0} times,非投射物連鎖閃電技能連鎖 {0} 次
 Non-Unique Flasks applied to you have {0} increased Effect,你身上的非傳奇藥劑效果增加 {0}
 Non-Unique Flasks applied to you have {0} reduced Effect,你身上的非傳奇藥劑效果減少 {0}
 Non-Unique Flasks applied to you have {0}% increased Effect,作用於你的非傳奇藥劑增加 {0}% 效果
@@ -18029,7 +18027,7 @@ Projectiles have {0} chance for an additional Projectile when Forking,投射物�
 Projectiles have {0} chance to be able to Chain when colliding with terrain,投射物擊中地面有 {0} 的機率產生連鎖效果
 Projectiles have {0} chance to be Supercharged,投射物有 {0} 的機率獲得超級聚能
 Projectiles have {0} chance to Freeze,投射物有 {0} 的機率造成冰凍
-"Projectiles have {0} chance to Freeze, which is lost over the first quarter of their flight",投射物有 {0} 的機率凍結敵人，該機率在它飛行四分之一後消失。
+"Projectiles have {0} chance to Freeze, which is lost over the first quarter of their flight",投射物有 {0} 的機率冰凍敵人，該機率在它飛行四分之一後消失。
 Projectiles have {0} chance to Ignite,投射物擊中時有 {0} 的機率點燃敵人
 Projectiles have {0} chance to Return to you,投射物有 {0} 的機率返回
 Projectiles have {0} chance to Return to you from final Target,投射物有 {0} 機率從最後的目標返回
@@ -18354,7 +18352,7 @@ Recover {0} of Life when you use a Warcry,你使用戰吼時回復 {0} 生命
 Recover {0} of Mana and Energy Shield when you Focus,專注時補充 {0} 的魔力和能量護盾
 Recover {0} of Mana on Kill,擊敗敵人時回復 {0} 魔力
 Recover {0} of Mana over {1} second when you use a Guard Skill,你使用防衛技能時，在 {1} 秒內回復 {0} 魔力
-Recover {0} of Mana when you Freeze an Enemy,你在凍結敵人時，回復 {0} 魔力
+Recover {0} of Mana when you Freeze an Enemy,你在冰凍敵人時，回復 {0} 魔力
 Recover {0} of Mana when you Kill a Cursed Enemy,擊敗被詛咒的敵人時回復 {0} 魔力
 Recover {0} of Mana when you Kill an Enemy during Flask Effect,在藥劑持續期間，擊敗敵人會補充 {0} 的魔力
 Recover {0} of Mana when you Shock an Enemy,你使敵人感電時，回復 {0} 魔力
@@ -18528,13 +18526,13 @@ Regenerate {0} of Life per second while while affected by Vitality,被活力影�
 Regenerate {0} of Life per second while you have a Totem,當你有圖騰存在時，每秒回復 {0} 生命
 Regenerate {0} of Life per second while you have Fortify,護體狀態下，每秒回復 {0} 生命
 Regenerate {0} of Life per second with at least {1} Strength,至少有 {1} 點力量時，每秒回復 {0} 生命
-"Regenerate {0} of Mana and Energy Shield per second for {1} seconds when you Freeze, Shock or Ignite an Enemy",當你凍結、感電、或點燃敵人時，每秒回復 {0} 魔力和能量護盾，持續 {1} 秒
+"Regenerate {0} of Mana and Energy Shield per second for {1} seconds when you Freeze, Shock or Ignite an Enemy",當你冰凍、感電、或點燃敵人時，每秒回復 {0} 魔力和能量護盾，持續 {1} 秒
 Regenerate {0} of Mana and Energy Shield per second while on Consecrated Ground,在奉獻地面上時，每秒回復 {0} 魔力和能量護盾
 Regenerate {0} of Mana over {1} seconds when you Consume a corpse,每吞噬一個屍體，便每 {1} 秒回復 {0} 魔力
 Regenerate {0} of Mana per second,每秒回復 {0} 魔力
 Regenerate {0} of Mana per second for each Summoned Totem,每個召喚的圖騰使你每秒回復 {0} 魔力
 Regenerate {0} of Mana per second if you've Hit an Enemy Recently,若你近期內擊中敵人，則每秒回復 {0} 魔力
-Regenerate {0} of Mana per second if you've inflicted Exposure Recently,若近期內你施加過曝露效果，則每秒再生 {0} 魔力
+Regenerate {0} of Mana per second if you've inflicted Exposure Recently,若近期內你施加過曝曬效果，則每秒再生 {0} 魔力
 Regenerate {0} of Mana per second per Power Charge,每個暴擊球便使每秒回復 {0} 魔力
 Regenerate {0} of your Armour as Life over {1} second when you Block,格擋時每 {1} 秒回復等同 {0} 護甲的生命
 Regenerate {0} Rage per second,每秒回復 {0} 盛怒
@@ -18916,8 +18914,8 @@ Shocks on Cursed enemies have {0} increased Duration,被詛咒敵人的感電持
 Shocks on Cursed enemies have {0} reduced Duration,被詛咒敵人的感電持續時間縮短 {0}
 Shocks on Cursed enemies have {0}% increased Duration,被詛咒敵人增加 {0}% 感電持續時間
 Shocks on Cursed enemies have {0}% reduced Duration,被詛咒敵人減少 {0}% 感電持續時間
-Shocks you inflict during Flask effect spread to other Enemies in a radius of {0},藥劑效果期間你造成的感電擴散至範圍 {0} 內的其它敵人
-Shocks you inflict spread to other Enemies within a Radius of {0},感電你擴散至 {0} 範圍內的敵人
+Shocks you inflict during Flask effect spread to other Enemies in a radius of {0},藥劑效果期間你造成的感電擴散至半徑 {0} 內的其它敵人
+Shocks you inflict spread to other Enemies within a Radius of {0},你造成的感電擴散至半徑 {0} 內的其他敵人
 Shockwave deals {0} less Damage,衝擊波造成的總傷害更少 {0}
 Shockwave deals {0} more Damage,衝擊波造成的總傷害更多 {0}
 Shockwave deals {0}% less Damage,衝擊波造成 {0}% 更少傷害
@@ -18978,10 +18976,10 @@ Siphoning Trap has {0}% increased Chill Effect,虹吸陷阱增加 {0}% 冰緩效
 Siphoning Trap has {0}% increased Skill Effect Duration,虹吸陷阱增加 {0}% 技能效果持續時間
 Siphoning Trap has {0}% reduced Chill Effect,虹吸陷阱減少 {0}% 冰緩效果
 Siphoning Trap has {0}% reduced Skill Effect Duration,虹吸陷阱減少 {0}% 技能效果持續時間
-Siphoning Trap's beam to you grants {0} increased Damage taken for each other beam,【虹吸陷阱】的光線連接到你，每有一條其他光線，都會使你承受的傷害增加 {0}
-Siphoning Trap's beam to you grants {0} reduced Damage taken for each other beam,【虹吸陷阱】的光線連接到你，每有一條其他光線，都會使你承受的傷害減少 {0}
-Siphoning Trap's beam to you grants {0}% increased Damage taken for each other beam,虹吸陷阱的其他每個射線對你增加承受 {0}% 傷害
-Siphoning Trap's beam to you grants {0}% reduced Damage taken for each other beam,虹吸陷阱的其他每個射線對你減少承受 {0}% 傷害
+Siphoning Trap's beam to you grants {0} increased Damage taken for each other beam,【虹吸陷阱】的光線連接到你，每有一條其它光線，都會使你承受的傷害增加 {0}
+Siphoning Trap's beam to you grants {0} reduced Damage taken for each other beam,【虹吸陷阱】的光線連接到你，每有一條其它光線，都會使你承受的傷害減少 {0}
+Siphoning Trap's beam to you grants {0}% increased Damage taken for each other beam,虹吸陷阱的其它每個射線對你增加承受 {0}% 傷害
+Siphoning Trap's beam to you grants {0}% reduced Damage taken for each other beam,虹吸陷阱的其它每個射線對你減少承受 {0}% 傷害
 Skeletons deal {0} increased Damage,【骷髏造成】的傷害增加 {0}
 Skeletons deal {0} reduced Damage,【骷髏造成】的傷害減少 {0}
 Skeletons deal {0}% increased Damage,增加 {0}% 骷髏造成的傷害
@@ -19095,7 +19093,7 @@ Smite deals {0}% reduced Damage,雷鳴重擊減少 {0}% 傷害
 Smite has {0} increased Aura Effect,【懲擊】的光環效果增加 {0}
 Smite has {0}% increased Aura Effect,雷鳴重擊增加 {0}% 光環效果
 Smite has a {0} chance for lightning to strike another target,【懲擊】有 {0} 的機率電擊另一個目標
-Smite has a {0}% chance for lightning to strike another target,雷鳴重擊有 {0}% 機率始閃電擊中其他目標
+Smite has a {0}% chance for lightning to strike another target,雷鳴重擊有 {0}% 機率始閃電擊中其它目標
 Smoke Mine grants additional {0} increased Movement Speed,【煙霧地雷】可使移動速度更多 {0}
 Smoke Mine grants additional {0} reduced Movement Speed,【煙霧地雷】可使移動速度更少 {0}
 Smoke Mine grants additional {0}% increased Movement Speed,煙霧地雷額外增加 {0}% 移動速度
@@ -19659,7 +19657,7 @@ Summon Skeletons can Summon up to {0} Skeleton Mages,召喚骷髏可以召喚至
 Summon Skitterbots has {0} increased Mana Reservation,【召喚飛掠者】的魔力保留增加 {0}
 Summon Skitterbots has {0} reduced Mana Reservation,召喚飛掠者的魔力保留減少 {0}
 Summon Skitterbots has {0}% increased Mana Reservation,召喚探測機獸增加 {0}% 魔力保留
-Summon Skitterbots has {0}% increased Mana Reservation Efficiency,S召喚探測機獸增加 {0}% 魔力保留效用
+Summon Skitterbots has {0}% increased Mana Reservation Efficiency,召喚探測機獸增加 {0}% 魔力保留效用
 Summon Skitterbots has {0}% increased Reservation,召喚探測機獸增加 {0}% 保留
 Summon Skitterbots has {0}% reduced Mana Reservation,召喚探測機獸減少 {0}% 魔力保留n
 Summon Skitterbots has {0}% reduced Mana Reservation Efficiency,召喚探測機獸減少 {0}% 魔力保留效用
@@ -19897,7 +19895,7 @@ Supported Skills deal {0} increased Damage with Hits against Enemies that are on
 Supported Skills deal {0} increased Damage with Hits against Frozen Enemies,被輔助技能對被冰凍敵人的傷害增加 {0}
 Supported Skills deal {0} increased Damage with Hits and Ailments against Enemies that are on Full Life,對抗滿血敵人時，被輔助技能的擊中和異常狀態傷害增加 {0}
 Supported Skills deal {0} increased Damage with Hits and Ailments per Curse on Enemy,敵人身上的每個詛咒都使被輔助技能的擊中和異常狀態傷害增加 {0}
-"Supported Skills deal {0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",敵人身上每種凍結、感電、點燃效果都使被輔助技能的擊中和異常狀態傷害增加 {0}
+"Supported Skills deal {0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",敵人身上每種冰凍、感電、點燃效果都使被輔助技能的擊中和異常狀態傷害增加 {0}
 Supported Skills deal {0} increased Damage with Poison,被輔助技能造成的中毒傷害增加 {0}
 Supported Skills deal {0} increased Elemental Damage,被輔助技能造成的元素傷害增加 {0}
 Supported Skills deal {0} increased Elemental Damage with Weapons,被輔助技能增加 {0} 武器元素傷害
@@ -20023,7 +20021,7 @@ Supported Skills deal {0} reduced Damage while you are affected by an Ailment,�
 Supported Skills deal {0} reduced Damage with Ailments,被輔助技能的異常狀態異常狀態傷害減少 {0}
 Supported Skills deal {0} reduced Damage with Hits,被輔助技能的擊中傷害減少 {0}
 Supported Skills deal {0} reduced Damage with Hits against Frozen Enemies,被輔助技能對被冰凍敵人的傷害減少 {0}
-"Supported Skills deal {0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",敵人身上每種凍結、感電、點燃效果都使被輔助技能的擊中和異常狀態傷害減少 {0}
+"Supported Skills deal {0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",敵人身上每種冰凍、感電、點燃效果都使被輔助技能的擊中和異常狀態傷害減少 {0}
 Supported Skills deal {0} reduced Damage with Hits and Ailments against Enemies that are on Full Life,對抗滿血敵人時，被輔助技能的擊中和異常狀態傷害減少 {0}
 Supported Skills deal {0} reduced Damage with Hits and Ailments per Curse on Enemy,敵人身上的每個詛咒都使被輔助技能的擊中和異常狀態傷害減少 {0}
 Supported Skills deal {0} reduced Damage with Poison,被輔助技能造成的中毒傷害減少 {0}
@@ -20252,7 +20250,7 @@ Supported Skills have {0} chance to Destroy Ignited Corpses on Killing Blow,被�
 Supported Skills have {0} chance to double Stun Duration,被輔助技能有 {0} 的機率使暈眩時間翻倍
 Supported Skills have {0} chance to Freeze,被輔助技能有 {0} 的機率冰凍敵人
 Supported Skills have {0} chance to Freeze Enemies which are Chilled,被輔助技能有 {0} 的機率冰凍被冰緩的敵人
-"Supported Skills have {0} chance to Freeze, Shock and Ignite",被輔助技能有 {0} 的機率導致凍結、感電和點燃效果
+"Supported Skills have {0} chance to Freeze, Shock and Ignite",被輔助技能有 {0} 的機率導致冰凍、感電和點燃效果
 Supported Skills have {0} chance to gain a Frenzy Charge on Killing a Frozen Enemy,被輔助技能擊敗冰凍敵人時有 {0} 的機率獲得狂怒球
 Supported Skills have {0} chance to gain a Frenzy Charge on Killing an Enemy affected by at least {1} Poisons,被輔助技能在擊敗一名至少中毒 {1} 層的敵人時，有 {0} 的機率獲得一個狂怒球
 Supported Skills have {0} chance to gain a Frenzy Charge on Killing Blow against Enemies with at least {1} Poisons,被輔助技能以致命一擊擊敗一名至少中毒 {1} 層的敵人時，有 {0} 的機率獲得一個狂怒球
@@ -20268,7 +20266,7 @@ Supported Skills have {0} chance to grant Onslaught for {1} seconds on dealing a
 Supported Skills have {0} chance to grant Onslaught for {1} seconds when you Hit a Unique Enemy,你擊中傳奇敵人時，被輔助技能有 {0} 的機率獲得 {1} 秒猛攻
 Supported Skills have {0} chance to Ignite,被輔助技能有 {0} 的機率點燃敵人
 Supported Skills have {0} chance to inflict an additional Impale on Enemies they Impale,被輔助技能對被它穿刺的敵人有 {0} 的機率施加一次額外穿刺
-Supported Skills have {0} chance to inflict Bleeding on Maimed Enemies,被輔助技能對癱瘓的敵人有 {0} 的機率施加流血
+Supported Skills have {0} chance to inflict Bleeding on Maimed Enemies,被輔助技能對癱瘓的敵人有 {0} 的機率造成流血
 Supported Skills have {0} chance to inflict Withered on Hit,被輔助技能擊中敵人後有 {0} 的機率造成【死亡凋零】
 Supported Skills have {0} chance to Knock Enemies Back on hit,被輔助技能擊中時有 {0} 的機率擊退敵人
 Supported Skills have {0} chance to Knock Enemies Back with Hits at Close Range,近程擊中時，被輔助技能有 {0} 的機率擊退敵人
@@ -21059,7 +21057,7 @@ This Attack and Minions deal {0} increased Damage while Leeching Life,偷取生�
 This Attack and Minions deal {0} increased Damage while Leeching Mana,偷取魔力時，此攻擊和召喚生物的傷害增加 {0}
 This Attack and Minions deal {0} increased Damage with Hits against Enemies that are on Low Life,對抗低血敵人時，該攻擊和召喚生物的擊中傷害增加 {0}
 This Attack and Minions deal {0} increased Damage with Hits and Ailments per Curse on Enemy,敵人身上的每個詛咒都使該攻擊和召喚生物的擊中和異常狀態傷害增加 {0}
-"This Attack and Minions deal {0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",敵人身上每種凍結、感電、點燃效果都使該攻擊和召喚生物的擊中和異常狀態傷害增加 {0}
+"This Attack and Minions deal {0} increased Damage with Hits and Ailments per Freeze, Shock or Ignite on Enemy",敵人身上每種冰凍、感電、點燃效果都使該攻擊和召喚生物的擊中和異常狀態傷害增加 {0}
 This Attack and Minions deal {0} increased Melee Damage against Bleeding Enemies,此攻擊與召喚生物對流血的敵人增加 {0} 近戰傷害
 This Attack and Minions deal {0} less Cold Damage Over Time,此攻擊與召喚物的持續性冰冷總傷害更少 {0}
 This Attack and Minions deal {0} less Damage over Time,此攻擊與召喚物的持續性總傷害更少 {0}
@@ -21097,7 +21095,7 @@ This Attack and Minions deal {0} reduced Damage over Time,此攻擊和召喚生�
 This Attack and Minions deal {0} reduced Damage while Leeching Energy Shield,偷取能量護盾時，此攻擊和召喚生物造成的傷害減少 {0}
 This Attack and Minions deal {0} reduced Damage while Leeching Life,偷取生命時，此攻擊和召喚生物的傷害減少 {0}
 This Attack and Minions deal {0} reduced Damage while Leeching Mana,偷取魔力時，此攻擊和召喚生物的傷害減少 {0}
-"This Attack and Minions deal {0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",敵人身上每種凍結、感電、點燃效果都使該攻擊和召喚生物的擊中和異常狀態傷害減少 {0}
+"This Attack and Minions deal {0} reduced Damage with Hits and Ailments  per Freeze, Shock or Ignite on Enemy",敵人身上每種冰凍、感電、點燃效果都使該攻擊和召喚生物的擊中和異常狀態傷害減少 {0}
 This Attack and Minions deal {0} reduced Damage with Hits and Ailments per Curse on Enemy,敵人身上的每個詛咒都使該攻擊和召喚生物的擊中和異常狀態傷害減少 {0}
 This Attack and Minions deal {0} reduced Melee Damage against Bleeding Enemies,此攻擊與召喚生物對流血的敵人減少 {0} 近戰傷害
 This Attack and Minions deal {0} to {1} added Fire Damage against Burning Enemies,攻擊和召喚物對燃燒敵人附加 {0} 至 {1} 火焰傷害
@@ -21674,7 +21672,7 @@ Trigger Level {0} Fog of War when your Trap is triggered,當你的陷阱被觸�
 Trigger Level {0} Glimpse of Eternity when Hit,被擊中時觸發等級 {0} 的永恆閃光
 Trigger Level {0} Gore Shockwave on Melee Hit if you have at least {1} Strength,若你至少有 {1} 點力量，近戰擊中時觸發等級 {0} 的濺血震波
 Trigger Level {0} Icicle Burst when you Hit a Frozen Enemy,當你擊中冰凍的敵人時，觸發等級 {0} 的冰柱爆裂
-Trigger Level {0} Icicle Burst when you Kill a Frozen Enemy,你擊敗被凍結的敵人時觸發 {0} 級的【爆環冰刺】
+Trigger Level {0} Icicle Burst when you Kill a Frozen Enemy,你擊敗被冰凍的敵人時觸發 {0} 級的【爆環冰刺】
 Trigger Level {0} Intimidating Cry on Hit,擊中時觸發等級 {0} 的威嚇戰吼
 Trigger Level {0} Intimidating Cry when you lose Cat's Stealth,你失去傲貓隱身時觸發等級 {0} 的恫嚇戰吼
 Trigger Level {0} Lightning Bolt when you deal a Critical Strike,當你暴擊時觸發等級 {0} 的雷擊
@@ -22046,7 +22044,7 @@ With {0} Corrupted Items Equipped: Life Leech recovers based on your Chaos Damag
 "With {0} Intelligence in Radius, {1}% of Glacial Cascade Physical Damage",若範圍內含有 {0} 點智慧，【冰川之刺】物理傷害的  {1}%
 "With {0} Intelligence in Radius, Glacial Cascade has {1} additional Bursts",若範圍內含有 {0} 點智慧，【冰川之刺】將額外爆炸 {1} 次
 "With {0} Intelligence in Radius, Glacial Cascade has an additional Burst",若範圍內含 {0} 點智力，冰川之刺可以額外爆炸一次
-"With {0} Notables Allocated in Radius, When you Kill a Rare monster, you gain {1} of its Modifiers for {2} seconds",若範圍內配置了 {0} 個關鍵天賦點，當你擊敗稀有怪物時，你會獲得該怪物的 {1} 屬性修正 {2} 秒
+"With {0} Notables Allocated in Radius, When you Kill a Rare monster, you gain {1} of its Modifiers for {2} seconds",若範圍內配置了 {0} 個關鍵天賦點，當你擊敗稀有怪物時，你會獲得該怪物的 {1} 詞綴 {2} 秒
 "With {0} total Dexterity and Strength in Radius, Elemental Hit and Wild Strike cannot choose Lightning",若範圍內含 {0} 點敏捷和力量，元素打擊和野性打擊不能選擇閃電
 "With {0} total Dexterity and Strength in Radius, Elemental Hit and Wild Strike deal {1} less Lightning Damage",範圍內敏捷和力量總計 {0} 點時，【元素打擊】和【狂野打擊】的總閃電傷害更少 {1}
 "With {0} total Dexterity and Strength in Radius, Elemental Hit and Wild Strike deal {1}% less Lightning Damage",若範圍內含 {0} 點敏捷和力量，元素打擊和野性打擊造成 {1}% 更少閃電傷害
@@ -22176,8 +22174,8 @@ With {1} Corrupted Items Equipped: Gain Soul Eater for {0} seconds on Vaal Skill
 "With at least {0} Intelligence in Radius, Enemies Hindered by Blight take {1} increased Chaos Damage",若範圍內含有 {0} 點智慧，被【枯萎】幹擾的敵人受到的混沌傷害增加 {1}
 "With at least {0} Intelligence in Radius, Enemies Hindered by Blight take {1}% increased Chaos Damage",若範圍內含有 {0} 點智慧，被【枯萎】幹擾的敵人受到的混沌傷害增加 {1}%
 "With at least {0} Intelligence in Radius, Fireball cannot ignite",若範圍內含 {0} 點智慧，火球不能點燃
-"With at least {0} Intelligence in Radius, Fireball has {1} chance to inflict scorch",若範圍內至少有 {0} 點智慧，【火球】 {1} 的機率施加【燒灼】
-"With at least {0} Intelligence in Radius, Fireball has {1}% chance to inflict scorch",若範圍內至少有 {0} 點智慧，【火球】 {1}% 機率施加【燒灼】
+"With at least {0} Intelligence in Radius, Fireball has {1} chance to inflict scorch",若範圍內至少有 {0} 點智慧，【火球】 {1} 的機率造成【焦灼】
+"With at least {0} Intelligence in Radius, Fireball has {1}% chance to inflict scorch",若範圍內至少有 {0} 點智慧，【火球】 {1}% 機率造成【焦灼】
 "With at least {0} Intelligence in Radius, Fireball Projectiles gain Area as they travel farther, up to {1} increased Area of Effect",若範圍內含有 {0} 點智慧，火球投射物的爆炸範圍將隨飛行距離擴大，最多擴大 {1}
 "With at least {0} Intelligence in Radius, Fireball Projectiles gain Area as they travel farther, up to {1} reduced Area of Effect",若範圍內含有 {0} 點智慧，火球投射物的爆炸範圍將隨飛行距離縮小，最多縮小 {1}
 "With at least {0} Intelligence in Radius, Fireball Projectiles gain Area as they travel farther, up to {1}% increased Area of Effect",若範圍內含有 {0} 點智慧，火球投射物的爆炸範圍將隨飛行距離擴大，最多擴大 {1}%
@@ -22367,7 +22365,7 @@ Wrath has {0}% reduced Aura Effect,雷霆減少 {0}% 光環效果
 Wrath has {0}% reduced Mana Reservation,雷霆減少 {0}% 魔力保留
 Wrath has {0}% reduced Mana Reservation Efficiency,雷霆減少 {0}% 魔力保留效用
 Wrath has {0}% reduced Reservation,雷霆減少 {0}% 保留
-x {0} (ailment effect modifier),x {0} (異常狀態效果修正)
+x {0} (ailment effect modifier),x {0} (異常狀態效果詞綴)
 x {0} (attack rate),x {0} (攻擊速度)
 x {0} (average instances),x {0} (平均實例)
 x {0} (base leech rate is {1}% per second),x {0} (每秒偷取速率基礎 {1}%)
@@ -22376,8 +22374,8 @@ x {0} (cast rate),x {0} (施放速度)
 x {0} (chance to deal double damage),x {0} (造成雙倍傷害機率)
 x {0} (chance to hit),x {0} (擊中機率)
 x {0} (DPS multiplier for this skill),x {0} (此技能秒傷 倍數)
-x {0} (duration modifier),x {0} (持續時間修正)
-x {0} (effective DPS modifier),x {0} (等效秒傷修正)
+x {0} (duration modifier),x {0} (持續時間詞綴)
+x {0} (effective DPS modifier),x {0} (有效秒傷詞綴)
 x {0} (hit rate),x {0} (擊中速度)
 x {0} (ignite duration),x {0} (點燃持續時間)
 x {0} (increased/reduced duration),x {0} (增加/減少 持續時間)
@@ -22397,9 +22395,9 @@ x {0} (portion of instances created by main hand),x {0} (主手實例部分)
 x {0} (portion of instances created by non-crits),x {0} (非暴擊實例部分)
 x {0} (portion of instances created by off hand),x {0} (副手實例部分)
 x {0} (ruthless blow effect modifier),x {0} (無情效果加成)
-x {0} (totem life modifier),x {0} (圖騰生命修正)
-x {0} {1}% converted to other damage types),x {0} ({1}% 轉換為其他傷害類型)
-x {0} leech rate modifier,x {0} 偷取速率修正
+x {0} (totem life modifier),x {0} (圖騰生命詞綴)
+x {0} {1}% converted to other damage types),x {0} ({1}% 轉換為其它傷害類型)
+x {0} leech rate modifier,x {0} 偷取速率詞綴
 x {0}% (percentage of life to maximum leech rate),x {0}% (最大生命偷取速率百分比)
 You and Allies affected by Auras from your Skills {0}% reduced Attack and Cast Speed,你和友軍受你的光環影響時，攻擊和施放速度減少 {0}%
 You and Allies affected by Auras from your Skills deal {0}% increased Damage,你和友軍受你的光環影響時，傷害增加 {0}%
@@ -22525,7 +22523,7 @@ You and nearby Allies gain {0}% reduced Energy Shield Recharge rate,你和附近
 You and nearby allies gain {0}% reduced Movement Speed,你與附近的隊友減少 {0}% 移動速度
 You and nearby allies gain {0}% reduced Physical Damage,你與附近的隊友減少 {0}% 物理傷害
 You and nearby allies gain {0}% to all Elemental Resistances,你與附近的隊友獲得 {0}% 全元素抗性
-You and nearby Allies have {0} chance to avoid being Frozen,你和週圍友軍有 {0} 的機率避免被凍結
+You and nearby Allies have {0} chance to avoid being Frozen,你和週圍友軍有 {0} 的機率避免被冰凍
 You and nearby Allies have {0} chance to avoid being Ignited,你和週圍友軍有 {0} 的機率避免被點燃
 You and nearby Allies have {0} chance to avoid being Shocked,你和週圍友軍有 {0} 的機率避免感電效果
 You and nearby Allies have {0} chance to Avoid being Stunned,你和週圍友軍有 {0} 的機率避免被暈眩
@@ -22536,7 +22534,7 @@ You and nearby Allies have {0} chance to Impale Enemies on Hit with Attacks,你�
 You and nearby Allies have {0} faster start of Energy Shield Recharge,你和週圍友軍的能量護盾充能時間提前 {0}
 You and nearby Allies have {0} increased Attack and Cast Speed,你和週圍友軍的攻擊和施放速度增加 {0}
 "You and nearby Allies have {0} increased Attack, Cast and Movement Speed",你和週圍友軍的攻擊速度、施放速度、移動速度增加 {0}
-You and nearby Allies have {0} increased Chill and Freeze Duration,你和週圍友軍的冰緩和凍結持續時間延長 {0}
+You and nearby Allies have {0} increased Chill and Freeze Duration,你和週圍友軍的冰緩和冰凍持續時間延長 {0}
 You and nearby Allies have {0} increased Critical Strike Chance,你和週圍友軍的暴擊率增加 {0}
 You and nearby Allies have {0} increased Damage while on Full Energy Shield,能量護盾全滿時，你和週圍友軍的傷害增加 {0}
 You and nearby Allies have {0} increased Damage while on Full Mana,魔力全滿時，你和週圍友軍的傷害增加 {0}
@@ -22553,7 +22551,7 @@ You and nearby Allies have {0} less Area of Effect,你和週圍友軍的總效�
 You and nearby Allies have {0} more Area of Effect,你和週圍友軍的總效果區域額外擴大 {0}
 You and nearby Allies have {0} reduced Attack and Cast Speed,你和週圍友軍的攻擊和施放速度減少 {0}
 "You and nearby Allies have {0} reduced Attack, Cast and Movement Speed",你和週圍友軍的攻擊速度、施放速度、移動速度減少 {0}
-You and nearby Allies have {0} reduced Chill and Freeze Duration,你和週圍友軍的冰緩和凍結持續時間縮短 {0}
+You and nearby Allies have {0} reduced Chill and Freeze Duration,你和週圍友軍的冰緩和冰凍持續時間縮短 {0}
 You and nearby Allies have {0} reduced Critical Strike Chance,你和週圍友軍的暴擊率減少 {0}
 You and nearby Allies have {0} reduced Damage while on Full Energy Shield,能量護盾全滿時，你和週圍友軍的傷害減少 {0}
 You and nearby Allies have {0} reduced Damage while on Full Mana,魔力全滿時，你和週圍友軍的傷害減少 {0}
@@ -22801,7 +22799,7 @@ Your Arc Towers deal {0} reduced Damage,你的電弧之塔傷害減少 {0}
 Your Arc Towers deal {0}% increased Damage,你的電弧塔增加 {0}% 傷害
 Your Arc Towers deal {0}% reduced Damage,你的電弧塔減少 {0}% 傷害
 Your Arc Towers have {0} additional chains,你的電弧塔有 {0} 次額外連鎖
-Your Arc Towers have {0} chance to inflict Sap,你的【電弧之塔】有 {0} 的機率施加【精疲力盡】
+Your Arc Towers have {0} chance to inflict Sap,怪物有 {0} 的機率施加【殘喘】
 Your Arc Towers have {0} increased Range,你的冰冷之塔範圍擴大 {0}
 Your Arc Towers have {0} reduced Range,你的冰冷之塔範圍縮小 {0}
 Your Arc Towers have {0}% chance to inflict Sap,你的電弧塔有 {0}% 機率造成殘喘
@@ -22872,7 +22870,7 @@ Your Flamethrower Towers deal {0} increased Damage,你的擲火之塔傷害增�
 Your Flamethrower Towers deal {0} reduced Damage,你的擲火之塔傷害減少 {0}
 Your Flamethrower Towers deal {0}% increased Damage,你的噴火塔增加 {0}% 傷害
 Your Flamethrower Towers deal {0}% reduced Damage,你的噴火塔減少 {0}% 傷害
-Your Flamethrower Towers have {0} chance to inflict Scorch,你的【擲火之塔】有 {0} 的機率施加【灼燒】
+Your Flamethrower Towers have {0} chance to inflict Scorch,你的【擲火之塔】有 {0} 的機率造成【焦灼】
 Your Flamethrower Towers have {0} increased Cast Speed,你的擲火之塔施放速度增加 {0}
 Your Flamethrower Towers have {0} increased Range,你的擲火之塔範圍擴大 {0}
 Your Flamethrower Towers have {0} reduced Cast Speed,你的擲火之塔施放速度減少 {0}
@@ -22887,7 +22885,7 @@ Your Freezebolt Towers deal {0} reduced Damage,你的冰箭之塔傷害減少 {0
 Your Freezebolt Towers deal {0}% increased Damage,你的冰凍彈塔增加 {0}% 傷害
 Your Freezebolt Towers deal {0}% reduced Damage,你的冰凍彈塔減少 {0}% 傷害
 Your Freezebolt Towers fire {0} additional Projectiles,你的冰凍彈塔發射 {0} 個額外投射物
-Your Freezebolt Towers have {0} chance to inflict Brittle,你的【冰箭之塔】有 {0} 的機率施加【脆弱】
+Your Freezebolt Towers have {0} chance to inflict Brittle,你的【冰箭之塔】有 {0} 的機率施加【易碎】
 Your Freezebolt Towers have {0} increased Range,你的冰箭之塔範圍擴大 {0}
 Your Freezebolt Towers have {0} reduced Range,你的冰箭之塔範圍縮小 {0}
 Your Freezebolt Towers have {0}% chance to inflict Brittle,你的冰凍彈塔有 {0}% 機率造成易碎
@@ -22952,7 +22950,7 @@ Your Linked targets deal {0}% reduced Damage,你的連結目標減少 {0}% 傷�
 Your Linked Targets take {0}% increased Damage,你的連結目標增加承受 {0}% 傷害
 Your Linked Targets take {0}% reduced Damage,你的連結目標增加減少 {0}% 傷害
 Your Mark has a {0} chance to transfer to another Enemy when Marked Enemy dies,被標記的敵人被擊敗後，你的咒印有 {0} 的機率轉移給另一個敵人
-Your Mark has a {0}% chance to transfer to another Enemy when Marked Enemy dies,當被印記的敵人死亡時，你的印記有 {0}% 機率轉移至其他敵人
+Your Mark has a {0}% chance to transfer to another Enemy when Marked Enemy dies,當被印記的敵人死亡時，你的印記有 {0}% 機率轉移至其它敵人
 Your Maximum Resistances are {0},你的最大抗性為 {0}
 Your Maximum Resistances are {0}%,你的最大抗性為 {0}%
 Your Meteor Towers create Burning Ground for {0} seconds on Hit,你的隕石塔擊中時製造燃燒地面，持續 {0} 秒
@@ -23134,3 +23132,16 @@ x {0} enemy attack/cast time,x {0} 敵人攻擊/施放時間
 {0}% of monster damage,怪物傷害 {0}%
 {0}% penetration,穿透 {0}%
 {0} average damage,{0} 平均傷害
+Buff grants {0}% of your Physical Damage as Extra Fire Damage,增益獲得 {0}% 你物理傷害的額外火焰傷害
+{0}% reduced Effect of Marks from Supported Skills,減少 {0}% 來自被輔助技能的印記效果
+{0}% increased Effect of Marks from Supported Skills,增加 {0}% 來自被輔助技能的印記效果
+{0}% to Critical Strike Multiplier for Spell Damage,{0}% 法術傷害暴擊加成
+Supported Skills Cost {0} Mana,被輔助的技能消耗 {0} 魔力
+Auras from Supported Skills have a base duration of {0} seconds,來自被輔助技能的光環有 {0} 秒的基礎持續時間
+{0}% less duration,{0}% 更少持續時間
+{0} additional Projectiles during Flask Effect,藥劑效果期間發射 {0} 個額外投射物
+{0}% to enemy Armour,敵人護甲 {0}%
+{0}% less to enemy Damage taken,敵人承受傷害更少 {0}%
+Attribute Requirements can be satisfied by {0}% of Omniscience,{0}% 的全知能滿足能力需求
+{0}% more chance to Evade Attacks if you have been Hit by an Attack Recently,若你近期被攻擊擊中，{0}% 更多機率閃避攻擊
+{0}% to Maximum Effect of Shock,{0}% 最大感電效果
