@@ -121,6 +121,8 @@ Search:,搜索:
 "Tip: You can copy/paste socket groups using Ctrl+C and Ctrl+V.","提示: 你可以使用 Ctrl+C 和 Ctrl+V 来复制/粘贴插槽"
 "To import a build, enter the code here:","在此处输入 POB 代码导入 BD"
 "To start importing a character, enter the character's account name:","输入 '角色帐号名' 后点击 '开始' 导入角色"
+"Get Currency Conversion Rates",获取通货转换率
+"Currency Rates are very recent",通货率是最新的
 "Weapon 1:",武器1:
 "Weapon 2:",武器2:
 Witch,女巫
