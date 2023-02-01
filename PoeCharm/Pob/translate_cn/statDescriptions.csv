@@ -9,7 +9,9 @@ Onslaught,猛攻
 "Iron Will",钢铁意志
 Rampage,暴走
 "{0}% Chance to Block","该装备 {0}% 攻击格挡率"
+"Avoid interruption from Stuns while Casting",施放时避免眩晕打断
 "Bathed in the blood of {0} sacrificed in the name of Xibaqua","以夏巴夸亚的名义用 {0} 名祭品之血浸染 "
+"Base Spell Critical Strike Chance of Spells is equal to that of Main Hand Weapon",法术的基础暴击率等於主手武器的暴击率
 "Passives in radius are Conquered by the Vaal",范围内的天赋被瓦尔抑制
 "Bathed in the blood of {0} sacrificed in the name of Zerphi","以泽佛伊的名义用 {0} 名祭品之血浸染 "
 "Bathed in the blood of {0} sacrificed in the name of Doryani","以多里亚尼的名义用 {0} 名祭品之血浸染 "
@@ -34,6 +36,7 @@ Rampage,暴走
 "Can roll Minion Modifiers",可以附着召唤生物属性
 "Prefixes Cannot Be Changed",前缀无法被改变
 "Suffixes Cannot Be Changed",后缀无法被改变
+"Cannot deal Critical Strikes with Attacks",攻击无法造成暴击
 "Cannot roll Caster Modifiers",不能附加法术相关属性修正
 "Cannot roll Attack Modifiers",不能附加武器攻击相关属性修正
 "Can have multiple Crafted Modifiers",可以拥有多个大师工艺属性修正
@@ -450,6 +453,8 @@ Rampage,暴走
 "Removes {0}% of Life Recovered from Mana when used","使用时会移除魔力，等同于生命回复值的 {0}% "
 "Removes Frozen and Chilled on use",驱散冰冻与冰缓
 "Removes Burning on use",使用时移除燃烧效果
+"Gain 1% of Cold Damage as Extra Fire Damage per 1% Chill Effect on Enemy",每对敌人造成1%的冰缓效果就造成1%的冰霜伤害，并视为额外的火焰伤害
+"Gain {0}% of Cold Damage as Extra Fire Damage against Frozen Enemies",攻击被冰冻的敌人获得等同于100%冰霜伤害的额外火焰伤害
 "An Enemy Writhing Worms escape the Flask when used",使用药剂时产生一只敌对的蠕虫
 "Writhing Worms are destroyed when Hit",蠕虫在被击中时摧毁
 "{0} Enemy Writhing Worms escape the Flask when used","使用药剂时产生 {0} 只敌对的蠕虫"
@@ -2544,6 +2549,7 @@ Phasing,【迷踪】状态
 "Minions have {0}% to Chaos Resistance","召唤生物有 {0}% 混沌抗性"
 "Minions gain Unholy Might for {0} seconds on Kill","击败敌人时，召唤生物获得不洁之力 {0} 秒"
 "{0}% of Chaos Damage Leeched as Life during Flask effect","药剂生效期间，混沌伤害的 {0}% 转化为生命偷取"
+"2% of Chaos Damage Leeched as Life during Effect","生效期间，2% 的混沌伤害转化为生命偷取"
 "Gain {0}% of Physical Damage as Extra Chaos Damage during effect","生效期间，获得额外混沌伤害，等于物理伤害的 {0}%"
 "{0}% more Melee Physical Damage during effect","生效期间近战物理伤害总增 {0}%"
 "Gain {0}% of Elemental Damage as Extra Chaos Damage during effect","生效期间获得额外混沌伤害，等于元素伤害的 {0}%"
@@ -4149,6 +4155,7 @@ Petrified,石化
 "Lightning Strike pierces {0} additional Targets","【闪电打击】穿透 {0} 个额外目标"
 "Lightning Trap pierces an additional Target","【闪电陷阱】穿透 1 个额外目标"
 "Lightning Trap pierces {0} additional Targets","【闪电陷阱】穿透 {0} 个额外目标"
+"Lose 40 Mana when you use a Skill",你使用技能时失去 40 点魔力
 "Burning Arrow Always Ignites",燃烧箭矢始终造成点燃状态
 "Burning Arrow has {0}% chance to Ignite","燃烧箭矢造成点燃状态的几率 {0}% chance to Ignite"
 "{0}% of Burning Arrow Physical Damage gained as Extra Fire Damage","【燃烧箭矢】提高等同 {0}% 物理伤害的火焰伤害"
@@ -4546,6 +4553,8 @@ Hindered,被干扰
 "{0}% increased Movement Speed if you have Pierced Recently","若你近期内造成过穿刺，则移动速度提高 {0}%"
 "{0}% reduced Movement Speed if you have Pierced Recently","若你近期内造成过穿刺，则移动速度降低 {0}%"
 "Poison Cursed Enemies on hit",击中被诅咒的敌人时造成中毒
+"Passives in Radius of Ghost Reaver can be Allocated",范围内的天赋可以在
+"without being connected to your tree",未连结至天赋树的情况下配置
 "{0}% chance to Poison on Hit against Cursed Enemies","已被诅咒的敌人有 {0}% 的几率被击中后中毒"
 "Always Poison on Hit against Cursed Enemies",已被诅咒的敌人被击中后中毒
 "{0}% increased Rarity of Items found with a Normal Item Equipped","装备 1 件普通物品时，物品稀有度提高 {0}%"
@@ -5805,6 +5814,7 @@ Hindered,被干扰
 "Regenerate {0}% of Energy Shield per second if you've Hit an Enemy Recently","若你近期内击中敌人，则每秒回复 {0}% 能量护盾"
 "Regenerate {0}% of Energy Shield per Second while affected by Discipline","受到【纪律】影响时，每秒回复 {0}% 能量护盾"
 "Regenerate {0} Energy Shield per Second while on Consecrated Ground","位于奉献地面上时，每秒回复 {0} 能量护盾"
+"Recover Energy Shield equal to {0}% of Armour when you Block",格挡时回复能量护盾，数值等同于 2% 的护甲
 "{0}% increased Energy Shield Regeneration rate","能量护盾再生率提高 {0}%"
 "{0}% reduced Energy Shield Regeneration rate","能量护盾再生率降低 {0}%"
 "Envy Reserves no Mana",【妒火】不保留魔力
@@ -19864,6 +19874,7 @@ Doomsday,灭亡之日
 "Explosion deals {0} reduced Damage if the Corpse is Ignited","若灵枢被点燃，它爆炸的伤害降低 {0}"
 "Recover {0} of Life for each Mine Detonated","每引爆一个地雷，就回复 {0} 生命"
 "{0} chance to deal Damage without removing Charges","造成伤害时有 {0} 的几率不移除充能球"
+"Projectiles are fired in random directions",投射物朝随机方向发射
 "Deals Damage without removing Charges",造成伤害不移除充能球
 "{0} increased Damage if three different Charge types removed","若移除三个不同类型的充能球，则伤害提高 {0}"
 "{0} reduced Damage if three different Charge types removed","若移除三个不同类型的充能球，则伤害降低 {0}"
@@ -25106,6 +25117,7 @@ Solipsism,唯我独尊
 "Maximum {0} Tornado","最多 {0} 道龙卷旋风"
 "Maximum {0} Tornadoes","最多 {0} 道龙卷旋风"
 "Trigger this Skill when you Hit a Rare or Unique Enemy and have no Mark",你击中稀有或传奇敌人且没有咒印时触发该技能
+"Trigger Socketed Curse Spell when you Cast a Curse Spell, with a 0.25 second Cooldown",当你施放一个诅咒法术时，触发插槽诅咒法术，有 0.25 秒的冷却时间
 "{0}% more Damage with Hits and Ailments for each Cast of this Spell currently waiting","击中和异常状态伤害按照当前即将施放的每道法术的消耗总增 {0}%"
 "{0}% less Damage with Hits and Ailments for each Cast of this Spell currently waiting","击中和异常状态伤害按照当前即将施放的每道法术的消耗总降 {0}%"
 "Exerted Attacks have {0}% to Critical Strike Chance","增助攻击的暴击率 {0}%"

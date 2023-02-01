@@ -52,6 +52,7 @@ Copy,复制
 "Create Custom Item from Text",从文本创建自定义物品
 Default,默认
 Delete,删除
+Delete Unused,删除未使用
 "Delete All",删除全部
 "Effective DPS","DPS 效用"
 Enabled:,启用:
@@ -100,11 +101,16 @@ Tree,天赋
 "All Types:",所有类型:
 "All items:",所有物品:
 "Double-click an item from one of the lists,","双击列表中的某个物品,"
-"or copy and paste an item from in game (hover over the item and Ctrl+C)","或者复制粘贴游戏中的物品(鼠标悬停在物品上 Ctrl+C)"
-"to view or edit the item and add it to your build.","来查看或编辑物品并添加到你的 BD"
-"This will also add it to your build if it's from the unique/template list.","如果物品来自 传奇/模版 列表,它也会添加到你的 BD 中"
-"If there's 2 slots an item can go in, holding Shift will put it in the second.","如果物品可以并需要装备到第二个插槽,请按住 Shitf 键放入其中."
-"You can Control + Click an item to equip it, or drag it onto the slot.","你可以使用 Control+Click 或拖放快速装备某个物品"
+"or copy and paste an item from in game","或者在游戏里复制粘贴一个物品"
+"(hover over the item and Ctrl+C) to view or edit","(鼠标放到物品上然后Ctrl+C)来查看或者编辑"
+"the item and add it to your build. You can ","物品并添加到你的 BD。你也可以"
+"also clone an item within Path of Building by ","在POB里面通过Ctrl+C和Ctrl+V"
+"copying and pasting it with Ctrl+C and Ctrl+V.","复制粘贴克隆一件物品。"
+"You can Control + Click an item to equip it, or ","你可以通过Ctrl + 点击来装备一件物品，"
+"drag it onto the slot.  This will also add it to ","或者把它拖动到插槽内。如果物品来自"
+"your build if it's from the unique/template list.","传奇/模版 列表,它也会添加到你的 BD 中"
+"If there's 2 slots an item can go in, ",如果有2个位置都可以装备那件物品
+"holding Shift will put it in the second.",按住Shift物品会被放入第二个
 "Game Version:",游戏版本:
 "Gem name:",技能宝石名称:
 "Generate a code to share this build with other Path of Building users:","生成 POB 代码分享给所有的 POE 玩家:"
