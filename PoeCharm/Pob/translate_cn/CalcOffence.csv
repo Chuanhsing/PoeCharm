@@ -1,0 +1,109 @@
+You can't deal Physical damage,你无法造成物理伤害
+You can't deal Lightning damage,你无法造成闪电伤害
+You can't deal Cold damage,你无法造成冰霜伤害
+You can't deal Fire damage,你无法造成火焰伤害
+You can't deal Chaos damage,你无法造成混沌伤害
+
+
+{0} to {1} (total damage),{0} 至 {1} (总伤害)
+
+
+
+
+
+#1308,#1308
+(cost multiplier),(消耗加成)
+(base mana cost),(基础魔力消耗)
+(base life cost),(基础生命消耗)
+(additional mana cost),(附加魔力消耗)
+(additional life cost),(附加生命消耗)
+(increased/reduced mana cost),(魔力消耗提高/降低)
+(increased/reduced life cost),(生命消耗提高/降低)
+(more/less mana cost),(魔力消耗总增/总降)
+(more/less life cost),(生命消耗总增/总降)
+(total mana cost),(总魔力消耗)
+(total life cost),(总生命消耗)
+(attack speed),(每秒攻击)
+(cast speed),(每秒施法)
+
+
+
+
+
+
+
+
+(base),(基础)
+(action speed modifier),(行动速度修正)
+= {0} casts per second,= {0} 每秒施放
+(total modifier),(总修正)
+= {0} seconds per attack,= {0} 攻击用时
+
+
+Both weapons:,全部武器:
+{0} + {1} (skill hits with both weapons at once),{0} + {1} ( 2 把武器同时使用技能击中)
+{0} + {1} / {2} (skill alternates weapons),{0} + {1} / {2} (武器交替使用技能)
+
+
+{0} to {1} (base damage from weapon),{0} 至 {1} (武器基础伤害)
+x {0} (base damage multiplier),x {0} (基础伤害效用)
++ {0} to {1} (added damage),+ {0} 至 {1} (附加伤害)
+x {0} (damage effectiveness),x {0} (附加伤害效用)
+
+
+
+
+#1564,#1564
+Enemy level: {0} (can be overridden in the Configuration tab),敌人等级: {0} (可以在配置选项卡中决定)
+Average enemy evasion: {0},平均敌人闪避值: {0}
+Approximate hit chance: {0}%,近似命中几率: {0}%
+Accuracy Hit Chance: {0}%,纯命中几率计算命中率: {0}%
+Enemy Block Chance: {0}%,敌人格挡率: {0}%
+
+
+
+
+
+
+
+
+
+
+
+
+(40% converted to other damage types),(40%转换为其他伤害类型)
+(90% converted to other damage types),(90%转换为其他伤害类型)
+(100% converted to other damage types),(100%转换为其他伤害类型)
+(% converted to other damage types),(%转换为其他伤害类型)
+x {0} (multiplier from {1}% chance to deal triple damage),x {0} ({1}%几率造成三倍伤害的加成)
+x {0} (multiplier from {1}% chance to deal double damage),x {0} ({1}%几率造成双倍伤害的加成)
+x {0} (effective DPS modifier),x {0} (有效DPS修正)
+
+Crit confirmation roll:,暴击确保性:
+
+{0} - {1} (portion of damage from non-crits),{0} - {1} (来自非暴击伤害百分比)
+(portion of damage from crits),(來自暴击伤害百分比)
+
+
+{0} (average hit),{0} (平均击中伤害)
+x {0} (chance to hit),x {0} (击中几率)
+{0} (average damage),{0} (平均伤害)
+x {0} (hit rate),x {0} (击中速率)
+x {0} (attack rate),x {0} (攻击速率)
+x {0} (cast rate),x {0} (施法速率)
+
+
+
+#4116,#4116
+
+(base value),(基础值)
+(increased effectiveness),(效果提高)
+"(number of stacks, can be overridden in the Configuration tab)","(层数,可在配置选项卡决定)"
+(stored damage),(存储伤害)
+(impale chance),(穿刺几率)
+(impale enemy physical damage reduction),(被穿刺敌人的物理减伤)
+(impale damage multiplier),(穿刺伤害加成)
+
+#4592,#4592
+
+(average physical hit),(平均物理击中伤害)

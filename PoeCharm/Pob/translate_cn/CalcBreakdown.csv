@@ -1,0 +1,18 @@
+Enemy physical damage reduction: {0}%,敌人物理減伤: {0}%
+(physical damage reduction),(物理減伤)
+{0} (effective DPS modifier),{0} (有效DPS修正)
+Effective resistance:,有效抗性:
+(resistance),(抗性)
+(penetration),(抗性穿透)
+(resistance ignored),(无视抗性)
+Effective DPS modifier:,有效DPS修正:
+(increased/reduced damage taken),(承受伤害提高/减少)
+(more/less damage taken),(承受伤害总增/总降)
+(base damage per second),(每秒基础伤害)
+x {0} (increased/reduced),x {0} (提高/降低)
+x {0} (more/less),x {0} (总增/总降)
+(multiplier),(加成)
+(rate modifier),(生效速度修正)
+(aura effect modifier),(光环效果修正)
+Condition,条件
+Low Life,低血
