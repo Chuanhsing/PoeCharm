@@ -1,14 +1,10 @@
 Player modifiers:,玩家修正:
 Main hand modifiers:,主手修正:
 Off hand modifiers:,副手修正:
-"Enemy modifiers:","敌人修正:"
-"Enemy resistance: {0}%","敌人抗性: {0}%"
+Enemy modifiers:,敌人修正:
 Conversions:,转换列表:
 Tvalue Override (ms):,Tvalue覆盖(毫秒):
 PvP Multiplier:,PVP加成:
-Cannot pierce,无法穿透
-Cannot fork,无法分叉
-Cannot chain,无法连锁
 Enemy Evasion modifiers:,敌人闪避加成:
 Main Hand:,主手:
 Off Hand:,副手:
@@ -20,35 +16,55 @@ Added Max:,附加 (最大):
 Added Min:,附加 (最小):
 Total Increased:,总提高:
 Total More:,总增:
-Effective DPS Mod:,等效DPS修正:
+Effective DPS Mod:,有效DPS修正:
 Skill Hit Damage:,技能击中伤害:
 Skill Average Hit:,技能平均击中伤:
 Skill PvP Average Hit:,技能PVP平均击中伤:
 MH Total Increased:,总提高(主手):
 MH Total More:,总增(主手):
-MH Eff. DPS Mod:,等效DPS修正(主):
+MH Eff. DPS Mod:,有效DPS修正(主):
 MH Hit Damage:,击中伤害(主):
 MH Average Hit:,平均击中伤害(主):
 MH PvP Average Hit:,平均PVP击中伤(主):
 OH Total Increased:,总提高(副手):
 OH Total More:,总增(副手)
-OH Eff. DPS Mod:,等效DPS修正(副):
+OH Eff. DPS Mod:,有效DPS修正(副):
 OH Hit Damage:,击中伤害(副):
 OH Average Hit:,平均击中伤害(副):
 OH PvP Average Hit:,平均PVP击中伤(副):
 Average Damage:,平均伤害:
+Chance to Hit:,击中几率:
+Enemy Block:,敌人格挡:
 PvP Average Dmg:,PVP平均伤害:
 Skill DPS:,技能 DPS:
 Skill PvP DPS:,技能PVP DPS:
 
 
-Exerting Warcries:,战吼发挥:
+
+
+Exerting Warcries:,战吼增助:
+Effective Impact,有效影响
+Avg Dmg Effect,平均伤害效果
+Uptime,覆盖时间
+Number of Exerts,增助次数
+Max 1-Hit Impact,最大一击影响
+Seismic Cry:,震地战吼:
+Intimidating Cry:,威吓战吼:
+Rallying Cry:,激励战吼:
+Infernal Cry:,炼狱战吼:
+Ancestral Cry:,先祖战吼:
+Exerted Attacks:,增助攻击:
+Fist of War:,战争铁拳:
+
+
 
 
 Skill Damage over Time:,技能持续伤害:
 Total Multiplier:,总加成:
 Damage over Time:,持续伤害:
 Skill DoT DPS:,技能持续伤害DPS:
+
+
 
 
 Attack/Cast Rate:,攻击/施法 速率:
@@ -66,29 +82,34 @@ Casts per second:,每秒施法:
 Trigger Rate Cap:,触发速率上限:
 Skill Trigger Rate:,技能触发速率:
 Adj. Trigger Rate:,校正触发速率:
-Eff. Trigger Rate:,等效触发速率:
+Eff. Trigger Rate:,有效触发速率:
 Cast time:,施法用时:
+
+
 
 
 Crits:,暴击:
 Inc. Crit Chance:,暴击几率提高:
 Crit Chance:,暴击率:
 Crit Multiplier:,暴击伤害加成:
-Crit Effect Mod:,等效暴伤修正:
+Crit Effect Mod:,有效暴伤修正:
 MH Inc. Crit Chance:,暴击率提高(主手):
 MH Crit Chance:,暴击率(主手):
 MH Crit Multiplier:,暴伤加成(主手):
-MH Crit Effect Mod:,等效暴伤修正(主):
+MH Crit Effect Mod:,有效暴伤修正(主):
 OH Inc. Crit Chance:,暴击率提高(副手):
 OH Crit Chance:,暴击率(副手):
 OH Crit Multiplier:,暴伤加成(副手):
-OH Crit Effect Mod:,等效暴伤修正(副):
+OH Crit Effect Mod:,有效暴伤修正(副):
+
+
 
 
 Impale:,穿刺:
-Max Impale Stacks:,最大穿刺迭层:
-Stacks on Enemy:,对敌人迭层:
+Max Impale Stacks:,最大穿刺层数:
+Stacks on Enemy:,对敌人层数:
 Impale Chance:,穿刺几率:
+Crit Impale Chance:,暴击穿刺几率:
 Stored Damage:,存储伤害:
 Damage Mod.:,伤害修正:
 MH Impale Chance:,穿刺几率(主手):
@@ -101,14 +122,22 @@ Impale DPS:,穿刺 DPS:
 Impale Damage:,穿刺伤害:
 
 
+
+
 Skill type-specific Stats:,技能特定类型数据:
 Mana Cost:,魔力消耗:
-Life Cost:,生命消耗:
-ES Cost:,能量护盾消耗:
-Rage Cost:,怒火消耗:
 Mana % Cost:,魔力百分比消耗:
+Mana per second:,魔力每秒消耗:
+Mana % per second:,魔力每秒百分比消耗:
+Life Cost:,生命消耗:
 Life % Cost:,生命百分比消耗:
-ES % Cost:,ES百分比消耗:
+Life per second:,生命每秒消耗:
+Life % per second:,生命每秒百分比消耗:
+ES Cost:,能量护盾消耗:
+ES per second:,ES每秒消耗:
+ES % per second:,ES每秒百分比消耗:
+Rage Cost:,怒火消耗:
+Rage per second:,怒火每秒消耗:
 Active Minion Limit:,最大召唤物数量:
 Quantity Multiplier:,数量加成:
 Skill Cooldown:,技能冷却:
@@ -117,6 +146,11 @@ Skill Duration:,技能持续时间:
 Secondary Duration:,二阶段持续时间:
 Aura Duration:,光环持续时间:
 Reserve Duration:,保留持续时间:
+Uptime:,正常启用时长:
+Secondary Uptime:,二阶段启用时长:
+Aura Uptime:,光环启用时长:
+Reserve Uptime:,保留启用时长:
+Sustainable Trauma:,可保持的内伤:
 Projectile Count:,投射物数量:
 Pierce Count:,穿透数:
 Fork Count:,分叉数:
@@ -134,16 +168,22 @@ Secondary Radius:,二阶段半径:
 Area of Effect modifiers:,范围效果修正:
 Tertiary Radius:,三阶段半径:
 Weapon Range:,武器范围:
+Attachment Range:,附着范围:
+Max Sust. Fuses:,最大可维持引信:
+Overlap Chance:,造成重叠伤害概率:
+Trap Cooldown:,陷阱冷却:
+Wave Pulse Rate:,脉冲冲击波频率:
+Pulses Per Trap:,每陷阱脉冲次数:
+Small Explosions:,小爆炸:
+Avg. Active Traps:,平均激活陷阱:
 Super Chance:,超聚能概率:
 Normal Hits/Cast:,通常每施法击中数:
 Super Hits/Cast:,超聚能每施法击中数:
-DPS Multiplier:,伤害加成:
-Attachment Range:,附着范围:
+DPS Multiplier:,DPS加成:
+Trap Trigg. Radius:,陷阱触发半径:
+Active Trap Limit:,陷阱激活上限:
 Trap Throw Rate:,陷阱投掷速率:
 Trap Throw Time:,陷阱投郑用时:
-Active Trap Limit:,陷阱激活上限:
-Trap Cooldown:,陷阱冷却:
-Trap Trigg. Radius:,陷阱触发半径:
 Seal Gain Rate:,封印获得速率:
 Mine Throw Rate:,地雷投掷速率:
 Mine Throw Time:,地雷投郑用时:
@@ -152,8 +192,11 @@ Mine Deton. Radius:,地雷引爆半径:
 Mine Aura Radius:,地雷光环半径:
 Totem Place Time:,图腾放置用时:
 Active Totem Limit:,图腾激活上限:
-Totem Life Mod:,图腾生命修正:
+Totem Life Mod:,图腾生命修正:   
 Totem Life:,图腾生命:
+Totem ES:,图腾能量护盾:
+Totem Block Chance:,图腾格挡几率:
+Totem Armour:,图腾护甲:
 Active Brand Limit:,烙印激活上限:
 Totem Fire Res:,图腾火焰抗性:
 Totem Cold Res:,图腾冰霜抗性:
@@ -161,6 +204,9 @@ Totem Lightning Res:,图腾闪电抗性:
 Totem Chaos Res:,图腾混沌抗性:,
 Corpse Level:,灵柩等级:
 Corpse Life:,灵柩生命:
+Burst Damage:,爆发伤害:
+
+
 
 
 Accuracy:,命中:
@@ -173,11 +219,9 @@ Effect of Blind:,致盲效果:
 
 
 
-
-
 Bleed:,流血:
-Max Bleed Stacks:,最大流血迭层:
-Stack Potential:,迭层潜力:
+Max Bleed Stacks:,最大流血层数:
+Stack Potential:,层数潜力:
 Chance to Bleed:,流血几率:
 MH Eff. DoT Multi:,持续伤害加成(主):
 OH Eff. DoT Multi:,持续伤害加成(副):
@@ -187,56 +231,82 @@ Bleed DPS:,流血DPS:
 Bleed Duration:,流血持续时间:
 
 
-"Chance to Poison:",几率中毒:
-"Source Physical:",物理来源:
-"Source Lightning:",闪电来源:
-"MH Source Lightning:",闪电来源(主手):
-"OH Source Lightning:",闪电来源(副手):
-"Source Cold:",冰霜来源:
-"MH Source Cold:",冰霜来源(主手):
-"OH Source Cold:",冰霜来源(副手手):
-"Source Fire:",火焰来源:
-"MH Source Fire:",火焰来源(主手):
-"OH Source Fire:",火焰来源(副手):
-"Source Chaos:",混沌来源:
-"MH Source Chaos:",混沌来源(主手)
-"OH Source Chaos:",混沌来源(副手)
-Caustic Ground DPS:,腐蚀地面DPS:
-"Poison Duration:",中毒持续时间:
-"Dmg. per Poison:",平均伤害(中毒):
-"Max Poison Stacks:",最大中毒层数:
-"Chance to Ignite:",概率点燃:
-Burning Ground DPS:,燃烧地面DPS:
-"Ignite Duration:",点燃持续时间:
-"Dmg. per Ignite:",平均伤害(点燃):
-"Max Ignite Stacks:",最大点燃次数:
-"Decay Duration:",腐化持续时间:
-"Life Leech Cap:",生命偷取极限:
-"Life Leech Rate:",生命偷取速度:
-"Totem modifiers:",图腾加成:
-"Life Leech per Hit:",生命偷取(每次击中):
-"Life Gain Rate:",生命击回速率:
-"Life Gain per Hit:",生命击回(每次击中):
+
+
+Poison:,中毒:
+Chance to Poison:,中毒几率:
+Eff. DoT Multi:,有效持续伤加成:
+Source Physical:,物理来源:
+Source Lightning:,闪电来源:
+MH Source Lightning:,闪电来源(主手):
+OH Source Lightning:,闪电来源(副手):
+Source Cold:,冰霜来源:
+MH Source Cold:,冰霜来源(主手):
+OH Source Cold:,冰霜来源(副手):
+Source Fire:,火焰来源:
+MH Source Fire:,火焰来源(主手):
+OH Source Fire:,火焰来源(副手):
+Source Chaos:,混沌来源:
+MH Source Chaos:,混沌来源(主手):
+OH Source Chaos:,混沌来源(副手):
+Poison DPS:,中毒 DPS:
+Caustic Ground:,腐蚀地面:
+Poison Duration:,中毒持续时间:
+Dmg. per Poison:,每层中毒伤害:
+Max Poison Stacks:,最大中毒层数:
+Capped to 1 poison:,最大限制1层中毒:
+
+
+
+
+Ignite:,点燃:
+Max Ignite Stacks:,最大点燃层数:
+Chance to Ignite:,点燃几率:
+Ignite DPS:,点燃 DPS:
+Burning Ground:,燃烧地面:
+Ignite Duration:,点燃持续时间:
+Dmg. per Ignite:,每层点燃伤害:
+
+
+
+
+Decay:,腐蚀:
+Decay DPS:,腐蚀 DPS:
+Decay Duration:,腐蚀持续时间:
+
+
+
+
+Leech & Gain on Hit:,击中(偷取 & 击回):
+Life Leech Cap:,生命偷取极限:
+Life Leech Rate:,生命偷取速率:
+Totem modifiers:,图腾修正:
+Life Leech per Hit:,生命偷取(每次击中):
+Life Gain Rate:,生命击回速率:
+Life Gain per Hit:,生命击回(每次击中):
 Life Gain on Kill:,击杀生命回复:
-"ES Leech Cap:","ES 偷取极限:"
-"ES Leech Rate:","ES 偷取速度:"
-"ES Leech per Hit:","ES 偷取(每次击中):"
-"ES Gain Rate:","ES 击回速率:"
-"ES Gain per Hit:","ES 击回(每次击中):"
+ES Leech Cap:,ES偷取极限:
+ES Leech Rate:,ES偷取速率:
+ES Leech per Hit:,ES偷取(每次击中):
+ES Gain Rate:,ES击回速率:
+ES Gain per Hit:,ES击回(每次击中):
 ES Gain on Kill:,击杀ES回复:
-"Mana Leech Cap:",魔力偷取极限:
-"Mana Leech Rate:",魔力偷取速度:
-"Mana Leech per Hit:",魔力偷取(每次击中):
-"Mana Gain Rate:",魔力击回速率:
-"Mana Gain per Hit:",魔力击回(每次击中):
+Mana Leech Cap:,魔力偷取极限:
+Mana Leech Rate:,魔力偷取速率:
+Mana Leech per Hit:,魔力偷取(每次击中):
+Mana Gain Rate:,魔力击回速率:
+Mana Gain per Hit:,魔力击回(每次击中):
 Mana Gain on Kill:,击杀魔力回复:
 
-Non-Damaging Ailments:,非伤害异常效果:
+
+
+
+Non-Damaging Ailments:,非伤害型异常状态:
 Scorch Effect Mod:,灼烧效果修正:
 Chance to Scorch:,灼烧几率:
 Scorch Duration:,灼烧持续时间:
 Maximum Scorch:,最大灼烧:
-Current Scorch:,当前灼烧:
+Current Scorch:,当前灼烧:   
 Configured Scorch:,灼烧(配置):
 Guaranteed Scorches:,灼烧(保障):
 Effect of Chill:,冰缓效果:
@@ -270,375 +340,122 @@ Current Sap:,当前精疲力尽:
 Configured Sap:,精疲力尽(配置):
 Guaranteed Saps:,精疲力尽(保障):
 
-"Other Effects:","其他效果:"
-"Stun Threshold:","眩晕门槛:"
-"Stun Duration:","眩晕持续时间:"
-"MH Stun Threshold:","眩晕门槛(主手):"
-"MH Stun Duration:","眩晕持续时间(主):"
-"OH Stun Threshold:","眩晕门槛(副手:)"
-"OH Stun Duration:","眩晕持续时间(副):"
-"Knockback Chance:","击退几率:"
-"Knockback Dist.:","击退距离:"
-"MH K.B. Chance:","击退几率(主手):"
-"MH K.B. Dist.:","击退距离(主手):"
-"OH K.B. Chance:","击退几率(副手):"
-"OH K.B. Dist.:","击退距离(副手):"
-"Maximum Rage:","最大怒火:"
-"Rage Regen:","怒火再生:"
-"Inc. Item Quantity:","物品数量提高:"
-"Inc. Item Rarity:","物品稀有度提高:"
-"Culling Strike:","终结:"
 
-"Str. Required:",力量需求:
-"Dex. Required:",敏捷需求:
-"Int. Required:",智慧需求:
-"Base from Gear:",基础(物品):
-"Inc. from Tree:",提高(天赋):
-"Total Base:",总基础:
+
+
+Other Effects:,其他效果:
+Stun Threshold:,眩晕门槛:
+Stun Duration:,眩晕持续时间:
+MH Stun Threshold:,眩晕门槛(主手):
+MH Stun Duration:,眩晕持续时间(主):
+OH Stun Threshold:,眩晕门槛(副手:)
+OH Stun Duration:,眩晕持续时间(副):
+Knockback Chance:,击退几率:
+Knockback Dist.:,击退距离:
+MH K.B. Chance:,击退几率(主手):
+MH K.B. Dist.:,击退距离(主手):
+OH K.B. Chance:,击退几率(副手):
+OH K.B. Dist.:,击退距离(副手):
+Maximum Rage:,最大怒火:
+Rage Regen:,怒火再生:
+Inc. Item Quantity:,物品数量提高:
+Inc. Item Rarity:,物品稀有度提高:
+Culling Strike:,终结:
+
+
+
+
+Attributes:,属性:
+Strength:,力量:
+Dexterity:,敏捷:
+Intelligence:,智慧:
+Omniscience:,全知:
+Str. Required:,力量需求:
+Dex. Required:,敏捷需求:
+Int. Required:,智慧需求:
+Omni. Required:,全知需求:
+Life:,生命:
+Base from Gear:,来自装备的基础值:
+Inc. from Tree:,来自天赋的提高:
+Total Base:,总基础值:
 Total:,总计:
 Reserved:,保留:
 Unreserved:,未保留:
-Regen:,秒回:
-Sources:,来源:
-"Recovery modifiers:",回复加成:
-"Increased Regen:",秒回(提高):
-"Base from Armours:",基础(胸甲):
-"Global Base:",全域基础:
-"Recharge Rate:",回复速度:
-"Recharge Delay:",回复延后:
-"Physical Hit/DoT:","物理 击中/持续:"
-"Fire Hit/DoT:","火焰 击中/持续:"
-"Cold Hit/DoT:","冰霜 击中/持续:"
-"Lightning Hit/DoT:","闪电 击中/持续:"
-"Chaos Hit/DoT:","混沌 击中/持续:"
-"Mind over Matter:",心灵升华:
-"Leech & Gain on Hit:","击中 (偷取 & 击回):"
-
-
-Poison:,中毒:
-Ignite:,点燃:
-Decay:,腐化:
-
-Life:,生命:
-Mana:,魔力:
-Evasion:,闪避值:
-Resists:,抗性:
-Value,数值
-Stat,状态
-Skill,技能
-Notes,天赋点
-Source,来源
-"Source Name",来源名称
-Item,物品
-Global,全域
-Total,总计
-Buff,增益效果
-Inc/red,增/减
-More/less,多/少
-"Converted Damage",转换伤害
-"{0}% to Fire","{0}% 到火焰"
-"{0}% to Cold","{0}% 到冰霜"
-"{0}% to Lightning","{0}% 到闪电"
-"{0}% to Chaos","{0}% 到混沌"
-"Physical Damage Gain As Fire",物理伤害的额外火焰
-"Physical Damage Gain As Cold",物理伤害的额外冰霜
-"Physical Damage Gain As Lightning",物理伤害的额外闪电
-"Physical Damage Gain As Chaos",物理伤害的额外混沌
-Base,基础
-Type,类型
-Mitigation,减免
-Final,最终
-Resist,抗性
-Elemental,元素
-"Total from Tree:",天赋总计:
-"Total from Item:",物品总计:
-"Total from Base:",基础总计:
-"Total from Skill:",技能总计:
-"Total from Dexterity:",敏捷总计:
-"Total from Intelligence:",智慧总计:
-"Total from Strength:",力量总计:
-"{0} base","{0} 基础"
-From,来自
-Player,玩家
-"Total damage:",总伤害:
-"Damage from Crits:",来自暴击伤害:
-"Damage from Non-crits:",来自非暴击伤害:
-"Reduction from Armour: {0}%","护甲减少: {0}%"
-"View Skill Details:",技能详情:
-"Show Minion Stats:",显示召唤物统计:
-"Minion Skill:",召唤物技能:
-"Calculation Mode:",计算模式:
-Attributes:,属性
-"Aura and Buff Skills:",光环和增益技能
-"Combat Buffs:",战斗增益:
-"Curses and Debuffs:",诅咒和减益效果:
-Physical:,物理:
-Lightning:,闪电:
-Cold:,冰霜:
-Fire:,火焰:
-Chaos:,混沌:
-"Base damage:",基础伤害:
-
-"Portion of total damage: {0}%","总伤害占比: {0}%"
-"Hit damage:",击中伤害:
-"Skill types",技能类型
-"= {0} per second","= {0} 每秒"
-"{0}% increased","提高 {0}%"
-"{0}% reduced","降低 {0}%"
-"{0}% more","额外提高 {0}%"
-"{0}% less","额外降低 {0}%"
-"Average enemy evasion: {0}","敌人闪避值: {0}"
-"Approximate hit chance: {0}%","命中几率: {0}%"
-"Recharge rate:",回复速度:
-"Max: {0}%","上限: {0}%"
-"Total: {0}%","总计: {0}%"
-"Average enemy accuracy: {0}","敌人命中值: {0}"
-"Approximate evade chance: {0}%","闪避几率: {0}%"
-"Elemental Resist",元素抗性
-"Fire Resist Max",火焰抗性上限
-"Fire Resist",火焰抗性
-"Cold Resist Max",冰霜抗性上限
-"Cold Resist",冰霜抗性
-"Lightning Resist Max",闪电抗性上限
-"Lightning Resist",闪电抗性
-"Chaos Resist Max",混沌抗性上限
-"Chaos Resist",混沌抗性
-"Physical Damage Reduction",物理伤害降低
-"{0}% as Physical","{0}% 物理"
-"{0}% as Fire","{0}% 为火焰"
-"{0}% as Cold","{0}% 为冰霜"
-"{0}% as Lightning","{0}% 为闪电"
-"{0}% as Chaos","{0}% 为混沌"
-Resistance,抗性
-"Average Hit",平均击中
-"Average Damage",平均伤害
-"Attack Rate",攻击速率
-"Cast Rate",施法速率
-"Hit Rate",击中速率
-"Trap Throwing Time",陷阱投郑间隔
-"Trap Cooldown",陷阱冷却
-"Totem Placement Time",图腾放置间隔
-"Hit Chance",命中率
-"Total DPS","总 DPS"
-"DoT DPS","持续伤 DPS"
-"Bleed DPS","流血 DPS"
-"Ignite DPS","点燃 DPS"
-"Total Damage per Ignite",每次点燃总伤害
-"Total DPS inc. Ignite","总+点燃 DPS"
-"Average Dmg. inc. Ignite","总+点燃平均伤害"
-"Poison DPS","中毒 DPS"
-"Total Damage per Poison","每次中毒总伤害"
-"Total DPS inc. Poison","总+中毒 DPS"
-"Average Dmg. inc. Poison","总+中毒平均伤害"
-"Decay DPS","腐蚀 DPS"
-"AoE Radius","AoE 范围"
-"Strength Required",力量需求
-"Dexterity Required",敏捷需求
-"Intelligence Required",智慧需求
-"Total Life",最大生命
-"%Inc Life from Tree",生命加成(天赋)
-"Unreserved Life",未保留生命
-"Life Leech/On Hit Rate",生命偷取(击中速率)
-"Life Leech/Gain per Hit",生命偷取(击中获得)
-"Total Mana",最大魔力
-"%Inc Mana from Tree",魔力加成(天赋)
-"Unreserved Mana",未保留魔力
-"Mana Regen",魔力回复
-"Mana Leech/On Hit Rate",魔力偷取(击中速率)
-"Mana Leech/Gain per Hit",魔力偷取(击中获得)
-"%Inc ES from Tree","ES 加成(天赋)"
-"Energy Shield Regen",能量护盾回复
-"Energy Shield Recharge",能量护盾回复
-"ES Leech/On Hit Rate","ES 偷取(击中速率)"
-"ES Leech/Gain per Hit","ES 偷取(击中获得)"
-"Evasion rating",闪避值
-"%Inc Evasion from Tree",闪避加成(天赋)
-"Evade Chance",闪避几率
-"Melee Evade Chance",近战闪避几率
-"Projectile Evade Chance",投射物闪避几率
-"Attack/Cast Rate",攻击/施法速度
-"%Inc Armour from Tree",护甲加成(天赋)
-"Phys. Damage Reduction",物理伤害减免
-"Movement Speed Modifier",移动速度加成
-"Block Chance",攻击格挡几率
-"Spell Block Chance",法术格挡几率
-"Attack Dodge Chance",攻击躲避几率
-"Spell Dodge Chance",法术躲避几率
-"Fire Res. Over Max",火焰抗性(溢出)
-"Cold Res. Over Max",冰霜抗性(溢出)
-"Lightning Res. Over Max",闪电抗性(溢出)
-"Chaos Res. Over Max",混沌抗性(溢出)
-"DPS inc. Poison","提高 DPS(中毒)"
-Speed,速度
-"{0} to {1} (total damage)","{0} 至 {1} (总伤害)"
-"x {0} {1}% converted to other damage types)","x {0} ({1}% 转换为其他伤害类型)"
-"{0} (base throwing speed)","{0} (基础投射物速度)"
-"{0} (increased/reduced throwing speed)","{0} (提高/降低 投射物速度)"
-"{0} (more/less throwing speed)","{0} (额外提高/额外降低 投射物速度)"
-"{0} (action speed modifier)","{0} (行动速度加成)"
-"{0} (base)","{0} (基础)"
-"/ {0} (increased/reduced cooldown recovery)","/ {0} (提高/降低 冷却回复)"
-"{0} (base placement speed)","{0} (基础放置速度)"
-"{0} (increased/reduced placement speed)","{0} (提高/降低 放置速度)"
-"{0} (more/less placement speed)","{0} (额外提高/额外降低 放置速度)"
-" (base life for a level {0} monster)"," ({0} 级怪物基础生命)"
-"x {0} (life multiplier for this totem type)","x {0} (此类图腾生命倍率)"
-"x {0} (totem life modifier)","x {0} (图腾生命加成)"
-"x {0} (duration modifier)","x {0} (持续时间加成)"
-"/ {0} (debuff expires slower/faster)","/ {0} (减益效果时间 更快/更慢)"
-"{0} (base mana cost)","{0} (基础魔力消耗)"
-"x {0} (mana cost multiplier)","x {0} (魔力消耗倍率)"
-"x {0} (increased/reduced mana cost)","x {0} (提高/降低 魔力消耗)"
-"x {0} (more/less mana cost)","x {0} (额外提高/额外降低 魔力消耗)"
-"- %d (- mana cost)","- {0} (- 魔力消耗)"
-"x {0} (portion of instances created by main hand)","x {0} (主手实例部分)"
-"x {0} (portion of instances created by off hand)","x {0} (副手实例部分)"
-"x {0} (increased/reduced)","x {0} (提高/降低)"
-"x {0} (more/less)","x {0} (额外提高/额外降低)"
-"{0} + {0} (base)","{0} + {0} (基础)"
-"= {0}% (crit chance)","= {0}% (暴击机率)"
-"x {0} (chance to hit)","x {0} (击中几率)"
-"{0}% (additional extra damage)","{0}% (额外的额外伤害)"
-"x {0} (increased/reduced extra crit damage taken by enemy)","x {0} (提高/降低 敌人额外暴击伤害)"
-"= {0}% (extra crit damage)","= {0}% (额外暴击伤害)"
-"{0} to {1} x {2} (base damage from {3} multiplied by base damage multiplier)","{0} to {1}) x {2} (来自 {3} 倍基础伤害的基础伤害)"
-"{0} to {1} (base damage from weapon)","{0} 至 {1} (武器基础伤害)"
-"{0} to {1} x {2} (added damage multiplied by damage effectiveness)","{0} 至 {1} x {2} (更多 伤害倍数 从 伤害效果)"
-"+ {0} to {1} (added damage)","+ {0} 至 {1} (附加伤害)"
-"x {0} (chance to deal double damage)","x {0} (造成双倍伤害几率)"
-"x {0} (ruthless blow effect modifier)","x {0} (无情效果加成)"
-"x {0} (effective DPS modifier)","x {0} (DPS 效果加成)"
-"{0} x {1} - {2} (damage from non-crits)","{0} x {1} - {2} (来自非暴击伤害)"
-"+ {0} x {1} (damage from crits)","+ {0} x {1} (来自暴击伤害)"
-"{0} (average hit)","{0} (平均击中)"
-"{0} + {1} (skill hits with both weapons at once)","{0} + {1} ( 2 把武器同时使用技能击中)"
-"{0} + {1} / {2} (skill alternates weapons)","{0} + {1} / {2} (武器交替使用技能)"
-"{0} (average damage)","{0} (平均伤害)"
-"x {0} (hit rate)","x {0} (击中速度)"
-"x {0} (attack rate)","x {0} (攻击速度)"
-"x {0} (cast rate)","x {0} (施法速度)"
-"x {0} (DPS multiplier for this skill)","x {0} (此技能 DPS 倍数)"
-"{0} x {1} - {2} (chance from non-crits)","{0} x {1} - {2} (非暴击几率)"
-"+ {0} x {1} (chance from crits)","+ {0} x {1} (暴击几率)"
-"{0} (source damage)","{0} (源伤害)"
-"{0} (source damage from non-crits)","{0} (非暴击源伤害)"
-"x {0} (portion of instances created by non-crits)","x {0} (非暴击实例部分)"
-"{0} (source damage from crits)","{0} (暴击源伤害)"
-"x {0} (portion of instances created by crits)","x {0} (暴击实例部分)"
-"x {0} (bleed deals {1}% per second)","x {0} (每秒流血 {1}%)"
-"x {0} (ailment effect modifier)","x {0} (异常状态效果加成)"
-"{0} (total damage per second)","{0} (每秒总伤害)"
-"{0} (ailment effect modifier)","{0} (异常状态效果加成)"
-"{0} (damage rate modifier)","{0} (伤害速度加成)"
-"{0} (effective DPS modifier)","{0} (DPS 效果加成)"
-"{0} (base duration)","{0} (基础持续时间)"
-"/ {0} (damage rate modifier)","/ {0} (伤害速度加成)"
-"x 0.20 (poison deals 20% per second)","x 0.20 (每秒 20% 中毒伤害)"
-"{0} (damage per second)","{0} (每秒伤害)"
-"x {0} (poison duration)","x {0} (中毒持续时间)"
-"{0} (poison duration)","{0} (中毒持续时间)"
-"{0} (poison chance)","{0} (中毒几率)"
-"{0} (hit chance)","{0} (击中几率)"
-"{0} (hits per second)","{0} (每秒击中)"
-"{0} (dps multiplier for this skill)","{0} (此技能 dps 倍数)"
-"Ignite mode: {0} (can be changed in the Configuration tab)","点燃方式: {0} (可以在 配置 选项卡中更改)"
-"Enemy level: {0} (can be overridden in the Configuration tab)","敌人等级: {0} (可以在 配置 选项卡中调整)"
-"Enemy Physical Hit Damage: {0} (can be overridden in the Configuration tab)","敌人击中物理伤害: {0} (可以在 配置 选项卡中调整)"
-"x 0.5 (ignite deals 50% per second)","x 0.5 (每秒 50% 点燃伤害)"
-"{0} (burn rate modifier)","{0} (燃烧速度加成)"
-"x {0} (ignite duration)","x {0} (点燃持续时间)"
-"{0} (ignite duration)","{0} (点燃持续时间)"
-"{0} (ignite chance)","{0} (点燃几率)"
-"4.00s (base duration)","4.00s (基础持续时间)"
-"x {0} (increased/reduced duration)","x {0} (提高/降低 持续时间)"
-"x {0} (more/less duration)","x {0} (额外提高/额外降低 持续时间)"
-"/ %.2f (burn rate modifier)","/ {0} (燃烧速度加成)"
-"x {0} (increased/reduced stun duration)","x {0} (提高/降低 眩晕持续时间)"
-"/ {0} (increased/reduced enemy stun recovery)","/ {0} (提高/降低 敌人眩晕时间)"
-"{0} (maximum life)","{0} (最大生命)"
-"x {0}% (percentage of life to maximum leech rate)","x {0}% (最大生命偷取速率百分比)"
-"{0} - {1} (portion of damage from non-crits)","{0} - {1} (来自非暴击伤害百分比)"
-"+ {0} x {1} (portion of damage from crits)","+ {0} x {1} (来自暴击伤害百分比)"
-"Instant Leech: {0}","瞬间偷取: {0}"
-"Total leeched per instance:",每个实例总偷取:
-"Rate per instance:",每个实例速率:
-"{0} (size of leech destination pool)","{0} (偷取池大小)"
-"x {0} (base leech rate is {1}% per second)","x {0} (每秒偷取速率基础 {1}%)"
-"x {0} leech rate modifier","x {0} 偷取速率加成"
-"x {0} (instance duration)","x {0} (实例持续时间)"
-"Instant Leech per hit: {0}","每次击中瞬间偷取: {0}"
-"Instant Leech per second: {0}","每秒瞬间偷取: {0}"
-"Maximum leech rate against one target:",一个目标最大偷取速率:
-"x {0} (average instances)","x {0} (平均实例)"
-"Time to reach max: {0}","达到最大时间: {0}"
-"Leech rate cap: {0}","偷取速率上限: {0}"
-"Time to reach cap: {0}","达到上限时间: {0}"
-"{0} base Fire Resist Max","{0} 基础火焰抗性上限"
-"{0} base Cold Resist Max","{0} 基础冰霜抗性上限"
-"{0} base Lightning Resist Max","{0} 基础闪电抗性上限"
-"{0} base Chaos Resist Max","{0} 基础混沌抗性上限"
-"{0} base Elemental Resist","{0} 基础元素抗性"
-"{0} base Fire Resist","{0} 基础火焰抗性"
-"{0} base Cold Resist","{0} 基础冰霜抗性"
-"{0} base Lightning Resist","{0} 基础闪电抗性"
-"{0} base Chaos Resist","{0} 基础混沌抗性"
-"{0} per {1} Str","每 {1} 力量 {0}"
-"{0}% per {1} Str","每 {1} 力量 {0}%"
-"{0} per {1} Dex","每 {1} 敏捷 {0}"
-"{0} per {1} Int","每 {1} 智慧 {0}"
-"{0} per {1} Mana","每 {1} 魔力 {0}"
-"{0} + {1} per Level","{0} + 每级 {1}"
-Name,名称
-Reservation,保留
-"Mana Regeneration:",魔力回复:
-"Life Regen Percent",生命回复百分比
-"Mana Regen Percent",魔力回复百分比
-"Armour And Evasion",护甲与闪避
-"{0}% increased Armour And Evasion","护甲与闪避提高 {0}%"
-"{0}% increased Evasion","闪避提高 {0}%"
-Conversion,转换
-"Life to Energy Shield",生命到能量护盾
-"{0}{1}% per second)","{0}{1}% 每秒)"
-"Chance on Non-crit: {0}%","非暴击几率: {0}%"
-"Chance on Crit: {0}%","暴击几率: {0}%"
-"Combined chance:",综合几率:
-"For freeze to apply, target must have no more than {0} life.","要冻结敌人, 目标生命不能低于 {0}"
-"For shock to apply, target must have no more than {0} life.","要感电敌人, 目标生命不能低于 {0}"
-"{0} Power Charges","{0} 暴击球"
-"{0} Endurance Charges","{0} 耐力球"
-"{0} Frenzy Charges","{0} 狂怒球"
-"{0} Inspiration Charges","{0} 启迪球"
-"Tailwind","提速尾流"
-"Exclusive to",限定
-
 Total Recoverable:,总可恢复:
-
+Recharge Rate:,充能率:
+Recharge Delay:,充能延时:
+Increased Regen:,再生提高:
+Regen:,再生:
+Sources:,来源:
+Increased Life Regeneration Rate:,生命再生速率提高:
+More Life Regeneration Rate:,生命再生速率总增:
+Recovery modifiers:,回复率修正:
 Recoup:,吸纳:
-FasterRecoup:,快速吸纳:
+FasterRecoup:,更快吸纳:
 Phys Recoup:,物理吸纳:
 Light Recoup:,闪电吸纳:
 Cold Recoup:,冰霜吸纳:
 Fire Recoup:,火焰吸纳:
 Chaos Recoup:,混沌吸纳:
+
+
+
+
+Mana:,魔力:
+Increased Mana Regeneration Rate:,魔力再生速率提高:
+More Mana Regeneration Rate:,魔力再生速率总增:
+
+
+
+
+Energy Shield:,能量护盾:
+Base from Armours:,来自护甲的基础值:
+Global Base:,全域基础值:
+Increased EnergyShield Regeneration Rate:,ES再生速率提高:
+More EnergyShield Regeneration Rate:,ES再生速率总增:
 Ele Recoup:,元素伤ES吸纳:
+
+
+
 
 Ward:,结界:
 
-Armour Defense:,护甲防护:
+
+
+
+Rage:,怒火:
+Increased Rage Regeneration Rate:,怒火再生速率提高:
+More Rage Regeneration Rate:,怒火再生速率总增:
+
+
+
+
+Armour:,护甲:
+Armour Defense:,护甲防御:
 Phys. Dmg. Reduct:,物理伤害减免:
 Fire Dmg. Reduct:,火焰伤害减免:
 Cold Dmg. Reduct:,冰霜伤害减免:
 Light. Dmg. Reduct:,闪电伤害减免:
 
+
+
+
+Evasion:,闪避:
+Evade Chance:,闪避几率:
 Melee Evade Ch.:,近战闪避几率:
 Proj. Evade Ch.:,投射物闪避几率:
-Effect of Blind:,致盲效果:
+
+
+
 
 Resists:,抗性:
 Fire Resist:,火焰抗性:
 Cold Resist:,冰霜抗性:
 Lightning Resist:,闪电抗性:
 Chaos Resist:,混沌抗性:
+
+
+
 
 Block:,格挡:
 Block Chance:,攻击格挡几率:
@@ -649,6 +466,8 @@ Life on Block:,格挡时回复生命:
 Mana on Block:,格挡时回复魔力:
 ES on Block:,格挡时回复ES:
 ES on Spell Block:,格挡法术时回复ES:
+
+
 
 
 Other Defences:,其它防御:
@@ -662,15 +481,21 @@ Stun Avoid Chance:,避免眩晕几率:
 Stun Chance:,眩晕几率:
 Interupt Avoid Ch.:,避免打断几率:
 Block Stun Duration:,格挡眩晕持续时间:
-Curse Effect:,诅咒效果:
+
+
+
 
 Damage Avoidance:,伤害避免:
+Avoid All Dmg Ch.:,所有伤害避免几率:
 Avoid Physical Ch.:,物理伤害避免几率:
 Avoid Lightning Ch.:,闪电伤害避免几率:
 Avoid Cold Chance:,冰霜伤害避免几率:
 Avoid Fire Chance:,火焰伤害避免几率:
 Avoid Chaos Chance:,混沌伤害避免几率:
-Avoid Projectiles Ch.:,投射物伤害避免几率:
+Avoid Proj Ch.:,投射物伤避免几率:
+
+
+
 
 Other Avoidance:,其他避免:
 Blind Avoid Ch.:,避免致盲几率:
@@ -686,6 +511,9 @@ Poison Avoid Ch.:,避免中毒几率:
 Crit Reduction:,受到暴击伤害减少:
 Blind Duration:,致盲持续时间:
 
+
+
+
 Other Ailment Defences:,其他元素防御:
 Freeze Duration:,冰冻持续时间:
 Chill Duration:,冰缓持续时间:
@@ -696,56 +524,93 @@ Brittle Duration:,易碎持续时间:
 Scorch Duration:,灼烧持续时间:
 Bleed Duration:,流血持续时间:
 Poison Duration:,中毒持续时间:
+Freeze Effect:,冰冻效果:
 Chill Effect:,冰缓效果:
 Shock Effect:,感电效果:
+Ignite Effect:,点燃效果:
+Sap Effect:,精疲力尽效果:
+Brittle Effect:,易碎效果:
+Scorch Effect:,灼烧效果:
+Bleed Effect:,流血效果:
+Poison Effect:,中毒效果:
+
+
+
 
 Dodge:,躲避:
 Dodge Chance:,躲避几率:
 Spell Ddg. Chance:,躲避几率(法术):
+
+
+
+
 Spell Suppression:,法术压制:
 Suppression Ch.:,法术压制几率:
 Suppression Effect:,法术压制效果:
-ES on Suppression:,法术压制ES回复:
+ES on Suppression:,压制时ES回复:
+Life on Suppression:,压制时生命回复:
+
+
+
 
 Damage Taken:,承受伤害:
 Enemy Damage:,敌人伤害:
 Taken As:,承受转换后伤害:
+
+
+
+
 Damaging Hits:,击中伤害:
 Hit taken Mult.:,承受击中伤害加成:
 Reflect taken:,承受反射:
 Hit taken:,承受击中伤害:
 PvP Hit taken:,承受PVP击中伤害:
+Enemy PvP Multiplier:,敌人PVP加成:
 ES Bypass %:,能量护盾规避%:
-Prevented Life Loss:,生命失去抵御比例:
+Prevented Life Loss:,生命失去抵御:
 Mind over Matter %:,心灵升华抵御比例:
 Guard:,防卫技能:
 Aegis:,圣盾技能:
 Frost Shield:,冰霜护盾技能:
-Hits before death:,敌人需击中次数:
-"Effective ""Health"" Pool:",等效生命值:
+Hits before death:,敌人需出手次数:
+
+
+
+
+"Effective ""Health"" Pool:",有效生命值:
 Unmitigated %:,未减轻比例:
 Mitigated hits:,减轻后可被击中:
 Enemy miss chance:,敌人未击中几率:
-Effective Hit Pool:,击中伤等效生命值:
+Effective Hit Pool:,击中伤有效生命值:
 Time before death:,存活时间:
+
+
+
+
 Maximum Hit Taken:,最大击中伤承受值:
+
+
+
+
 Dots and Degens:,持续伤与每秒扣血:
 DoT taken:,承受持续伤害:
 Total Pool:,总生命值:
-Effective DoT Pool:,持续伤等效生命值:
+Effective DoT Pool:,持续伤有效生命值:
 Degens:,每秒扣血:
 Total Degen:,总每秒扣血:
-Total Net Regen:,净回复:
-Net Life Regen:,生命净回复:
-Net Mana Regen:,魔力净回复:
-Net ES Regen:,能量护盾净回复:
-Net Energy Shield Regen:,能量护盾净回复:
-Petrified Blood Max.:,赤血凝结最大:
-Petrified Blood Avg.:,赤血凝结平均:
+Total Net Regen:,净再生:
+Net Life Regen:,生命净再生:
+Net Mana Regen:,魔力净再生:
+Net ES Regen:,能量护盾净再生:
+Net Energy Shield Regen:,能量护盾净再生:
 
 
 
 
-"Skill Part:",技能部分:
-"Skill Stages:",技能阶段:
-Degen:,每秒扣血:
+Recoup and Hit Taken Over Time:,持续计算的吸纳和击中伤害承受:
+Recoup Max.:,最大每秒可吸纳:
+Recoup Avg.:,平均每秒可吸纳:
+Hit Over Time Max.:,最大每秒承受击中:
+Hit Over Time Avg.:,平均每秒承受击中:
+Net Max.:,最大每秒吸纳:
+Net Avg.:,平均每秒吸纳:

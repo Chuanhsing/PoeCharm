@@ -571,7 +571,7 @@ Rampage,暴走
 "{0} to Strength","{0} 力量"
 "{0} to Dexterity","{0} 敏捷"
 "{0} to Intelligence","{0} 智慧"
-"{0}% increased Damage","伤害提高  {0}%"
+"{0}% increased Damage","伤害提高 {0}%"
 "{0}% reduced Damage","伤害降低 {0}%"
 "{0}% increased Global Damage","全局伤害提高 {0}%"
 "{0}% reduced Global Damage","全局伤害降低 {0}%"
@@ -1653,7 +1653,7 @@ Rampage,暴走
 "{0}% reduced Frenzy Charge Duration","狂怒球持续时间缩短 {0}%"
 "{0}% chance to gain a Power Charge when you Block","格挡时有 {0}% 的几率获得暴击球"
 "Gain a Power Charge when you Block",在你格挡时获得一个暴击球
-"{0}% increased Area of Effect per Power Charge","每个暴击球可使效果区域的扩大 {0}%"
+"{0}% increased Area of Effect per Power Charge","每个暴击球可使效果区域扩大 {0}%"
 "{0}% chance to gain a Power Charge when your Trap is triggered by an Enemy","有 {0}% 的几率在敌人触发你的陷阱时获得一个暴击球"
 "Gain a Power Charge when your Trap is triggered by an Enemy",在敌人触发你的陷阱时获得一个暴击球
 "{0}% chance to gain a Power Charge when your Mine is Detonated targeting an Enemy","有 {0}% 的几率在你以敌人为目标引爆地雷时获得一个暴击球"
@@ -1898,8 +1898,8 @@ Rampage,暴走
 "Projectiles move at {0}% increased Speed","投射物速度提高 {0}%"
 "Projectiles move at {0}% reduced Speed","投射物速度降低 {0}%"
 "{0}% more Monster Life","怪物的生命总增 {0}%"
-"Monsters have {0}% increased Area of Effect","怪物效果区域的扩大 {0}%"
-"Monsters have {0}% reduced Area of Effect",怪物效果区域的缩小　{0}%
+"Monsters have {0}% increased Area of Effect","怪物效果区域扩大 {0}%"
+"Monsters have {0}% reduced Area of Effect",怪物效果区域缩小　{0}%
 "Monsters have {0}% chance to Avoid being Chilled or Frozen","怪物有 {0}% 的几率避免被冰缓或冰冻"
 "Monsters cannot be Chilled or Frozen",怪物无法被冰缓或冰冻
 "Monsters have {0}% chance to Avoid being Ignited","怪物有 {0}% 的几率避免被点燃"
@@ -2681,7 +2681,7 @@ Phasing,【迷踪】状态
 "Cannot Knock Enemies Back",无法击退敌人
 "All Attack Damage Chills when you Stun",晕眩时所有攻击伤害造成冰缓
 "Contains the Immortalised Grandmasters",有永生化的元帅
-"PvP damage scaling in effect","PvP 伤害调整"
+"PvP damage scaling in effect","启用PvP 伤害调整"
 "Gain {0} Life when you lose an Endurance Charge","每失去一个耐力球，获得 {0} 生命"
 "{0}% increased Damage with Hits and Ailments per Curse on Enemy","击中和异常状态伤害按照敌人身上每个诅咒提高 {0}%"
 "{0}% reduced Damage with Hits and Ailments per Curse on Enemy","击中和异常状态伤害按照敌人身上每个诅咒降低 {0}%"
@@ -7941,7 +7941,6 @@ Conduit,能量连接
 "Pain Attunement",苦痛灵曲
 "Phase Acrobatics",移灵换影
 "Arrow Dancing",投射物闪避
-"Inner Conviction",内在信念
 "Zealot's Oath",狂热誓言
 Runebinder,符文绑定者
 "Shared Suffering",苦痛共享
@@ -10129,10 +10128,10 @@ Charges,冲锋
 "May inflict Vulnerability on Hit",击中时有一定概率造成脆弱
 "Vulnerability on Hit",击中造成脆弱
 "Temporal Chains on Hit",击中造成时空锁链
-"Lightning Damage",造成闪电伤害
-"Fire Damage",造成火焰伤害
-"Chaos Damage",造成混沌伤害
-"Cold Damage",造成冰冷伤害
+"Lightning Damage",闪电伤害
+"Fire Damage",火焰伤害
+"Chaos Damage",混沌伤害
+"Cold Damage",冰冷伤害
 "Frenzy as Kin Slain",同伴被杀时狂暴
 "Empowered as Kin Slain",同伴被杀时强化
 "Burns Ground on Death",死亡时产生燃烧地面
@@ -10598,8 +10597,8 @@ Charges,冲锋
 "Third Repeat deals {0}% less Damage","第三次重复造成的伤害总降 {0}%"
 "Fires a Payload Arrow into the air",向空中发射一支负载箭矢
 "Projectiles Fire from where the Payload Arrow lands",投射物在负载箭矢落地时发射
-"{0}% increased Area of Effect angle","效果区域的角度扩大 {0}%"
-"{0}% reduced Area of Effect angle","效果区域的角度缩小 {0}%"
+"{0}% increased Area of Effect angle","效果区域角度扩大 {0}%"
+"{0}% reduced Area of Effect angle","效果区域角度缩小 {0}%"
 "Skills used by Mirage Warriors deal {0}% less Damage","蜃影武士的技能造成的总伤害额外降低 {0}%"
 "Final Repeat has {0}% chance to deal Double Damage","最后一次重复造成伤害翻倍的几率 {0}%"
 "When you deal a Critical Strike with The Saviour, Summon a Mirage Warrior which uses that Attack Skill",当你使用救世者造成重击，则召唤一名使用该攻击技能的蜃影武士
@@ -11877,7 +11876,6 @@ Charges,冲锋
 "The Impaler",穿刺者
 "The Agnostic",惘信者
 "Sacred Bastion",神圣壁垒
-"Immortal Ambition",不朽野望
 "Supreme Ego",无上自我
 "Wind Dancer",风舞者
 "Supported Strike Skills cannot target additional Enemies",被辅助的打击技能无法以额外的敌人为目标
@@ -13186,7 +13184,7 @@ Doomsday,灭亡之日
 "{0} increased Frenzy Charge Duration","狂怒球持续时间延长 {0}"
 "{0} reduced Frenzy Charge Duration","狂怒球持续时间缩短 {0}"
 "{0} chance to gain a Power Charge when you Block","格挡时 {0} 的几率获得 1 个暴击球"
-"{0} increased Area of Effect per Power Charge","每个暴击球可使效果区域的扩大 {0}"
+"{0} increased Area of Effect per Power Charge","每个暴击球可使效果区域扩大 {0}"
 "{0} chance to gain a Power Charge when your Trap is triggered by an Enemy","当你的陷阱被敌人触发时，有 {0} 的机会获得 1 个暴击球"
 "{0} chance to gain a Power Charge when your Mine is Detonated targeting an Enemy","当你的地雷对敌人爆炸时，有 {0} 的机会获得 1 个暴击球"
 "{0} increased Damage over Time per Frenzy Charge","每个狂怒球的持续伤害提高 {0}"
@@ -13331,8 +13329,8 @@ Doomsday,灭亡之日
 "Projectiles move at {0} increased Speed","投射物速度提高 {0}"
 "Projectiles move at {0} reduced Speed","投射物速度降低 {0}"
 "{0} more Monster Life","怪物的总生命额外提高 {0}"
-"Monsters have {0} increased Area of Effect","怪物效果区域的扩大 {0}"
-"Monsters have {0} reduced Area of Effect",怪物效果区域的缩小　{0}
+"Monsters have {0} increased Area of Effect","怪物效果区域扩大 {0}"
+"Monsters have {0} reduced Area of Effect",怪物效果区域缩小　{0}
 "Monsters have {0} chance to Avoid being Chilled or Frozen","怪物有 {0} 的几率避免被冰缓或冰冻"
 "Monsters have {0} chance to Avoid being Ignited","怪物有 {0} 的几率避免被点燃"
 "Monsters have {0} chance to Avoid being Shocked","怪物有 {0} 的几率避免被感电"
@@ -18732,7 +18730,6 @@ Doomsday,灭亡之日
 "Raised Zombies' Slam Attack has {0} increased Cooldown Recovery Rate","【魔卫复苏】打出重击攻击时，冷却回复速度提高 {0}"
 "Raised Zombies' Slam Attack deals {0} increased Damage","【魔卫复苏】打出重击攻击时，伤害提高 {0}"
 "instead grant: {0} increased Mana Cost of Skills and {1} increased Spell Damage","技能魔力消耗提高 {0}，法术伤害提高 {1}"
-"Corrupted Soul",腐化的灵魂
 "{0} increased Physical Damage while you have Resolute Technique","获得坚毅之心时物理伤害提高 {0}"
 "{0} reduced Physical Damage while you have Resolute Technique","获得坚毅之心时物理伤害降低 {0}"
 "{0} increased Critical Strike Chance while you have Avatar of Fire","当你获得【火之化身】时，暴击率提高 {0}"
@@ -20128,8 +20125,8 @@ Doomsday,灭亡之日
 "Damage Penetrates {0} of Branded Enemy's Fire Resistance","伤害穿透带有烙印敌人火焰抗性的 {0}"
 "Damage Penetrates {0} of Branded Enemy's Lightning Resistance","伤害穿透带有烙印敌人闪电抗性的 {0}"
 "{0} increased angle while in Sand Stance","沙姿态下使角度扩大 {0}"
-"{0} increased Area of Effect angle","效果区域的角度扩大 {0}"
-"{0} reduced Area of Effect angle","效果区域的角度缩小 {0}"
+"{0} increased Area of Effect angle","效果区域角度扩大 {0}"
+"{0} reduced Area of Effect angle","效果区域角度缩小 {0}"
 "{0} more Area of Effect while in Sand Stance","沙姿态下，总效果区域扩大 {0}"
 "{0} less Area of Effect while in Sand Stance","沙姿态下，总效果区域缩小 {0}"
 "Aura grants {0} increased Attack and Cast Speed","光环的攻击和施法速度加快 {0}"
@@ -21127,8 +21124,8 @@ Doomsday,灭亡之日
 "{0} increased Cold Damage per {1} Missing Cold Resistance, up to a maximum of {2}","每失去 {1} 冰霜抗性，冰霜伤害就提高 {0}，最多提高 {2}"
 "{0} reduced Cold Damage per {1} Missing Cold Resistance, up to a maximum of {2}","每失去 {1} 冰霜抗性，冰霜伤害就降低 {0}，最多降低 {2}"
 "{0} of Cold Damage taken Recouped as Life","将承受的冰霜伤害的 {0} 吸纳为生命"
-"Consecrated Ground you create causes Life Regeneration to",你产生的具有生命再生效果的奉献地面
-"also Recover Energy Shield for you and Allies",也会为你和友军回复能量护盾
+"Consecrated Ground you create causes Life Regeneration to",你产生的的奉献地面使得
+"also Recover Energy Shield for you and Allies",你与你的友军的生命再生同样套用至能量护盾回复
 "Consecrated Path has {0} reduced Area of Effect","奉献之路的效果区域缩小 {0}"
 "{0} more Critical Strike Chance while Insane","疯狂状态下，总暴击率额外提高 {0}"
 "{0} less Critical Strike Chance while Insane","疯狂状态下，总暴击率额外降低 {0}"
@@ -24958,7 +24955,6 @@ Magebane,法师克星
 "Zealotry has {0}% reduced Reservation","奋锐光环的保留效果降低 {0}%"
 "Zealotry has no Reservation",奋锐光环没有保留效果
 "Chaos Resistance is Zero",混沌抗性归零
-"Divine Flesh",神圣血肉
 "Everlasting Sacrifice",永恒献祭
 "Skills which throw Traps Cost Life instead of Mana",投掷陷阱的技能消耗生命而非魔力
 "Prismatic Skills cannot choose Cold",虹光技能不能选择冰霜效果
@@ -25073,7 +25069,7 @@ Solipsism,唯我独尊
 "You have {0} Fortification","你有 {0} 层体"
 "Cannot Recover Energy Shield to above Armour",恢复的能量护盾不能超过护甲值
 "3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second","近期被防止击中的 5% 总物理伤害，以每秒回复为能量护盾"
-"Skills that have dealt a Critical Strike in the past {0} seconds deal {1}% more Elemental Damage with Hits and Ailments","在过去 {0} 秒内造成暴击的技能使击中和异常状态伤害总增 {1}%"
+"Skills that have dealt a Critical Strike in the past {0} seconds deal {1}% more Elemental Damage with Hits and Ailments","在过去 {0} 秒内造成暴击的技能使其击中和异常状态的元素伤害总增 {1}%"
 "Cannot Recover Energy Shield to above Evasion Rating",恢复的能量护盾不能超过闪避值
 "When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating","被击中时，失去 1 层鬼影缠身以回复 3% 等同于你闪避值的能量护盾"
 "Cannot Recharge Energy Shield",能量护盾不能充能
@@ -25989,3 +25985,18 @@ Survival,幸存
 "Rare Breach Monsters drop additional Currency Items","稀有裂隙怪物额外掉落 {0} 个通货物品"
 "Take Physical Damage equal to {0}% of Life plus {0}% of Energy Shield per Second per",在你能穿越至梦魇的情况下每秒承受物理伤害
 "{0}% Blood in the Blood Crucible while you are able to Shift into Nightmare","等于 {0}% 的生命加上 {0}% 的能量护盾后再乘以赤炼玄炉中 {0}% 的腐坏能量"
+Corrupted Soul,腐化的灵魂
+Divine Flesh,神圣血肉
+Immortal Ambition,不朽野望
+Strength of Blood,鲜血之力
+Tempered by War,战争锤炼
+Chainbreaker,破枷除锁
+Dance with Death,与亡共舞
+Second Sight,慧眼
+The Traitor,叛徒
+Power of Purpose,决心之力
+Inner Conviction,内在信念
+Transcendence,超然飞升
+Supreme Decadence,无上衰败
+Supreme Grandstanding,无上之秀
+Supreme Ostentation,无上宣示

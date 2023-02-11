@@ -26,7 +26,7 @@ Enemy Corpse Life:,敌人灵柩^xE05030生命:
 Sets the maximum life of the target corpse for Detonate Dead and similar skills.,^xFFFFFF设置【爆灵术】等类似的技能的灵柩最大^xE05030生命^7
 "For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","^xFFFFFF參考: 70 级怪物^xE05030生命^7为6937, 80级怪物^xE05030生命^7为12787。"
 Time spent stationary,静止时长
-Applies mods that use `while stationary` and `per/every second while stationary`,启用'当你静止'、'静止时每秒'之类的修正
+"Applies mods that use `while stationary` and `per / every second while stationary`","启用'当你静止'、'静止时每秒'之类的修正"
 Are you always moving?,是否处于移动状态?
 Are you insane?,是否处于疯狂状态?
 Are you always on Full Life?,^xFFFFFF是否处于满^xE05030血^7状态?
@@ -51,6 +51,7 @@ Crits Only:,仅暴击:
 Minimum,最小值
 Minimum:,最小值:
 Maximum,最大值
+Burst,瞬时
 "Controls how the base damage for applying Ailments is calculated:","控制如何计算异常状态的基础伤害:"
 "damage is based on the average application, including both crits and non-crits","伤害计算基于平均应用，包括了暴击与非暴击"
 "damage is based solely on Ailments inflicted with crits","伤害计算只基于暴击产生的异常状态"
@@ -61,12 +62,12 @@ Controls how life regeneration is calculated:,^xFFFFFF控制如何计算^xE05030
 does not include burst regen,不计算瞬时回复
 "includes burst regen, averaged based on uptime",包括瞬时回复，基于生效时间进行平均计算
 includes full burst regen,包括完整的瞬时回复
-EHP calc unlucky:,等效生命值计算时不幸:
-Sets the EHP calc to pretend its unlucky and reduce the effects of random events,对等效生命值计算进行设置以假装它是不幸的并减少随机事件的效果
+EHP calc unlucky:,有效生命值计算时不幸:
+Sets the EHP calc to pretend its unlucky and reduce the effects of random events,对有效生命值计算进行设置以假装它是不幸的并减少随机事件的效果
 Unlucky,不幸
 Very Unlucky,非常不幸
-Disable EHP gain on block:,禁用格挡时回复的等效生命值:
-Sets the EHP calc to not apply gain on block effects,对等效生命值计算进行设置以禁用格挡时回复效果
+Disable EHP gain on block:,禁用格挡时回复的有效生命值:
+Sets the EHP calc to not apply gain on block effects,对有效生命值计算进行设置以禁用格挡时回复效果
 Armour calculation mode:,护甲计算模式:
 "Controls how Defending with Double Armour is calculated:","控制如何计算使用双倍护甲防御:"
 never Defend with Double Armour,从不使用双倍护甲进行防御
@@ -150,7 +151,7 @@ Vortex:,【漩涡】:
 "Winter Orb:",【寒冬宝珠】:
 Stages:,等阶:
 "Withering Touch:",【凋零之触】:
-"# of Withered Stacks:","【死亡凋零】层数:"
+
 
 Map Modifiers and Player Debuffs,地图词缀和玩家减益
 Map Prefix Modifiers:,地图前缀加成:
@@ -166,15 +167,10 @@ Less effect of Curses on enemy:,对怪物的诅咒总效果总降:
 25% (Low tier),25%(低阶)
 40% (Mid tier),40%(中阶)
 60% (High tier),60%(高阶)
-Enemy avoid Poison / Blind / Bleed:,怪物几率免疫中毒/致盲/流血:
-'Impervious','避毒的'
-25% (Low tier),25%(低阶)
-45% (Mid tier),45%(中阶)
-65% (High tier),65%(高阶)
 Enemy has Elemental / Chaos Resist:,怪物的元素/^xD02090混沌^7抗性增加:
 'Resistant','抗性的'
 20% / 15% (Low tier),20%/15%(低阶)
-30% /2 0% (Mid tier),30%/20%(中阶)
+30% / 20% (Mid tier),30%/20%(中阶)
 40% / 25% (High tier),40%/25%(高阶)
 Map Suffix Modifiers:,地图后缀加成:
 Player has Elemental Equilibrium?,玩家有【元素之相】?
@@ -195,11 +191,16 @@ Less Area of Effect:,玩家的范围效果总降:
 15% (Low tier),15%(低阶)
 20% (Mid tier),20%(中阶)
 25% (High tier),25%(高阶)
-Enemy avoid Elem. Status Ailments:,怪物几率免疫元素异常状态:
+Enemy avoid Elemental Ailments:,怪物几率免疫元素异常状态:
 'of Insulation','隔绝之'
 30% (Low tier),30%(低阶)
-60% (Mid tier),60%(中阶)
-90% (High tier),90%(高阶)
+50% (Mid tier),50%(中阶)
+70% (High tier),70%(高阶)
+Enemy avoid Poison and Bleed:,怪物几率免疫中毒/流血:
+'Impervious','避毒的'
+25% (Low tier),25%(低阶)
+35% (Mid tier),35%(中阶)
+65% (High tier),65%(高阶)
 Unlucky Dodge / Enemy has inc. Accuracy:,玩家在躲避时很不幸/怪物命中值提高:
 'of Miring','迟钝之'
 30% (Low tier),30%(低阶)
@@ -212,12 +213,12 @@ Reduced Block Chance / less Armour:,玩家的格挡率降低/护甲总降:
 40% / 30% (High tier),40%/30%(高阶)
 "Player has Point Blank?",玩家拥有【零点射击】?
 'of Skirmishing','冲突之'
-Less Recovery Rate of Life and Energy Shield:,玩家的^xE05030生命^7和^x88FFFF能量护盾^7回复速度总降:
+Less Recovery Rate of Life and Energy Shield:,玩家的^xE05030生命^7和^x88FFFF能量护盾^7回复速率总降:
 'of Smothering','窒息之'
 20% (Low tier),20%(低阶)
 40% (Mid tier),40%(中阶)
 60% (High tier),60%(高阶)
-"Cannot Regen Life, Mana or ES?",^xFFFFFF玩家无法再生^xE05030生命^7，^x7070FF魔力^7和^x88FFFF能量护盾^7?
+"Cannot Regen Life, Mana or ES?",^xFFFFFF玩家无法再生^xE05030生命^7，^x7070FF魔力^7和^x88FFFFES^7?
 'of Stasis','瘀血之'
 "Enemy takes red. Extra Crit Damage:",怪物受到的暴击额外伤害降低:
 'of Toughness','坚韧之'
@@ -225,41 +226,47 @@ Low tier: 25-30%,低阶: 25-30%
 Mid tier: 31-35%,中阶: 31-35%
 High tier: 36-40%,高阶: 36-40%
 "# of Sextants affecting the area","该地区被#个六分仪影响"
+Unique Map Modifiers:,传奇地图修正:
+PvP damage scaling in effect,启用PvP 伤害调整
+'Hall of Grandmasters','元帅殿堂'
 Player is cursed by:,玩家被诅咒:
 "Assassin's Mark:",【暗影印记】:
-"Sets the level of Assassin's Mark to apply to the player.",设置玩家应用的【暗影印记】等级.
+"Sets the level of Assassin's Mark to apply to the player.",设置玩家所受的【暗影印记】等级.
 Conductivity:,【导电】:
-"Sets the level of Conductivity to apply to the player.",设置玩家应用的【导电】等级.
+"Sets the level of Conductivity to apply to the player.",设置玩家所受的【导电】等级.
 Despair:,【绝望】:
-"Sets the level of Despair to apply to the player.",设置玩家应用的【绝望】等级.
+"Sets the level of Despair to apply to the player.",设置玩家所受的【绝望】等级.
 "Elemental Weakness:",【元素要害】:
-"Sets the level of Elemental Weakness to apply to the player.",设置玩家应用的【元素要害】等级.
+"Sets the level of Elemental Weakness to apply to the player.",设置玩家所受的【元素要害】等级.
 "In mid tier maps, 'of Elemental Weakness' applies level 10.","在中阶地图,【元素要害】的等级是 10."
 "In high tier maps, 'of Elemental Weakness' applies level 15.","在高阶地图,【元素要害】的等级是 15."
 Enfeeble:,【衰弱】:
-"Sets the level of Enfeeble to apply to the player.",设置玩家应用的【衰弱】等级.
+"Sets the level of Enfeeble to apply to the player.",设置玩家所受的【衰弱】等级.
 "In mid tier maps, 'of Enfeeblement' applies level 10.","在中阶地图,【衰弱】的等级是 10."
 "In high tier maps, 'of Enfeeblement' applies level 15.","在高阶地图,【衰弱】的等级是 15."
-Flammability:,【易燃】
-"Sets the level of Flammability to apply to the player.",设置玩家应用的【易燃】等级.
+Flammability:,【易燃】:
+"Sets the level of Flammability to apply to the player.",设置玩家所受的【易燃】等级.
 Frostbite:,【冻伤】:
-"Sets the level of Frostbite to apply to the player.",设置玩家应用的【冻伤】等级.
+"Sets the level of Frostbite to apply to the player.",设置玩家所受的【冻伤】等级.
 "Poacher's Mark:",【盗猎者印记】:
-"Sets the level of Poacher's Mark to apply to the player.",设置玩家应用的【盗猎者印记】等级.
+"Sets the level of Poacher's Mark to apply to the player.",设置玩家所受的【盗猎者印记】等级.
 "Projectile Weakness:",【投射物要害】:
-"Sets the level of Projectile Weakness to apply to the player.",设置玩家应用的【投射物要害】等级.
+"Sets the level of Projectile Weakness to apply to the player.",设置玩家所受的【投射物要害】等级.
 Punishment:,【惩戒】:
-"Sets the level of Punishment to apply to the player.",设置玩家应用的【惩戒】等级.
+"Sets the level of Punishment to apply to the player.",设置玩家所受的【惩戒】等级.
 "Temporal Chains:",【时空锁链】:
-"Sets the level of Temporal Chains to apply to the player.",设置玩家应用的【时空锁链】等级.
+"Sets the level of Temporal Chains to apply to the player.",设置玩家所受的【时空锁链】等级.
 "In mid tier maps, 'of Temporal Chains' applies level 10.","在中阶地图,【时空锁链】的等级是 10."
 "In high tier maps, 'of Temporal Chains' applies level 15.","在高阶地图,【时空锁链】的等级是 15."
 Vulnerability:,【脆弱】:
-"Sets the level of Vulnerability to apply to the player.",设置玩家应用的【脆弱】等级.
+"Sets the level of Vulnerability to apply to the player.",设置玩家所受的【脆弱】等级.
 "In mid tier maps, 'of Vulnerability' applies level 10.","在中阶地图,【脆弱】的等级是 10."
 "In high tier maps, 'of Vulnerability' applies level 15.","在高阶地图,【脆弱】的等级是 15."
 "Warlord's Mark:",【督军印记】:
-"Sets the level of Warlord's Mark to apply to the player.","设置玩家应用的【督军印记】等级."
+"Sets the level of Warlord's Mark to apply to the player.","设置玩家所受的【督军印记】等级."
+
+
+
 
 When In Combat,战斗状态
 Do you use Power Charges?,你有【暴击球】?
@@ -285,8 +292,14 @@ Do your Minions use Power Charges?,你的召唤物有【暴击球】?
 Do your Minions use Frenzy Charges?,你的召唤物有【狂怒球】?
 Do your Minions use Endur. Charges?,你的召唤物有【耐力球】?
 # of Rampage Kills:,【暴走】层数:
-"Rampage grants the following, up to 1000 stacks:","暴走层数会带来以下效果，最大层数为1000层:"
-You lose Rampage if you do not get a Kill within 5 seconds.,你会在持续5秒无击杀后失去暴走状态.
+"Rampage grants the following, up to 1000 stacks:","【暴走】层数会带来以下效果，最大层数为1000层:"
+{0} increased Movement Speed per 20 Rampage,每有20层【暴走】移动速度提高{0}
+{0}% increased Movement Speed per 20 Rampage,每有20层【暴走】移动速度提高{0}%
+1% increased Movement Speed per 20 Rampage,每有20层【暴走】移动速度提高1%
+{0}% increased Damage per 20 Rampage,每有20层【暴走】伤害提高{0}%
+You lose Rampage if you do not get a Kill within 5 seconds.,你会在持续5秒无击杀后失去【暴走】状态.
+# of Soul Eater Stacks:,【噬魂者】层数:
+Soul Eater grants the following,【噬魂者】层数会带来以下效果:
 Are you Focused?,你有【专注】?
 Do you have Lifetap?,你有【赤炼】?
 Do you have Onslaught?,你有【猛攻】?
@@ -309,8 +322,8 @@ this will enable the Tailwind buff itself. (Grants 8% increased Action Speed),�
 Do you have Adrenaline?,你有【肾上腺素】?
 "This will enable the Adrenaline buff, which grants:","这将启用【肾上腺素】增益效果:"
 100% increased Damage,伤害提高100%
-"25% increased Attack, Cast and Movement Speed","攻击/施法/移动速度提高 25%"
-10% additional Physical Damage Reduction,额外 10% 物理伤害减免
+"{0}% increased Attack, Cast and Movement Speed","攻击/施法/移动速度提高{0}%"
+{0}% additional Physical Damage Reduction,额外{0}%物理伤害减免
 Do you have Alchemist's Genius?,你有【炼金奇才】?
 This will enable the Alchemist's Genius buff:,这将启用【炼金奇才】增益效果:
 10% increased effect of Flasks,药剂效果提升10%
@@ -321,12 +334,12 @@ Are you Elusive?,你有【灵巧】?
 this will enable the Elusive buff itself:,这将启用【灵巧】增益效果:
 The effect of Elusive decays over time.,【灵巧】增益效果会随时间衰减。
 Effect of Elusive (if not maximum):,【灵巧】效果强度(如果不是最大值):
-"If you have a guaranteed source of Elusive, the strongest one will apply. ","如果你有一个可靠的【灵巧】来源，将会应用最大效果强度."
+"If you have a guaranteed source of Elusive, the strongest one will apply. ","如果你有一个可靠的【灵巧】来源，将会应用最大效果强度。"
 You can change this to see decaying buff values,你可以改变此值以观察衰减后的增益效果
 Do you have Divinity?,你有【神性】?
 "This will enable the Divinity buff, which grants:","这将启用【神性】增益效果，赋予:"
 Defiance:,【抗争】层数:
-Rage:,【怒火】层数:
+Rage:,怒火:
 "Base Maximum Rage is 50, and inherently grants the following:","怒火的基础最大层数为50,并赋予以下几点固定效果:"
 You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently.,如果你近期没有被击中或获得怒火，你每0.5秒失去1层怒火。
 Are you Leeching?,你在【偷取】?
@@ -367,6 +380,7 @@ Are you Frozen?,^xFFFFFF你被^x3F6DB3冰冻^7?
 Are you Shocked?,^xFFFFFF你被^xADAA47感电^7?
 Are you Bleeding?,你在流血?
 Are you Poisoned?,你在中毒?
+Are you Immune to Curses?,你免疫诅咒?
 # of Poison on You:,你所受中毒层数:
 This also implies that you are Poisoned.,这也意味着你中毒了。
 Are you against Damage over Time?,你受持续伤?
@@ -458,84 +472,237 @@ Have you used a Vaal Skill Recently?,你近期有使用瓦尔技能?
 "You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,","如果你的主技能是瓦尔技能将会自动启用此状态,"
 Do you have Soul Gain Prevention?,你有【阻灵术】?
 Have you used a Warcry Recently?,你近期有使用战吼?
-"# of Mines Detonated Recently:","# 近期引爆地雷数:"
-"# of Traps Triggered Recently:","# 近期触发地雷数:"
+Used a Warcry in the past 8 seconds?,过去8秒内有使用战吼?
+"# of Mines Detonated Recently:","近期引爆地雷数:"
+"# of Traps Triggered Recently:","近期触发陷阱数:"
+Have you thrown a Trap or Mine Recently?,近期有投掷陷阱或地雷?
+Have you Cursed an enemy Recently?,你近期有诅咒敌人?
+Have you cast a Mark Spell Recently?,你近期有施放咒印?
+Spawned a corpse Recently?,近期有产生灵柩?
 "Consumed a corpse Recently?",近期有消耗灵柩?
-"# of Corpses Consumed Recently:","# 近期消耗灵柩数:"
+Consumed a corpse in the past 2s?,过去2秒内有消耗灵柩?
+"This also implies you have 'Consumed a corpse Recently'","这也意味着你'近期有消耗灵柩'"
+"# of Corpses Consumed Recently:","近期消耗灵柩数:"
+# of Warcries Used Recently:,近期使用战吼数:
+"This also implies you have 'Used a Warcry Recently', 'Used a Warcry in the past 8 seconds', and 'Used a Skill Recently'","这也意味着你'近期有使用战吼'、'过去8秒内有使用战吼'、'近期有使用技能'"
 "Taunted an Enemy Recently?",近期有嘲讽敌人?
-"Have you used a Fire Skill in the past 10s?","你过去 10 秒内有使用火焰技能?"
-"Have you used a Cold Skill in the past 10s?","你过去 10 秒内有使用冰霜技能?"
-"Have you used a Light. Skill in the past 10s?","你过去 10 秒内有使用闪电技能?"
-"Blocked hit from a Unique Recently?",近期有格挡传奇怪物击中?
-"Blocked hit from a Unique in the past 10s?","你过去 10 秒内有格挡传奇怪物击中?"
-"Is your Crit Chance Lucky?",你有幸运一击?
-"# of times Skill has Chained:","# 技能已连锁数:"
-"Projectile travel distance:",投射物飞行距离:
-"Is the enemy at Close Range?",是否近距离的敌人?
-"Is the enemy Moving?",是否移动的敌人?
-"Is the enemy on Full Life?",是否满血的敌人?
-"Is the enemy on Low Life?",是否低血的敌人?
-"Is the enemy Cursed?",是否诅咒的敌人?
-"Your enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的诅咒技能至少启用一个将会自动启用此状态,"
-"Is the enemy Bleeding?",是否流血的敌人?
-"Is the enemy Poisoned?",是否中毒的敌人?
-"# of Poison on Enemy:","# 敌人中毒数:"
-"Is the enemy Maimed?",是否瘫痪的敌人?
-"Is the enemy Hindered?",是否被干扰的敌人?
-"Is the enemy Blinded?",是否致盲的敌人?
+Lost an Endurance Charge in the past 8s?,过去8秒内有失去耐力球?
+# of Endurance Charges lost Recently:,近期失去耐力球数:
+Blocked a Hit from a Unique enemy in the past 10s?,你过去 10 秒内有格挡传奇怪物击中?
+Number of times you've Blocked in the past 10s,过去10秒内你格挡的次数
+Impaled an enemy recently?,近期有穿刺敌人?
+# of Impales on enemy (if not maximum):,敌人身上的穿刺层数(如果不是最大值):
+# of Bleeds on enemy (if not maximum):,敌人身上的流血层数(如果不是最大值):
+Sets current number of Bleeds on the enemy if using the Crimson Dance keystone.,如果使用玫红之舞钥石天赋，设置敌人当前流血的层数。
+This also implies that the enemy is Bleeding.,这也意味着敌人在流血。
+# of Fragile Regrowth Stacks:,【脆弱重生】层数:
+Killed a Rare or Unique enemy Recently?,近期有击杀稀有或传奇敌人?
+Do you have Iron Reflexes?,你有【霸体】?
+This option is specific to Arborix.,此选项为【阿伯瑞斯】特有。
+Augyre rotating buff:,【占星】的轮换buff:
+This option is specific to Augyre.,此选项为【占星】特有。
+Do you have Avatar Of Fire?,你有【火之化身】?
+This option is specific to Vulconus.,此选项为【火神锻台】特有。
+"Do you have Manastorm's Lightning Buff?","^xFFFFFF你有【魔力风暴】的^xADAA47闪电^7伤害buff?"
+"This option enables Manastorm's Lightning Damage Buff.","^xFFFFFF此选项使得【魔力风暴】的附加^xADAA47闪电^7伤害buff生效。"
+"(When you cast a Spell, Sacrifice all Mana to gain Added Maximum Lightning Damage","^xFFFFFF(当你施放法术时，献祭所有^x7070FF魔力^7，获得附加最大^xADAA47闪电^7伤害持续4秒"
+"equal to 25% of Sacrificed Mana for 4 seconds)","^xFFFFFF等同于献祭^x7070FF魔力^7的25%)"
+Do you have Fanaticism?,你有【欣喜若狂】?
+"This will enable the Fanaticism buff itself. (Grants 75% more cast speed, reduced skill cost, and increased area of effect)","这将使【欣喜若狂】buff生效。(使得施法速度总增75%，技能消耗减少75%，效果范围提高75%)"
+PvP Tvalue override (ms):,PvP Tvalue override (ms):
+"Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues","Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues"
+Custom PvP Damage multiplier percent:,Custom PvP Damage multiplier percent:
+"This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)","This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)"
+
+
+
+
+For Effective DPS,有效DPS相关
+Is your Crit Chance Lucky?,你的暴击率很幸运?
+# of times Skill has Forked:,技能已分叉数:
+# of times Skill has Chained:,技能已连锁数:
+# of times Skill has Pierced:,技能已穿透数:
+Projectile travel distance:,投射物飞行距离:
+Melee distance to enemy:,与敌人近战距离:
+Is the enemy at Close Range?,敌人是否处于【近距离】?
+Is the enemy Moving?,敌人是否在【移动】?
+Is the enemy on Full Life?,^xFFFFFF敌人是否^xE05030满血^7?
+Is the enemy on Low Life?,^xFFFFFF敌人是否^xE05030低血^7?
+Is the enemy Cursed?,敌人是否【受诅咒】?
+"The enemy will automatically be considered to be Cursed if you have at least one curse enabled,","如果你的诅咒技能至少启用一个将会自动启用此状态,"
+Is the enemy Bleeding?,敌人是否【流血】?
+# of Rupture stacks?,敌人的【残破】层数:
+"Rupture applies 25% more bleed damage and 25% faster bleeds for 3 seconds, up to 3 stacks","每一层残破会令目标所受流血伤害总增25%、流血生效速度提高25%，一个目标最多可受到3层残破"
+Is the enemy Poisoned?,敌人是否【中毒】?
+# of Poison on enemy:,敌人【中毒】层数:
+Cap to Single Poison on enemy?,只对敌人造成单层中毒?
+"This is for low tolerance, but will limit you to only applying a single poison on the enemy","此针对低容忍度，但会限制你只能对敌人造成一层中毒"
+#% of Curse Expired on enemy:,敌人身上诅咒结束量%:
+Curse Duration Expired on enemy:,敌人身上诅咒结束前存在时间:
+# of Withered Stacks:,【死亡凋零】层数:
+# of Corrosion Stacks:,【腐蚀】层数:
+Each stack of Corrosion applies -5000 to total Armour and -1000 to total Evasion Rating to the enemy.,^xFFFFFF每层腐蚀使敌人总护甲值-5000，总^x33FF77闪避值^7-1000。
+Corrosion lasts 4 seconds and refreshes the duration of existing Corrosion stacks,腐蚀持续4秒，然后刷新其持续时间
+Corrosion has no stack limit,腐蚀没有层数上限
+# of Ensnare Stacks:,【圈套】层数:
+"While ensnared, enemies take increased Projectile Damage from Attack Hits",被捕获的敌人从攻击击中承受的投射物伤害提高
+"Ensnared enemies always count as moving, and have less movement speed while trying to break the snare.","被诱捕的敌人始终视为在移动，并以总降后的移动速度试图突破圈套。"
+Is the enemy Maimed?,敌人是否【瘫痪】?
+Is the enemy Hindered?,敌人是否被【阻碍】?
+Is the enemy Blinded?,敌人是否被【致盲】?
 "In addition to allowing 'against Blinded Enemies' modifiers to apply,","启用时 '对致盲的敌人' 之类的修正生效,"
-"this will lessen the enemy's chance to hit, and thereby increase your evade chance.",这将减少敌人的击中几率从而提高你的闪避几率.
-"Is the enemy Taunted?",是否嘲讽的敌人?
-"Is the enemy Burning?",是否燃烧的敌人?
-"Is the enemy Ignited?",是否点燃的敌人?
-"This also implies that the enemy is Burning.",这也意味着敌人被燃烧.
-"Is the enemy Chilled?",是否冰缓的敌人?
-"Is the enemy Frozen?",是否冰冻的敌人?
-"This also implies that the enemy is Chilled.",这也意味着敌人被冰缓.
-"Is the enemy Shocked?",是否感电的敌人?
+ Blind applies the following effects.,【致盲】造成以下效果。
+ -20% Accuracy ,-20%命中
+ -20% Evasion,^xFFFFFF-20%^x33FF77闪避
+Effect of Blind (if not maximum):,【致盲】效果(如果不是最大值):
+"If you have a guaranteed source of Blind, the strongest one will apply.","如果你有可靠的【致盲】效果来源，将会应用最大效果强度。"
+Is the enemy Taunted?,敌人是否被【嘲讽】?
+Is the enemy Debilitated?,敌人是否【疲惫】?
+Debilitated enemies deal 10% less damage.,【疲惫】的敌人造成的伤害总降10%
+Is the enemy Burning?,^xFFFFFF敌人是否^xB97123【燃烧】^7?
+Is the enemy Ignited?,^xFFFFFF敌人是否^xB97123【点燃】^7?
+This also implies that the enemy is Burning.,^xFFFFFF这也意味着敌人在^xB97123【燃烧】^7。
+Is the enemy Scorched?,^xFFFFFF敌人是否^xB97123【灼烧】^7?
+"Scorched enemies have lowered elemental resistances, up to -30%.","^xB97123【灼烧】^xFFFFFF的敌人的元素抗性减少，最大减少30%。"
+This option will also allow you to input the effect of Scorched.,^xFFFFFF此选项同时允许你输入^xB97123【灼烧】^7的效果。
+Effect of Scorched:,^xB97123【灼烧】^xFFFFFF效果:
+This effect will only be applied while you can inflict Scorched.,^xFFFFFF此效果仅在你能造成^xB97123【灼烧】^7时启用。
+Is the enemy on Scorched Ground?,^xFFFFFF敌人是否在^xB97123【灼烧地面】^7上?
+This also implies that the enemy is ^xB97123Scorched.,^xFFFFFF这也意味着敌人在^xB97123【灼烧】^7。
+Is the enemy Chilled?,^xFFFFFF敌人是否^x3F6DB3【冰缓】^7?
+Is the enemy Chilled by your Hits?,^xFFFFFF敌人是否因你的击中而^x3F6DB3【冰缓】^7?
+Is the enemy Frozen?,^xFFFFFF敌人是否^x3F6DB3【冰冻】^7?
+Is the enemy Brittle?,^xFFFFFF敌人是否^x3F6DB3【易碎】^7?
+Hits against Brittle enemies have up to +6% Critical Strike Chance.,^xFFFFFF对^x3F6DB3【易碎】^7敌人的击中基础暴击率提升，最多+6%。
+This option will also allow you to input the effect of Brittle.,^xFFFFFF此选项同时允许你输入^x3F6DB3【易碎】^7的效果。
+Effect of Brittle:,^x3F6DB3【易碎】^xFFFFFF效果:
+This effect will only be applied while you can inflict Brittle.,^xFFFFFF此效果仅在你能造成^x3F6DB3【易碎】^7时启用。
+Is the enemy on Brittle Ground?,^xFFFFFF敌人是否在^x3F6DB3【易碎地面】^7上?
+This also implies that the enemy is Brittle.,^xFFFFFF这也意味着敌人在^x3F6DB3【易碎】^7。
+Is the enemy Shocked?,^xFFFFFF敌人是否^xADAA47【感电】^7?
 "In addition to allowing any 'against Shocked Enemies' modifiers to apply,","启用时 '对感电的敌人' 之类的修正生效,"
-"this will apply Shock's Damage Taken modifier to the enemy.",这将对敌人应用感电伤害的加成.
-"# of Freeze/Shock/Ignite on Enemy:","# 敌人冻结/感电/点燃数:"
-"Is the enemy Intimidated?",是否恐吓的敌人?
-"This adds the following modifiers:",这将会应用以下加成:
-"10% increased Damage Taken by enemy","敌人承受伤害提高 10%"
-"10% increased Attack Damage Taken by enemy","敌人承受攻击伤害提高 10%"
-"Is the enemy Unnerved?",是否胆怯的敌人?
-"10% increased Spell Damage Taken by enemy","敌人承受法术伤害提高 10%"
-"Is the enemy covered in Ash?",是否【灰烬缠身】的敌人?
-"20% less enemy Movement Speed","敌人移动速度额外降低 20%"
-"20% increased Fire Damage Taken by enemy","敌人承受火焰伤害提高 20%"
-"Is the enemy on consecrated ground?",是否【奉献地面】上的敌人?
-"is the enemy Rare or Unique?",是否稀有或传奇的敌人?
-"Your enemy will automatically be considered to be Unique if one of the Boss options is selected.","如果已选择 Boss 选项将会自动启用此状态."
-"Is the enemy a Boss?","敌人是否是BOSS?"
-"Standard Boss adds the following modifiers:","标准 Boss 将会应用以下加成:"
-"{0}% to enemy Elemental Resistances","敌人元素抗性 {0}%"
-"{0}% to enemy Chaos Resistance","敌人混沌抗性 {0}%"
-"Standard Boss","标准 Boss"
-Shaper/Guardian,岳父/长老
-"Shaper/Guardian adds the following modifiers:","岳父/长老 将会应用以下加成:"
-"50% less Duration of Bleed","流血持续时间额外降低 50%"
-"50% less Duration of Poison","中毒持续时间额外降低 50%"
-"50% less Duration of Ignite","点燃持续时间额外降低 50%"
-"Enemy Phys. Damage Reduction:",敌人物理伤害减免:
-"Enemy Fire Resistance:",敌人火焰抗性:
-"Enemy Cold Resistance:",敌人冰霜抗性:
-"Enemy Lightning Resistance:",敌人闪电抗性:
-"Enemy Chaos Resistance:",敌人混沌抗性:
-"Enemy was Hit by Fire Damage?",敌人被火焰伤害击中?
-"Enemy was Hit by Cold Damage?",敌人被冰霜伤害击中?
-"Enemy was Hit by Light. Damage?",敌人被闪电伤害击中?
-"Ignore Skill Hit Damage?",忽略技能击中伤害?
-"This option prevents EE from being reset by the hit damage of your main skill.","此选项可防止 【元素之相】(EE) 被你主技能的击中伤害重置."
-"Enemy Level:",敌人等级:
-"This overrides the default enemy level used to estimate your hit and evade chance.",设置敌人等级会影响你的命中和闪避几率估算.
+this will allow you to input the effect of the Shock applied to the enemy.,^xFFFFFF这将允许你输入应用在敌人身上的^xADAA47【感电】^7的效果。
+Effect of Shock:,^xADAA47【感电】^xFFFFFF效果:
+"If you have a guaranteed source of Shock,","^xFFFFFF如果你有可靠的^xADAA47【感电】^7效果来源，"
+the strongest one will apply instead unless this option would apply a stronger Shock.,"^xFFFFFF将会应用最大效果强度，除非此选项设置了更强的^xADAA47【感电】^7效果。"
+Is the enemy on Shocked Ground?,^xFFFFFF敌人是否在^xADAA47【感电地面】^7上?
+his also implies that the enemy is Shocked.,^xFFFFFF这也意味着敌人在^xADAA47【感电】^7。
+Is the enemy Sapped?,^xFFFFFF敌人是否^xADAA47【精疲力尽】^7?
+"Sapped enemies deal less damage, up to 20%.","^xADAA47【精疲力尽】^7的敌人造成的伤害总降，最多20%。"
+Effect of Sap:,^xADAA47【精疲力尽】^xFFFFFF效果:
+"If you have a guaranteed source of Sap,","^xFFFFFF如果你有可靠的^xADAA47【精疲力尽】^7效果来源，"
+the strongest one will apply instead unless this option would apply a stronger Sap.,"^xFFFFFF将会应用最大效果强度，除非此选项设置了更强的^xADAA47【精疲力尽】^7效果。"
+Is the enemy on Sapped Ground?,^xFFFFFF敌人是否在^xADAA47【精疲力尽地面】^7上?
+This also implies that the enemy is ^xADAA47Sapped.,^xFFFFFF这也意味着敌人在^xADAA47【精疲力尽】^7。
+# of Freeze / Shock / Ignite on enemy:,^xFFFFFF敌人身上的^x3F6DB3冻结^7/^xADAA47感电^7/^xB97123点燃^7状态数:
+Is the enemy Exposed to Fire?,^xFFFFFF敌人是否^xB97123【火焰暴露】^7?
+This applies -10% Fire Resistance to the enemy.,^xFFFFFF这使得敌人的^xB97123火焰^7抗性-10%。
+Is the enemy Exposed to Cold?,^xFFFFFF敌人是否^x3F6DB3【冰霜暴露】^7?
+This applies -10% Cold Resistance to the enemy.,^xFFFFFF这使得敌人的^x3F6DB3冰霜^7抗性-10%。
+Is the enemy Exposed to Lightning?,^xFFFFFF敌人是否^xADAA47【闪电暴露】^7?
+This applies -10% Lightning Resistance to the enemy.,^xFFFFFF这使得敌人的^xADAA47闪电^7抗性-10%。
+Is the enemy Intimidated?,敌人是否被【恐吓】?
+Intimidated enemies take 10% increased Attack Damage.,被【恐吓】的敌人受到的攻击伤害提高10%。
+Is the enemy Crushed?,敌人是否被【碾压】?
+Crushed enemies have 15% reduced Physical Damage Reduction.,被【碾压】的敌人的物理减伤减少15%。
+Is the enemy near you Linked target?,敌人是否靠近你的羁绊对象?
+Is the enemy Unnerved?,敌人是否被【恐惧】?
+Unnerved enemies take 10% increased Spell Damage.,被【恐惧】的敌人受到的法术伤害提高10%。
+Is the enemy covered in Ash?,敌人是否【灰烬缠身】?
+Covered in Ash applies the following to the enemy:,【灰烬缠身】使得敌人受到以下影响:
+20% increased Fire Damage Taken,^xFFFFFF承受的^xB97123火焰^7伤害提高20%
+20% less Movement Speed,移动速度总降20%
+Is the enemy covered in Frost?,敌人是否【冰霜缠身】?
+Covered in Frost applies the following to the enemy:,【冰霜缠身】使得敌人受到以下影响:
+Is the enemy on Consecrated Ground?,敌人是否在【奉献地面】上?
+Is the enemy on Profane Ground?,敌人是否在【渎神地面】上?
+Enemies on Profane Ground receive the following modifiers:,【渎神地面】使得敌人受到以下修正:
+{0}% to all Resistances,全元素抗性{0}%
+{0}% chance to be Critically Hit,对其的基础暴击率{0}%
+# of Grasping Vines affecting enemy:,敌人所受【缓速蔓藤】数:
+Is the enemy on Fungal Ground?,敌人是否在【真菌地表】上?
+Enemies on your Fungal Ground deal 10% less Damage.,【真菌地表】上的敌人造成的伤害总降10%
+Is the enemy in a Chilling area?,敌人是否在【冰缓地面】上?
+Is the enemy in the Frost Shield area?,敌人是否在【寒霜护盾】范围内?
+Enemy was Hit by Fire Damage?,^xFFFFFF敌人曾被^xB97123火焰^7伤害击中?
+Enemy was Hit by Cold Damage?,^xFFFFFF敌人曾被^x3F6DB3冰霜^7伤害击中?
+Enemy was Hit by Light. Damage?,^xFFFFFF敌人曾被^xADAA47闪电^7伤害击中?
+Ignore Skill Hit Damage?,忽略技能击中伤害?
+This option prevents EE from being reset by the hit damage of your main skill.,此选项可防止【元素之相】(EE)被你主技能的击中伤害重置。
+
+
+
+Enemy Stats,敌人数据
+Enemy Level:,敌人等级:
+This overrides the default enemy level used to estimate your hit and evade chance.,^xFFFFFF此设置决定会影响你的命中和^x33FF77闪避^7几率估算的敌人等级。
 The default level for normal enemies and standard bosses is 83.,普通敌人和普通Boss的默认等级是83。
 Their default level is capped by your character level.,他们的默认等级是由你的角色等级限制的。
 "The default level for pinnacle bosses is 84, and the default level for uber pinnacle bosses is 85.","终盘 Boss的默认级别是84，而uber 终盘 Boss的默认级别是85。"
 Their default level is not capped by your character level.,他们的默认等级不由你的角色等级限制。
-"used in-game to calculate the stats on the character sheet.",在游戏中用于计算角色状态面板
-"Enemy Physical Hit Damage:",敌人击中物理伤害:
-"This overrides the default damage amount used to estimate your physical damage reduction from armour.",设置伤害量会影响你来自护甲的物理伤害减免估算
+Is the enemy Rare or Unique?,敌人是否是稀有或传奇敌人?
+"The enemy will automatically be considered to be Unique if they are a Boss,","如果敌人是Boss，他们会自动被认为是传奇敌人，"
+Is the enemy a Boss?,敌人是否是BOSS?
+Bosses' damage is monster damage scaled to an average damage of their attacks,boss的伤害按怪物攻击伤害的平均伤害缩放而得
+This is divided by 4.25 to represent 4 damage types + some chaos,^xFFFFFF除以4.25代表4种伤害类型+一些^xD02090混沌^7伤害
+Fill in the exact damage numbers if more precision is needed,如果需要更精确，请填写准确的伤害数值
+Standard Boss adds the following modifiers:,标准 Boss 将会应用以下修正:
+{0}% to enemy Elemental Resistances,敌人元素抗性 {0}%
+{0}% to enemy Chaos Resistance,敌人混沌抗性 {0}%
+{0}% of monster damage,怪物伤害x{0}%
+Guardian / Pinnacle Boss adds the following modifiers:,守护者/巅峰头目将会应用以下修正:
+{0}% to enemy Armour,敌人护甲{0}%
+{0}% penetration,{0}%穿透
+Uber Pinnacle Boss adds the following modifiers:,终极巅峰头目将会应用以下修正:
+{0}% less to enemy Damage taken,敌人承受伤害总降{0}%
+Standard Boss,标准Boss
+Guardian/Pinnacle Boss,守护者/巅峰头目
+Uber Pinnacle Boss,终极巅峰头目
+Delirious Effect:,亢奋效果:
+{0}% Delirious,{0}%亢奋
+"Delirium scales enemy 'less Damage Taken' as well as enemy 'increased Damage dealt'","亢奋会增加敌人的“承受伤害总降”和“造成伤害提高”"
+At 100% effect:,在100%效果时:
+Enemies Deal 30% Increased Damage,敌人造成伤害提高30%
+Enemies take 80% Less Damage,敌人承受伤害总降80%
+Enemy Phys. Damage Reduction:,敌人物理伤害减免:
+Enemy Lightning Resistance:,敌人^xADAA47闪电^7抗性:
+Enemy Cold Resistance:,敌人^x3F6DB3冰霜^7抗性:
+Enemy Fire Resistance:,敌人^xB97123火焰^7抗性:
+Enemy Chaos Resistance:,敌人^xD02090混沌^7抗性:
+Enemy Block Chance:,敌人格挡几率:
+Boss Skill Preset,Boss技能预设
+Used to fill in defaults for specific boss skills if the boss config is not set,如果没有设置boss配置则用于填充特定boss技能的默认值
+"Bosses' damage is assumed at a 2/3 roll, with no Atlas passives, at the normal monster level for your character level (capped at 85)","boss的伤害假设在骰值的2/3，没有异界天赋，在你的角色等级的正常怪物等级(上限85)"
+Caveats for certain skills are below,以下是某些技能的注意事项
+Shaper Ball: Allocating Cosmic Wounds increases the penetration to 40% and adds 2 projectiles,塑界者的球:点出寰宇之伤会增加穿透至40%，并增加2个投射物
+Shaper Slam: Cannot be Evaded.  Allocating Cosmic Wounds doubles the damage and cannot be blocked or dodged,塑界者的猛击:不可躲避。点出寰宇之伤会使伤害加倍，并且不能被格挡或闪避
+"Maven Memory Game: Is three separate hits, and has a large DoT effect.  Neither is taken into account here.  i.e. Hits before death should be >= 4 to survive","贤主的记忆游戏:是三次独立的击中，并且有很强的DoT效果。这里两者都没有考虑在内。即死亡前可承受出手应该>= 4才能存活"
+Uber Atziri Flameblast,绿门女王烈焰爆破
+Shaper Ball,塑界者的球
+Shaper Slam,塑界者的猛击
+Maven Memory Game,贤主的记忆游戏
+Enemy Damage Type:,敌人伤害类型:
+Controls which types of damage the EHP calculation uses:,控制有效生命值计算使用的伤害类型:
+uses the Average of all damage types,使用全部伤害的平均值
+"If a specific damage type is selected, that will be the only type used.","如果选择了特定的伤害类型，那将会是唯一使用的类型。"
+Enemy attack / cast time in ms:,敌人攻击/施法用时(毫秒):
+Custom PvP Damage multiplier percent:,自定义PVP伤害加成百分比:
+"This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)","这将在pvp中为特定技能的伤害进行加成，例如任何特定于pvp的伤害加成(来自技能或支持或破碎传承者等物品)"
+Enemy critical strike chance:,敌人暴击几率:
+Enemy critical strike multiplier:,敌人暴击伤害加成:
+Enemy Skill Physical Damage:,敌人技能物理伤害:
+This overrides the default damage amount used to estimate your damage reduction from armour.,设置伤害量会影响你来自护甲的物理伤害减免估算
 "The default is 1.5 times the enemy's base damage, which is the same value","默认值为敌人基础伤害的 1.5 倍,此设定与游戏相同"
-"used in-game to calculate the estimate shown on the character sheet.",在游戏中用于估算角色面板.
+used in-game to calculate the estimate shown on the character sheet.,在游戏中用于估算角色面板中的估算值。
+Enemy Skill Physical Overwhelm:,敌人技能物理压制:
+Enemy Skill Lightning Damage:,敌人技能^xADAA47闪电^7伤害:
+Enemy Skill Lightning Pen:,敌人技能^xADAA47闪电^7穿透:
+Enemy Skill Cold Damage:,敌人技能^x3F6DB3冰霜^7伤害:
+Enemy Skill Cold Pen:,敌人技能^x3F6DB3冰霜^7穿透:
+Enemy Skill Fire Damage:,敌人技能^xB97123火焰^7伤害:
+Enemy Skill Fire Pen:,敌人技能^xB97123火焰^7穿透:
+Enemy Skill Chaos Damage:,敌人技能^xD02090混沌^7伤害:
+
+
+
+
+Custom Modifiers,自定义修正

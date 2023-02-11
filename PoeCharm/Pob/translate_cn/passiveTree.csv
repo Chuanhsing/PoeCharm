@@ -165,7 +165,7 @@ Pitfighter,深渊斗士
 "(Tailwind increases Action Speed by 8%)","（提速尾流使行动速度加快 8%）"
 "(Convergence grants 30% more Elemental Damage and lasts 4 seconds)","（汇聚使总元素伤害额外提高 30%，并持续 4 秒）"
 "(Only Damage from Hits can be Recouped, over 4 seconds following the Hit)","（仅能回收击中伤害，它在击中 4 秒内回收）"
-"(Ruptured targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, for 3 seconds. Up to 3 Ruptures can affect a target)","（残破的目标从流血中受到的总伤害额外提高 25%，身上的流血效果总消减速度额外加快 25%，持续 3 秒。一个目标最多 3 层残破）"
+"(Targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, per Rupture affecting them. Up to 3 Ruptures can affect a target, lasting 3 seconds each)","（残破的目标从流血中受到的总伤害额外提高 25%，身上的流血效果总消减速度额外加快 25%，持续 3 秒。一个目标最多 3 层残破）"
 "(Each instance of Gale Force lasts 4 seconds. Maximum 10 Gale Force)","（每个飓风之力都持续 4 秒。最多 10 个飓风之力）"
 "(Projectile Attack Hits deal 20% less Damage to targets at the start of their movement, dealing up to 60% more Damage to targets as the projectile travels farther)","（投射物攻击近距离目标时最多额外降低 20% 总伤害，但在攻击远距离目标时额外增加 60% 总伤害）"
 "(These are consecutive)
