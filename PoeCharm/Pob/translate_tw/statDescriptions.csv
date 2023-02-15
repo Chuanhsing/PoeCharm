@@ -7,7 +7,7 @@
 {0} (average damage),{0} (平均傷害)
 {0} (average hit),{0} (平均擊中)
 {0} (base duration),{0} (基礎持續時間)
-{0} (base mana cost),{0} (基礎持續時間)
+{0} (base mana cost),{0} (基礎魔力消耗)
 {0} (base placement speed),{0} (基礎放置速度)
 {0} (base throwing speed),{0} (基礎投射物速度)
 {0} (base),{0} (基礎)
@@ -383,7 +383,7 @@
 {0} additional Physical Damage Reduction while affected by Determination,受到【堅定】影響時，獲得額外 {0} 物理傷害減免
 {0} additional Physical Damage Reduction while affected by Herald of Purity,受到【純淨之捷】影響時，獲得額外 {0} 物理傷害減免
 {0} additional Physical Damage Reduction while Bleeding,流血時獲得 {0} 的額外物理傷害減免
-{0} additional Physical Damage Reduction while Channelling,持續吟唱時獲得 {0} 額外物理傷害減傷
+{0} additional Physical Damage Reduction while Channelling,持續吟導時獲得 {0} 額外物理傷害減傷
 {0} additional Physical Damage Reduction while Focussed,專注時獲得額外 {0} 物理傷害減免
 {0} additional Physical Damage Reduction while Frozen,冰凍時獲得 {0} 額外物理傷害減免
 {0} additional Physical Damage Reduction while moving,移動時獲得額外 {0} 物理傷害減免
@@ -522,7 +522,7 @@
 {0} Chance to avoid being Stunned during Flask Effect,藥劑持續期間，有 {0} 的機率避免被暈眩
 {0} chance to avoid being Stunned for each Herald Buff affecting you,每有一個影響你的捷增益效果，都使你有 {0} 的機率避免暈眩
 {0} chance to Avoid being Stunned if you've Killed Recently,若你近期內有擊敗敵人，則有 {0} 的機率避免被暈眩
-{0} chance to Avoid being Stunned while Channelling,持續吟唱時，有 {0} 的機率免疫暈眩
+{0} chance to Avoid being Stunned while Channelling,持續吟導時，有 {0} 的機率免疫暈眩
 {0} chance to Avoid being Stunned while holding a Shield,持盾時，有 {0} 的機率免疫暈眩
 {0} chance to avoid Bleeding,{0} 的機率免疫流血
 {0} chance to Avoid Blind,{0} 的機率避免被致盲
@@ -589,7 +589,7 @@
 {0} Chance to Block Attack Damage when in Off Hand,裝備於副手時 {0} 額外攻擊傷害格擋機率
 {0} Chance to Block Attack Damage while affected by Determination,受到【堅定】影響時攻擊傷害格擋機率 {0}
 {0} Chance to Block Attack Damage while at Maximum Endurance Charges,達到耐力球數量上限時 {0} 攻擊傷害格擋機率
-{0} Chance to Block Attack Damage while Channelling,持續吟唱時，{0} 攻擊傷害格擋機率
+{0} Chance to Block Attack Damage while Channelling,持續吟導時，{0} 攻擊傷害格擋機率
 {0} Chance to Block Attack Damage while Dual Wielding,雙持時攻擊傷害格擋機率 {0}
 {0} Chance to Block Attack Damage while Dual Wielding Claws,雙持爪時攻擊傷害格擋機率 {0}
 {0} Chance to Block Attack Damage while Dual Wielding or holding a Shield,雙持或持盾牌時攻擊傷害格擋機率 {0}
@@ -610,7 +610,7 @@
 {0} Chance to Block Spell Damage per Power Charge,每個暴擊球可使法術傷害格擋機率 {0}
 {0} Chance to Block Spell Damage while affected by Discipline,受到【紀律】影響時，{0} 的機率格擋法術傷害
 {0} Chance to Block Spell Damage while at Maximum Power Charges,達到暴擊球上限時，{0} 法術傷害格擋機率
-{0} Chance to Block Spell Damage while Channelling,持續吟唱時，{0} 法術傷害格擋機率
+{0} Chance to Block Spell Damage while Channelling,持續吟導時，{0} 法術傷害格擋機率
 {0} Chance to Block Spell Damage while Cursed,被詛咒時法術傷害格擋機率 {0}
 {0} Chance to Block Spell Damage while Dual Wielding,雙持時法術傷害格擋機率 {0}
 {0} Chance to Block Spell Damage while holding a Shield,持盾牌時有 {0} 的機率格擋法術傷害
@@ -694,7 +694,7 @@
 {0} Chance to Dodge Attack Hits,{0} 的機率躲避攻擊擊中
 {0} chance to Dodge Attack Hits from Cursed Enemies,面對被詛咒的敵人，有 {0} 的機率躲避攻擊擊中
 {0} chance to Dodge Attack Hits if you have Blocked Recently,若你近期內有過格擋，則有 {0} 的機率躲避攻擊擊中
-{0} chance to Dodge Attack Hits if you have finished Channelling Charged Dash Recently,若你近期內完成過【蓄力疾風閃】的吟唱施放，則有 {0} 的機率躲避攻擊擊中
+{0} chance to Dodge Attack Hits if you have finished Channelling Charged Dash Recently,若你近期內完成過【蓄力疾風閃】的吟導施放，則有 {0} 的機率躲避攻擊擊中
 {0} Chance to Dodge Attack Hits if you've taken a Critical Strike Recently,若你近期內受到暴擊，則獲得 {0} 的機率躲避攻擊擊中
 {0} chance to Dodge Attack Hits if you've taken Spell Damage Recently,若你近期內受到過法術傷害，則有 {0} 的機率躲避攻擊擊中
 {0} chance to Dodge Attack Hits per Endurance Charge,每有一個耐力球，便有 {0} 的機率不被攻擊擊中
@@ -702,7 +702,7 @@
 {0} chance to Dodge Attack Hits per Power Charge,每有一個暴擊球，便有 {0} 的機率不被攻擊擊中
 {0} chance to Dodge Attack Hits while affected by Grace,受到【優雅】影響時，有 {0} 的機率躲避攻擊擊中
 {0} chance to Dodge Attack Hits while at maximum Blade Flurry stages,【刀刃亂舞】層數達到上限時，有 {0} 的機率躲避攻擊擊中
-{0} chance to Dodge Attack Hits while Channelling,持續吟唱時有 {0} 的機率不被攻擊擊中
+{0} chance to Dodge Attack Hits while Channelling,持續吟導時有 {0} 的機率不被攻擊擊中
 {0} chance to Dodge Attack Hits while Focussed,專注時有 {0} 的機率不被攻擊擊中
 {0} chance to Dodge Attack Hits while holding a Shield,持盾牌時有 {0} 的機率躲避攻擊擊中
 {0} chance to Dodge Attack Hits while moving,移動時有 {0} 的機率不被攻擊擊中
@@ -715,7 +715,7 @@
 {0} chance to Dodge Spell Hits if you've taken Attack Damage Recently,若你近期內受到過攻擊傷害，則有 {0} 的機率躲避法術擊中
 {0} chance to Dodge Spell Hits if you've taken Spell Damage Recently,若你近期內有承受法術傷害，則有 {0} 的機率躲避法術擊中
 {0} chance to Dodge Spell Hits while affected by Haste,受到【迅捷】影響時，有 {0} 的機率躲避法術擊中
-{0} chance to Dodge Spell Hits while Channelling,持續吟唱時，有 {0} 的機率躲避法術擊中
+{0} chance to Dodge Spell Hits while Channelling,持續吟導時，有 {0} 的機率躲避法術擊中
 {0} chance to Dodge Spell Hits while moving,移動時有 {0} 的機率不被法術擊中
 {0} chance to Dodge Spell Hits while on Full Energy Shield,能量護盾全滿時，有 {0} 的機率躲避法術擊中
 {0} chance to Dodge Spell Hits while Phasing,【迷蹤】狀態時有 {0} 的機率躲避法術傷害擊中
@@ -765,7 +765,7 @@
 {0} chance to gain a Frenzy Charge when a Mine is Detonated targeting an Enemy,地雷以敵人為目標引爆時，有 {0} 的機率獲得一個狂怒球
 {0} chance to gain a Frenzy Charge when an Enemy Dies while in this Skill's Area,每有一個敵人在該技能區域被擊敗，你有 {0} 的機率獲得 1 個狂怒球
 {0} chance to gain a Frenzy Charge when Hit,被擊中時有 {0} 的機率獲得 1 個狂怒球
-{0} chance to gain a Frenzy Charge when Hit while Channelling,持續吟唱時，被擊中後有 {0} 的機率獲得一個狂怒球
+{0} chance to gain a Frenzy Charge when Hit while Channelling,持續吟導時，被擊中後有 {0} 的機率獲得一個狂怒球
 {0} chance to gain a Frenzy Charge when you Block,你格擋時有 {0} 的機率獲得 1 個狂怒球
 {0} chance to gain a Frenzy Charge when you Block Attack Damage,你格擋攻擊傷害時有 {0} 的機率獲得 1 個狂怒球
 {0} chance to gain a Frenzy Charge when you Hit a Rare or Unique Enemy,擊中稀有或傳奇敵人時，有 {0} 的機率獲得 1 個狂怒球
@@ -812,7 +812,7 @@
 {0} chance to gain an additional Stage when Hitting a Normal or Magic Enemy,擊中一個普通或魔法敵人時，有 {0} 的機率獲得額外一層
 {0} chance to gain an additional Vaal Soul on Kill,擊敗敵人時有 {0} 的機率額外獲得 1 個瓦爾靈魂
 {0} chance to gain an additional Vaal Soul per Enemy Shattered,擊碎敵人時有 {0} 的機率額外獲得 1 個瓦爾靈魂
-{0} chance to gain an Endurance Charge each second while Channelling,持續吟唱時，每秒有 {0} 的機率獲得一個耐力球
+{0} chance to gain an Endurance Charge each second while Channelling,持續吟導時，每秒有 {0} 的機率獲得一個耐力球
 {0} chance to gain an Endurance Charge on Bow Critical Strike,弓類攻擊暴擊時有 {0} 的機率獲得 1 個耐力球
 {0} chance to gain an Endurance Charge on Critical Strike,暴擊時有 {0} 的機率獲得 1 個耐力球
 {0} chance to gain an Endurance Charge on Hit,擊中時有 {0} 的機率獲得耐力球
@@ -821,7 +821,7 @@
 {0} chance to gain an Endurance Charge on Kill with Main Hand,主手武器擊敗敵人時，有 {0} 的機率獲得耐力球
 {0} chance to gain an Endurance Charge on Kill with Off Hand,副手武器擊敗敵人時，有 {0} 的機率獲得 1 個耐力球
 {0} chance to gain an Endurance Charge on Melee Critical Strike,近戰暴擊時有 {0} 的機率獲得 1 個耐力球
-{0} chance to gain an Endurance Charge when Hit while Channelling,持續吟唱時，被擊中後有 {0} 的機率獲得一個耐力球
+{0} chance to gain an Endurance Charge when Hit while Channelling,持續吟導時，被擊中後有 {0} 的機率獲得一個耐力球
 {0} chance to gain an Endurance Charge when this Skill Stuns an Enemy with a Melee Hit,此技能近戰命中並暈眩敵人時，有 {0} 的機率獲得 1 個耐力球
 {0} chance to gain an Endurance Charge when you are Hit,被擊中時有 {0} 的機率獲得耐力球
 {0} chance to gain an Endurance Charge when you Block,格擋時 {0} 的機率獲得耐力球
@@ -1056,7 +1056,7 @@
 {0} chance to Trigger Level {1} Summon Raging Spirit on Kill,擊敗敵人時有 {0} 的機率觸發 {1} 級的【召喚憤怒狂靈】
 {0} chance to Trigger Level {1} Summon Spectral Wolf on Critical Strike with this Weapon,使用該武器暴擊時，有 {0} 的機率觸發 {1} 級的【召喚幽狼】
 {0} Chance to Trigger Level {1} Summon Spectral Wolf on Kill,擊敗敵人時有 {0} 的機率觸發 {1} 級的【召喚幽狼】
-{0} chance to Trigger Level {1} Summon Volatile Anomaly on Kill,擊敗敵人時有 {0} 的機率觸發 {1} 級的【召喚異動奇點】
+{0} chance to Trigger Level {1} Summon Volatile Anomaly on Kill,擊敗敵人時有 {0} 的機率觸發 {1} 級的【召喚極凍天體】
 {0} chance to Trigger Level {1} Tentacle Whip on Kill,擊敗敵人時有 {0} 的機率觸發 {1} 級的【藤蔓抽擊】
 {0} chance to Trigger Socketed Curse Skill when you cast a Curse Skill,你施放 1 個詛咒技能時，有 {0} 的機率觸發插槽中的詛咒技能
 {0} chance to Trigger Socketed Minion Spells on Kill with this Weapon,使用該武器擊敗敵人時，有 {0} 的機率觸發插槽內的召喚生物法術
@@ -1246,7 +1246,7 @@
 {0} increased Area of Effect per Repeat,每次重復都使效果區域擴大 {0}
 {0} increased Area of Effect per Stage,每階可使效果區域擴大 {0}
 {0} increased Area of Effect when Cast on Frostbolt,在【寒冰彈】上施放時，效果區域擴大 {0}
-{0} increased Area of Effect while Channelling,吟唱時，效果區域擴大 {0}
+{0} increased Area of Effect while Channelling,吟導時，效果區域擴大 {0}
 {0} increased Area of Effect while Dead,死亡時效果區域擴大 {0}
 {0} increased Area of Effect while Fortified,護體時效果區域擴大 {0}
 {0} increased Area of Effect while in Sand Stance,沙姿態下，效果區域擴大 {0}
@@ -1303,7 +1303,7 @@
 {0} increased Attack and Cast Speed per Power Charge,每個暴擊球可使攻擊和施放速度增加 {0}
 {0} increased Attack and Cast Speed per Summoned Raging Spirit,每個召喚的怒炎之靈可使攻擊和施放速度增加 {0}
 {0} increased Attack and Cast Speed while affected by a Herald,受捷影響時，攻擊和施放速度加快 {0}
-{0} increased Attack and Cast Speed while Channelling,持續吟唱時，攻擊和施放速度加快 {0}
+{0} increased Attack and Cast Speed while Channelling,持續吟導時，攻擊和施放速度加快 {0}
 {0} increased Attack and Cast Speed while Elusive,【靈巧】效果下，攻擊和施放速度增加 {0}
 {0} increased Attack and Cast Speed while Focussed,專注時攻擊和施放速度增加 {0}
 {0} increased Attack and Cast Speed while Leeching,偷取時攻擊和施放速度增加 {0}
@@ -1342,7 +1342,7 @@
 {0} increased Attack Damage per Level,每級的攻擊傷害增加 {0}
 {0} increased Attack Damage when on Full Life,滿血時攻擊傷害增加 {0}
 {0} increased Attack Damage while affected by Precision,受到【精準】影響時，攻擊傷害增加 {0}
-{0} increased Attack Damage while Channelling,持續吟唱時攻擊傷害增加 {0}
+{0} increased Attack Damage while Channelling,持續吟導時攻擊傷害增加 {0}
 {0} increased Attack Damage while Dual Wielding,雙持武器時，攻擊傷害增加 {0}
 {0} increased Attack Damage while holding a Shield,持盾牌時造成的攻擊傷害增加 {0}
 {0} increased Attack Damage while Leeching,偷取時攻擊傷害增加 {0}
@@ -1616,7 +1616,7 @@
 {0} increased Critical Strike Chance per Power Charge,每個暴擊球暴擊率增加 {0}
 {0} increased Critical Strike Chance per Volley,每一波飛刃可使攻擊暴擊率增加 {0}
 {0} increased Critical Strike Chance while affected by Wrath,受到【雷霆】影響時，暴擊率增加 {0}
-{0} increased Critical Strike Chance while Channelling,持續吟唱時，暴擊率增加 {0}
+{0} increased Critical Strike Chance while Channelling,持續吟導時，暴擊率增加 {0}
 {0} increased Critical Strike Chance while Dual Wielding,雙持時暴擊率增加 {0}
 {0} increased Critical Strike Chance while holding a Shield,持盾牌時攻擊暴擊率增加 {0}
 {0} increased Critical Strike Chance while Physical Aegis is depleted,物理神盾消散時，暴擊率增加 {0}
@@ -1748,7 +1748,7 @@
 {0} increased Damage when on Low Life,低血時傷害增加 {0}
 {0} increased Damage when successfully Backstabbing,偷襲成功時傷害增加 {0}
 {0} increased Damage while affected by a Herald,受捷影響時，傷害增加 {0}
-{0} increased Damage while Channelling,持續吟唱時，傷害增加 {0}
+{0} increased Damage while Channelling,持續吟導時，傷害增加 {0}
 {0} increased Damage while Dead,死亡時，傷害增加 {0}
 {0} increased Damage while Ignited,被點燃時傷害增加 {0}
 {0} increased Damage while in Blood Stance,血姿態下，傷害增加 {0}
@@ -2017,7 +2017,7 @@
 {0} increased Elemental Damage taken while stationary,靜止時受到的元素傷害增加 {0}
 {0} increased Elemental Damage taken while you have an Endurance Charge,你擁有耐力球時，承受的元素傷害增加 {0}
 {0} increased Elemental Damage while affected by a Herald,受捷影響時，元素傷害增加 {0}
-{0} increased Elemental Damage while Channelling,吟唱時，元素傷害增加 {0}
+{0} increased Elemental Damage while Channelling,吟導時，元素傷害增加 {0}
 {0} increased Elemental Damage while in an area affected by a Sextant,當 1 個區域被 1 個六分儀影響時，元素傷害增加 {0}
 {0} increased Elemental Damage with Attack Skills,攻擊技能的元素傷害增加 {0}
 {0} increased Elemental Damage with Attack Skills during any Flask Effect,藥劑持續期間，攻擊技能造成的元素傷害增加 {0}
@@ -2298,7 +2298,7 @@
 {0} increased Magma Orb Damage,【熔岩之核】的傷害增加 {0}
 {0} increased Main Hand Attack Damage while wielding two different Weapon Types,雙持兩種不同類型的武器時，主手攻擊傷害增加 {0}
 {0} increased Mana Cost,技能魔耗增加 {0} （不包括魔力保留類技能）
-{0} increased Mana Cost of Channelling Skills,吟唱技能的魔力消耗增加 {0}
+{0} increased Mana Cost of Channelling Skills,吟導技能的魔力消耗增加 {0}
 {0} increased Mana Cost of Minion Skills,召喚生物技能的魔力消耗增加 {0}
 {0} increased Mana Cost of Raise Spectre,【召喚幽魂】的魔力消耗增加 {0}
 {0} increased Mana Cost of Skills,技能魔力消耗增加 {0}
@@ -2647,8 +2647,8 @@
 {0} increased Scorching Ray beam length,【灼熱光線】的光束長度延長 {0}
 {0} increased Scorching Ray Cast Speed,【灼熱光線】的施放速度增加 {0}
 {0} increased Scorching Ray Damage,【灼熱光線】的傷害增加 {0}
-{0} increased Seal gain frequency while you are Channelling,你在吟唱時，封印獲取頻率增加 {0}
-{0} increased Seal gain frequency while you are not Channelling,你沒有吟唱時，封印獲取頻率增加 {0}
+{0} increased Seal gain frequency while you are Channelling,你在吟導時，封印獲取頻率增加 {0}
+{0} increased Seal gain frequency while you are not Channelling,你沒有吟導時，封印獲取頻率增加 {0}
 {0} increased Searing Bond Damage,【灼熱連接】的傷害增加 {0}
 {0} increased Searing Bond Totem Elemental Resistances,【灼熱連接】的元素抗性增加 {0}
 {0} increased Searing Bond Totem Placement Speed,【灼熱連接】放置速度增加 {0}
@@ -2885,7 +2885,7 @@
 {0} less Damage Taken per Summoned Totem,每個召喚的圖騰使承受的總傷害更少 {0}
 {0} less Damage to surrounding targets,對週圍目標造成的總傷害更少 {0}
 {0} less Damage when Cast on Frostbolt,在【寒冰彈】上施放時總傷害更少 {0}
-{0} less Damage while Channelling,持續吟唱時總傷害更少 {0}
+{0} less Damage while Channelling,持續吟導時總傷害更少 {0}
 {0} less Damage while Dead,死亡時總傷害更少 {0}
 {0} less Damage while in Blood Stance,血姿態下，總傷害更少 {0}
 {0} less Damage while Leeching Energy Shield,偷取能量護盾時，造成的總傷害更少 {0}
@@ -3103,7 +3103,7 @@
 {0} more Damage Taken per Summoned Totem,每個召喚的圖騰使承受的總傷害更多 {0}
 {0} more Damage to surrounding targets,對週圍目標造成的總傷害更多 {0}
 {0} more Damage when Cast on Frostbolt,在【寒冰彈】上施放時總傷害更多 {0}
-{0} more Damage while Channelling,持續吟唱時總傷害更多 {0}
+{0} more Damage while Channelling,持續吟導時總傷害更多 {0}
 {0} more Damage while Dead,死亡時總傷害更多 {0}
 {0} more Damage while in Blood Stance,血姿態下，總傷害更多 {0}
 {0} more Damage while Leeching Energy Shield,偷取能量護盾時，造成的總傷害更多 {0}
@@ -3190,7 +3190,7 @@
 {0} more Power Charge Duration,暴擊球總持續時間額外延長 {0}
 {0} more Projectile Attack Speed,投射物總攻擊速度更多 {0}
 {0} more Projectile Damage with Hits per Intensity,每層凝聚使投射物擊中總傷害更多 {0}
-{0} more Projectile Frequency while Channelling,持續吟唱可使投射物總發射頻率增加 {0}
+{0} more Projectile Frequency while Channelling,持續吟導可使投射物總發射頻率增加 {0}
 {0} more Projectile Speed,總投射物速度額外加快 {0}
 {0} More Quantity of Items Dropped by Imprisoned Monsters,精髓怪物的 {0} 物品掉落總數量更多
 {0} more raising of Alert Level,警報等級提升的總速度額外加快 {0}
@@ -3500,7 +3500,7 @@
 {0} reduced Area of Effect per Repeat,每次重復都使效果區域縮小 {0}
 {0} reduced Area of Effect per Stage,每階可使效果區域縮小 {0}
 {0} reduced Area of Effect when Cast on Frostbolt,在【寒冰彈】上施放時，效果區域縮小 {0}
-{0} reduced Area of Effect while Channelling,吟唱時，效果區域縮小 {0}
+{0} reduced Area of Effect while Channelling,吟導時，效果區域縮小 {0}
 {0} reduced Area of Effect while Dead,死亡時效果區域縮小 {0}
 {0} reduced Area of Effect while Fortified,護體時效果區域縮小 {0}
 {0} reduced Area of Effect while in Sand Stance,沙姿態下，效果區域縮小 {0}
@@ -3553,7 +3553,7 @@
 {0} reduced Attack and Cast Speed per Power Charge,每個暴擊球可使攻擊和施放速度減少 {0}
 {0} reduced Attack and Cast Speed per Summoned Raging Spirit,每個召喚的怒炎之靈可使攻擊和施放速度減少 {0}
 {0} reduced Attack and Cast Speed while affected by a Herald,受捷影響時，攻擊和施放速度減慢 {0}
-{0} reduced Attack and Cast Speed while Channelling,持續吟唱時，攻擊和施放速度減慢 {0}
+{0} reduced Attack and Cast Speed while Channelling,持續吟導時，攻擊和施放速度減慢 {0}
 {0} reduced Attack and Cast Speed while Elusive,【靈巧】效果下，攻擊和施放速度減少 {0}
 {0} reduced Attack and Cast Speed while Focussed,專注時攻擊和施放速度減少 {0}
 {0} reduced Attack and Cast Speed while Leeching,偷取時攻擊和施放速度減少 {0}
@@ -3588,7 +3588,7 @@
 {0} reduced Attack Damage per Level,每級的攻擊傷害減少 {0}
 {0} reduced Attack Damage when on Full Life,滿血時攻擊傷害減少 {0}
 {0} reduced Attack Damage while affected by Precision,受到【精準】影響時，攻擊傷害減少 {0}
-{0} reduced Attack Damage while Channelling,持續吟唱時攻擊傷害減少 {0}
+{0} reduced Attack Damage while Channelling,持續吟導時攻擊傷害減少 {0}
 {0} reduced Attack Damage while Dual Wielding,雙持武器時，攻擊傷害減少 {0}
 {0} reduced Attack Damage while holding a Shield,持盾牌時造成的攻擊傷害減少 {0}
 {0} reduced Attack Damage while Leeching,偷取時攻擊傷害減少 {0}
@@ -3838,7 +3838,7 @@
 {0} reduced Critical Strike Chance per Power Charge,每個暴擊球暴擊率減少 {0}
 {0} reduced Critical Strike Chance per Volley,每一波飛刃可使攻擊暴擊率減少 {0}
 {0} reduced Critical Strike Chance while affected by Wrath,受到【雷霆】影響時，暴擊率減少 {0}
-{0} reduced Critical Strike Chance while Channelling,持續吟唱時，暴擊率減少 {0}
+{0} reduced Critical Strike Chance while Channelling,持續吟導時，暴擊率減少 {0}
 {0} reduced Critical Strike Chance while Dual Wielding,雙持時暴擊率減少 {0}
 {0} reduced Critical Strike Chance while holding a Shield,持盾牌時攻擊暴擊率減少 {0}
 {0} reduced Critical Strike Chance while Physical Aegis is depleted,物理神盾消散時，暴擊率減少 {0}
@@ -3953,7 +3953,7 @@
 {0} reduced Damage when on Full Life,滿血時傷害減少 {0}
 {0} reduced Damage when on Low Life,低血時傷害減少 {0}
 {0} reduced Damage while affected by a Herald,受捷影響時，傷害減少 {0}
-{0} reduced Damage while Channelling,持續吟唱時，傷害減少 {0}
+{0} reduced Damage while Channelling,持續吟導時，傷害減少 {0}
 {0} reduced Damage while Dead,死亡時，傷害減少 {0}
 {0} reduced Damage while Ignited,被點燃時傷害減少 {0}
 {0} reduced Damage while in Blood Stance,血姿態下，傷害減少 {0}
@@ -4204,7 +4204,7 @@
 {0} reduced Elemental Damage taken while stationary,靜止時受到的元素傷害減少 {0}
 {0} reduced Elemental Damage taken while you have an Endurance Charge,你擁有耐力球時，承受的元素傷害減少 {0}
 {0} reduced Elemental Damage while affected by a Herald,受捷影響時，元素傷害減少 {0}
-{0} reduced Elemental Damage while Channelling,吟唱時，元素傷害減少 {0}
+{0} reduced Elemental Damage while Channelling,吟導時，元素傷害減少 {0}
 {0} reduced Elemental Damage while in an area affected by a Sextant,當 1 個區域被 1 個六分儀影響時，元素傷害減少 {0}
 {0} reduced Elemental Damage with Attack Skills,攻擊技能的元素傷害減少 {0}
 {0} reduced Elemental Damage with Attack Skills during any Flask Effect,藥劑持續期間，攻擊技能造成的元素傷害減少 {0}
@@ -4474,7 +4474,7 @@
 {0} reduced Magma Orb Damage,【熔岩之核】的傷害減少 {0}
 {0} reduced Main Hand Attack Damage while wielding two different Weapon Types,雙持兩種不同類型的武器時，主手攻擊傷害減少 {0}
 {0} reduced Mana Cost,魔力消耗減少 {0}
-{0} reduced Mana Cost of Channelling Skills,吟唱技能的魔力消耗減少 {0}
+{0} reduced Mana Cost of Channelling Skills,吟導技能的魔力消耗減少 {0}
 {0} reduced Mana Cost of Minion Skills,召喚生物技能的魔力消耗減少 {0}
 {0} reduced Mana Cost of Raise Spectre,【召喚幽魂】的魔力消耗減少 {0}
 {0} reduced Mana Cost of Skills,技能魔力消耗減少 {0}
@@ -4789,8 +4789,8 @@
 {0} reduced Scorching Ray beam length,【灼熱光線】的光束長度縮短 {0}
 {0} reduced Scorching Ray Cast Speed,【灼熱光線】的施放速度減少 {0}
 {0} reduced Scorching Ray Damage,【灼熱光線】的傷害減少 {0}
-{0} reduced Seal gain frequency while you are Channelling,你在吟唱時，封印獲取頻率減少 {0}
-{0} reduced Seal gain frequency while you are not Channelling,你沒有吟唱時，封印獲取頻率減少 {0}
+{0} reduced Seal gain frequency while you are Channelling,你在吟導時，封印獲取頻率減少 {0}
+{0} reduced Seal gain frequency while you are not Channelling,你沒有吟導時，封印獲取頻率減少 {0}
 {0} reduced Searing Bond Damage,【灼熱連接】的傷害減少 {0}
 {0} reduced Searing Bond Totem Elemental Resistances,【灼熱連接】的元素抗性減少 {0}
 {0} reduced Searing Bond Totem Placement Speed,【灼熱連接】放置速度減少 {0}
@@ -5174,7 +5174,7 @@
 {0} to Critical Strike Multiplier if you dealt a Critical Strike with a Herald Skill Recently,若你近期內用捷技能造成暴擊，則 {0} 暴擊傷害加成
 {0} to Critical Strike Multiplier if you have Blocked Recently,若你近期內有過格擋，則獲得 {0} 暴擊傷害加成
 {0} to Critical Strike Multiplier if you haven't dealt a Critical Strike Recently,若你近期內沒有打出過暴擊，則獲得 {0} 暴擊傷害加成
-{0} to Critical Strike Multiplier if you've been Channelling for at least {1} second,若你近期內至少持續吟唱 {1} 秒，則 {0} 暴擊傷害加成
+{0} to Critical Strike Multiplier if you've been Channelling for at least {1} second,若你近期內至少持續吟導 {1} 秒，則 {0} 暴擊傷害加成
 {0} to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently,若你近期內造成非暴擊傷害，則 {0} 暴擊傷害加成
 {0} to Critical Strike Multiplier if you've gained a Power Charge Recently,若你近期內獲得過暴擊球，則暴擊傷害加成 {0}
 {0} to Critical Strike Multiplier if you've Killed Recently,若你近期內有擊敗敵人，則 {0} 暴擊傷害加成
@@ -7949,7 +7949,7 @@
 {0}% increased Movement Speed for each time you've Blocked in the past {1} seconds,過去 {1} 秒內你每次格擋增加 {0}% 移動速度
 {0}% increased Movement Speed for you and nearby Allies,你和附近友方增加 {0}% 移動速度
 {0}% increased Movement Speed if Corrupted,若已汙染增加 {0}% 移動速度
-{0}% increased Movement Speed if you have Pierced Recently,若近期你有造成穿刺，增加 {0}% 移動速度
+{0}% increased Movement Speed if you have Pierced Recently,若近期你有造成穿透，增加 {0}% 移動速度
 {0}% increased Movement Speed if you have used a Vaal Skill Recently,若你近期有使用瓦爾技能增加 {0}% 移動速度
 {0}% increased Movement Speed if you haven't been Hit Recently,近期內你若沒有被擊中，增加 {0}% 移動速度
 {0}% increased Movement Speed if you haven't taken Damage Recently,若你近期沒受到傷害，增加 {0}% 移動速度
@@ -11325,7 +11325,7 @@ Added Small Passive Skills grant: {0}% to Critical Strike Multiplier,附加的�
 Added Small Passive Skills grant: {0}% to Elemental Resistance,附加的小天賦給予：{0}% 元素抗性
 Added Small Passive Skills grant: {0}% to Fire Resistance,附加的小天賦給予：{0}% 火焰抗性
 Added Small Passive Skills grant: {0}% to Lightning Resistance,附加的小天賦給予：{0}% 閃電抗性
-Added Small Passive Skills grant: Channelling Skills have {0} increased Attack and Cast Speed,增加的小天賦還獲得：吟唱技能的攻擊和施放速度加快 {0}
+Added Small Passive Skills grant: Channelling Skills have {0} increased Attack and Cast Speed,增加的小天賦還獲得：吟導技能的攻擊和施放速度加快 {0}
 Added Small Passive Skills grant: Channelling Skills have {0}% increased Attack and Cast Speed,附加的小型天賦給予：引導施放技能增加 {0}% 攻擊和施放速度
 Added Small Passive Skills grant: Minions have {0} increased Attack and Cast Speed,增加的小天賦還獲得：召喚生物的攻擊和施放速度加快 {0}
 Added Small Passive Skills grant: Minions have {0} increased Attack and Cast Speed while you are affected by a Herald,增加的小天賦還獲得：你受捷影響時，召喚生物的攻擊和施放速度加快 {0}
@@ -12157,9 +12157,9 @@ Bleeding you inflict on Maimed Enemies deals {0}% less Damage,你對癱瘓敵人
 Bleeding you inflict on Maimed Enemies deals {0}% more Damage,你對癱瘓敵人造成的流血造成 {0}% 更多傷害
 Blight Encounters in Areas contain up to {0} additional Blight Boss,區域中的凋落事件含有至多 {0} 個額外凋落頭目
 Blight Encounters in Areas contain up to {0} additional Blight Bosses,區域中的凋落事件含有至多 {0} 個額外凋落頭目
-Blight has {0} increased Area of Effect after Channelling for {1} second,【枯萎】技能在吟唱 {1} 秒後，範圍擴大 {0}
+Blight has {0} increased Area of Effect after Channelling for {1} second,【枯萎】技能在吟導 {1} 秒後，範圍擴大 {0}
 Blight has {0} increased Hinder Duration,【枯萎】技能會使幹擾持續時間延長 {0}
-Blight has {0} reduced Area of Effect after Channelling for {1} second,【枯萎】技能在吟唱 {1} 秒後，範圍縮小 {0}
+Blight has {0} reduced Area of Effect after Channelling for {1} second,【枯萎】技能在吟導 {1} 秒後，範圍縮小 {0}
 Blight has {0} reduced Hinder Duration,【枯萎】技能會使幹擾持續時間延長 {0}
 Blight has {0}% increased Area of Effect after Channelling for {1} second,萎滅在引導 {1} 秒後增加 {0}% 範圍效果
 Blight has {0}% increased Hinder Duration,萎滅增加 {0}% 緩速期間
@@ -12542,22 +12542,22 @@ Chains {0} Time,連鎖 {0} 次
 Chains {0} Times,連鎖 {0} 次
 Chance on Crit: {0}%,暴擊機率: {0}%
 Chance on Non-crit: {0}%,非暴擊機率: {0}%
-Channelling Skills deal {0} increased Attack Damage,持續吟唱技能造成的攻擊傷害增加 {0}
-Channelling Skills deal {0} increased Damage,持續吟唱技能傷害增加 {0}
-Channelling Skills deal {0} increased Damage per {1} Devotion,每 {1} 點奉獻使持續吟唱技能的傷害增加 {0}
-Channelling Skills deal {0} reduced Attack Damage,持續吟唱技能造成的攻擊傷害減少 {0}
-Channelling Skills deal {0} reduced Damage,持續吟唱技能傷害減少 {0}
-Channelling Skills deal {0} reduced Damage per {1} Devotion,每 {1} 點奉獻使持續吟唱技能的傷害減少 {0}
+Channelling Skills deal {0} increased Attack Damage,持續吟導技能造成的攻擊傷害增加 {0}
+Channelling Skills deal {0} increased Damage,持續吟導技能傷害增加 {0}
+Channelling Skills deal {0} increased Damage per {1} Devotion,每 {1} 點奉獻使持續吟導技能的傷害增加 {0}
+Channelling Skills deal {0} reduced Attack Damage,持續吟導技能造成的攻擊傷害減少 {0}
+Channelling Skills deal {0} reduced Damage,持續吟導技能傷害減少 {0}
+Channelling Skills deal {0} reduced Damage per {1} Devotion,每 {1} 點奉獻使持續吟導技能的傷害減少 {0}
 Channelling Skills deal {0}% increased Attack Damage,引導施放技能時，增加 {0}% 攻擊傷害
 Channelling Skills deal {0}% increased Damage,引導施放技能增加 {0}% 傷害
 Channelling Skills deal {0}% increased Damage per {1} Devotion,每 {1} 個奉獻，引導施放技能增加 {0}% 傷害
 Channelling Skills deal {0}% reduced Attack Damage,引導施放技能時，減少 {0}% 攻擊傷害
 Channelling Skills deal {0}% reduced Damage,引導施放技能減少 {0}% 傷害
 Channelling Skills deal {0}% reduced Damage per {1} Devotion,每 {1} 個奉獻，引導施放技能減少 {0}% 傷害
-Channelling Skills have {0} increased Attack and Cast Speed,持續吟唱技能的攻擊和施放速度增加 {0}
-Channelling Skills have {0} increased Attack Speed,持續吟唱技能的攻擊速度增加 {0}
-Channelling Skills have {0} reduced Attack and Cast Speed,持續吟唱技能的攻擊和施放速度減少 {0}
-Channelling Skills have {0} reduced Attack Speed,持續吟唱技能的攻擊速度減少 {0}
+Channelling Skills have {0} increased Attack and Cast Speed,持續吟導技能的攻擊和施放速度增加 {0}
+Channelling Skills have {0} increased Attack Speed,持續吟導技能的攻擊速度增加 {0}
+Channelling Skills have {0} reduced Attack and Cast Speed,持續吟導技能的攻擊和施放速度減少 {0}
+Channelling Skills have {0} reduced Attack Speed,持續吟導技能的攻擊速度減少 {0}
 Channelling Skills have {0} to Total Life Cost,引導施放技能 {0} 總生命消耗
 Channelling Skills have {0} to Total Mana Cost,{0} 引導施放技能的總魔力消耗
 Channelling Skills have {0}% increased Attack and Cast Speed,引導施放技能增加 {0}% 攻擊和施放速度
@@ -13191,7 +13191,7 @@ Deals {0} less Damage to Branded Enemy,對帶有烙印的敵人造成的總傷�
 Deals {0} less Damage with Hits and Ailments per affected Minion,每個受影響的召喚生物都使擊中和異常狀態的總傷害更少 {0}
 Deals {0} more added damage,附加總傷害更多 {0}
 Deals {0} more Damage to Branded Enemy,對帶有烙印的敵人造成的總傷害更多 {0}
-Deals {0} more Damage while Channelling if Illusion has finished moving,吟唱時，若幻影停止移動，則總傷害更多 {0}
+Deals {0} more Damage while Channelling if Illusion has finished moving,吟導時，若幻影停止移動，則總傷害更多 {0}
 Deals {0} more Damage with Hits and Ailments per affected Minion,每個受影響的召喚生物都使擊中和異常狀態的總傷害更多 {0}
 Deals {0} of Attack Damage,造成 {0} 基礎攻擊傷害
 Deals {0} of Base Attack Damage,造成 {0} 基礎攻擊傷害
@@ -14687,7 +14687,7 @@ Gain Unholy Might for {0} seconds on Kill,擊殺時獲得 {0} 秒不潔之力
 Gain Unholy Might for {0} seconds on Melee Critical Strike,近戰暴擊時獲得不潔之力 {0} 秒
 Gain Unholy Might for {0} seconds on Rampage,暴怒狀態時獲得不潔之力 {0} 秒
 Gain Unholy Might on block for {0} seconds,格擋獲得 {0} 秒不潔之力
-Gains {0} Stage every {1} seconds while Channelling,持續吟唱時，每 {1} 秒獲得 {0} 階
+Gains {0} Stage every {1} seconds while Channelling,持續吟導時，每 {1} 秒獲得 {0} 階
 Gains {1} Stage every {0} seconds while Channelling,引導施放時，每 {0} 秒獲得 {1} 層
 Gains {1} Stage every {0} seconds while you are losing Energy Shield,你失去能量護盾時，每 {0} 秒獲得 {1} 層
 "Gains a Seal every {0} seconds, to a maximum of {1} Seals",每 {0} 秒獲得一個封印，最多 {1} 個
@@ -15778,7 +15778,7 @@ Lose {0} Rage per second,每秒失去 {0} 層盛怒
 "Lose {0} Rage when you Hit an Enemy, no more than once every {1} seconds",當你擊中敵人時失去 {0} 層盛怒，每 {1} 秒不超過 1 次
 Lose {0} Resonance per second of each Element you are not gaining,每個你沒有獲得的元素，每秒失去 {0} 共鳴
 Lose {0} stack of Exposed to Corruption every {1} seconds,每 {1} 秒失去 {0} 層曝曬於汙染疊
-Lose {0} Stage every {1} seconds while not Channelling,非持續吟唱時每 {1} 秒失去 {0} 階
+Lose {0} Stage every {1} seconds while not Channelling,非持續吟導時每 {1} 秒失去 {0} 階
 Lose {0}% of Blood on Killing a Scourge Monster,擊殺災魘怪物時失去 {0}% 鮮血
 Lose {0}% of Energy Shield on Kill,擊殺時失去 {0}% 能量護盾
 Lose {0}% of Energy Shield per second,每秒失去 {0}% 能量護盾
@@ -18517,7 +18517,7 @@ Regenerate {0} of Life per second per Power Charge,每個暴擊球可使每秒�
 Regenerate {0} of Life per second while affected by a Guard Skill Buff,被防衛技能的增益效果影響時，每秒回復 {0} 生命
 Regenerate {0} of Life per second while affected by Vitality,被活力影響時每秒再生 {0} 生命
 Regenerate {0} of Life per second while Burning,燃燒時，每秒回復  {0} 生命
-Regenerate {0} of Life per second while Channelling,持續吟唱時，每秒回復  {0} 生命
+Regenerate {0} of Life per second while Channelling,持續吟導時，每秒回復  {0} 生命
 Regenerate {0} of Life per second while Frozen,冰凍時每秒回復 {0} 生命
 Regenerate {0} of Life per second while moving,移動時每秒回復 {0} 生命
 Regenerate {0} of Life per second while on Low Life,低血時每秒回復 {0} 生命
@@ -19840,8 +19840,8 @@ Supported Attacks have {0}% reduced Bleeding Duration,被輔助的攻擊減少 {
 Supported Attacks have {0}% reduced Impale Effect,被輔助的攻擊減少 {0}% 穿刺效果
 Supported Attacks have a {0} chance to Trigger a Supported Spell when you Crit an Enemy,暴擊時，被輔助的攻擊技能有 {0} 的機率觸發連接的法術
 Supported Attacks have a {0}% chance to Trigger a Supported Spell when you Crit an Enemy,當你暴擊敵人時，被輔助的攻擊有 {0}% 機率觸發被輔助的法術
-Supported Channelling Skills deal {0} increased Damage,被輔助持續吟唱技能的傷害增加 {0}
-Supported Channelling Skills deal {0} reduced Damage,被輔助持續吟唱技能的傷害減少 {0}
+Supported Channelling Skills deal {0} increased Damage,被輔助持續吟導技能的傷害增加 {0}
+Supported Channelling Skills deal {0} reduced Damage,被輔助持續吟導技能的傷害減少 {0}
 Supported Channelling Skills deal {0}% increased Damage,被輔助的引導技能增加 {0}% 傷害
 Supported Channelling Skills deal {0}% reduced Damage,被輔助的引導技能減少 {0}% 傷害
 Supported Curse Skills have {0}% chance to apply to Hexproof Enemies,被輔助的詛咒技能有 {0}% 機率套用於免疫詛咒的敵人
@@ -20333,8 +20333,8 @@ Supported Skills have {0} increased Poison Duration,被輔助技能造成的中�
 Supported Skills have {0} increased Projectile Speed,被輔助技能的投射物速度增加 {0}
 Supported Skills have {0} increased Projectile Speed per Frenzy Charge when used by a Mine,被輔助技能由地雷使用時，每個狂怒球都使投射物速度加快 {0}
 Supported Skills have {0} increased Seal gain frequency,被輔助技能的封印獲取頻率增加 {0}
-Supported Skills have {0} increased Seal gain frequency while you are Channelling,你在吟唱時，被輔助技能的封印獲取頻率增加 {0}
-Supported Skills have {0} increased Seal gain frequency while you are not Channelling,你沒有吟唱時，被輔助技能的封印獲取頻率增加 {0}
+Supported Skills have {0} increased Seal gain frequency while you are Channelling,你在吟導時，被輔助技能的封印獲取頻率增加 {0}
+Supported Skills have {0} increased Seal gain frequency while you are not Channelling,你沒有吟導時，被輔助技能的封印獲取頻率增加 {0}
 Supported Skills have {0} increased Shock Duration on Enemies,被輔助技能對敵人的感電持續時間延長 {0}
 Supported Skills have {0} increased Skill Effect Duration,被輔助技能的持續時間延長 {0}
 Supported Skills have {0} increased Skill Effect Duration while Dead,被擊敗時，被輔助技能的技能效果持續時間延長 {0}
@@ -20449,8 +20449,8 @@ Supported Skills have {0} reduced Poison Duration,被輔助技能造成的中毒
 Supported Skills have {0} reduced Projectile Speed,被輔助技能的投射物速度減少 {0}
 Supported Skills have {0} reduced Projectile Speed per Frenzy Charge when used by a Mine,被輔助技能由地雷使用時，每個狂怒球都使投射物速度減慢 {0}
 Supported Skills have {0} reduced Seal gain frequency,被輔助技能的封印獲取頻率減少 {0}
-Supported Skills have {0} reduced Seal gain frequency while you are Channelling,你在吟唱時，被輔助技能的封印獲取頻率減少 {0}
-Supported Skills have {0} reduced Seal gain frequency while you are not Channelling,你沒有吟唱時，被輔助技能的封印獲取頻率減少 {0}
+Supported Skills have {0} reduced Seal gain frequency while you are Channelling,你在吟導時，被輔助技能的封印獲取頻率減少 {0}
+Supported Skills have {0} reduced Seal gain frequency while you are not Channelling,你沒有吟導時，被輔助技能的封印獲取頻率減少 {0}
 Supported Skills have {0} reduced Shock Duration on Enemies,被輔助技能對敵人的感電持續時間縮短 {0}
 Supported Skills have {0} reduced Skill Effect Duration,被輔助技能的持續時間縮短 {0}
 Supported Skills have {0} reduced Skill Effect Duration while Dead,被擊敗時，被輔助技能的技能效果持續時間縮短  {0}
@@ -21977,17 +21977,17 @@ When you Kill a Magic Monster gain its Non-Bloodline Modifiers for {0} seconds,�
 "When you place a Banner, you and nearby Allies Recover {0}% of Life for",當你放置鬥旗時，鬥旗的每層疊層
 "When you place a Banner, you and nearby Allies Recover {0}% of Life for each Stage the Banner has",當你放置一面旗幟，該旗幟每階使你和週圍隊友回復 {0}% 生命
 "When you Warcry, you and nearby Allies gain Onslaught for {0} seconds",當你戰吼時，你和附近友方獲得 {0} 秒猛攻
-"While Channelling a Supported Skill, take {0} less Damage from Hits of types matching the Skill Gem's Tags",當持續吟唱一個被輔助技能時，被輔助寶石對應的傷害種類所造成的擊中總傷害減少 {0}
+"While Channelling a Supported Skill, take {0} less Damage from Hits of types matching the Skill Gem's Tags",當持續吟導一個被輔助技能時，被輔助寶石對應的傷害種類所造成的擊中總傷害減少 {0}
 "While Channelling a Supported Skill, take {0}% less Damage from Hits of types matching the Skill Gem's Tags",引導施放被輔助的技能時，承受 {0}% 更少符合技能寶石標籤的擊中傷害
-"While Channelling Supported Skills, take {0} less Physical Damage from Hits",持續吟唱被輔助技能時，受到的擊中物理總傷害更少 {0}
-"While Channelling Supported Skills, take {0} more Physical Damage from Hits",持續吟唱被輔助技能時，受到的擊中物理總傷害更多 {0}
+"While Channelling Supported Skills, take {0} less Physical Damage from Hits",持續吟導被輔助技能時，受到的擊中物理總傷害更少 {0}
+"While Channelling Supported Skills, take {0} more Physical Damage from Hits",持續吟導被輔助技能時，受到的擊中物理總傷害更多 {0}
 "While Channelling Supported Skills, take {0}% less Physical Damage from Hits",引導施放被輔助的技能時，承受 {0}% 更少擊中的物理傷害
 "While Channelling Supported Skills, take {0}% more Physical Damage from Hits",引導施放被輔助的技能時，承受 {0}% 更多擊中的物理傷害
-"While Channelling this Skill, you take {0} less Chaos Damage from Hits",持續吟唱此技能時，你受到的擊中混沌總傷害減少 {0}
-"While Channelling this Skill, you take {0} less Cold Damage from Hits",持續吟唱此技能時，你受到的擊中冰冷總傷害減少 {0}
-"While Channelling this Skill, you take {0} less Fire Damage from Hits",持續吟唱此技能時，你受到的擊中火焰總傷害減少 {0}
-"While Channelling this Skill, you take {0} less Lightning Damage from Hits",持續吟唱此技能時，你受到的擊中閃電總傷害減少 {0}
-"While Channelling this Skill, you take {0} less Physical Damage from Hits",持續吟唱此技能時，你受到的擊中物理總傷害減少 {0}
+"While Channelling this Skill, you take {0} less Chaos Damage from Hits",持續吟導此技能時，你受到的擊中混沌總傷害減少 {0}
+"While Channelling this Skill, you take {0} less Cold Damage from Hits",持續吟導此技能時，你受到的擊中冰冷總傷害減少 {0}
+"While Channelling this Skill, you take {0} less Fire Damage from Hits",持續吟導此技能時，你受到的擊中火焰總傷害減少 {0}
+"While Channelling this Skill, you take {0} less Lightning Damage from Hits",持續吟導此技能時，你受到的擊中閃電總傷害減少 {0}
+"While Channelling this Skill, you take {0} less Physical Damage from Hits",持續吟導此技能時，你受到的擊中物理總傷害減少 {0}
 "While Channelling this Skill, you take {0}% less Chaos Damage from Hits",引導施放此技能時，你承受 {0}% 更少擊中混沌傷害
 "While Channelling this Skill, you take {0}% less Cold Damage from Hits",引導施放此技能時，你承受 {0}% 更少擊中冰冷傷害
 "While Channelling this Skill, you take {0}% less Fire Damage from Hits",引導施放此技能時，你承受 {0}% 更少擊中火焰傷害
@@ -22155,9 +22155,9 @@ With {1} Corrupted Items Equipped: Gain Soul Eater for {0} seconds on Vaal Skill
 "With at least {0} Intelligence in Radius, {1}% of Damage taken gained as Mana over {2} seconds when Hit during Rallying Cry for you and Allies",若範圍內含有 {0} 點智慧，在受到你或友軍的【激勵戰吼】期間，受到傷害的 {1}% 會在 {2} 秒內回復為魔力
 "With at least {0} Intelligence in Radius, {1}% of Damage taken gained as Mana over {2} seconds when Hit if you've Warcried Recently",若範圍內至少有 {0} 點智慧，並你若近期內使用過戰吼，被擊中時受到傷害的 {1}% 在 {2} 秒內回復為魔力
 "With at least {0} Intelligence in Radius, {1}% reduced Freezing Pulse Damage if you've Shattered an Enemy Recently",當範圍內含有至少 {0} 點智慧時，近期內你若粉碎被冰凍的敵人，則【冰冷脈衝】傷害減少 {1}%
-"With at least {0} Intelligence in Radius, Blight has {1} increased Area of Effect after {2} second of Channelling",若範圍內含有 {0} 點智慧，【枯萎】吟唱 {2} 秒後，範圍擴大 {1}
+"With at least {0} Intelligence in Radius, Blight has {1} increased Area of Effect after {2} second of Channelling",若範圍內含有 {0} 點智慧，【枯萎】吟導 {2} 秒後，範圍擴大 {1}
 "With at least {0} Intelligence in Radius, Blight has {1} increased Hinder Duration",若範圍內含有 {0} 點智慧，【枯萎】的幹擾持續時間延長 {1}
-"With at least {0} Intelligence in Radius, Blight has {1}% increased Area of Effect after {2} second of Channelling",若範圍內含有 {0} 點智慧，【枯萎】吟唱 {2} 秒後，範圍擴大 {1}%
+"With at least {0} Intelligence in Radius, Blight has {1}% increased Area of Effect after {2} second of Channelling",若範圍內含有 {0} 點智慧，【枯萎】吟導 {2} 秒後，範圍擴大 {1}%
 "With at least {0} Intelligence in Radius, Blight has {1}% increased Hinder Duration",若範圍內含有 {0} 點智慧，【枯萎】的幹擾持續時間延長 {1}%
 "With at least {0} Intelligence in Radius, Blight inflicts Withered for {1} seconds",若範圍內含 {0} 點智力時，萎滅造成凋零 {1} 秒
 "With at least {0} Intelligence in Radius, Cold Snap",若範圍內含 {0} 點智慧，
@@ -23145,3 +23145,10 @@ Auras from Supported Skills have a base duration of {0} seconds,來自被輔助�
 Attribute Requirements can be satisfied by {0}% of Omniscience,{0}% 的全知能滿足能力需求
 {0}% more chance to Evade Attacks if you have been Hit by an Attack Recently,若你近期被攻擊擊中，{0}% 更多機率閃避攻擊
 {0}% to Maximum Effect of Shock,{0}% 最大感電效果
+"Flask uptime: {0}% average, {1}% minimum","藥劑正常運行時間: {0}% 平均, {1}% 最小值"
+Charge gain modifier: {0}%,充能獲得加成: {0}%
+Chance to not consume charges: {0}%,不消耗充能機率: {0}%
+Flask uptime: {0}%,藥劑正常運行時間: {0}%
+{0}% reduced Physical Damage over Time taken while moving,移動時承受的物理持續傷害減少 {0}%
+Enemies you've Hit Recently have {0}% reduced Life Regeneration rate,近期你擊中的敵人減少 {0}% 生命回復率
+target must have no more than {0} Ailment Threshold.,目標的異常狀態門檻不得超過 {0} .

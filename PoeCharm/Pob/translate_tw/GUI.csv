@@ -1,4 +1,4 @@
-原文(無{0}),翻譯
+add,翻譯
 -1 Physical Damage taken from Hits per Level,每等級擊中 -1 承受物理傷害
 -1 to maximum number of Summoned Totems.,召喚圖騰的上限 -1。
 -1 to maximum number of Summoned Totems\nYou can have an additional Brand Attached to an Enemy,-1 召喚圖騰的最大數量\n你可以對敵人附著 1 個額外烙印
@@ -1443,7 +1443,7 @@
 20% chance to Avoid being Poisoned,有 20% 機率避免中毒
 20% chance to Avoid being Shocked,20% 機率避免被感電
 20% chance to Avoid being Stunned,20% 機率避免被暈眩
-20% chance to Avoid being Stunned while Channelling,持續吟唱時，有 20% 機率免疫暈眩
+20% chance to Avoid being Stunned while Channelling,持續吟導時，有 20% 機率免疫暈眩
 20% chance to Avoid being Stunned while holding a Shield,持盾時有 20% 機率避免被暈眩
 20% chance to Avoid Bleeding,20% 機率避免流血
 20% chance to Avoid Elemental Ailments,20% 機率避免元素異常狀態
@@ -1456,14 +1456,14 @@
 20% chance to gain 50% of Non-Chaos Damage with Hits as Extra Chaos Damage,你的擊中有 20% 機率獲得 50% 非混沌傷害的額外混沌傷害
 20% chance to gain a Frenzy Charge and a Power Charge on Kill,擊殺時有 20% 機率獲得 1 顆狂怒球和 1 顆暴擊球
 20% chance to gain a Frenzy Charge on Kill,20% 機率擊殺時獲得 1 顆狂怒球
-20% chance to gain a Frenzy Charge when Hit while Channelling,持續吟唱時，被擊中後有 20% 機率獲得一個狂怒球
+20% chance to gain a Frenzy Charge when Hit while Channelling,持續吟導時，被擊中後有 20% 機率獲得一個狂怒球
 20% chance to gain a Frenzy Charge when you Block Attack Damage,當你格擋攻擊傷害時，有 20% 機率獲得 1 顆狂怒球
 20% chance to gain a Frenzy Charge when you Hit a Rare or Unique Enemy,擊中稀有或傳奇敵人時有 20% 機率獲得一顆狂怒球
 20% chance to gain a Power Charge on Critical Strike,暴擊時 20% 機率獲得暴擊球
 20% chance to gain a Power Charge on Non-Critical Strike,非暴擊有 20% 機率獲得一個暴擊球
 20% chance to gain a Power Charge when you Block,格擋時 20% 機率獲得 1 個暴擊球
 "20% chance to gain a Power, Frenzy or Endurance Charge on Hit",擊中時有 20% 機率獲得 1 顆暴擊球、狂怒球或耐力球
-20% chance to gain an Endurance Charge when Hit while Channelling,持續吟唱時，被擊中後有 20% 機率獲得一個耐力球
+20% chance to gain an Endurance Charge when Hit while Channelling,持續吟導時，被擊中後有 20% 機率獲得一個耐力球
 20% chance to gain an Endurance Charge when you Stun an Enemy with a Melee Hit,當你使用近戰擊中暈眩敵人時，有 20% 機率獲得 1 顆耐力球
 20% chance to Gain Arcane Surge on Hit with Spells,法術擊中時有 20% 機率獲得秘能波動
 20% chance to gain Onslaught for 4 seconds on Kill,擊殺時有 20% 機率獲得 4 秒猛攻效果
@@ -1915,7 +1915,7 @@
 30% increased Cooldown Recovery Rate for Stance Skills,增加 30% 姿態技能冷卻時間恢復速度
 30% increased Cooldown Recovery Rate for throwing Traps,增加 30% 陷阱冷卻回復速度
 30% increased Cooldown Recovery Rate of Movement Skills,增加 30% 位移技能的冷卻時間恢復速度
-30% increased Critical Strike Chance,攻擊與法術暴擊率增加 30%
+30% increased Critical Strike Chance,增加 30% 暴擊率
 30% increased Critical Strike Chance against Enemies on Full Life,對滿血的敵人增加 30% 暴擊率
 30% increased Critical Strike Chance against Marked Enemy,對被印記的敵人增加 30% 暴擊率
 30% increased Critical Strike Chance against Shocked Enemies,對感電目標的暴擊率增加 30%
@@ -2049,7 +2049,7 @@
 4 Stages,4 階
 4.00s (base duration),4.00s (基礎持續時間)
 4% additional Physical Damage Reduction while affected by a Guard Skill Buff,受到防衛技能增益效果影響時，獲得額外 4% 物理傷害減免
-4% additional Physical Damage Reduction while Channelling,持續吟唱時獲得 4% 額外物理傷害減傷
+4% additional Physical Damage Reduction while Channelling,持續吟導時獲得 4% 額外物理傷害減傷
 4% chance to Avoid Elemental Ailments,4% 機率避免元素異常狀態
 4% chance to deal Double Damage,4% 機率造成 2 倍傷害
 4% chance to Dodge Attack Hits,4% 機率躲避攻擊擊中
@@ -4045,7 +4045,6 @@ Brass Spirit Shield,銅鍛魔盾
 Bravery,英勇
 Brawn,筋骨強化
 Breach,裂隙
-Breach,魚籠
 Breach Arc,裂隙電弧
 Breach Lightning Orbs Commander,裂隙雷球指揮
 Breach Lightning Whip,閃電奔騰
@@ -4314,7 +4313,7 @@ Cannot Leech Mana from Monsters,無法偷取怪物魔力
 Cannot Leech or Regenerate Mana,無法偷取或自然回復魔力
 Cannot Leech when on Low Life,貧血時不能偷取
 Cannot lose Crab Barriers if you have lost Crab Barriers Recently,若你近期有失去蟹將重盾則無法再失去蟹將重盾
-Cannot pierce,無法穿刺
+Cannot pierce,無法穿透
 Cannot Pierce Enemies,不穿透敵人
 Cannot receive Elemental Ailments,無法受到元素異常狀態
 Cannot Recharge Energy Shield,能量護盾不能充能
@@ -4491,7 +4490,7 @@ Chance to Sap:,殘喘時間:
 Chance to Scorch:,焦灼機率:
 Chance to Shock:,機率感電:
 Chance to suppress Damage when Hit:,擊中傷害壓抑機率:
-ChannelledSnipeSupport,狙擊吟唱輔助
+ChannelledSnipeSupport,狙擊吟導輔助
 Channelling,引導
 Channelling Attack Damage,引導施放攻擊傷害
 Channelling Attack Damage and Speed,引導施放攻擊傷害和速度
@@ -4500,8 +4499,8 @@ Channelling Damage,引導施放傷害
 Channelling Damage and Infusion Effect,引導施放傷害和灌入效果
 Channelling Damage and Speed,引導施放傷害和速度
 Channelling Mastery,引導施放專精
-Channelling Skill Damage,吟唱技能傷害
-Channelling Skill Damage Mastery,吟唱技能傷害專精
+Channelling Skill Damage,吟導技能傷害
+Channelling Skill Damage Mastery,吟導技能傷害專精
 Channelling Skills deal 10% increased Attack Damage,引導施放技能時，增加 10% 攻擊傷害
 Channelling Skills deal 10% increased Damage,引導施放技能增加 10% 傷害
 Channelling Skills deal 12% increased Attack Damage,引導施放技能時，增加 12% 攻擊傷害
@@ -4510,7 +4509,7 @@ Channelling Skills deal 15% increased Damage,引導施放技能增加 15% 傷害
 Channelling Skills deal 16% increased Attack Damage,引導施放技能時，增加 16% 攻擊傷害
 Channelling Skills deal 30% increased Damage,引導施放技能增加 30% 傷害
 Channelling Skills deal 8% increased Attack Damage,引導施放技能時，增加 8% 攻擊傷害
-Channelling Skills deal 8% increased Damage,持續吟唱技能傷害增加 8%
+Channelling Skills deal 8% increased Damage,持續吟導技能傷害增加 8%
 Channelling Skills have -3 to Total Mana Cost,-3 引導施放技能的總魔力消耗
 Channelling Skills have 10% increased Attack Speed,引導施放技能增加 10% 攻擊速度
 Channelling Skills have 3% increased Attack and Cast Speed,引導施放技能增加 3% 攻擊和施放速度
@@ -4957,7 +4956,7 @@ Corrupted Item,腐化物品
 Corrupted Soul,腐化之魂
 Corrupting Fever,腐化潮
 Corruption,墮道
-Corruptor Eedaiak,腐化者艾達爾克
+Corruptor Eedaiak,腐化埃代亞克
 Corsair Sword,海賊長刀
 Cortex,深沉記憶
 Coruscating Elixir,閃耀精華
@@ -6032,7 +6031,7 @@ Enemies near your Totems deal 8% less Damage,在你圖騰周圍的敵人造成 8
 Enemies near your Totems take 16% increased Physical and Fire Damage,在你圖騰周圍的敵人增加 16% 承受的物理和火焰傷害
 Enemies Poisoned by you cannot deal Critical Strikes,被你中毒的敵人不會造成暴擊
 Enemies Poisoned by you cannot Regenerate Life,被你中毒的敵人無法回復生命
-Enemies Poisoned by you have -5% to Chaos Resistance,被你中毒的敵人 -5% 混沌傷害
+Enemies Poisoned by you have -5% to Chaos Resistance,被你中毒的敵人 -5% 混沌抗性
 Enemies Shocked by your Hits are Chilled,被你感電的敵人被冰緩
 Enemies Shocked or Frozen by you take 5% increased Elemental Damage,被你感電或冰凍的敵人，增加承受 5% 元素傷害
 Enemies take 10% increased Damage for each of your Brands Attached to them,你每使敵人附著一種烙印，它們受到的傷害便增加 10%
@@ -7865,7 +7864,7 @@ Iron Grip,堅鐵之力
 Iron Hat,粗鐵盔
 Iron Heart,鐵石心腸
 Iron Mask,鐵鍛之面
-Iron Reflexes,鋼鐵反射
+Iron Reflexes,霸體
 Iron Reflexes while stationary,靜止時獲得霸體
 Iron Ring,鍛鐵戒指
 Iron Sceptre,冷鐵權杖
@@ -7953,8 +7952,7 @@ Izaro will drop an additional Treasure Key on Death,伊澤洛死亡時額外掉�
 Izaro will drop an additional Unique Item on Death,伊澤洛死亡時額外掉落一個傳奇物品
 Izaro's Dilemma,伊澤洛之謎
 Izaro's Turmoil,伊澤洛之亂
-Jack,保身
-"Jack, the Axe",劊子手．傑克
+"Jack, the Axe",劊子手‧傑克
 Jade Amulet,翠玉護身符
 Jade Chopper,碎玉大斧
 Jade Flask,翠玉藥劑
@@ -8634,7 +8632,7 @@ Maw of Conquest,雛鳥之征
 Maw of Mischief,頑皮裂齒獸
 Max Bleed Stacks:,最大流血疊層:
 Max Chain Count:,最大連鎖數量:
-Max Channelled Orbs,最大吟唱能量球
+Max Channelled Orbs,最大吟導能量球
 Max Explosion per Brand,每個烙印最大爆炸
 Max Ignite Stacks:,最大點燃次數:
 Max Impale Stacks:,最大穿刺疊層
@@ -9370,7 +9368,7 @@ Noxious Strike,淬毒打擊
 Nubuck Boots,砂影短靴
 Nubuck Gloves,砂影手套
 Nuke Beam,光束
-Nuke Beam Channelled,持續吟唱光束
+Nuke Beam Channelled,持續吟導光束
 Null and Void,虛空
 Null's Inclination,虛無之傾
 Number of Perandus Coins dropped in this Area is Doubled,區域掉落的普蘭德斯金幣為兩倍
@@ -9852,7 +9850,7 @@ Physical:,物理:
 Physician's,醫師的
 Physique,壯碩之體
 Pierce,穿透輔助
-Pierce Count:,穿刺數量:
+Pierce Count:,穿透數量:
 Piercing Attacks cause Bleeding,穿透的攻擊造成流血
 Piercing Shots,穿射箭矢
 Piety Beam,派蒂光束
@@ -10296,7 +10294,7 @@ Radius:,半徑:
 Rage,盛怒輔助
 Rage Mastery,盛怒專精
 Rage Vortex,盛怒漩渦
-Rage:,【盛怒】:
+Rage:,【盛怒】 :
 Raging Spirit,怒炎之靈
 Raider,俠客
 Rain,之雨
@@ -11388,19 +11386,19 @@ Soul,靈魂
 Soul Catcher,追魂者
 Soul Link,連結：靈魂
 Soul Mantle,祖靈之約
-Soul of Abberath,割裂者 艾貝拉斯之魂
-Soul of Arakaali,暗影女皇 阿拉卡力之魂
-Soul of Garukhan,風暴女神 格魯坎之魂
-Soul of Gruthkul,絕望之母 格魯絲克之魂
-Soul of Lunaris,月影女神之魂
-Soul of Ralakesh,萬面之主 拉克斯之魂
-Soul of Ryslatha,傀儡女王 瑞斯拉薩之魂
-Soul of Shakari,沙之女神 沙卡麗之魂
-Soul of Solaris,日耀女神之魂
+Soul of Abberath,艾貝拉斯之魂
+Soul of Arakaali,艾爾卡莉之魂
+Soul of Garukhan,卡洛翰之魂
+Soul of Gruthkul,葛魯斯寇之魂
+Soul of Lunaris,月影神之魂
+Soul of Ralakesh,芮勒蓋許之魂
+Soul of Ryslatha,瑞斯拉薩之魂
+Soul of Shakari,夏卡莉之魂
+Soul of Solaris,日耀神之魂
 Soul of Steel,堅鋼之靈
-Soul of the Brine King,驚海之王 索亞格斯之魂
-Soul of Tukohama,戰爭之父 圖克哈瑪之魂
-Soul of Yugul,恐懼之源 尤格爾之魂
+Soul of the Brine King,海洋王之魂
+Soul of Tukohama,圖克哈瑪之魂
+Soul of Yugul,伊果之魂
 Soul Raker,靈魂收割者
 Soul Ripper,碎魂者
 Soul Siphon,靈魂吸收
@@ -11844,7 +11842,7 @@ Summon Skitterbots,召喚探測機獸
 Summon Spectral Wolf,召喚幽狼
 Summon Stone Golem,召喚巨石魔像
 Summon Taunting Contraption,召喚嘲諷機械
-Summon Volatile Anomaly,召喚異動奇點
+Summon Volatile Anomaly,召喚極凍天體
 Summoned Arbalists' Projectiles Fork,召喚弩兵的投射物分裂
 Summoned Cobra,被召喚的眼鏡蛇
 Summoned Golems are Aggressive,召喚魔像有侵略性
@@ -13447,7 +13445,7 @@ Wheel of the Stormsail,暴雨之舵
 "When a Bloodline Pack is Slain, it drops a Currency Item",擊敗血族怪物群會掉落額外 1 個通貨
 "When a Bloodline Pack is Slain, it drops a Rare Item",擊殺血族怪群掉落額外 1 個稀有物品
 "When enabled, an estimate of the offensive and defensive strength of",開啟後將估算並高亮顯示
-"When Hit, lose a Ghost Shroud to Recover Energy Shield equal to {0}% of your Evasion Rating",被擊中失去 1 層幽魂屍布以回復等同於 {0}% 你閃避值的能量護盾
+"When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating",被擊中失去 1 層幽魂屍布以回復等同於 3% 你閃避值的能量護盾
 When In Combat,戰鬥狀態
 "When used in the Synthesiser, the new item will have an additional Herald Modifier",當在追憶喚器使用時，新物品會有 1 個額外捷光環詞綴
 "When you create a Banner, it gains 40% of the Stages of your placed Banner",當你製造鬥旗時，它獲得你已放置過鬥旗 40% 的疊層
@@ -13534,7 +13532,7 @@ Winterweave,冬織
 Wisdom,智慧
 Wisdom of the Glade,原野智慧
 Wish,希望
-Wish for Death,德瑞的冷漠
+Wish for Death,求死
 Witch,女巫
 WITCH,女巫
 Witch Ascendancy,女巫昇華職業
@@ -14157,3 +14155,235 @@ Build save path:,流派儲存路徑:
 Node Power colours:,節點強度顏色:
 Opt-in to weekly beta test builds:,選擇加入每週 beta 測試版本:
 Rage Cost:,盛怒消耗:
+Enkindling Orb,點燃石
+Instilling Orb,滴注石
+Add Implicit...,新增固定詞綴...
+Add Implicit to Item,新增固定詞綴至物品
+Time spent stationary,靜止不動的時間:
+Fury of Nature,自然之怒
+Non-Damaging Elemental Ailments you inflict spread to nearby enemies in a radius of 20,你造成的非傷害型元素異常狀態擴散至附近範圍 20 內的敵人
+Non-Damaging Elemental Ailments you inflict have 100% more Effect,你造成的非傷害型異常狀態有 100% 更多效果
+Nine Lives,九命
+Mana and Energy Shield,魔力和能量護盾
+Recoup Effects instead occur over 3 seconds,補償效果改為 3 秒內發生
+45% of Chaos Damage taken as Fire Damage,45% 承受的混沌傷害視為火焰傷害
+Searing Purity,灼熱淨化
+45% of Chaos Damage taken as Lightning Damage,45% 承受的混沌傷害視為閃電傷害
+Indomitable Resolve,不撓決心
+Deal 10% less Damage,造成 10% 更少傷害
+Take 25% less Damage,承受 25% 更少傷害
+Unleashed Potential,釋放潛能
+Fatal Flourish,致命繁榮
+Final Repeat of Attack Skills deals 60% more Damage,攻擊技能的最後重複造成 60% 更多傷害
+Non-Travel Attack Skills Repeat an additional Time,非快行攻擊技能重複額外 1 次
+Devotion:,奉獻:
+(Ailment Threshold is about equal to Life except on bosses where it is about half of their life),(異常狀態門檻大約等於敵人血量，但頭目約是其血量的一半)
+Mine Throwing Time:,地雷丟擲時間:
+Hit DPS:,擊中秒傷:
+Hit DPS,擊中秒傷
+Normal Maximum,一般最大值
+Corrupted Maximum,腐化最大值
+Awakened Maximum,覺醒最大值
+Match Character Level,符合人物等級
+Show quality variants:,顯示替代品質:
+Trade for these items,交易這些物品
+Enemy avoid Elemental Ailments:,敵人避免元素異常狀態:
+Enemy avoid Poison and Bleed:,敵人避免中毒和流血狀態:
+Enemy Block Chance:,敵人格擋機率:
+Maximum Rage:,最大盛怒:
+Bleed Avoid Ch.:,避免流血機率:
+Blind Avoid Ch.:,避免致盲機率:
+Avoid Proj Ch.:,避免投射物機率:
+Freeze Effect:,冰凍效果:
+Ignite Effect:,點燃效果:
+Sap Effect:,殘喘效果:
+Brittle Effect:,易碎效果:
+Scorch Effect:,焦灼效果:
+Bleed Effect:,流血效果:
+Poison Effect:,中毒效果:
+Stack Potential:,最高疊層:
+Eff. DoT Multi:,有效持傷加成:
+Mana per second:,每秒魔力消耗:
+Mana Cost per second:,每秒魔力消耗:
+Mine Throw Rate:,地雷投擲速率:
+Mine Throw Time:,地雷投擲時間:
+Ailment mode: Average Damage (can be changed in the Configuration tab),異常狀態模式: 平均傷害 (可在配置頁面變更)
+Ailment mode: Crits Only (can be changed in the Configuration tab),異常狀態模式: 僅限暴擊 (可在配置頁面變更)
+Enemy Freeze Duration,敵人冰凍持續時間
+Enemy Ailment Duration,敵人異常狀態持續時間
+Enemy Elemental Ailment Duration,敵人元素異常狀態持續時間
+Life Gain on Kill:,擊殺獲得生命:
+Rage Regen:,盛怒回復:
+Fire Dmg. Reduct:,火焰傷害減免:
+Cold Dmg. Reduct:,冰冷傷害減免:
+Light. Dmg. Reduct:,閃電傷害減免:
+Steel Skills:,鋼鐵技能:
+Steel Shards consumed:,消耗鋼鐵碎片:
+Steel Wards:,鐵籠:
+Obtainable,可取得
+Any source,任何來源
+Unobtainable,不可取得
+Vendor Recipe,商人配方
+Upgraded,升級取得
+Boss Item,頭目取得
+Corruption,腐化取得
+Sustainable Trauma:,可持續創傷:
+Skill Self Damage:,技能自身傷害:
+Boneshatter:,碎骨:
+# of Trauma Stacks:,# 創傷層數:
+Avoid All Dmg Ch.:,避免所有傷害機率:
+ES Gain on Kill:,擊殺獲得能盾:
+Mana Gain on Kill:,擊殺獲得魔力:
+MH Eff. DoT Multi:,有效持傷加成(主手):
+Recoup and Hit Taken Over Time:,補償和持續承受擊中:
+Uptime:,正常運行時間:
+# of Enemies Killed Recently:,# 近期擊殺的敵人數量:
+Close Combat:,近身戰:
+Is Combat Rush active?,是否啟動近身戰?
+Warcry calculation mode:,戰吼計算模式:
+Max Hit,最大擊中
+Warcry Skills:,戰吼技能:
+Warcry Power:,戰吼強度:
+Killed a Rare or Unique enemy Recently?,你近期有擊殺稀有或傳奇的敵人?
+Totem Fire Res:,圖騰火焰抗性:
+Totem Cold Res:,圖騰冰冷抗性:
+Totem Lightning Res:,圖騰閃電抗性:
+Totem Chaos Res:,圖騰混沌抗性:
+Do you have Alchemist's Genius?,你有【煉金之材】?
+Trap Throw Rate:,陷阱投擲速率:
+# of active Brands:,# 烙印啟動數量:
+# of Soul Eater Stacks:,# 層數【嗜魂】 :
+Trader,交易器
+Realm:,平台:
+Find best,搜尋最好
+Currency Rates are very recent,通貨比值是非常近期的
+Get Currency Conversion Rates,取得通貨比值
+Sort By:,排序:
+Fetch Pages:,擷取頁面:
+Query Options,查詢選項
+Corrupted Mods:,腐化詞綴:
+Influence 1:,勢力1:
+Influence 2:,勢力2:
+Max Price:,最高價格:
+Execute,執行
+Chaos Orb Equivalent,與混沌石等值
+Chaos Orb,混沌石
+Divine Orb,神聖石
+Orb of Alchemy,點金石
+Orb of Alteration,改造石
+Chromatic Orb,幻色石
+Exalted Orb,崇高石
+Blessed Orb,祝福石
+Cartographer's Chisel,製圖釘
+Gemcutter's Prism,珠寶匠的稜鏡
+Jeweller's Orb,工匠石
+Orb of Scouring,重鑄石
+Orb of Regret,後悔石
+Orb of Fusing,鏈結石
+Orb of Chance,機會石
+Regal Orb,富豪石
+Vaal Orb,瓦爾寶珠
+Please Wait,請等候
+Calculating Mod Weights...,計算詞綴權重...
+Hardcore,專家
+Currency Rates are recent,通貨比值是近期的
+Debuff Dur. Mult.:,減益持續時間加成:
+Pride:,驕傲:
+Pride Aura Effect:,驕傲光環效果:
+Poison Avoid Ch.:,避免中毒機率:
+Life on Suppression:,法術壓抑回血:
+Grants 2 Passive Skill Points,獲得 2 點天賦點
+Captain Tanner Lightfoot,隊長坦納萊富特
+Forest of Flames,烈焰之森
+Lord of the Ashen Arrow,魂靈之冥箭
+The Primal One,史源者
+Maligaro the Mutilator,毀壞者馬雷葛蘿
+Megaera,炎靈密卡拉
+The Cursed King,詛咒之王
+The Sanguine Siren,血腥女妖
+The Restless Shade,不安陰影
+"Is Ngamahu, Flame's Advance active?",是否啟動【火徒‧拿瑪乎】?
+"Captain Clayborne, The Accursed",被詛咒的‧隊長克雷波恩
+"Merveil, the Returned",復生者莫薇兒
+"Sebbert, Crescent's Point",弦月之靈賽伯特
+"Khor, Sister of Shadows",暗影姊妹‧霍爾
+"Jorus, Sky's Edge",天際朱力斯
+"Armala, the Widow",寡婦阿摩拉
+"Erebix, Light's Bane",光明剋星艾爾畢斯
+"Varhesh, Shimmering Aberration",微光之屍弗賽斯
+"Pesquin, the Mad Baron",瘋狂男爵帕根斯
+"Gorulis, Will-Thief",意念竊取者葛羅斯
+For freeze to apply for the minimum of 0.3 seconds,要冰凍至少 0.3 秒
+Anathema,咒詛
+Annihilation's Approach,殲滅的方法
+Dawnstrider,晨行者
+Doedre's Tongue,德瑞的毒舌
+Echoforge,核聲
+Entropic Devastation,熵毀滅
+Eternal Damnation,永恆的詛咒
+Firesong,炔頌
+Immutable Force,不變之力
+Nimis,尼米斯
+Oriath's End,奧瑞亞之終
+Original Sin,原罪
+Progenesis,生育
+Rational Doctrine,理性主義
+Sandstorm Visage,沙瀑面紗
+Stormshroud,風暴籠罩
+The Balance of Terror,恐怖平衡
+The Winds of Fate,命定之風
+Wilma's Requital,威爾瑪的報復
+Witchbane,禍星女巫
+Cursed Ground,詛咒地面輔助
+Hex Bloom,咒術綻放輔助
+Vaal Caustic Arrow,瓦爾‧腐蝕箭矢
+Vaal Flicker Strike,瓦爾‧閃現打擊
+Vaal Venom Gyre,瓦爾‧猛毒迴旋
+Vaal Blade Flurry,瓦爾‧刀鋒亂舞
+Frozen Legion,戰亂‧凍結
+Volcanic Fissure,炎火脈動
+Vaal Volcanic Fissure,瓦爾‧炎火脈動
+Vaal Smite,瓦爾‧雷鳴重擊
+Vaal Molten Strike,瓦爾‧熔岩之擊
+Vaal Cleave,瓦爾‧劈砍
+Feathered Arrow Quiver,羽翼箭袋
+The Burden of Truth,真理負擔
+Call of the Void,虛空呼喚
+Maelstrom Staff,風暴長杖
+Echoes of Creation,創造迴聲
+Elevore,愛勒弗
+Iron Flask,鋼鐵藥劑
+The Eternal Struggle,永恆鬥爭
+Ghostwrithe,鬧鬼
+Impossible Escape,逃脫不能
+Kalandra's Touch,卡蘭德之觸
+Kaom's Spirit,岡姆之魂
+Vile Arrow Quiver,邪惡箭袋
+The Poised Prism,優雅迷鏡
+Primal Arrow Quiver,始祖箭袋
+Heavy Arrow Quiver,沉頓箭袋
+Soul Ascension,靈魂昇華
+Thrillsteel,顫慄之鋼
+Divine Inferno,神聖煉獄
+One Handed Sword: Thrusting,單手劍: 細劍
+Approaching Flames,無極赤炎
+Total DoT DPS,總計持續秒傷
+Total DPS inc. DoT,總計秒傷(含持續)
+Corundum Flask,金剛藥劑
+Gold Flask,黃金藥劑
+Bone Ring,骸骨之戒
+Dusk Ring,幽暗戒指
+Gloam Ring,黃昏戒指
+Penumbra Ring,半影戒指
+Shadowed Ring,暗影戒指
+Tenebrous Ring,黑暗戒指
+Changed Stance recently?,近期有切換姿態?
+Supreme Decadence,至高‧頹廢
+Alchemist's Mark,煉金術士印記
+Galvanic Field,電光領域
+Overcharge,超負荷輔助
+Prevented Life Loss:,預防生命損失:
+Arcanist Brand:,奧術烙印:
+Are skills targeting the Branded enemy?,技能是針對被烙印的敵人嗎?
+ES per second:,每秒能盾消耗:
+ES Cost per second:,每秒能盾消耗:
