@@ -1,0 +1,694 @@
+"Iron Gauntlets",鐵鍛護手
+"Plated Gauntlets",堅鐵護手
+"Bronze Gauntlets",青銅護手
+"Steel Gauntlets",冷鋼護手
+"Antique Gauntlets",古鋼護手
+"Ancient Gauntlets",遠古護手
+"Goliath Gauntlets",巨靈護手
+"Vaal Gauntlets",瓦爾護手
+"Titan Gauntlets",巨人護手
+"Taxing Gauntlets",負重護手
+"Gruelling Gauntlets",疲乏護手
+"Debilitation Gauntlets",衰弱護手
+"Rawhide Gloves",生皮手套
+"Goathide Gloves",羊皮手套
+"Deerskin Gloves",鹿皮手套
+"Nubuck Gloves",砂影手套
+"Eelskin Gloves",鰻皮手套
+"Sharkskin Gloves",鯊皮手套
+"Shagreen Gloves",粗革手套
+"Stealth Gloves",匿蹤手套
+"Slink Gloves",迷蹤手套
+"Gauche Gloves",粗糙手套
+"Southswing Gloves",南翼手套
+"Sinistral Gloves",左傾手套
+"Wool Gloves",羊毛手套
+"Velvet Gloves",絲絨手套
+"Silk Gloves",絲綢手套
+"Embroidered Gloves",刺繡手套
+"Satin Gloves",緞布手套
+"Samite Gloves",繡布手套
+"Conjurer Gloves",咒者手套
+"Arcanist Gloves",秘術手套
+"Sorcerer Gloves",術士手套
+"Leyline Gloves",荒野手套
+"Aetherwind Gloves",乙太之風手套
+"Nexus Gloves",核心手套
+"Fishscale Gauntlets",魚鱗手套
+"Ironscale Gauntlets",鐵影手套
+"Bronzescale Gauntlets",銅影手套
+"Steelscale Gauntlets",鋼影護手
+"Serpentscale Gauntlets",蛇鱗手套
+"Wyrmscale Gauntlets",蝮鱗手套
+"Hydrascale Gauntlets",火蝮鱗手套
+"Dragonscale Gauntlets",龍鱗手套
+"Chain Gloves",鏈甲手套
+"Ringmail Gloves",環甲手套
+"Mesh Gloves",網眼手套
+"Riveted Gloves",儀式手套
+"Zealot Gloves",狂熱者手套
+"Soldier Gloves",戰士手套
+"Legion Gloves",軍團手套
+"Crusader Gloves",聖戰手套
+"Wrapped Mitts",裹趾護手
+"Strapped Mitts",扣環護手
+"Clasped Mitts",環帶護手
+"Trapper Mitts",獵人護手
+"Ambush Mitts",伏擊護手
+"Carnal Mitts",禁禮護手
+"Assassin's Mitts",刺殺者護手
+"Murder Mitts",暗殺者護手
+"Golden Bracers",黃金臂甲
+"Spiked Gloves",釦釘手套
+"Gripped Gloves",擒拿手套
+"Fingerless Silk Gloves",魔指手套
+"Apothecary's Gloves",靈藥手套
+"Runic Gloves",魔符手套
+"Runic Gages",魔符手環
+"Runic Gauntlets",魔符護手
+"Iron Greaves",鐵鍛脛甲
+"Steel Greaves",冷鋼脛甲
+"Plated Greaves",堅鐵脛甲
+"Reinforced Greaves",強化脛甲
+"Antique Greaves",古鋼脛甲
+"Ancient Greaves",遠古脛甲
+"Goliath Greaves",巨靈脛甲
+"Vaal Greaves",瓦爾脛甲
+"Titan Greaves",巨人脛甲
+"Basemetal Treads",金屬鐵靴
+"Darksteel Treads",暗鋼鐵靴
+"Brimstone Treads",硫磺鐵靴
+"Kaom's Greaves",岡姆脛甲
+"Rawhide Boots",生皮短靴
+"Goathide Boots",羊皮短靴
+"Deerskin Boots",鹿皮短靴
+"Nubuck Boots",砂影短靴
+"Eelskin Boots",鰻皮短靴
+"Sharkskin Boots",鯊皮短靴
+"Shagreen Boots",粗革短靴
+"Stealth Boots",匿蹤短靴
+"Slink Boots",迷蹤短靴
+"Cloudwhisper Boots",雲語短靴
+"Windbreak Boots",風帳短靴
+"Stormrider Boots",風暴者短靴
+"Wool Shoes",羊毛之鞋
+"Velvet Slippers",絲絨便鞋
+"Silk Slippers",絲綢便鞋
+"Scholar Boots",學者長靴
+"Satin Slippers",緞布便鞋
+"Samite Slippers",繡布便鞋
+"Conjurer Boots",咒者長靴
+"Arcanist Slippers",秘術便鞋
+"Sorcerer Boots",術士長靴
+"Duskwalk Slippers",暮色之行便鞋
+"Nightwind Slippers",黑夜之風便鞋
+"Dreamquest Slippers",幻夢之尋便鞋
+"Leatherscale Boots",粗鱗皮靴
+"Ironscale Boots",鐵影長靴
+"Bronzescale Boots",銅影長靴
+"Steelscale Boots",鋼影長靴
+"Serpentscale Boots",蛇鱗長靴
+"Wyrmscale Boots",地蝮鱗長靴
+"Hydrascale Boots",火蝮鱗長靴
+"Dragonscale Boots",龍鱗長靴
+"Chain Boots",鏈甲長靴
+"Ringmail Boots",環甲筒靴
+"Mesh Boots",網眼長靴
+"Riveted Boots",儀式短靴
+"Zealot Boots",狂熱者長靴
+"Soldier Boots",戰士之靴
+"Legion Boots",軍團長靴
+"Crusader Boots",聖戰長靴
+"Wrapped Boots",裹趾涼鞋
+"Strapped Boots",扣環短靴
+"Clasped Boots",環帶長靴
+"Shackled Boots",縛足長靴
+"Trapper Boots",獵人之靴
+"Ambush Boots",伏擊之靴
+"Carnal Boots",禁禮之靴
+"Assassin's Boots",刺殺者之靴
+"Murder Boots",暗殺者長靴
+"Golden Caligae",黃金纏鞋
+"Avian Slippers",飛羽便鞋
+"Two-Toned Boots",異色鞋
+"Fugitive Boots",逃難短靴
+"Runic Greaves",魔符脛甲
+"Runic Sollerets",魔符長靴
+"Runic Sabatons",魔符短靴
+"Plate Vest",鐵製背心
+Chestplate,胸甲
+"Copper Plate",銅鍛板甲
+"War Plate",戰爭之鎧
+"Full Plate",連身鎧甲
+"Arena Plate",鬥者之鎧
+"Lordly Plate",領主護鎧
+"Bronze Plate",青銅鎧甲
+"Battle Plate",戰鎧
+"Sun Plate",日光之鎧
+"Colosseum Plate",決鬥之鎧
+"Majestic Plate",莊嚴之鎧
+"Golden Plate",金耀之鎧
+"Crusader Plate",征戰重鎧
+"Astral Plate",星芒戰鎧
+"Gladiator Plate",角鬥重鎧
+"Glorious Plate",榮耀戰鎧
+"Kaom's Plate",岡姆的重鎧
+"Shabby Jerkin",破舊外套
+"Strapped Leather",扣環皮甲
+"Buckskin Tunic",鹿皮外套
+"Wild Leather",野性皮甲
+"Full Leather",連身皮甲
+"Sun Leather",日光皮甲
+"Thief's Garb",竊賊之裝
+"Eelskin Tunic",鰻皮之衣
+"Frontier Leather",邊戍皮甲
+"Glorious Leather",榮耀皮甲
+"Coronal Leather",光耀皮甲
+"Cutthroat's Garb",殘殺者之裝
+"Sharkskin Tunic",鯊皮之衣
+"Destiny Leather",命運皮甲
+"Exquisite Leather",精製皮甲
+"Zodiac Leather",星辰皮甲
+"Assassin's Garb",刺殺者之裝
+"Simple Robe",簡易之袍
+"Silken Vest",綢緞背心
+"Scholar's Robe",學者之袍
+"Silken Garb",絲綢之衣
+"Mage's Vestment",博學長衣
+"Silk Robe",絲質之袍
+"Cabalist Regalia",秘術法衣
+"Sage's Robe",賢者之袍
+"Silken Wrap",絲絨背心
+"Conjurer's Vestment",咒者長衣
+"Spidersilk Robe",蛛絲之袍
+"Destroyer Regalia",滅世法衣
+"Savant's Robe",智者之袍
+"Necromancer Silks",操靈者背心
+"Occultist's Vestment",秘術長衣
+"Widowsilk Robe",毒蛛絲之袍
+"Vaal Regalia",瓦爾法衣
+"Scale Vest",細鱗背心
+"Light Brigandine",輕鎖甲
+"Scale Doublet",合身鱗甲
+"Infantry Brigandine",步兵鎖甲
+"Full Scale Armour",連身鱗甲
+"Soldier's Brigandine",戰士鎖甲
+"Field Lamellar",野戰薄甲
+"Wyrmscale Doublet",龍鱗戰甲
+"Hussar Brigandine",輕騎鎖甲
+"Full Wyrmscale",連身龍鱗戰甲
+"Commander's Brigandine",指揮者鎖甲
+"Battle Lamellar",爭戰鱗甲
+"Dragonscale Doublet",龍鱗護甲
+"Desert Brigandine",荒野鎖鎧
+"Full Dragonscale",連身龍鱗鎧
+"General's Brigandine",將軍鎧甲
+"Triumphant Lamellar",勝利盔甲
+"Chainmail Vest",鎖鏈背心
+"Chainmail Tunic",鏈甲外衣
+"Ringmail Coat",環甲外套
+"Chainmail Doublet",護體鎖甲
+"Full Ringmail",連身環甲
+"Full Chainmail",連身鎖甲
+"Holy Chainmail",聖語鎖甲
+"Latticed Ringmail",精製環甲
+"Crusader Chainmail",聖戰鎖甲
+"Ornate Ringmail",華麗環甲
+"Chain Hauberk",鎖子長甲
+"Devout Chainmail",虔誠鏈甲
+"Loricated Ringmail",覆體環甲
+"Conquest Chainmail",征戰鎖甲
+"Elegant Ringmail",權貴環甲
+"Saint's Hauberk",聖者鏈甲
+"Saintly Chainmail",聖潔鎖甲
+"Padded Vest",薄襯衣
+"Oiled Vest",防水背心
+"Padded Jacket",長袖棉襖
+"Oiled Coat",防水外衣
+"Scarlet Raiment",熾紅之衣
+"Waxed Garb",蠟封束衣
+"Bone Armour",骨製戰甲
+"Quilted Jacket",菱紋外衣
+"Sleek Coat",滑布外套
+"Crimson Raiment",緋紅之衣
+"Lacquered Garb",漆彩束衣
+"Crypt Armour",地穴戰甲
+"Sentinel Jacket",哨兵之衣
+"Varnished Coat",映彩外套
+"Blood Raiment",血色之衣
+"Sadist Garb",狂虐者束衣
+"Carnal Armour",禁禮之甲
+"Sacrificial Garb",祭禮束衣
+"Golden Mantle",黃金戰甲
+"Grasping Mail",貪婪鎧甲
+"Iron Hat",粗鐵盔
+"Cone Helmet",錐頂盔
+"Barbute Helmet",輕騎盔
+"Close Helmet",護面盔
+"Gladiator Helmet",角鬥者之盔
+"Reaver Helmet",掠奪者之盔
+"Siege Helmet",破城之盔
+"Samnite Helmet",薩模柰堅盔
+"Ezomyte Burgonet",艾茲麥堅盔
+"Royal Burgonet",皇室堅盔
+"Eternal Burgonet",永恆堅盔
+"Leather Cap",皮帽
+Tricorne,三角帽
+"Leather Hood",革兜
+"Wolf Pelt",狼首皮盔
+"Hunter Hood",獵者之兜
+"Noble Tricorne",貴族三角帽
+"Ursine Pelt",熊首皮盔
+"Silken Hood",綢緞之兜
+"Sinner Tricorne",罪者之帽
+"Lion Pelt",獅首皮盔
+"Vine Circlet",藤蔓之冠
+"Iron Circlet",鐵鍛之冠
+"Torture Cage",刑罰頭籠
+"Tribal Circlet",祭儀之冠
+"Bone Circlet",靈骨之冠
+"Lunaris Circlet",月影之冠
+"Steel Circlet",冷鋼之冠
+"Necromancer Circlet",操靈者之冠
+"Solaris Circlet",日耀之冠
+"Mind Cage",靈能之籠
+"Hubris Circlet",靈主之環
+"Battered Helm",殘破之盔
+Sallet,輕鐵護盔
+"Visored Sallet",清視護盔
+"Gilded Sallet",金面護盔
+"Secutor Helm",精兵之盔
+"Fencer Helm",擊劍士之盔
+"Lacquered Helmet",漆彩之盔
+"Fluted Bascinet",全罩戰盔
+"Pig-Faced Bascinet",豬面頭盔
+"Nightmare Bascinet",夢魘戰盔
+"Sorrow Mask",悲鳴面具
+"Atonement Mask",贖罪面具
+"Penitent Mask",懺悔面具
+"Rusted Coif",鏽鐵鏈盔
+"Soldier Helmet",士兵之盔
+"Great Helmet",巨盔
+"Crusader Helmet",聖戰之盔
+"Aventail Helmet",戰意之盔
+"Zealot Helmet",熱戰之盔
+"Great Crown",強化巨盔
+"Magistrate Crown",行政者戰冠
+"Prophet Crown",箴言戰冠
+"Praetor Crown",領主戰冠
+"Imp Crown",妖怪邪冠
+"Demon Crown",惡魔邪冠
+"Archdemon Crown",罪魔邪冠
+"Scare Mask",幽懼之面
+"Plague Mask",疫災之面
+"Iron Mask",鐵鍛之面
+"Festival Mask",節慶之面
+"Golden Mask",黃金之面
+"Raven Mask",禍鴉之面
+"Callous Mask",無情之面
+"Regicide Mask",弒君之面
+"Harlequin Mask",鷹喙之面
+"Vaal Mask",瓦爾之面
+"Deicide Mask",弒神之面
+"Gale Crown",颶風之冠
+"Winter Crown",凜冬之冠
+"Blizzard Crown",暴雪之冠
+"Golden Wreath",金黃花環
+"Golden Visage",黃金頭飾
+"Bone Helmet",喚骨頭盔
+"Runic Helm",魔符頭飾
+"Runic Crest",魔符之冠
+"Runic Crown",魔符皇冠
+"Ambu's Charge",安姆布的戰甲
+Ashrend,拂燼
+"Belly of the Beast",獸腹
+Bramblejack,刺棘寶甲
+Briskwrap,荒途
+"Bronn's Lithe",布隆的影衣
+"Carcass Jack",致命之體
+"Cloak of Flame",烈炎之袍
+"Cloak of Defiance",衛道之袍
+"The Covenant",血誓
+"Daresso's Defiance",德瑞索的衛衣
+"Death's Oath",冥使之體
+Foxshade,狐毛鎧
+"Hyrri's Ire",西里的戰衣
+Icetomb,冰息
+"Incandescent Heart",烈炎之心
+"Infernal Mantle",煉獄之心
+"Kaom's Heart",岡姆的壯志
+"Lightbane Raiment",魔道之衣
+"Lightning Coil",雷語
+"Queen of the Forest",森林之后
+"Shavronne's Wrappings",薛朗的護身長袍
+"Solaris Lorica",烈陽鎧
+"Soul Mantle",祖靈之約
+"Tabula Rasa",無盡之衣
+"Thousand Ribbons",千縷
+"Vis Mortis",兀鳴
+"Voll's Protector",福爾的戰鎧
+"Zahndethus' Cassock",札德圖斯的聖衣
+"Alberon's Warpath",阿爾貝隆的征途
+"Atziri's Step",阿茲里的金履
+"The Blood Dance",血影
+"Bones of Ullr",烏勒爾之骨
+"Darkray Vectors",暗雷
+Deerstalker,獵蹤
+"Demigod's Stride",昇華之途
+Dusktoe,迎暮
+Goldwyrm,龍炎足跡
+"Lioneye's Paws",獅眼的鬥志
+"Victario's Flight",維多里奧的飛昇
+Rainbowstride,虹幕
+"Shavronne's Pace",薛朗的秘術長靴
+"Sin Trek",敏銳思維
+Sundance,日耀
+"Wake of Destruction",覆滅之兆
+Wanderlust,苦行之履
+Windscream,惡風足跡
+Wondertrap,迴光之跡
+"Asenath's Gentle Touch",安賽娜絲的安撫之語
+"Atziri's Acuity",阿茲里的捷思
+Aurseize,富貴之運
+"Demigod's Touch",昇華之指
+"Meginord's Vise",梅吉諾德的巨力腕甲
+"Doedre's Tenure",德瑞的精神手套
+Facebreaker,毀面者
+Voidbringer,虛空之力
+Hrimsorrow,冰冷之眼
+"Lochtonial Caress",意識之緣
+"Maligaro's Virtuosity",馬雷葛蘿的血染手套
+"Ondar's Clasp",恩德的迅影
+"Sadima's Touch",獵寶者的護手
+"Shackles of the Wretched",悲運之縛
+Slitherpinch,蒼蟒之鱗
+Snakebite,蝮吻
+Thunderfist,轟天雷
+"Vaal Caress",瓦爾的靈手
+Abyssus,深淵之喚
+"Alpha's Howl",極地之嗥
+"Asenath's Mark",安賽娜絲的迅敏之冠
+"The Bringer of Rain",祭禮之雨
+"Chitus' Apex",切特斯的威權
+"Crown of Eyes",邪眼之冠
+"Crown of Thorns",刺棘之冠
+Deidbell,喪鐘
+"Demigod's Triumph",昇華之冠
+"Devoto's Devotion",德沃托的信念之盔
+"Ezomyte Peak",艾茲麥的榮光
+"Fairgraves' Tricorne",費爾之帽
+"Geofri's Crest",吉爾菲的榮光
+Goldrim,金縷帽
+"The Gull",鷗喙
+Heatshiver,寒焰
+Honourhome,私慾的光輝
+"Hrimnor's Resolve",雷姆諾的豪情
+"Leer Cast",共鳴之面
+"Malachai's Simula",瑪拉凱的祭具
+Mindspiral,靈漩
+"The Peregrine",疾風的沉思
+"Rat's Nest",鼠巢
+"Rime Gaze",酷寒的凝視
+Skullhead,光輝之顱
+"Starkonja's Head",斯塔空加之首
+"The Three Dragons",三龍戰紀
+"Veil of the Night",夜幕
+"The Vertex",謎容
+"Atziri's Splendour",阿茲里的威權
+"Kaom's Roots",岡姆的穩重之靴
+"Flesh and Spirit",肉體與魂靈
+"Shadows and Dust",沙塵之影
+"Gang's Momentum",剛勇
+"Cherrubim's Maleficence",薛魯賓的惡作劇
+"Null and Void",虛空
+"Nomic's Storm",諾米克的風暴
+"Scold's Bridle",禁語
+"The Broken Crown",缺角帝冠
+"The Rat Cage",疫鼠囚籠
+"Greed's Embrace",貪婪之擁
+"Tear of Entropy",亂世之淚
+"Black Sun Crest",黑陽之冠
+"Empire's Grasp",帝國之掌
+"Lioneye's Vision",獅眼的視線
+"Doedre's Scorn",德瑞的蔑視
+Southbound,南方
+"The Restless Ward",無盡之衛
+Repentance,悔悟之掌
+Kingsguard,皇家衛甲
+Ironweld,鐵芒
+Ghostmarch,鬼行
+"Deadman's Hand",枯萎之手
+"Vizaru's Folly",維札盧的不堪往事
+"Kalisa's Grace",卡莉莎的優雅之影
+"Arimagius' Honor",志士的榮耀之心
+Wurmfist,崩石
+"Dewath's Hide",德瓦斯的匿蹤
+"Doryani's Fist",多里亞尼之拳
+"Crown of the Pale King",殞皇之冠
+Surgebinders,浪湧縛者
+"Victario's Influence",維多里奧之絕響
+"Brinerot Whalers",布琳洛特岸行者
+"Mutewind Whispersteps",啞風輕步
+"Redblade Tramplers",紅刃蹂躪靴
+"Ylfeban's Trickery",伊芙班的詭計
+"Steppan Eard",絕地魔履
+"Winds of Change",昇華之風
+Skyforth,空向
+"Demigod's Dominance",昇華統御
+Wyrmsign,龍族印記
+"Geofri's Sanctuary",吉爾菲的聖殿
+"Seven-League Step",盟誓之跡
+"Heretic's Veil",異教面紗
+"Viper's Scales",毒蛇之度
+"The Beast Fur Shawl",獸毛披肩
+"Cloak of Tawm'r Isley",陶米兒艾斯理之袍
+"Veruso's Battering Rams",維盧梭攻城槌
+"Three-step Assault",三步突擊
+"Cospri's Will",卡斯普里意志
+"Wall of Brambles",荊棘之牆
+Kintsugi,金繕
+"Shavronne's Gambit",薛朗的詭計
+"Ezomyte Hold",艾茲麥之握
+Deidbellow,喪吼
+"Martyr's Crown",烈士之冠
+Hrimburn,李姆本
+"Death's Door",死亡大門
+"Grip of the Council",議會之握
+"Mind of the Council",議會之心
+Spiritskin,精神之膚
+Tinkerskin,焊匠之膚
+Rumblemarch,奮勇進軍
+"The Brass Dome",堅銅戰罩
+"Kitava's Thirst",奇塔弗之渴望
+Obscurantis,朦朧詭面
+Voidwalker,虛空行者
+"Shaper's Touch",塑者之觸
+"The Formless Flame",無形火炬
+"The Formless Inferno",無形煉獄
+"Voll's Vision",福爾的遠見
+"The Infinite Pursuit",無盡之距
+"The Red Trail",赤紅蹤跡
+"Malachai's Vision",瑪拉凱的遠見
+"The Snowblind Grace",雪盲恩惠
+"The Perfect Form",完美姿態
+"Skin of the Loyal",忠誠之膚
+"Skin of the Lords",君主之膚
+"The Brine Crown",海王冠冕
+"Gruthkul's Pelt",葛魯斯寇真皮
+"Abberath's Hooves",艾貝拉斯之蹄
+"Garukhan's Flight",卡洛翰之影
+"The Baron",男爵
+Haemophilia,逆凝之血
+"Ahn's Contempt",漢恩的蔑視
+"Prospero's Vault",普洛斯彼羅金庫
+"Speaker's Wreath",預言家桂冠
+"Inya's Epiphany",茵雅的頓悟
+"Volkuur's Guidance",福庫爾的指引
+"The Coming Calamity",災難臨頭
+"Eber's Unification",希伯的統治
+"Yriel's Fostering",伊瑞的栽培
+"The Tempest's Binding",風暴的拘束
+Dendrobate,箭毒蛙
+Allelopathy,相生相剋
+"The Embalmer",福馬林
+"Dialla's Malefaction",達拉的罪刑
+"Malachai's Mark",瑪拉凱之面
+Stormcharger,暴充
+Wraithlord,憤靈郡主
+Giantsbane,大屠殺
+"Inpulsa's Broken Heart",印卜薩的心碎
+"Memory Vault",回憶寶庫
+"Doedre's Skin",德瑞之膚
+"Ralakesh's Impatience",芮勒蓋許的急躁
+"Bubonic Trail",布巴尼克的線索
+Oskarm,厄斯根
+Bloodbond,血肉結合
+"Blasphemer's Grasp",褻瀆者之握
+Lightpoacher,光明獵盜者
+Tombfist,陵拳
+"Shroud of the Lightless",晦暗的屍布
+"Craiceann's Chitin",奎爾珊畸面
+"Craiceann's Pincers",奎爾珊堅鉗
+"Craiceann's Tracks",奎爾珊之跡
+"Craiceann's Carapace",奎爾珊硬甲
+Greedtrap,貪婪之跡
+"Fox's Fortune",狐毛之富
+"Gorgon's Gaze",戈耳戈的凝視
+"Doedre's Malevolence",德瑞的惡意
+"Farrul's Fur",費爾羅羽衣
+"Fenumus' Shroud",菲恩絲魘甲
+"Saqawal's Winds",斯卡沃之翼
+Windshriek,風嘯
+Indigon,地印之環
+"Farrul's Bite",費爾羅咥喙
+"Farrul's Pounce",費爾羅鋒爪
+"Farrul's Chase",費爾羅獵靴
+"Saqawal's Nest",斯卡沃之巢
+"Saqawal's Talons",斯卡沃鷹爪
+"Saqawal's Flock",斯卡沃之徒
+"Fenumus' Toxins",菲恩絲獠牙
+"Fenumus' Weave",菲恩絲夜織
+"Fenumus' Spinnerets",菲恩絲刺靴
+"Chains of Command",統帥之鏈
+"Mark of the Red Covenant",焰首支環
+Loreweave,智者織衫
+Sunspite,日咒
+Wildwrap,野變
+"Crystal Vault",水晶寶庫
+Frostferno,霜獄
+"Malachai's Awakening",瑪拉凱的覺醒
+Duskblight,日落破滅
+"Asenath's Chant",安賽娜絲的歌頌
+"Meginord's Vigour",梅吉諾德的朝氣
+Honourhold,榮耀之欲
+"Mask of the Spirit Drinker",魂飲化面
+"Slavedriver's Hand",奴役之手
+"Mask of the Stitched Demon",惡縫之面
+"Dance of the Offered",奉獻之舞
+Omeyocan,歐門悠根
+"Architect's Hand",構築之手
+Shadowstitch,縫影
+"Command of the Pit",闇核號令
+"Crown of the Tyrant",堂皇冠冕
+"Demon Stitcher",縫魔
+"Doryani's Delusion",多里亞尼的幻想
+"Geofri's Legacy",吉爾菲的遺產
+"Curtain Call",華麗閉幕
+"The Iron Fortress",鋼鐵壁壘
+"Hale Negator",強彈辯駁
+Lawbreaker,破法者
+"Ullr's Advent",烏勒爾之誕
+Worldcarver,巧奪天工
+"The Devouring Diadem",吞噬之冠
+Flamesight,炎視
+"The Queen's Hunger",女王的渴望
+Farsight,遠視
+Galesight,風視
+Thundersight,雷視
+Waycarver,刻劃精工
+"Storm's Gift",風暴之贈
+"The Eternity Shroud",永恆屍布
+"Vixen's Entrapment",雌狐的圈套
+"Mask of the Tribunal",審判莊嚴
+"March of the Legion",軍閥行軍
+"Offering to the Serpent",蛇皮獻祭
+"Garb of the Ephemeral",無常禮袍
+"Demigod's Immortality",昇華不朽
+"Aukuna's Will",奧庫納之意
+"Maw of Conquest",雛鳥之征
+"Wreath of Phrecia",費西亞之環
+"Fractal Thoughts",異想
+"The Stampede",潰逃之靴
+"Triad Grip",三弦指法
+"Machina Mitts",詭計魔手
+"Torchoak Step",火柳之步
+"Cowl of the Cryophile",酷寒斗篷
+"Rotting Legion",腐敗軍團
+"Cowl of the Thermophile",嗜炎斗篷
+"Cowl of the Ceraunophile",狂雷斗篷
+Breathstealer,偷息
+Sporeguard,毒孢守衛
+"Hands of the High Templar",聖宗神手
+"Crown of the Inward Eye",暗眼之冠
+"The Ivory Tower",象牙塔
+Painseeker,尋苦
+"Eye of Malice",邪眼
+Perfidy,背信忘義
+"Algor Mortis",阿爾戈．莫堤斯
+Assailum,刺殺
+"Beacon of Madness",瘋癲之引
+Battlehaste,迅戰
+"Doryani's Prototype",多里亞尼之型
+"Abhorrent Interrogation",悖逆審訊
+"Great Old One's Tentacles",偉大老者之觸
+Fleshcrafter,人體匠師
+"The Tempest's Liberation",暴雨之解放
+"Forbidden Shako",禁忌軍帽
+"Plume of Pursuit",追逐之羽
+"Usurper's Penance",篡位者的懺悔
+Corpsewalker,行屍走肉
+"Replica Lioneye's Paws",贗品．獅眼的鬥志
+"Replica Abyssus",贗品．深淵之喚
+"Replica Atziri's Acuity",贗品．阿茲里的捷思
+"Replica Kalisa's Grace",贗品．卡莉莎的優雅之影
+"Replica Ambu's Charge",贗品．安姆布的戰甲
+"Replica Shroud of the Lightless",贗品．晦暗的屍布
+"Maw of Mischief",頑皮裂齒獸
+"Replica Kaom's Heart",贗品．岡姆的壯志
+"Expedition's End",遠征之盡
+"Replica Perfect Form",贗品．完美姿態
+"Replica Loreweave",贗品．智者織衫
+"Replica Three-step Assault",贗品．三步突擊
+"Replica Allelopathy",贗品．相生相剋
+"Replica Alpha's Howl",贗品．極地之嗥
+"Replica Forbidden Shako",贗品．禁忌軍帽
+"Replica Restless Ward",贗品．無盡之衛
+"Replica Farrul's Fur",贗品．費爾羅羽衣
+"Replica Eternity Shroud",贗品．永恆屍布
+"Replica Alberon's Warpath",贗品．阿爾貝隆的征途
+"Replica Stampede",贗品．潰逃之靴
+"Replica Voidwalker",贗品．虛空行者
+"Replica Grip of the Council",贗品．議會之握
+"Replica Volkuur's Guidance",贗品．福庫爾的指引
+"Replica Leer Cast",贗品．共鳴之面
+Willclash,意志衝突
+"Replica Red Trail",贗品．赤紅蹤跡
+"Replica Bones of Ullr",贗品．烏勒爾之骨
+"Replica Inya's Epiphany",贗品．茵雅的頓悟
+"Replica Veil of the Night",贗品．夜幕
+"Mercenary's Lot",僱用兵之命
+Blunderbore,失誤之孔
+"The Admiral",上將
+"Crest of Desire",慾望之冠
+"The Fledgling",幼雛
+"Legacy of Fury",傳承憤怒
+"Hand of the Fervent",熱情之手
+"Ancient Skull",遠古骷髏
+"Viridi's Veil",維里迪的薄紗
+"Doppelgänger Guise",達佩爾甘格偽裝
+"Glimpse of Chaos",混沌一瞥
+Hateforge,怨恨鍛造
+"Temptation Step",誘惑步伐
+Faithguard,信仰守護
+"Cadigan's Crown",卡迪根皇冠
+Nightgrip,夜之觸
+"Medved's Challenge",梅德偉的挑戰
+"Vorana's March",沃拉娜的軍隊
+"Olroth's Charge",奧爾羅斯的衝刺
+"Stasis Prison",靜止牢籠
+Gravebind,幽墓束縛
+"Sudden Dawn",黎明驟起
+"Ceaseless Feast",無盡盛宴
+"Inextricable Fate",無法掙脫之命
+"Black Zenith",漆黑極頂
+"Echoes of Creation",創造迴聲
+"Kaom's Spirit",岡姆之魂
+"Soul Ascension",靈魂昇華
+Ghostwrithe,鬧鬼
+Thrillsteel,顫慄之鋼
+Elevore,愛勒弗
+"Annihilation's Approach",殲滅的方法
+"Entropic Devastation",熵毀滅
+Dawnstrider,晨行者
+"Sandstorm Visage",沙瀑面紗
+"Wilma's Requital",威爾瑪的報復

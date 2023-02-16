@@ -233,7 +233,7 @@ Dynamo,蓄电
 "Lust for Carnage",汲血者
 "Life Leech Speed and Attack Speed",生命偷取速度和攻击速度
 "Flash Freeze",急速冻结
-"Cold Mastery",冰霜精通
+"Cold Mastery",冰霜专精
 "Weapon Cold Damage",武器冰霜伤害
 "Winter Spirit",物冰转换
 MARAUDER,野蛮人
@@ -422,7 +422,7 @@ Gemini,双灵刃
 "Physical Bow Damage",弓类物理伤害
 "Deadly Draw",致命箭矢
 "Bow Damage and Critical Strike Chance",弓类伤害和暴击率
-"Bow Damage and Attack Speed",弓的伤害和攻击速度
+"Bow Damage and Attack Speed",弓类伤害和攻击速度
 "Bow Damage and Critical Strike Multiplier",弓类伤害和暴击伤害加成
 "King of the Hill",强弩之弦
 "Master Fletcher",飞矢宗师
@@ -432,7 +432,7 @@ Gemini,双灵刃
 "Hunter's Gambit",猎人之势
 "Bow Damage",弓类伤害
 Fervour,激情
-"Evasion Per Frenzy Charge",狂怒球闪避
+"Evasion Per Frenzy Charge",每个狂怒球的闪避值
 "Frenzy Charge Duration",狂怒球持续时间
 Frenetic,狂热
 "Blood Drinker",汲血者
@@ -529,7 +529,7 @@ Disemboweling,开肠剖肚
 "Melee Critical Strike Chance",近战暴击率
 "Melee Critical Mastery",近战暴击专精
 "Damage Over Time and Life Regeneration",持续伤害与生命回复
-"Damage Over Time",持续伤害
+"Damage Over Time",持续伤害加成
 "Growth and Decay",成长与衰变
 "Chaos Mastery",混沌专精
 "Lethal Assault",王牌射手
@@ -855,7 +855,7 @@ Malediction,恶语术
 "Commander of Darkness",黑暗统御者
 "Minion Damage, Cast Speed",召唤生物伤害、施法速度
 Plaguebringer,疫病之源
-"Corpse Pact",灵枢契约
+"Corpse Pact",灵柩契约
 "Trap Damage and Cooldown Recovery",陷阱伤害与冷却回复
 "Hasty Reconstruction",迅速重建
 "Minion Damage, Aura Effect",召唤生物伤害、光环效果
@@ -947,7 +947,7 @@ Overcharged,超载
 "Brand Damage and Range",烙印伤害和范围
 "Brand Frequency and Duration",烙印激活速率和持续时间
 Runesmith,符文工匠
-"Brand Mastery",烙印宗师
+"Brand Mastery",烙印专精
 "Light Eater",光芒吞噬者
 "Channelling Speed",持续吟唱速度
 Lucidity,明朗
@@ -996,7 +996,7 @@ Steadfast,坚韧不拔
 "Channelling Attack Speed and Stun Avoidance",吟唱攻击速度和眩晕回避率
 "Unpredictable Offensive",攻其不备
 "Impale Effect",穿刺效果
-"Impale Chance",穿刺几率
+"Impale Chance",点燃几率
 "Swift Skewering",快速穿刺
 "Impale Mastery",穿刺专精
 "Damage and Critical Strikes against Blinded Enemies",对目盲敌人的伤害和暴击率
@@ -1117,7 +1117,7 @@ Bannerman,旗手
 "Ignite Resistance",点燃抗性
 "Shock Resistance",感电抗性
 "Anointed Flesh",祝圣之体
-"Chaos Damage and Withered Expiry Rate",混沌伤害和枯萎衰退速率
+"Chaos Damage and Withered Expiry Rate",混沌伤害和死亡凋零衰退速率
 "Chaos Damage Penetration",混沌伤害穿透
 "Wand Elemental Damage and Penetration",法杖元素伤害和穿透
 "Combat Control",战斗操控
@@ -1179,8 +1179,8 @@ Panopticon,统揽全局
 "Axe Attack Speed and Rage",斧类攻击速度和怒火
 "Physical Bow Damage, Chance to Bleed and Faster Bleed",弓类物理伤害，出血和快速流血几率
 "Sword Damage and Melee Range",剑类伤害和近战范围
-"Damage if Consumed a Corpse",消耗灵枢伤害
-"Corpse Life",灵枢生命
+"Damage if Consumed a Corpse",消耗灵柩伤害
+"Corpse Life",灵柩生命
 "Corpses Mastery",灵枢专精
 Undertaker,送葬者
 "Weapon Fire Damage and Ignite Chance",武器的火焰伤害和点燃几率
@@ -1373,7 +1373,7 @@ Renewal,复兴
 "Rotten Claws",腐烂之爪
 "Call to the Slaughter",屠夫呼唤
 "Skeletal Atrophy",魔侍凋零
-"Hulking Corpses",肿胀灵枢
+"Hulking Corpses",肿胀灵柩
 "Vicious Bite",恶毒撕咬
 "Primordial Bond",原初之缚
 Blowback,还击
@@ -1756,7 +1756,7 @@ Goliath,巨人之力
 "Chance to Ignite",点燃几率
 "Lightning Ailment Effect",闪电异常状态效果
 "Avoid Interruption while Casting and Elemental Resistances",施法免打断和元素抗性
-"Chance for Extra Fork Projectile",额外投射物分叉几率
+"Chance for Extra Fork Projectile",额外投射物分裂几率
 "Avoid Status Ailments",避免异常状态
 "Master of Blades",刀剑之主
 "Mana and Mana on Kill",魔力和击败获取魔力
@@ -1867,7 +1867,7 @@ Instinct,本能
 "Assured Strike",十拿九稳
 "Impale Chance with Two Handed Weapons",双手武器穿刺几率
 "Infused Flesh",血肉灌注
-"Forking Angle",分叉角度
+"Forking Angle",分裂角度
 "Life Flask Charge Gain",生命药剂充能获取
 "Mana Flask Charge Gain",生命药剂充能获取
 "Replenishing Remedies",重装拯救
@@ -1885,7 +1885,7 @@ Hearty,热忱
 "Leech Mastery",偷取专精
 "Projectile Mastery",投射物专精
 "Caster Mastery",施法专精
-"Charge Mastery",冲锋专精
+"Charge Mastery",充能专精
 "Critical Mastery",暴击专精
 "Link Mastery",连接专精
 "Damage Over Time Mastery",持续伤害专精
@@ -1917,3 +1917,95 @@ Introspection,内省
 "Doedre's Apathy",德瑞的冷漠
 "Master of the Maelstrom",大漩涡之主
 "Aggressive Defence",以攻为守
+"Minion Life",召唤生物生命
+"Minion Life and Chaos Resistance",召唤生物生命和混沌抗性
+"Minion Damage",召唤生物伤害
+"Lightning Critical Strike Multiplier",闪电暴击伤害加成
+"Lightning Damage",闪电伤害
+"Fire Damage",火焰伤害
+"Cold Damage",冰霜伤害
+"Bow Accuracy",弓的命中
+Precision,精准
+"Minion Instability",复仇之灵
+Conduit,能量连接
+Acrobatics,移形换影
+"Iron Reflexes",霸体
+"Resolute Technique",坚毅之心
+"Unwavering Stance",烈士意志
+"Chaos Inoculation",异灵之体
+"Eldritch Battery",异能魔力
+"Blood Magic",祭血术
+"Pain Attunement",苦痛灵曲
+"Elemental Equilibrium",元素之相
+"Iron Grip",钢铁之握
+"Point Blank",零点射击
+"Arrow Dancing",箭矢闪跃
+"Ancestral Bond",先祖魂约
+"Ghost Reaver",灵能护体
+"Vaal Pact",瓦尔冥约
+"Zealot's Oath",狂热誓言
+"Trap and Mine Damage",陷阱和地雷伤害
+"Avatar of Fire",火之化身
+"Mind Over Matter",心灵升华
+Entropy,乱世
+"Chaos Damage",混沌伤害
+Corruption,腐化
+"Defiled Forces",污秽大军
+Pierce,投射物穿透
+"Life Leech",偷取生命
+"Mana Leech",魔力偷取
+"Fortification Duration",强化持续时间
+"High Voltage",高压
+"Armour, Stun Threshold",护甲，晕眩阈值
+Untiring,不知疲倦
+"Far Shot",狙击
+"Unholy Authority",邪恶君王
+"Evasion and Energy Shield, Frenzy Charge Duration",闪避和能量护盾，狂乱冲锋持续时间
+Polymath,博学者
+"Evasion and Energy Shield, Movement Speed",闪避和能量护盾，移动速度
+"Evasion and Energy Shield, Attack and Cast Speed",闪避和能量护盾，攻击和施法速度
+Spellbreaker,破魔者
+"Evasion and Energy Shield, Energy Shield Leech",闪避和能量护盾，能量盾偷取
+"One Step Ahead",快人一步
+"Evasion and Energy Shield, Damage",闪避和能量护盾，伤害
+"Evasion and Energy Shield, Energy Shield Recharge",闪避和能量护盾，能量护盾充能
+Necromancer,召唤师
+"Soul Drinker",灵魂饮者
+"Damage Over Time Multiplier",持续伤害加成
+"Elemental Focus",元素集中
+Overprepared,过度准备
+"Elemental Overload",元素超载
+"Perfect Agony",完美苦痛
+"Crimson Dance",玫红之舞
+Runebinder,符文绑定者
+"Wicked Ward",恶毒结界
+Farsight,远视
+"Life and Mana on Kill against Cursed Enemies",击败被诅咒的敌人获取生命和魔力
+"Last Rites",最后仪式
+"Minion Critical Strike Chance",召唤生物暴击率
+"Call to Arms",召集部队
+"Eternal Youth",青春永驻
+"Glancing Blows",斗转星移
+"Wind Dancer",风舞者
+"The Agnostic",惘信者
+"Supreme Ego",无上自我
+"Imbalanced Guard",失衡卫士
+"The Impaler",穿刺者
+"Curse Mana Reservation Efficiency",诅咒魔力保留效率
+"Malicious Intent",不善意图
+"Physical Damage Over Time Multiplier",持续物理伤害加成
+Magebane,法师克星
+"Iron Will",钢铁意志
+Solipsism,唯我独尊
+"Ghost Dance",幽灵舞步
+"Divine Shield",神威之盾
+"Versatile Combatant",多面好手
+"Lethe Shade",忘川之影
+"Precise Technique",技艺精湛
+"Bow Attack Speed and Phasing",弓类攻击速度和迷踪
+"Curse Mana Cost",诅咒魔力消耗
+"Hex Area of Effect",魔蛊效果区域
+"Mana on Kill against Cursed Enemies",击败被诅咒的敌人获取魔力
+"Steeped in the Profane",沉溺于亵渎
+"Minion Critical Strike Multiplier",召唤生物暴击系数
+"Feast of Flesh",血肉盛宴

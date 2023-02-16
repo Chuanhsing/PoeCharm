@@ -7,8 +7,8 @@
 "(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)","( 无视抗性表示你的伤害不被任和抗性所影响 )"
 "(You can only take one of the three Ranger Ascendancy passives)","( 你只能在游侠的三个升华职业中选择一个 )"
 "(You can only take one of the three Marauder Ascendancy passives)","( 你只能在野蛮人的三个升华职业中选择一个 )"
-"(Maximum Rage is 50)","(最大怒火为 50 层)"
-"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","(如果你近期没有被击中或获得怒火，你每0.5秒失去1层怒火)"
+"(Maximum Rage is 50)","(最大怒气为 50 层)"
+"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","(由于近期你没有被击中或获得怒气，正在以 0.5 每层的速度失去怒气)"
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance)","( 站在奉献地面上的友军每秒回复一定百分比的最大生命 )"
 "(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(被点燃、灼烧、冰缓、冰冻、易碎、感电和精疲力尽统称为元素异常状态)
 "(You can only take one of the three Shadow Ascendancy passives)","( 你只能在暗影的三个升华职业中选择一个 )"
@@ -21,7 +21,7 @@
 "(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)","( 流血造成持续物理伤害, 伤害取决于技能初始的物理伤害。移动时受到的流血伤害增加 )"
 "(Blinded enemies have their Chance to Hit halved)","( 被致盲的敌人命中率减半 )"
 "(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)","（死亡凋零会使受到的混沌伤害提高 6%，最多造成 15 次)"
-"(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)","(冰冻将完全冻结敌人, 使其无法行动。冰冻的持续长度取决于命中时造成的冰霜伤害量)"
+"(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)","(冰冻将完全冻结敌人, 使其无法移动。冰冻的持续长度取决于命中时造成的冰霜伤害量)"
 "(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)","(受你嘲讽的敌人只会攻击你, 并对你以外的其他人造成额外减少 10% 的总伤害, 嘲讽持续3秒)"
 "Enemies have -12% to Total Physical Damage Reduction against your Hits","敌人对抗你的击中时，总物理伤害减免 -12%"
 "Enemies have -5% to Total Physical Damage Reduction against your Hits","敌人对抗你的击中时，总物理伤害减免 -5%"
@@ -93,7 +93,7 @@
 "(Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage)","（【疲惫】的敌人总移动速度额外减慢 20%，造成的总伤害额外降低 20 %）"
 "(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)",（物理伤害减免对抗猛攻击中效果会降低，但不会变为负值）
 "(Armour is treated as double value, only for calculating damage mitigation)",（护甲被视为双倍数值，只用于缓阻伤害）
-"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)","(取决于造成的冰霜伤害量, 冰缓能至多使敌人行动速度降低30%并持续2秒)"
+"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)","(取决于造成的冰霜伤害量, 冰缓能至多使敌人减速30%并持续2秒)"
 "(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand)",（由烙印技能和烙印触发的技能造成的暴击都为烙印暴击）
 "(Effects cannot be slowed below 25% of their normal expiry rate)","（效果无法低于正常消退速率的 25%）"
 "(You are in Blood Stance by default)",（你默认为血姿态）
@@ -186,3 +186,5 @@ Pitfighter,深渊斗士
 "(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","（目盲状态会导致命中值和闪避值在接下来 4 秒总降 20%）"
 "(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds)","（承受的击中伤害按照每层护体效果总降 1%。护体最多 20 层，它持续 5 秒）"
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","（友军在你产生的奉献地面上按照百分比每秒再生生命上限，并且他们身上的诅咒效果降低 50%）"
+"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)",（承受的击中伤害按照每层护体效果总降1%。最多20层护身。护身持续6秒）
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)",（肾上腺素会增加100%伤害，提高25%攻击速度、施法速度和移动速度，并且受到的物理伤害额外减少10%。如果你已经有肾上腺素就不能再获得肾上腺素。）

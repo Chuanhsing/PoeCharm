@@ -68,7 +68,7 @@
 "+5% Chance to Block Attack Damage while holding a Shield","持盾牌时攻击伤害格挡率 +5%"
 "8% increased Attack Damage while holding a Shield","持盾牌时造成的攻击伤害提高 8% "
 "Attack Skills deal 8% increased Damage with Ailments while holding a Shield","持盾牌时，攻击技能造成的异常状态伤害提高 8%"
-"10% increased Attack Damage while holding a Shield","持盾牌时造成的攻击伤害提高 10% "
+"10% increased Attack Damage while holding a Shield","持盾牌时造成的攻击伤害提高 10%"
 "3% increased Attack Speed while holding a Shield","持盾牌时攻击速度提高 3%"
 "Attack Skills deal 10% increased Damage with Ailments while holding a Shield","持盾牌时，攻击技能造成的异常状态伤害提高 10%"
 "20% increased Attack Damage while holding a Shield","持盾牌时造成的攻击伤害提高 20% "
@@ -294,7 +294,7 @@
 "8% increased Area of Effect","效果区域扩大 8%"
 "40% increased Trap Trigger Area of Effect","陷阱触发范围扩大 40%"
 "+1 to Maximum Endurance Charges","耐力球数量上限 +1"
-"Regenerate 0.2% of Life per second per Endurance Charge","生命按照每个耐力球每秒再生 0.2% "
+"Regenerate 0.2% of Life per second per Endurance Charge","生命按照每个耐力球每秒再生 0.2%"
 "18% increased Endurance Charge Duration","耐力球持续时间延长 18%"
 "You take 20% reduced Extra Damage from Critical Strikes","受到的暴击伤害降低 20%"
 "20% reduced Effect of Curses on you","你受到的诅咒效果降低 20%"
@@ -343,7 +343,7 @@
 "5% increased Physical Damage per Endurance Charge","每个耐力球可使物理伤害提高 5%"
 "5% increased Fire Damage per Endurance Charge","每个耐力球可使火焰伤害提高 5%"
 "+10% to Fire Resistance","+10% 火焰抗性"
-"Regenerate 0.5% of Life per second per Endurance Charge","生命按照每个耐力球每秒再生 0.5% "
+"Regenerate 0.5% of Life per second per Endurance Charge","生命按照每个耐力球每秒再生 0.5%"
 "3% more Damage for each Endurance Charge lost recently, up to 15%","近期内每失去一个耐力球就使总伤害额外提高 3%，最大 15%"
 "25% increased Damage with Axes","斧类攻击的伤害提高 25%"
 "40% increased Global Evasion Rating when on Full Life","满血时最大闪避值提高 40%"
@@ -679,7 +679,7 @@
 "6% increased Cast Speed","施法速度提高 6%"
 "+12% to Critical Strike Multiplier for Spells","+12% 法术暴击伤害加成"
 "4% increased Movement Speed","移动速度提高 4%"
-"15% chance to Avoid interruption from Stuns while Casting","施法时有 15% 的几率免疫晕眩打断"
+"15% chance to Avoid interruption from Stuns while Casting","施放时有 15% 几率避免眩晕打断"
 "15% increased Critical Strike Chance for Spells","法术暴击率提高 15%"
 "3% increased maximum Life","生命上限提高 3%"
 "10% increased Life Recovery from Flasks","药剂给予的生命恢复提高 10%"
@@ -789,8 +789,8 @@
 "+8% Chance to Block Projectile Attack Damage","+8% 对投射物伤害格挡几率"
 "+4% Chance to Block Attack Damage while holding a Shield","持盾牌时攻击伤害格挡率 +4%"
 "2% increased Movement Speed","移动速度提高 2%"
-"8% chance to Avoid being Stunned","8% 的几率避免被晕眩"
-"20% chance to Avoid being Stunned","20% 的几率避免被晕眩"
+"8% chance to Avoid being Stunned","8% 几率避免被晕眩"
+"20% chance to Avoid being Stunned","20% 几率避免被晕眩"
 "20% increased Stun and Block Recovery","晕眩回复和格挡回复提高 20%"
 "20% increased Flask Charges gained","药剂充能获取提高 20%"
 "+20 to Strength and Intelligence","+20 力量和智慧"
@@ -870,7 +870,7 @@
 "Attack Skills deal 20% increased Damage with Ailments while Dual Wielding","双持时，攻击技能造成的异常状态伤害提高 20%"
 "10% chance to gain a Frenzy Charge when you Block","你格挡时有 10% 几率获得 1 个狂怒球"
 "12% increased maximum Mana","魔力上限提高 12%"
-"25% chance to Avoid interruption from Stuns while Casting","施法时有 25% 的几率免疫晕眩打断"
+"25% chance to Avoid interruption from Stuns while Casting","施放时有 25% 几率避免眩晕打断"
 "+20 to Strength and Dexterity","+20 力量和敏捷"
 "4% increased Projectile Damage","投射物伤害提高 4%"
 "14% increased Chaos Damage","混沌伤害提高 14%"
@@ -970,7 +970,7 @@
 "30% increased Projectile Damage","投射物伤害提高 30%"
 "50% more Global Accuracy Rating","全局命中值额外提高 50%"
 "100% increased Blink Arrow and Mirror Arrow Cooldown Recovery Speed","【闪现射击】和【魅影射击】冷却回复速度提高 100%"
-"Skills Chain +1 times","技能可以连锁 +1 次"
+"Skills Chain +1 times","技能可以连锁弹射 +1 次"
 "Projectiles deal 10% more Damage for each remaining Chain","每保留有 1 根锁链，则投射物总伤害额外提高 10%"
 "+200 to Accuracy Rating","+200 命中值"
 "50% increased Area of Effect","范围效果扩大 50%"
@@ -1088,7 +1088,7 @@
 "+1000 to Accuracy Rating","+1000 命中值"
 "5% increased Damage per Endurance Charge","每个耐力球可使伤害提高 5%"
 "15% increased Evasion Rating and Armour","闪避值与护甲提高 15%"
-"20% increased Taunt Duration","嘲讽持续时间延长 20% "
+"20% increased Taunt Duration","嘲讽持续时间延长 20%"
 "You have Fortify",获得护体效果
 "10% increased Attack Speed while you have Fortify","护体状态下，攻击速度提高 10%"
 "+1000 to Armour and Evasion Rating while you have Fortify","护体时护甲和闪避值 +1000"
@@ -1097,7 +1097,7 @@
 "6% reduced Damage taken if you've Taunted an Enemy Recently","近期内你若有成功嘲讽敌人，则受到的伤害降低 6%"
 "Regenerate 2% of Life per second if you've Taunted an Enemy Recently","近期内你若有嘲讽敌人，则每秒回复 2% 生命"
 "Enemies Taunted by you deal 10% less Damage with Hits and",被你嘲讽的敌人攻击其他目标时，造成的击中和
-"Enemies Taunted by you take 20% increased Damage","受到你嘲讽的敌人所承受的伤害提高 20% "
+"Enemies Taunted by you take 20% increased Damage","受到你嘲讽的敌人所承受的伤害提高 20%"
 "8% increased Impale Effect","穿刺的效果提高 8%"
 "10% increased Warcry Cooldown Recovery Speed","战吼冷却回复速度提高 10%"
 "20% increased Warcry Duration","战吼持续时间延长 20%"
@@ -1121,7 +1121,7 @@
 "30% increased Trap Damage","陷阱伤害提高 30%"
 "30% increased Mine Damage","地雷伤害提高 30%"
 "Can have up to 2 additional Traps placed at a time","同时可以放置最多 2 个额外陷阱"
-"10% chance to Avoid Elemental Ailments","10% 的几率避免元素异常状态"
+"10% chance to Avoid Elemental Ailments","10% 几率避免元素异常状态"
 "10% increased Duration of Elemental Ailments on Enemies","敌人受到的元素异常状态时间延长 10%"
 "16% increased Elemental Damage","元素伤害提高 16%"
 "75% increased Weapon Critical Strike Chance while Dual Wielding","双持攻击时武器暴击率提高 75%"
@@ -1134,7 +1134,7 @@
 "24% increased Evasion Rating","闪避值提高 24%"
 "+1% to maximum Cold Resistance","+1% 冰霜抗性上限"
 "+3% chance to Evade Attacks","+3% 闪避攻击"
-"8% chance to Avoid Elemental Ailments","8% 的几率避免元素异常状态"
+"8% chance to Avoid Elemental Ailments","8% 几率避免元素异常状态"
 "Minions explode when reduced to Low Life, dealing 33% of their maximum Life as Fire Damage to surrounding Enemies","召唤生物在低血时会爆炸，对周围敌人造成自身最大生命 33% 的火焰伤害"
 "Maximum Life becomes 1, Immune to Chaos Damage","最大生命上限变成 1，免疫混沌伤害"
 "10% increased Movement Speed","移动速度提高 10%"
@@ -1480,7 +1480,7 @@
 "Regenerate 1.5% of Energy Shield per second","每秒回复 1.5% 能量护盾"
 "Auras from your Skills grant 2% increased Attack and Cast",你技能的光环可使你和周围友军的攻击和施法
 "10% chance to Fortify on Melee hit","近战击中时有 10% 几率获得护体效果"
-"Enemies Taunted by you take 10% increased Damage","受到你嘲讽的敌人所承受的伤害提高 10% "
+"Enemies Taunted by you take 10% increased Damage","受到你嘲讽的敌人所承受的伤害提高 10%"
 "25% chance to Taunt on Hit","击中时有 25% 几率嘲讽敌人"
 "20% chance to Impale Enemies on Hit with Attacks","攻击击中时有 20% 几率穿刺敌人"
 "You and nearby Allies have 8% increased Movement Speed","你和周围友军的移动速度提高 8%"
@@ -1539,7 +1539,7 @@
 "10% increased Area of Effect while wielding a Staff","持长杖时效果区域扩大 10%"
 "6% increased Area of Effect while wielding a Staff","持长杖时范围效果扩大 6%"
 "8% increased Cast Speed while wielding a Staff","持长杖时施法速度提高 8%"
-"3% increased Area of Effect per Power Charge","每个暴击球可使效果区域扩大 3%"
+"3% increased Area of Effect per Power Charge","每个暴击球可使效果区域的扩大 3%"
 "12% increased Spell Damage while holding a Shield","法术伤害在持盾牌时提高 12%"
 "10% increased Spell Damage while holding a Shield","持盾牌时法术伤害提高 10%"
 "40% increased Energy Shield from Equipped Shield","从盾牌获取的能量护盾提高 40%"
@@ -1639,11 +1639,11 @@
 "14% increased Damage with Swords","剑类攻击的伤害提高 14%"
 "14% increased Damage with Ailments from Attack Skills while wielding a Sword","持剑时，攻击技能造成的异常状态伤害提高 14%"
 "10% increased Stun Duration with Two Handed Melee Weapons on Enemies","双手近战武器攻击造成的晕眩时间延长 10%"
-"14% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 14% "
+"14% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 14%"
 "Attack Skills deal 14% increased Damage with Ailments while holding a Shield","持盾牌时，攻击技能造成的异常状态伤害提高 14%"
-"12% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 12% "
-"10% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 10% "
-"30% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 30% "
+"12% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 12%"
+"10% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 10%"
+"30% increased Physical Attack Damage while holding a Shield","持盾牌时攻击造成的物理伤害提高 30%"
 "Attack Skills deal 30% increased Damage with Ailments while holding a Shield","持盾牌时，攻击技能造成的异常状态伤害提高 30%"
 "5% chance to gain an Endurance Charge on Kill while holding a Shield","持盾牌时有 5% 的几率在击败敌人时获得耐力球"
 "12% increased Damage with Staves","长杖攻击的伤害提高 12%"
@@ -1701,7 +1701,7 @@
 "Attack Skills have +1 to maximum number of Summoned Ballista Totems","攻击技能获得 +1 召唤弩炮图腾数量上限"
 "Regenerate 0.5% of Mana per second for each Summoned Totem","每个召唤的图腾使你每秒回复 0.5% 魔力"
 "You and your Totems Regenerate 1% of Life per second for each Summoned Totem","每个召唤的图腾都使你和你的图腾每秒回复 1% 生命"
-"Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther","投射物攻击近距离目标时造成的伤害最多总增 30%，但攻击远距离目标时伤害则会总降"
+"Projectile Attack Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther","投射物刚射出时攻击击中造成最多 30% 额外伤害，随着射出距离越远，投射物造成伤害越少"
 "20% chance for Flasks you use to not consume Charges","你使用药剂时有 20% 的几率不消耗次数"
 "You and nearby Allies deal 30% increased Damage","你和周围友军的伤害提高 30%"
 "15% chance for Flasks you use to not consume Charges","你使用药剂时有 15% 的几率不消耗次数"
@@ -1716,7 +1716,7 @@
 "15% chance to Shock","闪电伤害击中时有 15% 的几率使敌人受到感电效果影响"
 "24% increased Lightning Damage with Attack Skills","攻击技能的闪电伤害提高 24%"
 "10% increased Lightning Damage with Attack Skills","攻击技能的闪电伤害提高 10%"
-"Impales you inflict last 1 additional Hit","你施加的【穿刺】效果获得1额外最大叠层"
+"Impales you inflict last 1 additional Hit","你施加的【穿刺】效果持续 1 次额外击中"
 "Cover Rare or Unique Enemies in Ash for 10 Seconds on Hit","击中时用灰烬包裹稀有或传奇敌人 10 秒"
 "Warcries Debilitate Enemies for 1 second",战吼使敌人【疲惫】1秒
 "Gain Convergence when you Hit a Unique Enemy, no more than once every 8 seconds","你击中传奇敌人时获得汇聚效果，每 8 秒触发一次"
@@ -1855,7 +1855,7 @@
 "15% chance to gain a Frenzy Charge when you Block","你格挡时有 15% 的几率获得 1 个狂怒球"
 "15% chance to gain an Endurance Charge when you Block","格挡时 15% 的几率获得耐力球"
 "8% increased Attack Damage while Dual Wielding","双持武器时，攻击伤害提高 8%"
-"4% chance to Avoid Elemental Ailments","4% 的几率避免元素异常状态"
+"4% chance to Avoid Elemental Ailments","4% 几率避免元素异常状态"
 "Minions have 6% increased Attack Speed","召唤生物的攻击速度提高 6%"
 "Minions have 4% chance to deal Double Damage","召唤生物有 4% 的几率造成双倍伤害"
 "10% increased Global Critical Strike Chance","攻击和法术暴击率提高 10%"
@@ -1882,7 +1882,7 @@
 "Inherent loss of Rage is 20% slower","怒火固有损耗减慢 20%"
 "Mace or Sceptre Attacks deal 8% increased Damage with Hits and Ailments","锤类或短杖攻击造成的击中和异常状态伤害提高 8%"
 "3% increased Attack Speed with Maces or Sceptres","锤类或短杖的攻击速度加快 3%"
-"Withered you Inflict expires 10% slower","你施加的【枯萎】耗竭速度减慢 10%"
+"Withered you Inflict expires 10% slower","你施加的死亡凋零耗竭速度减慢 10%"
 "23% increased Damage over Time","持续伤害提高 23%"
 "+6% to Chaos Damage over Time Multiplier","+6% 混沌持续伤害加成"
 "+12% to Chaos Resistance","+12% 混沌抗性"
@@ -1900,7 +1900,7 @@
 "Hexes you inflict have +10 to maximum Doom","你施加魔蛊的最大灭能 +10"
 "Hex Skills have 80% increased Skill Effect Duration","魔蛊技能的技能效果持续时间提高 80%"
 "40% increased Area of Effect of Hex Skills","魔蛊技能的效果区域扩大 40%"
-"50% reduced Projectile Fork angle","投射物分叉角度缩小 50%"
+"50% reduced Projectile Fork angle","投射物分裂角度缩小 50%"
 "+3% chance to Evade Attack Hits","+3% 闪避攻击击中率"
 "Sword Attacks deal 10% increased Damage with Hits and Ailments","剑类攻击造成的击中和异常状态伤害提高 10%"
 "+25% to Critical Strike Multiplier with Swords","剑类攻击 +25% 暴击伤害加成"
@@ -1915,7 +1915,7 @@
 "100% increased total Recovery per second from Life Leech","生命偷取的每秒总恢复量提高 100%"
 "Guard Skills have 25% increased Duration","防卫技能的持续时间延长 25%"
 "Recover 20% of Mana over 1 second when you use a Guard Skill","你使用防卫技能时，在 1 秒内回复 20% 魔力"
-"10% of Damage taken Recouped as Mana","将承受伤害的 10% 吸纳为魔力"
+"10% of Damage taken Recouped as Mana",将所受伤害的10%吸纳为魔力
 "1% increased Damage per 1% Chance to Block Attack Damage","每有 1% 攻击格档率，伤害提高 1%"
 "10% reduced Flask Charges used","药剂充能使用降低 10%"
 "30% increased Global Physical Damage","物理伤害提高 30%"
@@ -1990,7 +1990,7 @@
 "Mark Skills have 25% increased Cast Speed","咒印技能的施法速度加快 25%"
 "75% increased Effect of your Marks","你的咒印效果效果提高 75%"
 "25% less Damage taken from other Enemies near your Marked Enemy","若有敌人被你施加咒印，则它周围的敌人对你造成的伤害总降 25%"
-"Projectiles have 30% chance to be able to Chain when colliding with terrain","投射物击中地面有 30% 的几率产生连锁效果"
+"Projectiles have 30% chance to be able to Chain when colliding with terrain","投射物击中地形有 30% 的几率产生连锁效果"
 "Skills fire 2 additional Projectiles","技能会发射 2 枚额外投射物"
 "15% increased Mirage Archer Duration","幻影弓手持续时间延长 15%"
 "Gain 1 Gale Force when you use a Skill\n15% increased Effect of Tailwind on you per Gale Force","你使用技能时获得 1 个飓风之力\n每个飓风之力使你身上的提速尾流效果提高 15%"
@@ -2006,7 +2006,7 @@
 "15% increased Power Charge Duration","暴击球的持续时间延长 15%"
 "Cursed Enemies you or your Minions Kill have a 40% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","你或你的召唤生物击败的受诅咒敌人有 40% 的几率爆炸，造成等同该敌人最大生命四分之一的混沌伤害"
 "Regenerate 2% of Energy Shield per second for each\nEnemy you or your Minions have Killed Recently, up to 10% per second","近期内，你或你的召唤生物每击败一个敌人\n则每秒回复你 2% 能量护盾，每秒最多 10%"
-"6% increased Area of Effect per Power Charge","每个暴击球可使效果区域扩大 6%"
+"6% increased Area of Effect per Power Charge","每个暴击球可使效果区域的扩大 6%"
 "6% increased Damage per Power Charge","每个暴击球可使伤害提高 6%"
 "15% more Chaos Damage","总混沌伤害总增 15%"
 "15% more Cold Damage","总冰霜伤害总增 15%"
@@ -2034,7 +2034,7 @@
 "2% increased Attack and Cast Speed for each corpse Consumed Recently, up to a maximum of 200%","近期内每消耗一具灵枢，都使攻击和施法速度加快 2%，最多 200%"
 "Base Critical Strike Chance for Attacks with Weapons is 8%","基础武器暴击率为 8%"
 "20% more Damage with Hits and Ailments against Unique Enemies","对抗传奇敌人时，击中和异常状态伤害总增 20%"
-"20% increased Attack Speed while Leeching","偷取时攻击速度提高 20%"
+"20% increased Attack Speed while Leeching","生命偷取时攻击速度提高 20%"
 "10% reduced Damage taken while Leeching","偷取时受到的伤害降低 10%"
 "100% increased Maximum Recovery per Life Leech","从生命偷取中获得的最大总恢复量提高 100%"
 "+4 to Melee Strike Range","+4 近战打击范围"
@@ -2050,18 +2050,18 @@
 "30% increased effect of Non-Curse Auras from your Skills","你技能的非诅咒类光环效果提高 30%"
 "When you create a Banner, it gains 40% of the Stages of your placed Banner","当你创建旗帜时，它会获得你当前放置旗帜等阶的 40%"
 "You and Allies affected by your placed Banners Regenerate 0.1% of\nLife per second for each Stage","你和友军受到你放置的旗帜影响，\n每层每秒再生 0.1% 生命"
-"Gain Adrenaline for {0} seconds when you reach Low Life if you","若你没有【肾上腺素】且进入低血状态，"
+"Gain Adrenaline for {0} seconds when you reach Low Life if you",若你没有【肾上腺素】且进入低血状态，
 "do not have Adrenaline","则获得【肾上腺素】，持续 20 秒"
-"Recover 25% of Life when you gain Adrenaline","当你获得【肾上腺素】时恢复25% 生命"
-"If you've Impaled an Enemy Recently, you","若你近期内穿刺过敌人，"
-"and nearby Allies have +1000 to Armour","则你和周围友军获得1000护甲"
-"You and nearby Allies deal 6 to 12 added Physical Damage for","敌人身上每有一层穿刺效果，"
-"each Impale on Enemy","则你和周围友军攻击附加6至12物理伤害"
+"Recover 25% of Life when you gain Adrenaline","当你获得【肾上腺素】时回复 25% 生命"
+"If you've Impaled an Enemy Recently, you",若你近期内穿刺过敌人，
+"and nearby Allies have +1000 to Armour",则你和周围友军获得1000护甲
+"You and nearby Allies deal 6 to 12 added Physical Damage for",敌人身上每有一层穿刺效果，
+"each Impale on Enemy",则你和周围友军攻击附加6至12物理伤害
 "+10% to Global Critical Strike Multiplier","+10% 攻击和法术暴击伤害加成"
 "1% increased Critical Strike Chance per point of Strength or Intelligence, whichever is lower","在力量和智慧中取低的那一个，每一点都使暴击率提高 1%"
 "Consecrated Ground you create applies 15% increased Damage taken to Enemies","你创造的【奉献地面】可以使敌人承受的伤害提高 15%"
 "Consecrated Ground you create grants Immunity to Elemental Ailments\nto you and Allies","你创造的奉献地面会使你与友军\n免疫元素异常状态"
-"Consecrated Ground you create causes Life Regeneration to\nalso Recover Energy Shield for you and Allies","你产生的的奉献地面使得\n你与你的友军的生命再生同样套用至能量护盾回复"
+"Consecrated Ground you create causes Life Regeneration to\nalso Recover Energy Shield for you and Allies","你产生的具有生命再生效果的奉献地面\n也会为你和友军回复能量护盾"
 "+4 to Maximum Fanatic Charges","狂热球数量上限 +4"
 "Gain 1 Fanatic Charge every second if you've Attacked in the past second","若你上一秒发动过攻击，则每秒获得 1 个狂热球"
 "10% more Attack Damage for each Non-Instant Spell you've Cast in the past 8 seconds, up to a maximum of 30%","你在过去 8 秒内施放的每个非立即施放法术都使攻击伤害总增 10%，最多 30%"
@@ -2116,7 +2116,7 @@
 "25% Chance for Traps to Trigger an additional time","陷阱有 25% 的几率额外触发一次"
 "25% reduced Mana Cost of Skills that throw Traps","投掷地雷或投掷陷阱类技能的魔力消耗降低 25%"
 "150% increased Effect of Auras from Mines","地雷的光环效果提高 150%"
-"Mines Hinder Enemies near them for 2 seconds when they Land,\nreducing Movement Speed by 40%","地雷着陆时使它们附近的敌人缓速 2 秒，移动速度降低 40%"
+"Mines Hinder Enemies near them for 2 seconds when they Land,\nreducing Movement Speed by 40%","地雷落地时在接下来 2 秒使周围敌人缓速，\n移动速度降低 40%"
 "50% increased Cooldown Recovery Rate for throwing Traps","陷阱冷却回复速度提高 50%"
 "Skills used by Traps have 50% increased Area of Effect","陷阱所使用的技能范围扩大 50%"
 "40% increased Global Critical Strike Chance","攻击和法术暴击率提高 40%"
@@ -2173,7 +2173,7 @@
 "5% increased Attack and Cast Speed if you've used a Movement Skill Recently","若你近期内使用过位移技能，则攻击和施法速度提高 5%"
 "8% increased Area of Effect while wielding a Staff","持长杖时效果区域扩大 8%"
 "4% increased Cast Speed while wielding a Staff","持长杖时施法速度提高 4%"
-"10% increased Attack Speed with Staves","长杖攻击的攻击速度提高 10% "
+"10% increased Attack Speed with Staves","长杖攻击的攻击速度提高 10%"
 "10% increased Cast Speed while wielding a Staff","持长杖时施法速度提高 10%"
 "4% increased Cast Speed while holding a Shield","持盾牌时施法速度提高 4%"
 "+4% to Damage over Time Multiplier for Poison","+4% 中毒持续伤害加成"
@@ -2251,7 +2251,7 @@
 "+4% to Critical Strike Multiplier for each Mine Detonated\nRecently, up to 40%","近期每个引爆的地雷可 +4% 暴击伤害加成，最多 40%"
 "15% reduced Mana Reservation of Skills that throw Mines","投掷地雷类技能的魔力保留降低 15%"
 "Mines have a 10% chance to be Detonated an Additional Time","地雷有 10% 的几率额外引爆一次"
-"+14% to Damage over Time Multiplier for Ailments from Critical Strikes","暴击造成异常状态时，+14% 伤害持续时间加成"
+"+14% to Damage over Time Multiplier for Ailments from Critical Strikes","暴击造成异常状态时，+14% 持续伤害加成"
 "15% increased Fire Damage with Attack Skills","攻击技能的火焰伤害提高 15%"
 "15% increased Warcry Speed","战吼施法速度提高 15%"
 "15% increased Warcry Duration","战吼持续时间延长 15%"
@@ -2317,8 +2317,8 @@
 "Brand Recall has 15% increased Cooldown Recovery Rate","【烙印召回】冷却回复速度提高 15%"
 "Brand Recall has 20% increased Cooldown Recovery Rate","【烙印召回】冷却回复速度提高 20%"
 "Projectiles deal 20% increased Damage for each time they have Chained","每连锁 1 个敌人，投射物伤害便提高 20%"
-"Projectiles have 50% chance for an additional Projectile when Forking","投射物分叉时，有 50% 的几率发射一个额外投射物"
-"50% increased Projectile Fork angle","投射物分叉角度扩大 50%"
+"Projectiles have 50% chance for an additional Projectile when Forking","投射物分裂时，有 50% 的几率发射一个额外投射物"
+"50% increased Projectile Fork angle","投射物分裂角度扩大 50%"
 "Projectiles deal 6% increased Damage for each Enemy Pierced","每穿透 1 个敌人，投射物的伤害就提高 6%"
 "2% increased Attack Damage per 75 Armour or Evasion Rating on Shield","盾牌上每 75 点护甲值或闪避值都使攻击伤害提高 2%"
 "+1% to Critical Strike Multiplier per 10 Maximum Energy Shield on Shield","盾牌上每有 10 点最大能量护盾，就 +1% 暴击伤害加成"
@@ -2559,7 +2559,7 @@
 "30% increased Effect of Cold Ailments","冰霜异常状态效果提高 30%"
 "30% chance to Freeze Enemies which are Chilled","有 30% 的几率冰冻被冰缓的敌人"
 "+24% to Fire Resistance","+24% 火焰抗性"
-"12% of Damage taken Recouped as Life","将承受伤害的 12% 吸纳为生命"
+"12% of Damage taken Recouped as Life",将所受伤害的12%吸纳为生命
 "40% increased Stun Duration with Two Handed Melee Weapons on Enemies","双手近战武器攻击造成的晕眩时间延长 40%"
 "Attacks with Two Handed Melee Weapons deal 25% increased Damage with Hits and Ailments","双手近战武器攻击造成的击中和异常状态伤害提高 25%"
 "24% increased Critical Strike Chance for Attacks","攻击暴击率提高 24%"
@@ -2577,10 +2577,10 @@
 "30% increased Flask Recovery rate","药剂的回复速度提高 30%"
 "+3% chance to Suppress Spell Damage","法术伤害压制率 +3%"
 "Regenerate 2% of Life per Second if you've used a Life Flask in the past 10 seconds","生命在你过去 10 秒内使用过生命药剂的情况下每秒再生 2%"
-"20% chance to Avoid being Shocked","20% 的几率避免被感电"
-"20% chance to Avoid being Ignited","20% 的几率避免被点燃"
-"20% chance to Avoid being Chilled","有 20% 的几率避免被冰缓"
-"20% chance to Avoid being Frozen","有 20% 的几率避免被冻结"
+"20% chance to Avoid being Shocked","20% 几率避免被感电"
+"20% chance to Avoid being Ignited","20% 几率避免被点燃"
+"20% chance to Avoid being Chilled","20% 几率避免被冰缓"
+"20% chance to Avoid being Frozen","20% 几率避免被冰冻"
 "60% increased Damage with Hits against Enemies that are on Low Life","击中低血的敌人时，伤害提高 60%"
 "15% increased Area of Effect if you've Killed Recently","若你近期内有击败敌人，则效果区域扩大 15%"
 "Axe Attacks deal 30% increased Damage with Ailments","斧类攻击造成的异常状态伤害提高 30%"
@@ -2607,7 +2607,7 @@
 "Recover 30 Life when you Block","生命在你格挡时恢复 30 点"
 "+30 to Evasion Rating","+30 点闪避值"
 "Attack Skills deal 25% increased Damage while Dual Wielding","双持武器时，攻击技能的伤害提高 25%"
-"20% chance to Avoid Elemental Ailments","20% 的几率避免元素异常状态"
+"20% chance to Avoid Elemental Ailments","20% 几率避免元素异常状态"
 "+16 to maximum Mana","+16 最大魔力"
 "+15% to all Elemental Resistances","+15% 所有元素抗性"
 "+20 to Evasion Rating","+20 点闪避值"
@@ -2642,7 +2642,7 @@
 "+8% to Critical Strike Multiplier with Traps","+8% 陷阱暴击伤害加成"
 "You can't deal Damage with Skills yourself\n+1 to maximum number of Summoned Totems","你自己发动的技能无法造成伤害\n召唤图腾数量上限 +1"
 "+25 to Accuracy Rating","+25 命中值"
-"Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield","能量护盾偷取改为生命偷取\n偷取的每秒总能量护盾恢复量上限翻倍\n能量护盾不能充能"
+"Leech Energy Shield instead of Life\nMaximum total Energy Shield Recovery per second from Leech is doubled\nCannot Recharge Energy Shield","生命偷取改为能量护盾偷取\n偷取的每秒总能量护盾恢复量上限翻倍\n能量护盾不能充能"
 "Total Recovery per second from Life Leech is doubled\nMaximum total Life Recovery per second from Leech is doubled\nLife Regeneration has no effect","生命偷取每秒总恢复量翻倍\n偷取的每秒最大生命总恢复量翻倍\n生命再生不生效"
 "+10% chance to Suppress Spell Damage while on Full Energy Shield","法术伤害压制率在能量护盾全满时 +10%"
 "Gain 4 Mana per Enemy Hit by Attacks if you've used a Mana Flask in the past 10 seconds","魔力在你过去 10 秒内使用过魔力药剂的情况下，按照每个被攻击击中的敌人获得 4 点"
@@ -2663,7 +2663,7 @@
 "12% increased Mana Reservation Efficiency of Skills","技能的魔力保留效能提高 12%"
 "+11% to Chaos Resistance","+11% 混沌抗性"
 "+23% to Chaos Resistance","+23% 混沌抗性"
-"35% increased Effect of Withered","枯萎效果提高 35%"
+"35% increased Effect of Withered","死亡凋零效果提高 35%"
 "Minions have +12% Chance to Block Attack Damage","召唤生物有+12% 攻击伤害格挡几率"
 "Minions have +18% Chance to Block Attack Damage","召唤生物有+18% 攻击伤害格挡几率"
 "Minions have +18% Chance to Block Spell Damage","召唤生物获得 +18% 格挡法术伤害率"
@@ -2675,14 +2675,14 @@
 "+16 to maximum Energy Shield","+16 最大能量护盾"
 "Hex Skills have 100% increased Skill Effect Duration","魔蛊技能的技能效果持续时间提高 100%"
 "50% increased Area of Effect of Hex Skills","魔蛊技能的效果区域扩大 50%"
-"Projectiles have 25% chance for an additional Projectile when Forking","投射物分叉时，有 25% 的几率发射一个额外投射物"
+"Projectiles have 25% chance for an additional Projectile when Forking","投射物分裂时，有 25% 的几率发射一个额外投射物"
 "20% faster start of Energy Shield Recharge","能量护盾充能时间提前 20%"
 "Attack Damage Penetrates 10% of Enemy Elemental Resistances","攻击伤害穿透敌人 10% 的元素抗性"
 "30% increased Damage with Bows","弓类伤害提高 30%"
 "30% increased Effect of Non-Damaging Ailments","非伤害型异常状态效果提高 30%"
 "7% increased maximum Life","生命上限提高 7%"
 "Guard Skills have 40% increased Duration","防卫技能的持续时间延长 40%"
-"30% increased Attack Damage while holding a Shield","持盾牌时造成的攻击伤害提高 30% "
+"30% increased Attack Damage while holding a Shield","持盾牌时造成的攻击伤害提高 30%"
 "+15 Mana gained on Kill","击败敌人回复 +15 魔力"
 "10% reduced Mana Cost of Skills","技能魔力消耗降低 10%"
 "Gain 3% of Maximum Life as Extra Maximum Energy Shield","获得等同 3% 最大生命的额外能量护盾"
@@ -2693,9 +2693,9 @@
 "50% increased Effect of Lightning Ailments","闪电异常状态效果提高 50%"
 "50% increased Effect of Cold Ailments","冰霜异常状态效果提高 50%"
 "Claw Attacks deal 15% increased Damage with Ailments","爪类攻击造成的异常状态伤害提高 15%"
-"6% of Damage taken Recouped as Life","将承受伤害的 6% 吸纳为生命"
+"6% of Damage taken Recouped as Life",将所受伤害的6%吸纳为生命
 "15% increased Damage","伤害提高 15%"
-"Regenerate 10 Life per second","生命每秒再生 10% "
+"Regenerate 10 Life per second","生命每秒再生 10"
 "Enemies Shocked or Frozen by you take 5% increased Elemental Damage","被你冻结或感电的敌人承受的元素伤害提高 5%"
 "15% increased Accuracy Rating with Swords","剑类攻击的命中值提高 15%"
 "45% increased Critical Strike Chance with Swords","剑类攻击的暴击率提高 45%"
@@ -2711,10 +2711,10 @@
 "50% increased Maximum total Mana Recovery per second from Leech","偷取的每秒最大魔力总恢复量提高 50%"
 "14% increased Damage with Attack Skills while Fortified","攻击技能的伤害在护体状态下提高 14%"
 "16% increased Damage with Attack Skills while Fortified","攻击技能的伤害在护体状态下提高 16%"
-"Fortifying Hits grant 30% increased Fortification","有护体的击中使护体效果提高 30%"
+"Fortifying Hits grant 30% increased Fortification","有护体的击中使护身效果提高 30%"
 "Fortifying Hits grant 20% increased Fortification","有护体的击中使护体效果提高 20%"
-"Fortifying Hits against Unique Enemies grant 100% increased Fortification","有护体的击中使护体效果对传奇敌人时提高 100%"
-"40% increased Damage with Attack Skills while you have at least 20 Fortification","攻击技能的伤害在你至少有 20 层护体的情况下提高 40%"
+"Fortifying Hits against Unique Enemies grant 100% increased Fortification","有护体的击中使护身效果对传奇敌人时提高 100%"
+"40% increased Damage with Attack Skills while you have at least 20 Fortification","攻击技能的伤害在你至少有 20 层护身的情况下提高 40%"
 "12% increased Mine Damage","地雷伤害提高 12%"
 "60% increased Critical Strike Chance with Totem Skills","图腾施放的技能暴击率提高 60%"
 "24% increased Lightning Damage","闪电伤害提高 24%"
@@ -2731,7 +2731,7 @@
 "+10% to maximum Chance to Block Attack Damage","+10% 攻击伤害格挡几率上限"
 "+10 to Armour and Evasion Rating per 1% Chance to Block Attack Damage","护甲值和闪避值按照每 1% 攻击伤害格挡率+10"
 "10% increased Damage with Attack Skills while Fortified","攻击技能的伤害在护体状态下提高 10%"
-"You have 20 Fortification","你有 20 层护体"
+"You have 20 Fortification","你有 20 层护身"
 "20% increased Attack Speed while Fortified","攻击速度在护体时加快 20%"
 "+500 to Armour and Evasion Rating while Fortified","护甲值和闪避值在护体状态下 +500"
 "+10% to Critical Strike Multiplier","+10% 攻击和法术暴击伤害加成"
@@ -2788,15 +2788,15 @@
 "15% increased Maximum total Energy Shield Recovery per second from Leech","偷取的每秒最大能量护盾总恢复量提高 15%"
 "40% increased Maximum total Energy Shield Recovery per second from Leech","偷取的每秒最大能量护盾总恢复量提高 40%"
 "1% of Spell Damage Leeched as Energy Shield","法术伤害的 1% 转化为能量护盾偷取"
-"10% chance to Avoid being Stunned","10% 的几率避免被晕眩"
-"10% chance to Avoid Bleeding","有 10% 的几率避免流血"
-"10% chance to Avoid being Poisoned","10% 的几率免疫中毒"
-"20% chance to Avoid Bleeding","有 20% 的几率避免流血"
-"20% chance to Avoid being Poisoned","20% 的几率免疫中毒"
+"10% chance to Avoid being Stunned","10% 几率避免被晕眩"
+"10% chance to Avoid Bleeding","10% 几率避免致流血"
+"10% chance to Avoid being Poisoned","10% 几率避免中毒"
+"20% chance to Avoid Bleeding","20% 几率避免致流血"
+"20% chance to Avoid being Poisoned","20% 几率避免中毒"
 "+10 Life gained for each Enemy hit by your Attacks","你的攻击击中每个敌人会回复 +10 生命"
-"30% chance to Avoid being Stunned","30% 的几率避免被晕眩"
-"30% chance to Avoid Bleeding","有 30% 的几率避免流血"
-"30% chance to Avoid being Poisoned","30% 的几率免疫中毒"
+"30% chance to Avoid being Stunned","30% 几率避免被晕眩"
+"30% chance to Avoid Bleeding","30% 几率避免致流血"
+"30% chance to Avoid being Poisoned","30% 几率避免中毒"
 "15% chance to Freeze, Shock and Ignite","15% 的几率使敌人受到冰冻，感电与点燃"
 "Damage Penetrates 5% Fire Resistance","伤害穿透 5% 火焰抗性"
 "Damage Penetrates 5% Lightning Resistance","伤害穿透 5% 的闪电抗性"
@@ -2813,9 +2813,9 @@
 "30% increased Energy Shield from Equipped Shield","从盾牌获取的能量护盾提高 30%"
 "50% increased Energy Shield from Equipped Shield","从盾牌获取的能量护盾提高 50%"
 "+8% Chance to Block Spell Damage while holding a Shield","持盾牌时有 +8% 的几率格挡法术伤害"
-"25% chance to Avoid being Stunned while holding a Shield","持盾时，有 25% 的几率免疫晕眩"
+"25% chance to Avoid being Stunned while holding a Shield","持盾时有 25% 几率避免被晕眩"
 "30% increased Spell Damage while holding a Shield","法术伤害在持盾牌时提高 30%"
-"25% chance to Avoid Elemental Ailments while holding a Shield","持盾时，有 25% 的几率免疫元素异常状态"
+"25% chance to Avoid Elemental Ailments while holding a Shield","持盾时有 25% 几率避免元素异常状态"
 "Spell Skills have 20% increased Area of Effect","法术技能的效果区域扩大 20%"
 "Energy Shield Recharge is not interrupted by Damage if Recharge began Recently\n40% less Energy Shield Recharge Rate","能量护盾在近期内开始充能后不会被伤害打断\n能量护盾充能率总降 40%"
 "You can only have one Permanent Non-Banner Aura on you from your Skills\nYour Non-Banner Skills that create Permanent Auras on you do not Reserve Life","你身上只能从技能中获得一种恒定的非旗帜光环\n你身上非旗帜技能创造的恒定光环不保留生命"
@@ -2832,15 +2832,15 @@
 "50% increased Armour while stationary","静止时护甲提高 50%"
 "25% chance to gain an Endurance Charge when you are Hit","被击中时有 25% 的几率获得耐力球"
 "25% increased Armour","护甲提高 25%"
-"+1 to maximum Fortification","护体上限 +1"
-"+4 to maximum Fortification","护体上限 +4"
+"+1 to maximum Fortification","护身上限 +1"
+"+4 to maximum Fortification","护身上限 +4"
 "+12% to Cold Damage over Time Multiplier","+12% 冰霜持续伤害加成"
 "Prevent +3% of Suppressed Spell Damage","阻挡被压制的法术伤害 +3%"
 "+12% chance to Suppress Spell Damage","法术伤害压制率 +12%"
 "6% increased Impale Effect","穿刺的效果提高 6%"
 "Gain 4% of Physical Damage as Extra Fire Damage","获得额外火焰伤害， 其数值等同于物理伤害的 4%"
 "Gain 10% of Physical Damage as Extra Fire Damage","获得额外火焰伤害， 其数值等同于物理伤害的 10%"
-"20% increased Blind Effect","目盲效果提高 20%"
+"20% increased Blind Effect",致盲效果提高20%
 "20% chance to Blind Enemies on Hit with Attacks","攻击击中有 20% 的几率致盲敌人"
 "50% increased Critical Strike Chance against Blinded Enemies","对致盲的敌人时，攻击和法术暴击率提高 50%"
 "5% increased Armour per Endurance Charge","每有一个耐力球，护甲提高 5%"
@@ -2875,7 +2875,7 @@
 "Recover 50 Energy Shield when you Block Spell Damage","能量护盾在你格挡法术伤害时恢复 50 点"
 "+6% chance to Block Spell Damage while holding a Staff or Shield","法术伤害格挡率在持握长杖或盾牌时 +6%"
 "+5 Life gained for each Enemy hit by your Attacks","你的攻击击中每个敌人会回复 +5 生命"
-"4% of Damage taken Recouped as Life","将承受伤害的 4% 吸纳为生命"
+"4% of Damage taken Recouped as Life",将所受伤害的4%吸纳为生命
 "Melee Skills have 12% increased Area of Effect","近战技能的范围扩大 12%"
 "Staff Attacks deal 10% increased Damage with Hits and Ailments","长杖攻击造成的击中和异常状态伤害提高 10%"
 "+8% Chance to Block Attack Damage while wielding a Staff","持长杖时攻击伤害格挡几率 +8%"
@@ -2899,7 +2899,7 @@
 "Mines have a 15% chance to be Detonated an Additional Time","地雷有 15% 的几率额外引爆一次"
 "30% increased Mana Reservation Efficiency of Skills that throw Mines","地雷投掷技能的魔力保留效能提高 30%"
 "Ignites you inflict deal Damage 15% faster","你造成的点燃的伤害生效速度加快 15%"
-"+25% to Damage over Time Multiplier for Ailments from Critical Strikes","暴击造成异常状态时，+25% 伤害持续时间加成"
+"+25% to Damage over Time Multiplier for Ailments from Critical Strikes","暴击造成异常状态时，+25% 持续伤害加成"
 "Link Skills have 10% increased Skill Effect Duration","羁绊技能的技能效果持续时间延长 10%"
 "Link Skills have 20% increased Buff Effect","羁绊技能的增益效果提高 20%"
 "+12% to Fire Damage over Time Multiplier with Attack Skills","攻击技能的持续火焰伤害加成 +12%"
@@ -2933,7 +2933,7 @@
 "50% increased Impale Duration","穿刺持续时间延长 50%"
 "30% increased Effect of Impales you inflict with Two Handed Weapons on Non-Impaled Enemies","对未被穿刺的敌人时，你用双手武器施加的穿刺效果提高 30%"
 "Spell Skills have +12% to Damage over Time Multiplier for Poison","法术技能 +12% 中毒持续伤害加成"
-"18% of Damage taken Recouped as Life","将承受伤害的 18% 吸纳为生命"
+"18% of Damage taken Recouped as Life",将所受伤害的18%吸纳为生命
 "100% chance to Defend with 200% of Armour\nMaximum Damage Reduction for any Damage Type is 50%","有 100% 的几率以 200% 护甲值进行防御\n任何伤害类型的最大伤害减免为 50%"
 "When your Hits Impale Enemies, also Impale other Enemies near them\nInflict 4 additional Impales on Enemies you Impale\nFor 4 seconds after you Impale Enemies, they cannot be Impaled again, and Impales cannot be Called from them","你击中穿刺的敌人时，也穿刺他周围的其它敌人\n对你穿刺的敌人施加 4 次额外穿刺\n你穿刺敌人后 4 秒内不能对它重复穿刺，并且这些穿刺无法被呼唤"
 "Brand Skills have 12% increased Duration","烙印技能的持续时间延长 12%"
@@ -2962,7 +2962,191 @@
 "Cannot Recover Energy Shield to above Evasion Rating\nEvery 2 seconds, gain a Ghost Shroud, up to a maximum of 3\nWhen Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasion Rating","恢复的能量护盾不能超过闪避值\n每 2 秒获得一层鬼影缠身，最多 3 层\n被击中时失去一层鬼影缠身，同时恢复等于你闪避值 3% 的能量护盾"
 "Cannot Recover Energy Shield to above Armour\n3% of Physical Damage prevented from Hits Recently is Regenerated as Energy Shield per second","恢复的能量护盾不能超过护甲值\n将近期内从击中阻挡的 3% 的物理伤害转化为每秒再生的能量护盾"
 "-25% to maximum Chance to Block Attack Damage\n-25% to maximum Chance to Block Spell Damage\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block Attack Damage","攻击伤害格挡率上限 -25%\n法术伤害格挡率上限 -25%\n法术伤害格挡率按照每 1% 超量的攻击伤害格挡率 +2%"
-"Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you","你在承受持续伤害的第一秒内承受的持续伤害总降 50%\n你身上的异常状态持续时间总增 100%"
+"Take 50% less Damage over Time if you've started taking Damage over Time in the past second\n100% more Duration of Ailments on you","承受的持续伤害在你过去一秒内开始承受持续伤害后总降 50%\n你身上的异常状态持续时间总增 100%"
 "30% increased Attack Physical Damage","攻击造成的物理伤害提高 30%"
 "Damage Penetrates 7% Chaos Resistance","伤害穿透 7% 混沌抗性"
 "25% less Damage over Time taken during Effect of any Life Flask","承受的持续伤害在任意生命药剂生效期间总降 25%"
+"Knocks Back Enemies if you get a Critical Strike with a Staff",长杖攻击暴击时击退敌人
+"Enemies Cannot Leech Life From you",敌人无法偷取你的生命
+"Damage with Weapons Penetrates 2% Elemental Resistances","武器造成的伤害穿透 2% 元素抗性"
+"+12% to Critical Strike Multiplier with Lightning Skills","+12% 闪电技能暴击伤害加成"
+"+10% to Critical Strike Multiplier for Spell Damage","法术伤害的暴击伤害加成 +10%"
+"+30% to Critical Strike Multiplier for Spell Damage","法术伤害的暴击伤害加成 +30%"
+"+15% to Critical Strike Multiplier for Spell Damage","法术伤害的暴击伤害加成 +15%"
+"Critical Strikes with Daggers Poison the Enemy",匕首攻击的暴击使敌人中毒
+"Gain 6 Life per Enemy Hit with Attacks","你的攻击击中每个敌人会回复 6 生命"
+"+8% chance to Suppress Spell Damage","法术伤害压制率 +8%"
+"Gain 10 Life per Enemy Killed",每击败一名敌人获得10点生命
+"15% increased Accuracy Rating with Bows","弓类攻击的命中值提高 15%"
+"Ignore all Movement Penalties from Armour",无视穿着护甲所带来的移动速度降低效果
+"Damage with Weapons Penetrates 5% Elemental Resistances","武器造成的伤害穿透 5% 元素抗性"
+"Share Endurance, Frenzy and Power Charges with nearby party members",与周围玩家分享耐力、狂怒与暴击球
+"Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating",将所有闪避值转换为护甲，敏捷不再提供闪避值加成
+"Removes all mana\n10% more maximum Life\nSkills Cost Life instead of Mana\nSkills Reserve Life instead of Mana","移除所有魔力\n生命上限总增 10%\n技能消耗生命而非魔力\n保留生命而非魔力"
+"All bonuses from an Equipped Shield apply to your Minions instead of you",盾牌上的所有属性会套用于你的召唤生物，而非角色本身
+"Strength's Damage bonus applies to Projectile Attack Damage as well as Melee Damage",投射物攻击伤害可以同样获得力量伤害奖励
+"Evasion Rating is Doubled against Projectile Attacks\n25% less Evasion Rating against Melee Attacks","对投射物攻击的闪避值翻倍\n对近战攻击的闪避值降低25%"
+"You can apply an additional Curse",你能施加一个额外诅咒
+"Life Regeneration is applied to Energy Shield instead",不再获得生命回复，将其回复效果套用于能量护盾
+"Gain 4 Mana per Enemy Hit with Attacks if you've used a Mana Flask in the past 10 seconds","魔力在你过去 10 秒内使用过魔力药剂的情况下，按照每个被攻击击中的敌人获得 4 点"
+"40% of Damage is taken from Mana before Life","所承受伤害的前 40% 会扣除魔力，而非生命"
+"Gain 10 Mana per Enemy Killed",每击败一名敌人获得10点魔力
+"20% reduced Mana Cost of Curse Skills","诅咒技能的魔力消耗降低 20%"
+"20% increased Mana Reservation Efficiency of Curse Aura Skills","诅咒光环技能的魔力保留效能提高 20%"
+"Remove Elemental Ailments when you Cast a Curse Spell",当你施放诅咒法术时，移除元素异常状态
+"Refresh Duration of Ignite, Chill and Shock on Enemies you Curse",刷新你诅咒的敌人身上的点燃、冰缓和感电的持续时间
+"Projectiles Pierce an additional Target","投射物会穿透 1 个额外目标"
+"Gain 15 Mana per Enemy Killed",每击败一名敌人获得15点魔力
+"15% increased Effect of Onslaught on you","你受到的猛攻效果增强 15%"
+"30% increased Effect of Onslaught on you","你受到的猛攻效果增强 30%"
+"Gain 3 Mana per Enemy Hit with Attacks",攻击每击中一名敌人获得3点魔力
+"Fortifying Hits grant 40% increased Fortification","有护体的击中使护身效果提高 40%"
+"40% increased Fortification Duration","护身持续时间延长 40%"
+"100% increased Critical Strike Chance against Shocked Enemies","对感电目标的暴击率提高 100%"
+"Cannot be Stunned",免疫晕眩
+"Action Speed cannot be modified to below base value",你的行动速度无法被减速至基础以下
+"Movement Speed cannot be modified to below base value",你的移动速度加成不会让你减速至基础速度以下
+"8% of Armour applies to Fire, Cold and Lightning Damage taken from Hits",对击中时受到的火焰、冰霜和闪电伤害施加8%的护甲效果
+"Armour received from Body Armour is doubled","从身体护甲获得的护甲提高 1 倍"
+"Gain Accuracy Rating equal to twice your Strength",获得等同于你力量值的命中值
+"40% increased Life Regeneration rate","生命再生率提高 40%"
+"Warcries Sacrifice 10 Rage if you have at least 25 Rage\nExerted Attacks deal 50% more Attack Damage if a Warcry Sacrificed Rage Recently","战吼在你至少有 25 点怒火时献祭 10 点怒火\n增助攻击的攻击伤害在近期内战吼献祭过怒火的情况下总增 50%"
+"Inherent effects from having Rage are Tripled",【怒火】带来的固定效果变成三倍
+"Gain a Blitz Charge on Critical Strike",暴击时获得疾电球
+"Totems are Immune to Fire Damage",图腾免疫火焰伤害
+"Unaffected by Ignite",不受点燃影响
+Onslaught,猛攻
+"100% increased Effect of Onslaught on you","你受到的猛攻效果增强 100%"
+Phasing,迷踪
+"Your Mark Transfers to another Enemy when Marked Enemy dies",被标记的敌人被击败后，你的咒印转移给另一个敌人
+"Far Shot",远射
+"Projectile Barrages have no spread",投射物弹幕攻击不会扩散
+"Critical Strikes which inflict Bleeding also inflict Rupture",施加流血的暴击同样施加残破效果
+"Mirage Archers are not attached to you",幻影弓手不会跟随于你
+"Cannot Summon Mirage Archers while near your Mirage Archers",不能在你的幻影弓手周围召唤幻影弓手
+"Lose all Gale Force when Hit",被击中时失去所有飓风之力
+"Removes Bleeding when you use a Flask",使用药剂时移除流血状态
+"Gain a Flask Charge when you deal a Critical Strike","暴击时获得 1 充能"
+"Removes Corrupted Blood when you use a Flask",你使用药剂时移除腐化之血效果
+"Magic Utility Flasks applied to you have 20% increased Effect",对你施用的魔法功能药剂具有20%增益效果
+"Removes Elemental Ailments when you use a Flask",药剂持续期间，驱散元素异常状态
+"When you kill a Poisoned Enemy during any Flask Effect, nearby Enemies are Poisoned",若你在药剂生效期间消灭中毒的敌人，则周围的敌人也会中毒
+"Cursed Enemies you or your Minions Kill have a 50% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","你或你的召唤生物击败的受诅咒敌人有 50% 的几率爆炸，造成等同该敌人最大生命四分之一的混沌伤害"
+"Your Hexes can affect Hexproof Enemies",你的魔蛊可以影响无咒的敌人
+"Cannot Be Stunned while you have Energy Shield",你有能量护盾时不能被眩晕
+"Cannot be Frozen",无法被冰冻
+"Cannot be Chilled",无法被冰缓
+"Cannot take Reflected Elemental Damage",不会承受反射的元素伤害
+"Other Aegis Skills are Disabled",禁用其它护盾技能
+"Summoned Golems are Immune to Elemental Damage",召唤的魔像免疫元素伤害
+"Hits always Ignite",你的击中始终具有点燃效果
+"All Damage can Ignite",所有伤害均可点燃
+"Hits always Shock",你的击中始终具有感电效果
+"All Damage can Shock",所有伤害均可感电
+"All Damage with Hits can Chill",所有击中的伤害都有冰缓效果
+"Minions have Unholy Might",召唤生物拥有不洁之力
+"Your Offering Skills also affect you",你的奉献技能会同时影响你
+"Enemies near corpses you Spawned Recently are Chilled and Shocked",敌人若位于你近期所生成的灵柩周围，则使其受到冰缓和感电
+"Cannot take Reflected Physical Damage",不会承受反射的物理伤害
+"Cannot be Stunned while Leeching",生命偷取时免疫晕眩
+"You are Unaffected by Bleeding while Leeching",偷取时不受【流血】影响
+"Life Leech effects are not removed when Unreserved Life is Filled",未保留的生命全满时不会移除生命偷取效果
+"Your Maximum Endurance Charges is equal to your Maximum Frenzy Charges",你的耐力球数量上限等于你的狂怒球数量上限
+"Attacks Maim on Hit against Bleeding Enemies",攻击击中流血的敌人时瘫痪敌人
+"Cannot be Stunned by Hits you Block",你格挡的攻击和法术无法将你晕眩
+"Your Counterattacks deal Double Damage",你的反击造成双倍伤害
+"Gain a Challenger Charge when you Kill an Enemy while in Sand Stance",在沙姿态下击败敌人时，会获得一个挑战球
+"Cannot be Stunned while Fortified",在护体状态下不能被眩晕
+"Enemies Taunted by you cannot Evade Attacks",被你嘲讽的敌人无法躲避攻击
+"Banner Skills have no Reservation",旗帜技能没有保留效果
+"Remove all Ailments and Burning when you gain Adrenaline",你获得【肾上腺素】时移除所有异常状态和燃烧状态
+"Your Hits permanently Intimidate Enemies that are on Full Life",击中满血敌人时，将使他们永久受到威吓
+"Gain Adrenaline for 20 seconds when you reach Low Life",在你处于濒死状态时获得肾上腺素20秒
+"If you've Impaled an Enemy Recently, you\nand nearby Allies have +1000 to Armour","若你近期内穿刺过敌人，你和周围友军获得护甲 +1000"
+"Critical Strikes ignore Enemy Monster Elemental Resistances",造成暴击时无视目标的元素抗性
+"You have Consecrated Ground around you while stationary",站定时，脚下产生奉献地面
+"Lose all Fanatic Charges on reaching Maximum Fanatic Charges",抵达狂热球数量上限时失去所有狂热球
+Battlemage,战斗法师
+"Transfiguration of Mind",心灵幻化
+"Gain Arcane Surge when you or your Totems Hit an Enemy with a Spell","当你或你的图腾使用法术击中 1 名敌人，便获得【秘术增强】效果"
+"You and nearby Party Members Share Power, Frenzy and Endurance Charges with each other",你与周围队友共享耐力球、狂怒球、暴击球
+"Nearby Enemies cannot gain Power, Frenzy or Endurance Charges",周围敌人无法获得暴击，狂怒，或耐力球
+"While there are at least five nearby Allies, you and nearby Allies have Onslaught","当周围有至少 5 个友军，你和周围的友军获得【猛攻】状态"
+"Critical Strikes have Culling Strike",暴击拥有终结能力
+"Damage from your Critical Strikes cannot be Reflected",你的暴击伤害无法被反射
+"Gain Elusive on Critical Strike",暴击获得【灵巧】
+"You take no Extra Damage from Critical Strikes while Elusive",【灵巧】效果下，不会受到暴击造成的额外伤害
+"+2 to Maximum Frenzy Charges","狂怒球数量上限 +2"
+"200% increased Charge Duration","充能持续时间提高 200%"
+"Recover 1% of Energy Shield on Kill for each different type of Mastery you have Allocated",击杀后，分配给你的各类专精可使能量护盾恢复1%
+"Recover 1% of Life on Kill for each different type of Mastery you have Allocated",击杀后，分配给你的各类专精可使生命恢复1%
+"Recover 1% of Mana on Kill for each different type of Mastery you have Allocated",击杀后，分配给你的各类专精可使魔力恢复1%
+"3% more Damage for each different type of Mastery you have Allocated",分配给你的各类专精可增加3%伤害
+"Every 10 seconds:\nTake 40% less Damage from Hits for 5 seconds\nTake 40% less Damage over Time for 5 seconds","每10秒：\n应对击中伤害获得 40% 的减伤，持续 5 秒\n 5 秒后应对持续伤害获得 40% 的减伤，持续5秒"
+"50% chance for Energy Shield Recharge to start when you Suppress Spell Damage",你在压制法术伤害时，有50%几率给能量护盾充能
+"Prevent +10% of Suppressed Spell Damage while on Full Energy Shield",能量护盾全满状态下防止+10%的被压制法术伤害
+"40% increased total Recovery per second from Energy Shield Leech","从能量护盾偷取中获得的每秒总恢复量提高 40%"
+"Your Action Speed is at least 108% of base value",你的行动速度至少是基础值的108%
+"Immune to Ignite and Shock",免疫点燃和感电
+"Cannot be Blinded",免疫致盲
+"Blind Enemies on Hit",击中后使敌人致盲
+"Nearby Enemies are Blinded",周围敌人都陷入目盲状态
+"When your Traps Trigger, your nearby Traps also Trigger",当你的陷阱触发时，你周围的陷阱也跟着触发
+"Can Allocate Passives from the Ranger's starting point",可以从游侠的起点配置天赋
+"Can Allocate Passives from the Witch's starting point",可以从女巫的起点配置天赋
+"Can Allocate Passives from the Marauder's starting point",可以从野蛮人的起点配置天赋
+"Can Allocate Passives from the Duelist's starting point",可以从决斗者的起点配置天赋
+"Can Allocate Passives from the Shadow's starting point",可以从暗影刺客的起点配置天赋
+"Can Allocate Passives from the Templar's starting point",可以从圣堂武僧的起点配置天赋
+"You have Onslaught while on full Frenzy Charges",狂怒球达到上限时，你获得【猛攻】状态
+"Skills fire an additional Projectile",技能会发射一枚额外投射物
+"Culling Strike",终结
+"2% of Damage Leeched as Energy Shield","伤害的 2% 转化为能量护盾偷取"
+"2% more Damage for each different type of Mastery you have Allocated",分配给你的各类专精可增加2%伤害
+"Prevent +6% of Suppressed Spell Damage while on Full Energy Shield",能量护盾全满状态下防止+6%的被压制法术伤害
+"20% increased Attack and Cast Speed while Leeching Energy Shield","偷取能量护盾时攻击和施法速度提高 20%"
+"Energy Shield Leech effects are not removed when Energy Shield is Filled",能量护盾充满时，能量护盾偷取效果不会被移除
+"Increases and Reductions to Minion Attack Speed also affect you",你能获得召唤生物攻击速度的增强与减弱效果
+"Increases and Reductions to Minion Damage also affect you",召唤生物伤害提高或降低，将同样套用于自身
+"Gain 10 Life per Enemy Hit with Attacks","你的攻击击中每个敌人会回复 10 生命"
+"Gain 15 Life per Enemy Killed",每击败一名敌人获得15点生命
+"Gain 15 Energy Shield per Enemy Killed",每击败一名敌人获得15点能量护盾
+"Gain 2 Mana per Enemy Hit with Attacks",攻击每击中一名敌人获得2点魔力
+"Gain 4 Life per Enemy Hit with Attacks","你的攻击击中每个敌人会回复 4 生命"
+"15% increased Blind Effect",致盲效果提高15%
+"40% increased Blind Effect",致盲效果提高40%
+"Remove Bleeding when you use a Guard Skill",你使用防卫技能时移除流血效果
+"Remove Corrupted Blood when you use a Guard Skill",你使用防卫技能时移除腐化之血效果
+"+15% chance to Suppress Spell Damage","法术伤害压制率 +15%"
+"+15% chance to Suppress Spell Damage if you've Hit an Enemy Recently","法术伤害压制率在你近期内击中过敌人的情况下 +15%"
+"Gain 5 Life per Enemy Hit with Attacks","你的攻击击中每个敌人会回复 5 生命"
+"Recover 1% of Life when you Kill a Cursed Enemy","生命在你击败诅咒的敌人时恢复 1%"
+"Recover 1% of Mana when you Kill a Cursed Enemy","击败被诅咒的敌人时回复 1% 魔力"
+"Cursed Enemies you Kill are destroyed",你击败的被诅咒的敌人会被毁灭
+"Enemies you Curse cannot Recharge Energy Shield",你诅咒的敌人无法为能量护盾充能
+"Minions have 20% increased Critical Strike Chance","召唤生物的暴击率提高 20%"
+"Minions have 25% increased Critical Strike Chance","召唤生物的暴击率提高 25%"
+"Minions have 60% increased Critical Strike Chance","召唤生物的暴击率提高 60%"
+"Minions have +20% to Critical Strike Multiplier","召唤生物 +20% 暴击伤害加成"
+"Moving while Bleeding doesn't cause Minions to take extra Damage",流血状态下移动，召唤生物不再承受额外的伤害
+"Life Flasks gain a Charge when you hit an Enemy, no more than once each second",生命药剂在你击中敌人时获得一次充能，最多每秒一次
+"20% less Attack Damage taken if you haven't been Hit by an Attack Recently\n10% more chance to Evade Attacks if you have been Hit by an Attack Recently\n20% more Attack Damage taken if you have been Hit by an Attack Recently","承受的攻击伤害在你近期内没有被攻击击中的情况下总降20%。\n闪避几率在你近期内被攻击击中的情况下总增10%\n承受的攻击伤害在你近期内被攻击击中的情况下总增20%"
+"Auras from your Skills can only affect you\nAura Skills have 1% more Aura Effect per 2% of maximum Mana they Reserve\n40% more Mana Reservation of Aura Skills","你技能的光环只能影响你\n光环技能的光环效果按照它们每保留 2% 魔力上限就总增 1%\光环技能的魔力保留总增 40%"
+"Corpses you Spawn have 5% increased Maximum Life","生成的灵柩最大生命提高 5%"
+"Your Hexes have infinite Duration\n20% less Effect of your Curses","你的魔蛊有无限的持续时间\n你的诅咒效果降低 20%"
+"+2 to Level of all Curse Skill Gems","所有诅咒主动技能石等级增加 +2"
+"Culling Strike against Marked Enemy",终结被标记的敌人
+"Remove Maim and Hinder when you use a Flask",你使用药剂时移除瘫痪和缓速状态
+"Strength's Damage bonus applies to all Spell Damage as well",力量可以给所有法术伤害提供伤害加成
+"40% more Attack Damage if Accuracy Rating is higher than Maximum Life\nNever deal Critical Strikes","攻击伤害在命中值大于生命上限的情况下总增 40%\n不能造成暴击"
+"8% chance to gain Phasing for 4 seconds on Kill","击败敌人时有 8% 的几率获得 4 秒【迷踪】状态"
+"10% reduced Mana Cost of Curse Skills","诅咒技能的魔力消耗降低 10%"
+"15% increased Area of Effect of Hex Skills","魔蛊技能的效果区域扩大 15%"
+"15% increased Curse Duration","诅咒持续时间延长 15%"
+"15% reduced Effect of Curses on you","你受到的诅咒效果降低 15%"
+"Attack Projectiles Return to you from final Target",攻击投射物在击中最后目标后返回
+"Returning Projectiles Pierce all Targets",返回的投射物贯穿所有目标
+"Melee Strike Skills deal Splash Damage to surrounding targets",近战打击技能对周围目标造成溅射伤害
+"Transfiguration of Body",身体幻化
+"Transfiguration of Soul",灵魂幻化
+"Chaos Resistance is doubled",混沌抗性翻倍

@@ -1,0 +1,41 @@
+k,v
+"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)","( 當被穿刺的敵人被擊中，穿刺會反射 10% 穿刺之擊所造成的物理傷害至敵人。穿刺持續 5 次擊中 )"
+"(Onslaught grants 20% increased Attack, Cast, and Movement Speed)","( 猛攻增加你 20% 攻擊速度、施放速度，和移動速度 )"
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)","( 流血造成持續性物理傷害，傷害取決於初始的物理傷害。移動時受到的流血傷害增加 )"
+"(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)","( 對生命等於或少於 10% 最大生命的敵人可以造成撲殺，敵人將直接死亡 )"
+"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","( 被致盲有20%更少命中率和閃避值，持續4秒 )"
+"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)","( 每 1 層護體承受 1% 更少擊中傷害。最大 20 層護體。護體持續 5 秒)"
+"(Enemies standing in Smoke Clouds are Blinded)","( 站在迷霧中的敵人被致盲 )"
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","( 站在奉獻地面上的友方每秒回復他們最大生命的百分比，且減少 50% 他們身上的詛咒效果 )"
+"(Intimidated enemies take 10% increased Attack Damage)","(被威嚇的敵人增加 10% 承受的攻擊傷害)"
+"(Choose one of the three attached options)","( 請在三個選項中擇一 )"
+"(Recently refers to the past 4 seconds)","( 近期內意指 4 秒內 )"
+"(You can only take one of the three Marauder Ascendancy passives)","( 你只能在野蠻人的三個昇華職業中選擇一個 )"
+"(You can only take one of the three Ranger Ascendancy passives)","( 你只能在遊俠的三個昇華職業中選擇一個 )"
+"(You can only take one of the three Witch Ascendancy passives)","( 你只能在女巫的三個昇華職業中選擇一個 )"
+"(You can only take one of the three Duelist Ascendancy passives)","( 你只能在決鬥者的三個昇華職業中選擇一個 )"
+"(You can only take one of the three Templar Ascendancy passives)","( 你只能在聖堂武僧的三個昇華職業中選擇一個 )"
+"(You can only take one of the three Shadow Ascendancy passives)","( 你只能在暗影刺客的三個昇華職業中選擇一個 )"
+"(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)","( 無視抗性表示你的傷害不被任和抗性所影響 )"
+"(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)","（被你嘲諷敵人只能以你為目標，並對其他人造成 10% 較少傷害。嘲諷持續 3 秒）"
+"(These are consecutive)
+(Each Conflux means all damage causes that Ailment)","(此為連續效果)
+(特定匯流作用時，你所有擊中造成的傷害皆能造對應的異常狀態。)"
+"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)",(冰緩依據擊中的冰冷傷害總量減少敵人行動速度，至多30%，持續2秒)
+"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)",(感電根據擊中的閃電傷害總量，增加至多50%承受傷害，持續2秒)
+"(The Stun Threshold determines how much Damage can Stun something)",(造成暈眩所需的傷害量代表暈眩門檻)
+"(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)","(冰凍使敵人行動速度降至 0，使他們無法行動。根據擊中的冰冷傷害決定持續時間)"
+"(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)",(點燃根據技能的基礎火焰傷害，造成持續火焰傷害，持續4秒)
+"(Inherent effects from having Rage are:
+1% increased Attack Damage per 1 Rage
+1% increased Attack Speed per 2 Rage
+1% increased Movement Speed per 5 Rage)","( 固有的盛怒效果:
+每 1 層盛怒增加 1% 攻擊傷害
+每 2 層盛怒增加 1% 攻擊速度
+每 5 層盛怒增加 1% 移動速度 )"
+"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","( 若你近期沒有被擊中或獲得盛怒，每 0.5 秒失去 1 層盛怒 )"
+"(Maximum Rage is 50)","( 盛怒最大層數 50 )"
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)","( 腎上腺素提供增加 100% 傷害，增加 25% 攻擊、施放和移動速度、和 10% 額外物理傷害減免。若已經有腎上腺素將不會再獲得一次 )"
+"(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","( 秘能波動提供 10% 更多法術傷害和增加 30% 魔力回復，持續 4 秒 )"
+"(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)","(凋零增加 6% 承受混沌傷害，至多可以堆疊 15 次)"
+"(Crushed lowers Physical Damage Reduction by 15%)","( 壓碎降低 15% 物理傷害減免 )"
