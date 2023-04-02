@@ -1,0 +1,36 @@
+Application options,软件设置
+
+
+#674,674
+Connection Protocol:,连接协议:
+Changes which protocol is used when downloading updates and importing builds.,更改下载更新和导入构筑时使用的协议。
+Auto,自动
+Proxy server:,代理服务:
+Build save path:,构筑保存路径:
+Overrides the default save location for builds.,覆盖构筑的默认保存位置。
+Node Power colours:,节点强度颜色:
+Changes the colour scheme used for the node power display on the passive tree.,更改天赋树上用于节点强度显示的配色方案。
+Red & Blue,^xE05030红 ^7& ^x7070FF蓝
+Red & Green,^xE05030红 ^7& ^x33FF77绿
+Green & Blue,^x33FF77绿 ^7& ^x7070FF蓝
+Opt-in to weekly beta test builds:,选择加入每周Beta测试版本:
+Build-related options,构筑相关设置
+Show thousands separators:,显示千位分隔符:
+Thousands separator:,千位分隔符:
+Decimal separator:,小数分隔符:
+Show build name in window title:,在窗口标题中显示构筑名称:
+Set the default quality that can be overwritten by build-related quality settings in the skill panel.,设置默认质量，该质量可以被技能面板中构筑相关质量设置覆盖。
+Set the default character level that can be overwritten by build-related level settings.,设置默认角色等级，该等级可以被与构筑相关等级设置覆盖。
+Default character level:,默认角色等级：
+Default item affix quality:,默认物品词缀Roll值：
+Show build warnings:,显示构筑警告:
+Show tooltips only for affected slots:,仅为受影响的插槽显示工具提示:
+Invert slider scroll direction:,反转滑块滚动方向:
+Default scroll direction is:,默认滚动方向为:
+Scroll Up = Move right,向上滚动=向右移动
+Scroll Down = Move left,向下滚动=向左移动
+
+
+
+
+About,关于

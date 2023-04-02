@@ -343,6 +343,7 @@ Rage:,怒火:
 "Base Maximum Rage is 50, and inherently grants the following:","怒火的基础最大层数为50,并赋予以下几点固定效果:"
 You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently.,如果你近期没有被击中或获得怒火，你每0.5秒失去1层怒火。
 Are you Leeching?,你在【偷取】?
+"You will automatically be considered to be Leeching if you have 'Life Leech effects are not removed at Full Life',","^xFFFFFF如果你有'^xE05030生命^7偷取在满血时不会移除'，你将自动被认为在偷取，"
 Are you Leeching Life?,^xFFFFFF你在【偷取^xE05030生命^7】?
 Are you Leeching Energy Shield?,^xFFFFFF你在【偷取^x88FFFF能量护盾^7】?
 Are you Leeching Mana?,^xFFFFFF你在【偷取^x7070FF魔力^7】?
@@ -371,23 +372,23 @@ Are you on Chilled Ground?,^xFFFFFF你在【^x3F6DB3冰缓^7地面】上?
 This also implies that you are Chilled.,^xFFFFFF这也意味着你被^x3F6DB3冰缓^7。
 Are you on Shocked Ground?,^xFFFFFF你在【^xADAA47感电^7地面】上?
 This also implies that you are Shocked.,^xFFFFFF这也意味着你被^xADAA47感电^7。
-Are you Blinded?,你被致盲?
-Are you Burning,^xFFFFFF你在^xB97123燃烧^7?
-Are you Ignited?,^xFFFFFF你被^xB97123点燃^7?
-Are you Chilled?,^xFFFFFF你被^x3F6DB3冰缓^7?
-Did you Chill yourself?,^xFFFFFF你^x3F6DB3冰缓^7你自己?
-Are you Frozen?,^xFFFFFF你被^x3F6DB3冰冻^7?
-Are you Shocked?,^xFFFFFF你被^xADAA47感电^7?
-Are you Bleeding?,你在流血?
-Are you Poisoned?,你在中毒?
-Are you Immune to Curses?,你免疫诅咒?
-# of Poison on You:,你所受中毒层数:
-This also implies that you are Poisoned.,这也意味着你中毒了。
-Are you against Damage over Time?,你受持续伤?
+Are you Blinded?,你被【致盲】?
+Are you Burning,^xFFFFFF你在^xB97123【燃烧】^7?
+Are you Ignited?,^xFFFFFF你被^xB97123【点燃】^7?
+Are you Chilled?,^xFFFFFF你被^x3F6DB3【冰缓】^7?
+Did you Chill yourself?,^xFFFFFF你^x3F6DB3【冰缓】^7你自己?
+Are you Frozen?,^xFFFFFF你被^x3F6DB3【冰冻】^7?
+Are you Shocked?,^xFFFFFF你被^xADAA47【感电】^7?
+Are you Bleeding?,你在【流血】?
+Are you Poisoned?,你在【中毒】?
+Are you Immune to Curses?,你免疫【诅咒】?
+# of Poison on You:,你所受【中毒】层数:
+This also implies that you are Poisoned.,这也意味着你【中毒】了。
+Are you against Damage over Time?,你在受到持续伤害?
 # of nearby Enemies:,附近的敌人数:
 # of nearby Rare or Unique Enemies:,附近的稀有或传奇敌人数:
 Have you Hit Recently?,你近期有击中?
-"You will automatically be considered to have Hit Recently if your main skill is self-cast,","如果你的主技能是自施放的将自动启用此状态,"
+"You will automatically be considered to have Hit Recently if your main skill Hits and is self-cast,","如果你的主技能是自施放的击中技能将自动启用此状态,"
 Have you Crit Recently?,你近期有造成暴击?
 This also implies that your Skills have Crit Recently.,这也意味着你的技能近期有暴击。
 Have your Skills Crit Recently?,你的技能近期有暴击?
@@ -413,14 +414,14 @@ Has a Minion Died Recently?,你近期有召唤物死亡?
 # of Enemies Killed by Minions Recently:,召唤物近期击杀数:
 This also implies that your Minions have Killed Recently.,这也意味着你的召唤物近期有击杀。
 Killed enemy affected by your DoT Recently?,你的持续伤害效果近期有击杀敌人?
-# of Shocked Enemies Killed Recently:,^xFFFFFF近期击杀^xADAA47感电^7的敌人数:
-Have you Frozen an enemy Recently?,^xFFFFFF你近期有^x3F6DB3冰冻^7敌人?
-Have you Chilled an enemy Recently?,^xFFFFFF你近期有^x3F6DB3冰缓^7敌人?
-Have you Shattered an enemy Recently?,^xFFFFFF你近期有^x3F6DB3粉碎^7敌人?
-Have you Ignited an Enemy Recently?,^xFFFFFF你近期有^xB97123点燃^7敌人?
-Have you Shocked an Enemy Recently?,^xFFFFFF你近期有^xADAA47感电^7敌人?
+# of Shocked Enemies Killed Recently:,^xFFFFFF近期击杀^xADAA47【感电】^7的敌人数:
+Have you Frozen an enemy Recently?,^xFFFFFF你近期有^x3F6DB3【冰冻】^7敌人?
+Have you Chilled an enemy Recently?,^xFFFFFF你近期有^x3F6DB3【冰缓】^7敌人?
+Have you Shattered an enemy Recently?,^xFFFFFF你近期有^x3F6DB3【粉碎】^7敌人?
+Have you Ignited an enemy Recently?,^xFFFFFF你近期有^xB97123【点燃】^7敌人?
+Have you Shocked an enemy Recently?,^xFFFFFF你近期有^xADAA47【感电】^7敌人?
 Have you Stunned an enemy Recently?,你近期有击晕敌人?
-# of Poisons applied Recently:,近期施加中毒层数:
+# of Poisons applied Recently:,近期施加【中毒】层数:
 # of Life spent Recently:,近期^xE05030生命^7消耗量:
 # of Mana spent Recently:,近期^x7070FF魔力^7消耗量:
 Have you been Hit Recently?,你近期被击中?
@@ -431,11 +432,11 @@ Consumed 12 Steel Shards Recently?,你近期消耗12钢刃碎片?
 Gained a Power Charge Recently?,你近期有获得【暴击球】?
 Have you been Savage Hit Recently?,你近期被【残暴打击】?
 This also implies that you have been Hit Recently.,这也意味着你近期被击中。
-Have you been hit by Fire Recently?,^xFFFFFF你近期被^xB97123火焰^7伤害击中?
-Have you been hit by Cold Recently?,^xFFFFFF你近期被^x3F6DB3冰霜^7伤害击中?
-Have you been hit by Light. Recently?,^xFFFFFF你近期被^xADAA47闪电^7伤害击中?
+Have you been hit by Fire Recently?,^xFFFFFF你近期被^xB97123【火焰】^7伤害击中?
+Have you been hit by Cold Recently?,^xFFFFFF你近期被^x3F6DB3【冰霜】^7伤害击中?
+Have you been hit by Light. Recently?,^xFFFFFF你近期被^xADAA47【闪电】^7伤害击中?
 Have you taken Spell Damage Recently?,你近期受到法术伤害?
-Taken Fire Damage from enemy Hit Recently?,^xFFFFFF你近期有受敌人^xB97123火焰^7击中伤害?
+Taken Fire Damage from enemy Hit Recently?,^xFFFFFF你近期有受敌人^xB97123【火焰】^7击中伤害?
 Have you Blocked Recently?,你近期有格挡?
 Have you Blocked an Attack Recently?,你近期有格挡攻击?
 This also implies that you have Blocked Recently.,这也意味着你近期有格挡。
@@ -445,6 +446,11 @@ Have you stopped taking DoT recently?,你近期停止受到持续伤害?
 Do you have Convergence?,你有【汇聚】效果?
 Is Pendulum of Destruction active?,【毁灭之钟】激活?
 Conflux Buff:,汇流增益效果:
+Highest damage type Override:,最高伤害类型覆盖:
+Determines whether modifiers that depend on the highest damage type apply.,确定取决于最高伤害类型的修正是否应用。
+Heartstopper Mode:,凝心者模式
+Hit,击中
+Damage over Time,持续伤害
 Is Bastion of Hope active?,【希望壁垒】激活?
 "Is Ngamahu, Flame's Advance active?","【火徒.努葛玛呼】激活?"
 Are you in Her Embrace?,你有【她的拥抱】?
@@ -485,16 +491,16 @@ Consumed a corpse in the past 2s?,过去2秒内有消耗灵柩?
 "# of Corpses Consumed Recently:","近期消耗灵柩数:"
 # of Warcries Used Recently:,近期使用战吼数:
 "This also implies you have 'Used a Warcry Recently', 'Used a Warcry in the past 8 seconds', and 'Used a Skill Recently'","这也意味着你'近期有使用战吼'、'过去8秒内有使用战吼'、'近期有使用技能'"
-"Taunted an Enemy Recently?",近期有嘲讽敌人?
+"Taunted an enemy Recently?",近期有嘲讽敌人?
 Lost an Endurance Charge in the past 8s?,过去8秒内有失去耐力球?
 # of Endurance Charges lost Recently:,近期失去耐力球数:
 Blocked a Hit from a Unique enemy in the past 10s?,你过去 10 秒内有格挡传奇怪物击中?
 Number of times you've Blocked in the past 10s,过去10秒内你格挡的次数
-Impaled an enemy recently?,近期有穿刺敌人?
-# of Impales on enemy (if not maximum):,敌人身上的穿刺层数(如果不是最大值):
-# of Bleeds on enemy (if not maximum):,敌人身上的流血层数(如果不是最大值):
+Impaled an enemy recently?,近期有【穿刺】敌人?
+# of Impales on enemy (if not maximum):,敌人身上的【穿刺】层数(如果不是最大值):
+# of Bleeds on enemy (if not maximum):,敌人身上的【流血】层数(如果不是最大值):
 Sets current number of Bleeds on the enemy if using the Crimson Dance keystone.,如果使用玫红之舞钥石天赋，设置敌人当前流血的层数。
-This also implies that the enemy is Bleeding.,这也意味着敌人在流血。
+This also implies that the enemy is Bleeding.,这也意味着敌人在【流血】。
 # of Fragile Regrowth Stacks:,【脆弱重生】层数:
 Killed a Rare or Unique enemy Recently?,近期有击杀稀有或传奇敌人?
 Do you have Iron Reflexes?,你有【霸体】?

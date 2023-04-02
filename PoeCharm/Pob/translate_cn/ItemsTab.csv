@@ -1,7 +1,3 @@
-
-
-
-
 Item set:,物品集:
 Manage...,管理...
 Trade for these items,交易这些物品
@@ -113,7 +109,7 @@ Attributes in Radius,范围内属性
 Split,已分裂
 
 
-Flask effect modifier: {0}%,^8药剂有效修正: ^7{0}%
+Flask effect modifier: {0}%,^8药剂效果修正: ^7{0}%
 Charge gain modifier: {0}%,^8充能获得修正: ^7{0}%
 Charges generated: {0} per second,充能生成: 每秒^7{0}
 Chance to not consume charges: {0}%,不消耗充能几率: ^7{0}%

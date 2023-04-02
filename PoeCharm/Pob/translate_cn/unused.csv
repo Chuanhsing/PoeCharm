@@ -61,3 +61,7 @@ Shaper/Guardian,岳父/长老
 "^x7F7F7FRadius: ^7Medium","^x7F7F7F范围: ^7中"
 "^x7F7F7FRadius: ^7Small","^x7F7F7F范围: ^7小"
 "^x7F7F7FEnergy Shield: ","^x7F7F7F能量护盾: "
+"x {0} leech rate modifier","x {0} 偷取速率加成"
+"x 0.20 (poison deals 20% per second)","x 0.20 (每秒 20% 中毒伤害)"
+"/ %.2f (burn rate modifier)","/ {0} (燃烧速度加成)"
+"x 0.5 (ignite deals 50% per second)","x 0.5 (每秒 50% 点燃伤害)"

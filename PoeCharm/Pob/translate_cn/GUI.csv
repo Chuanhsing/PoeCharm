@@ -1,7 +1,7 @@
 "Current build","当前 BD"
 "<< Back","<< 返回"
 "<No active skills>",<没有主动技能>
-About,关于
+
 "Update Ready",更新已就绪
 "Save Changes",保存变更
 "This build has unsaved changes.","这个 BD 的变更还未保存."
@@ -51,10 +51,10 @@ Copy,复制
 Default,默认
 Delete,删除
 "Delete All",删除全部
-Enabled:,启用:
+
 Enable,启用
 "Experience multiplier:",经验比率:
-"Gem Options",技能宝石选项
+
 General,一般
 Generate,生成
 Import,导入
@@ -80,13 +80,13 @@ Sort,排序
 "Sort by Name",排序(名称)
 "Sort by name",排序(名称)
 "Sort by DPS",排序(DPS)
-"Sort gems by DPS:",技能宝石排序(DPS):
+
 Level:,等级:
 "Required level: {0}","等级需求: {0}"
 Quality:,品质:
-"Default gem level:",技能宝石默认等级:
-"Default gem quality:",技能宝石默认品质:
-"Socketed in:",插槽位置:
+
+
+
 Start,开始
 Tree,天赋
 
@@ -97,7 +97,7 @@ Tree,天赋
 
 
 "Game Version:",游戏版本:
-"Gem name:",技能宝石名称:
+
 "Generate a code to share this build with other Path of Building users:","生成 POB 代码分享给所有的 POE 玩家:"
 Label:,标签:
 Player:,玩家:
@@ -389,8 +389,7 @@ Armour:,护甲:
 "Remove this gem.",移除这个宝石.
 "Selecting this gem will give you:",选择这个技能宝石会给你:
 "Are you sure you want to delete all socket groups in this build?","确定要删除 BD 中的所有插槽么?"
-"Select the item in which this skill is socketed.",选择该技能插槽所在的物品.
-"This will allow the skill to benefit from modifiers on the item that affect socketed gems.",这将会使物品上的技能宝石受到物品上的词缀加成.
+
 "Can support Strength threshold jewels","可以选择 ^xE05030力量 ^7门槛珠宝"
 "Can support Intelligence threshold jewels","可以选择 ^x7070FF智慧 ^7门槛珠宝"
 "Can support Dexterity threshold jewels","可以选择 ^x70FF70敏捷 ^7门槛珠宝"
@@ -481,9 +480,7 @@ Suffix:,后缀:
 "Enter folder name:",请输入文件夹名称:
 "No update available",无可用更新
 "You are running the latest version.",您运行的是最新版本
-"Show support gems:",显示辅助宝石:
-Awakened,觉醒
-Non-Awakened,非觉醒
+
 "Import from Pastebin","从 Pastebin 导入"
 "Enter Pastebin.com link:","输入 Pastebin.com 链接:"
 Anomalous,异常
