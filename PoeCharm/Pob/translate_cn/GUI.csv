@@ -11,10 +11,10 @@
 "Note: this code can be very long; you can use 'Share with Pastebin' to shrink it.","注意: POB 代码可能会很长,你可以分享到 'Pastebin' 获取短连接"
 Calcs,计算
 "Character Import",角色导入
-"Character import status: Idle","角色导入状态: 空闲"
+"Character import status: Idle","角色导入状态: 空"
 "Character import status: Account name is incorrect.","人物导入状态: ^xDD0022帐号名称不正确"
 "Character import status: Account profile is private.","人物导入状态: ^xDD0022帐号资料未公开"
-"Note: if the account name contains non-ASCII characters then it must be URL encoded first.","^1注意:如果帐号名包含非'ASCII'字符,需要先URL编码"
+"Note: if the account name contains non-ASCII characters then it must be URL encoded first.","^1注意:如果帐号名包含非'ASCII'字符,则必须先进行URL编码。"
 "Choose character to import data from:",选择角色后导入数据
 All,全部
 "Character import status: Retrieving character list...","角色导入状态: 获取角色列表..."
