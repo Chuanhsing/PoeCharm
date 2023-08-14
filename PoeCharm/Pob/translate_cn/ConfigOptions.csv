@@ -30,38 +30,45 @@ Time spent stationary,静止时长
 Are you always moving?,是否处于移动状态?
 Are you insane?,是否处于疯狂状态?
 Are you always on Full Life?,^xFFFFFF是否处于满^xE05030血^7状态?
-"You will automatically be considered to be on Full Life if you have Chaos Inoculation,","^xFFFFFF如果你有【异灵之体】将一直被视为满^xE05030血^7状态,"
-"but you can use this option to force it if necessary.","如有必要可用此选项强制应用."
 Are you always on Low Life?,^xFFFFFF是否处于低^xE05030血^7状态?
-"You will automatically be considered to be on Low Life if you have at least 50% life reserved,","^xFFFFFF如果你至少有 50% ^xE05030生命^7保留将一直被视为低^xE05030血^7状态,"
 Are you always on Full Mana?,^xFFFFFF是否处于满^x7070FF魔^7状态?
 Are you always on Low Mana?,^xFFFFFF是否处于低^x7070FF魔^7状态?
-"You will automatically be considered to be on Low Mana if you have at least 50% life reserved,","^xFFFFFF如果你至少有 50% ^x7070FF魔力^7保留将一直被视为^x7070FF低魔^7状态,"
 "Are you always on Full Energy Shield?","^xFFFFFF是否处于满^x88FFFF盾^7状态?"
 "Are you always on Low Energy Shield?","^xFFFFFF是否处于低^x88FFFF盾^7状态?"
-"You will automatically be considered to be on Low Energy Shield if you have at least 50% ES reserved,","^xFFFFFF如果你至少有 50% ^x88FFFF能量护盾^7保留将一直被视为低^x88FFFF盾^7状态,"
+"You will automatically be considered to be on Low Life if you have at least {0}% Life reserved","^xFFFFFF如果你至少有 {0}% ^xE05030生命^7保留将自动被视为低^xE05030血^7状态"
+"You can be considered to be on Full Life if you have at least {0}% Life left.","^xFFFFFF如果你有至少 {0}% ^xE05030生命^7，你可以被视为满^xE05030血^7状态"
+"You will automatically be considered to be on Full Life if you have Chaos Inoculation,","^xFFFFFF如果你有【异灵之体】将自动被视为满^xE05030血^7状态,"
+"but you can use this option to force it if necessary.","如有必要可用此选项强制应用。"
+"You will automatically be considered to be on Low Mana if you have at least 50% life reserved,","^xFFFFFF如果你至少有 50% ^x7070FF魔力^7保留将自动被视为^x7070FF低魔^7状态,"
+"You will automatically be considered to be on Low Energy Shield if you have at least 50% ES reserved,","^xFFFFFF如果你至少有 50% ^x88FFFF能量护盾^7保留将自动被视为低^x88FFFF盾^7状态,"
 Do you always have Energy Shield?,^xFFFFFF是否一直有^x88FFFF能量护盾^7?
-"Are your minions always on Full Life?","你的召唤物是否处于满血状态?"
-"Have your Minions been created Recently?","你的召唤物是否是近期内创造的?"
-"Ailment calculation mode:","异常状态计算模式:"
+Are your minions always on Full Life?,你的召唤物是否处于满^xE05030血^7状态?
+Minion is always on Full Energy Shield?,你的召唤物是否处于满^x88FFFF盾^7状态?
+Have your Minions been created Recently?,你的召唤物是否是近期内创造的?
+Ailment calculation mode:,异常状态计算模式:
 Average,平均
-Average:,平均:
 Crits Only,仅暴击
-Crits Only:,仅暴击:
 Minimum,最小值
-Minimum:,最小值:
 Maximum,最大值
 Burst,瞬时
 "Controls how the base damage for applying Ailments is calculated:","控制如何计算异常状态的基础伤害:"
-"damage is based on the average application, including both crits and non-crits","伤害计算基于平均应用，包括了暴击与非暴击"
-"damage is based solely on Ailments inflicted with crits","伤害计算只基于暴击产生的异常状态"
+"	Average: damage is based on the average application, including both crits and non-crits","	平均：伤害基于平均应用，包括暴击和非暴击"
+"	Crits Only: damage is based solely on Ailments inflicted with crits","	仅暴击：伤害计算只基于暴击产生的异常状态"
 Random element mode:,随机元素模式:
 Controls how modifiers which choose a random element will function.,控制选择随机元素的修正的运作。
+"	Average: Modifiers will grant one third of their value to Fire, Cold, and Lightning simultaneously","	^xFFFFFF平均：同时给予三分之一的^xB97123火焰^7, ^x3F6DB3冰霜^7和^xADAA47闪电^7伤害的修正"
+"	Fire / Cold / Lightning: Modifiers will grant their full value as the specified element","	^xB97123火焰 ^7/ ^x3F6DB3冰霜 ^7/ ^xADAA47闪电^7: 将授予指定元素的完整值修正"
+"If a modifier chooses between just two elements, the full value can only be given as those two elements.","如果修正只在两个元素之间进行选择，则只能给出这两个元素的完整值。"
 Life regen calculation mode:,^xE05030生命^7回复计算模式:
 Controls how life regeneration is calculated:,^xFFFFFF控制如何计算^xE05030生命^7回复:
-does not include burst regen,不计算瞬时回复
-"includes burst regen, averaged based on uptime",包括瞬时回复，基于生效时间进行平均计算
-includes full burst regen,包括完整的瞬时回复
+	Minimum: does not include burst regen,	最小值：不计算瞬时回复
+"	Average: includes burst regen, averaged based on uptime",	平均：包括瞬时回复，基于生效时间进行平均计算
+	Burst: includes full burst regen,	瞬时：包括完整的瞬时回复
+Resource gain calculation mode:,资源获取计算模式:
+Controls how resource on hit/kill is calculated:,控制如何计算命中/击杀获取的资源:
+does not include chances,视为无几率
+"includes chance gains, averaged based on uptime","计算几率收益，平均基于正常生效时间"
+treats all chances as certain,将几率视为必然
 EHP calc unlucky:,有效生命值计算时不幸:
 Sets the EHP calc to pretend its unlucky and reduce the effects of random events,对有效生命值计算进行设置以假装它是不幸的并减少随机事件的效果
 Unlucky,不幸
@@ -80,6 +87,10 @@ Warcry calculation mode:,战吼计算模式:
 "Averages out Warcry usage with cast time, attack speed and warcry cooldown.","用施法时间，攻击速度和战吼冷却时间计算平均战吼使用率。"
 "Max Hit: Shows maximum hit for lining up all warcries.","最大击中:显示排列所有战吼的最大击中伤害。"
 "Disable Emperor's Vigilance Bypass","禁用【皇帝的警戒】的规避效果"
+Don't disable items,不禁用物品
+"Ignore the effects of things which disable items, like Bringer of Rain","忽略那些使物品失效的效果，比如祭礼之雨"
+Ignore Jewel Limits,忽略珠宝限制
+Ignore the limits on jewels,忽略珠宝的限制
 "Crit Damage",暴击伤害
 "Aspect of the Avian:",【鸟之势】:
 "Is Avian's Might active?",【鸟之力量】激活状态?
@@ -223,6 +234,11 @@ Low tier: 25-30%,低阶: 25-30%
 Mid tier: 31-35%,中阶: 31-35%
 High tier: 36-40%,高阶: 36-40%
 "# of Sextants affecting the area","该地区被#个六分仪影响"
+% increased effect of map mods,地图词缀效果提升百分比
+Map Tier,地图T阶
+Red,红
+Yellow,黄
+White,白
 Unique Map Modifiers:,传奇地图修正:
 PvP damage scaling in effect,启用PvP 伤害调整
 'Hall of Grandmasters','元帅殿堂'
@@ -298,6 +314,9 @@ Do you have Lifetap?,你有【赤炼】?
 Do you have Onslaught?,你有【猛攻】?
 "In addition to allowing any 'while you have Onslaught' modifiers to apply,","启用时 '当你处于【猛攻】' 之类的修正生效,"
 "this will enable the Onslaught buff itself. (Grants 20% increased Attack, Cast, and Movement Speed)","这将启用【猛攻】增益效果. (攻击/施法/移动速度提高 20% )"
+Do you have Arcane Surge?,你有【秘术增强】?
+"In addition to allowing any 'while you have Arcane Surge' modifiers to apply,","启用时 '当你处于【秘术增强】' 之类的修正生效,"
+"this will enable the Arcane Surge buff itself. (Grants 10% increased cast speed and 30% increased Mana Regeneration rate)","这将启用【秘术增强】增益效果. (施法速度提高 10% 、魔力再生率提高 30%)"
 Do your minions have Onslaught?,你的召唤物是否有【猛攻】?
 "In addition to allowing any 'while your minions have Onslaught' modifiers to apply,","启用时 '当你的召唤物处于【猛攻】' 之类的修正生效,"
 Do you have Unholy Might?,你有【不洁之力】?
@@ -340,6 +359,7 @@ Are you Leeching?,你在【偷取】?
 Are you Leeching Life?,^xFFFFFF你在【偷取^xE05030生命^7】?
 Are you Leeching Energy Shield?,^xFFFFFF你在【偷取^x88FFFF能量护盾^7】?
 Are you Leeching Mana?,^xFFFFFF你在【偷取^x7070FF魔力^7】?
+Minion is Leeching Energy Shield?,召唤物在【偷取^x88FFFF能量护盾^7】?
 Do you have a Flask active?,你在【使用药剂】?
 "This is automatically enabled if you have a flask active,","如果有使用药剂将会自动启用此状态,"
 Do you have a Totem summoned?,你有召唤图腾?
@@ -349,8 +369,8 @@ Have you Summoned a Totem Recently?,你近期内有召唤图腾?
 "# of Summoned Totems (if not maximum):","召唤的图腾数量(如果不是最大值):"
 This also implies that you have a Totem summoned.,这也意味着你召唤了一个图腾。
 "This will affect all 'per Summoned Totem' modifiers, even for non-Totem skills.","这将影响所有'每召唤一个图腾'修正，即使是对于非图腾技能。"
-Summoned a Golem in the past 8 Seconds?,过去8秒内召唤了魔像?
-Summoned a Golem in the past 10 Seconds?,过去10秒内召唤了魔像?
+Summoned Golem in past 8 Seconds?,过去8秒内召唤了魔像?
+Summoned Golem in past 10 Seconds?,过去10秒内召唤了魔像?
 # of Nearby Allies:,附近的友军数:
 # of Nearby Corpses:,附近的灵枢数:
 # of Summoned Minions:,召唤物数:
@@ -622,6 +642,7 @@ Is the enemy in the Frost Shield area?,敌人是否在【寒霜护盾】范围�
 Enemy was Hit by Fire Damage?,^xFFFFFF敌人曾被^xB97123火焰^7伤害击中?
 Enemy was Hit by Cold Damage?,^xFFFFFF敌人曾被^x3F6DB3冰霜^7伤害击中?
 Enemy was Hit by Light. Damage?,^xFFFFFF敌人曾被^xADAA47闪电^7伤害击中?
+Is the enemy in RF or Scorching Ray:,敌人是否在正义之火或灼热光纤中:
 Ignore Skill Hit Damage?,忽略技能击中伤害?
 This option prevents EE from being reset by the hit damage of your main skill.,此选项可防止【元素之相】(EE)被你主技能的击中伤害重置。
 Enemy Stats,敌人数据
@@ -661,9 +682,11 @@ Enemy Cold Resistance:,敌人^x3F6DB3冰霜^7抗性:
 Enemy Fire Resistance:,敌人^xB97123火焰^7抗性:
 Enemy Chaos Resistance:,敌人^xD02090混沌^7抗性:
 Enemy Block Chance:,敌人格挡几率:
+Enemy Base Evasion:,敌人基础^x33FF77闪避:
+Enemy Base Armour:,敌人基础护甲:
 Boss Skill Preset,Boss技能预设
 Used to fill in defaults for specific boss skills if the boss config is not set,如果没有设置boss配置则用于填充特定boss技能的默认值
-"Bosses' damage is assumed at a 2/3 roll, with no Atlas passives, at the normal monster level for your character level (capped at 85)","boss的伤害假设在骰值的2/3，没有异界天赋，在你的角色等级的正常怪物等级(上限85)"
+"Bosses' damage is modified by roll range configuration, defaulted at a 70% roll, at the normal monster level for your character level (capped at 85)","boss的伤害是根据掷骰范围的配置来修改的，默认为70%的掷骰，在你的角色级别的普通怪物级别(上限85)"
 Caveats for certain skills are below,以下是某些技能的注意事项
 Shaper Ball: Allocating Cosmic Wounds increases the penetration to 40% and adds 2 projectiles,塑界者的球:点出寰宇之伤会增加穿透至40%，并增加2个投射物
 Shaper Slam: Cannot be Evaded.  Allocating Cosmic Wounds doubles the damage and cannot be blocked or dodged,塑界者的猛击:不可躲避。点出寰宇之伤会使伤害加倍，并且不能被格挡或闪避

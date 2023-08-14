@@ -5338,7 +5338,7 @@ Hindered,被干扰
 "{0}% reduced Cast Speed if a Minion has been Killed Recently","近期内你的召唤生物若被击败，则施法速度降低 {0}%"
 "{0}% increased Cast Speed for each corpse Consumed Recently","每消耗 1 具灵柩后的短时间内，施法速度提高 {0}%"
 "{0}% reduced Cast Speed for each corpse Consumed Recently","每消耗 1 具灵柩后的短时间内，施法速度降低 {0}%"
-"{0}% increased Cast Speed while affected by Zealotry",受到【奋锐光环】影响时，施法速度降低{0}%
+"{0}% increased Cast Speed while affected by Zealotry",受到【奋锐光环】影响时，施法速度提高{0}%
 "Aspect of the Cat Reserves no Mana",【猫之势】不保留魔力值
 "{0} seconds to Cat's Stealth Duration","猫之隐匿持续时间 {0} 秒"
 "Caustic Arrow has a {0}% chance on Hit to Poison Enemies on Caustic Ground","【腐蚀箭矢】在击中后位于腐蚀地面上的敌人后，有 {0}% 的几率使其中毒"
@@ -9522,7 +9522,7 @@ Runebinder,符文绑定者
 "Cursed enemies have an additional {0}% chance to be Stunned","被诅咒敌人的被晕眩几率额外提高 {0}%"
 "Cursed enemies have {0}% increased Stun and Block Recovery","被诅咒敌人的晕眩和格挡回复提高 {0}%"
 "Cursed enemies have {0}% reduced Stun and Block Recovery","被诅咒敌人的晕眩和格挡回复降低 {0}%"
-"Cursed enemies take {0}% increased Physical Damage","被诅咒敌人受到的物理伤害总增 {0}%"
+"Cursed enemies take {0}% increased Physical Damage","被诅咒敌人受到的物理伤害提高 {0}%"
 "Cursed enemies take {0}% increased Damage from Damage Over Time effects","被诅咒敌人受到的持续伤害提高 {0}%"
 "Ignite on Cursed enemies has {0}% reduced Duration","被诅咒敌人的点燃持续时间缩短 {0}%"
 "Ignite on Cursed enemies has {0}% increased Duration","被诅咒敌人的点燃持续时间延长 {0}%"
@@ -20457,8 +20457,8 @@ Doomsday,灭亡之日
 "Cursed Normal or Magic enemies deal {0} less Damage","被诅咒的普通和魔法敌人造成的总伤害额外降低 {0}"
 "Hits against Cursed Enemies have {0} to Critical Strike Chance","对被诅咒敌人的击中获得 {0} 基础暴击几率"
 "Hits against Cursed Enemies have {0} to Critical Strike Multiplier","对抗被诅咒的敌人时，击中的暴击伤害加成 {0}"
-"Cursed enemies take {0} reduced Extra Damage from Critical Strikes","被诅咒敌人受到的暴击总伤害额外降低 {0}"
-"Cursed enemies take {0} increased Extra Damage from Critical Strikes","被诅咒敌人受到的暴击总伤害额外提高 {0}"
+"Cursed enemies take {0} reduced Extra Damage from Critical Strikes","被诅咒敌人受到的暴击额外伤害降低 {0}"
+"Cursed enemies take {0} increased Extra Damage from Critical Strikes","被诅咒敌人受到的暴击额外伤害提高 {0}"
 "Hits on Cursed Enemies have an additional {0} chance to Knockback","击中被诅咒敌人时有额外 {0} 的几率将其击退"
 "Cursed enemies have {0} more Evasion","被诅咒敌人的总闪避值额外提高 {0}"
 "Cursed enemies have {0} less Evasion","被诅咒敌人的总闪避值额外降低 {0}"
@@ -20466,7 +20466,7 @@ Doomsday,灭亡之日
 "Cursed enemies have an additional {0} chance to be Stunned","被诅咒敌人的被晕眩几率额外提高 {0}"
 "Cursed enemies have {0} increased Stun and Block Recovery","被诅咒敌人的晕眩和格挡回复提高 {0}"
 "Cursed enemies have {0} reduced Stun and Block Recovery","被诅咒敌人的晕眩和格挡回复降低 {0}"
-"Cursed enemies take {0} increased Physical Damage","被诅咒敌人受到的物理总伤害额外提高 {0}"
+"Cursed enemies take {0} increased Physical Damage","被诅咒敌人受到的物理伤害提高 {0}"
 "Cursed enemies take {0} increased Damage from Damage Over Time effects","被诅咒敌人受到的持续伤害提高 {0}"
 "Ignite on Cursed enemies has {0} reduced Duration","被诅咒敌人的点燃持续时间缩短 {0}"
 "Ignite on Cursed enemies has {0} increased Duration","被诅咒敌人的点燃持续时间延长 {0}"
