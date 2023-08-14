@@ -43,21 +43,14 @@ Prismatic (Resistance),棱光催化剂(抗性)
 Tempering (Defense),回火催化剂(防御)
 Turbulent (Elemental),猛烈催化剂(元素伤害)
 Unstable (Critical),不稳定的催化剂(暴击)
-
 Quality,品质
-
 Added Passives:,增加天赋:
 Affix,词缀
 Level,等级
 Tags,标签
 Add modifier...,添加词缀...
-
-
 Adding this mod will give: ,添加此词缀将给予:
 New Item,新物品
-
-
-
 Manage Item Sets,管理物品集
 The item is invalid.,此物品无效
 Check that the item's title and base name are in the correct format.,检查物品的标题和基底名称的格式是否正确。
@@ -66,32 +59,21 @@ Check that the item's title and base name are in the correct format.,检查物�
 Craft Item,创建物品
 Edit Item Text,编辑物品文本
 Create Custom Item from Text,从文本创建自定义物品
-
 Skill:,技能:
 All Skills:,所有技能:
 "Show all skills, not just those used by this build.","显示所有技能,而不是只显示当前 BD 的技能."
-
 Enchant Item,附魔物品
 Heist,夺宝
 Harvest,庄园
-
-
 No Anoint,无涂油
 Anoint Item,给物品涂油
-
 Scourge,天灾腐化
 Corrupted Item,腐化物品
-
 Veiled,解密
 Add Modifier to Item,添加词缀到物品
-
-
 Add Implicit to Item,新增基底词缀至物品
-
 Fractured Item,分裂物品
 Synthesised Item,忆境物品
-
-
 Elemental DPS,元素DPS
 Attacks per Second,每秒攻击次数
 Weapon Range,武器范围
@@ -107,8 +89,6 @@ Medium,中
 Small,小
 Attributes in Radius,范围内属性
 Split,已分裂
-
-
 Flask effect modifier: {0}%,^8药剂效果修正: ^7{0}%
 Charge gain modifier: {0}%,^8充能获得修正: ^7{0}%
 Charges generated: {0} per second,充能生成: 每秒^7{0}

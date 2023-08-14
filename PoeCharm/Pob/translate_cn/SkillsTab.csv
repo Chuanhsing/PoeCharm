@@ -37,14 +37,6 @@ Count:,倍率:
 "You cannot delete this group, but it will disappear if you un-equip the item.",你不能删除该组，但如果取消装备该物品，该组将消失。
 "You cannot add support gems to this group, but support gems in",您不能向该组添加辅助宝石，但在
 will automatically apply to the skill.,将自动应用于技能。
-
-
-
-
 Gem name:,技能宝石名称:
 Variant:,变种:
-
-
-
-
 "Note: `count` integer value scales the DPS of associated skill by a scalar.","注意:'倍率'整数值将关联技能的DPS按标量进行倍增。"

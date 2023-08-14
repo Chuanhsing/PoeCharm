@@ -91,7 +91,6 @@ Don't disable items,不禁用物品
 "Ignore the effects of things which disable items, like Bringer of Rain","忽略那些使物品失效的效果，比如祭礼之雨"
 Ignore Jewel Limits,忽略珠宝限制
 Ignore the limits on jewels,忽略珠宝的限制
-
 "Crit Damage",暴击伤害
 "Aspect of the Avian:",【鸟之势】:
 "Is Avian's Might active?",【鸟之力量】激活状态?
@@ -162,8 +161,6 @@ Vortex:,【漩涡】:
 "Winter Orb:",【寒冬宝珠】:
 Stages:,等阶:
 "Withering Touch:",【凋零之触】:
-
-
 Map Modifiers and Player Debuffs,地图词缀和玩家减益
 Map Prefix Modifiers:,地图前缀加成:
 Enemy Physical Damage reduction:,怪物的物理伤害减伤:
@@ -280,10 +277,6 @@ Vulnerability:,【脆弱】:
 "In high tier maps, 'of Vulnerability' applies level 15.","在高阶地图,【脆弱】的等级是 15."
 "Warlord's Mark:",【督军印记】:
 "Sets the level of Warlord's Mark to apply to the player.","设置玩家所受的【督军印记】等级."
-
-
-
-
 When In Combat,战斗状态
 Do you use Power Charges?,你有【暴击球】?
 # of Power Charges (if not maximum):,【暴击球】数量 (如果不是最大值):
@@ -539,10 +532,6 @@ PvP Tvalue override (ms):,PvP Tvalue override (ms):
 "Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues","Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues"
 Custom PvP Damage multiplier percent:,Custom PvP Damage multiplier percent:
 "This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)","This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)"
-
-
-
-
 For Effective DPS,有效DPS相关
 Is your Crit Chance Lucky?,你的暴击率很幸运?
 # of times Skill has Forked:,技能已分叉数:
@@ -656,9 +645,6 @@ Enemy was Hit by Light. Damage?,^xFFFFFF敌人曾被^xADAA47闪电^7伤害击中
 Is the enemy in RF or Scorching Ray:,敌人是否在正义之火或灼热光纤中:
 Ignore Skill Hit Damage?,忽略技能击中伤害?
 This option prevents EE from being reset by the hit damage of your main skill.,此选项可防止【元素之相】(EE)被你主技能的击中伤害重置。
-
-
-
 Enemy Stats,敌人数据
 Enemy Level:,敌人等级:
 This overrides the default enemy level used to estimate your hit and evade chance.,^xFFFFFF此设置决定会影响你的命中和^x33FF77闪避^7几率估算的敌人等级。
@@ -730,8 +716,4 @@ Enemy Skill Cold Pen:,敌人技能^x3F6DB3冰霜^7穿透:
 Enemy Skill Fire Damage:,敌人技能^xB97123火焰^7伤害:
 Enemy Skill Fire Pen:,敌人技能^xB97123火焰^7穿透:
 Enemy Skill Chaos Damage:,敌人技能^xD02090混沌^7伤害:
-
-
-
-
 Custom Modifiers,自定义修正

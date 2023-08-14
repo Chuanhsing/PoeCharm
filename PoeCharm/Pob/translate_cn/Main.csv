@@ -1,7 +1,4 @@
 Application options,软件设置
-
-
-#674,674
 Connection Protocol:,连接协议:
 Changes which protocol is used when downloading updates and importing builds.,更改下载更新和导入构筑时使用的协议。
 Auto,自动
@@ -29,8 +26,4 @@ Invert slider scroll direction:,反转滑块滚动方向:
 Default scroll direction is:,默认滚动方向为:
 Scroll Up = Move right,向上滚动=向右移动
 Scroll Down = Move left,向下滚动=向左移动
-
-
-
-
 About,关于

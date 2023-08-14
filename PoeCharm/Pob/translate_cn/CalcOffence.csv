@@ -3,50 +3,25 @@ You can't deal Lightning damage,你无法造成闪电伤害
 You can't deal Cold damage,你无法造成冰霜伤害
 You can't deal Fire damage,你无法造成火焰伤害
 You can't deal Chaos damage,你无法造成混沌伤害
-
-
 {0} to {1} (total damage),{0} 至 {1} (总伤害)
-
 (40% converted to other damage types),(40%转换为其他伤害类型)
 (90% converted to other damage types),(90%转换为其他伤害类型)
 (100% converted to other damage types),(100%转换为其他伤害类型)
-
-
-
-#799,#799
 All targets,所有目标
-
-
-
-
-
-
 (base),(基础)
 (action speed modifier),(行动速度修正)
 = {0} casts per second,= {0} 每秒施放
 (total modifier),(总修正)
 = {0} seconds per attack,= {0} 攻击用时
-
-
 Both weapons:,全部武器:
 {0} + {1} (skill hits with both weapons at once),{0} + {1} ( 2 把武器同时使用技能击中)
 {0} + {1} / {2} (skill alternates weapons),{0} + {1} / {2} (武器交替使用技能)
-
-
 {0} to {1} (base damage from weapon),{0} 至 {1} (武器基础伤害)
 x {0} (base damage multiplier),x {0} (基础伤害效用)
 + {0} to {1} (added damage),+ {0} 至 {1} (附加伤害)
 x {0} (damage effectiveness),x {0} (附加伤害效用)
-
-
-#1140,#1140
 "x {0} (duration modifier)","x {0} (持续时间修正)"
 "/ {0} (debuff expires slower/faster)","/ {0} (减益效果消退 更慢/更快)"
-
-
-
-
-#1308,#1308
 (cost multiplier),(消耗加成)
 (base mana cost),(基础魔力消耗)
 (base life cost),(基础生命消耗)
@@ -60,42 +35,17 @@ x {0} (damage effectiveness),x {0} (附加伤害效用)
 (total life cost),(总生命消耗)
 (attack speed),(每秒攻击)
 (cast speed),(每秒施法)
-
-
-
-#1564,#1564
 Enemy level: {0} (can be overridden in the Configuration tab),敌人等级: {0} (可以在配置选项卡中决定)
 Average enemy evasion: {0},平均敌人闪避值: {0}
 Approximate hit chance: {0}%,近似命中几率: {0}%
 Accuracy Hit Chance: {0}%,纯命中几率计算命中率: {0}%
 Enemy Block Chance: {0}%,敌人格挡率: {0}%
-
-
-
-
-#1702,1702
 (chance to hit),(击中几率)
-
-
-
-
-#2435,#2435
 "x {0} (ruthless blow effect modifier)","x {0} (无情效果修正)"
 (fist of war effect modifier),(战争铁拳效果修正)
 (combined ailment warcry effect modifier),(结合异常状态战吼效果修正)
-
-
-
-
-
-#2931,#2931
 (DPS multiplier for this skill),(此技能的DPS加成)
 (quantity multiplier for this skill),(此技能的数量加成)
-
-
-
-
-#3205-- Calculate bleeding chance and damage,3205
 NOTE: Calculation uses new Weighted Avg Ailment formula,注:计算采用新的加权平均异常公式
 (BleedDuration / Attack Time),(流血持续时间 / 攻击用时)
 (active number of totems),(生效的图腾数)
@@ -114,10 +64,6 @@ Crit Dmg Derivation:,暴击伤害由来:
 (Uncapped raw Bleed DPS),(未封顶原始流血DPS)
 (Capped Bleed DPS),(封顶流血DPS)
 (base duration),(基础持续时间)
-
-
-
-#3401-- Calculate poison chance and damage,#3401
 Ailment mode: CRIT,^7异常状态模式:暴击
 Ailment mode: Crits Only,^7异常状态模式:仅暴击
 Ailment mode: Average Damage,^7异常状态模式:平均伤害
@@ -137,11 +83,6 @@ Ailment mode: Average Damage,^7异常状态模式:平均伤害
 (dps multiplier for this skill),(此技能的DPS加成)
 (stack multiplier for this skill),(此技能的层数加成)
 Capped to 1,封顶至1
-
-
-
-
-#3625-- Calculate ignite chance and damage,#3625
 (IgniteDuration / Cast Time),(点燃持续时间 / 施法用时)
 (Ignite DoT Multi),(点燃持续伤害加成)
 (Ignite DoT Multi for Non-Crit),(非暴击点燃持续伤害加成)
@@ -155,11 +96,6 @@ Capped to 1,封顶至1
 (Capped Ignite DPS),(封顶点燃DPS)
 (ignite duration),(点燃持续时间)
 = {0} damage per ignite stack,= {0} 每层点燃伤害
-
-
-
-
-#3882-- Calculate non-damaging ailments effect and duration modifiers,#3882
 (capped at 40%),(封顶为40%)
 (increased effect of chill),(冰缓效果提高)
 (Ailment Threshold is about equal to Life except on bosses where it is about half of their life),(异常状态阈值与生命值相等，除了boss以一半生命值计算)
@@ -183,18 +119,8 @@ Scorch Effect,灼烧效果
 (minimum),^8(最小)
 (increased/reduced duration),(持续时间 提高/降低)
 x {0} (more/less duration),x {0} (持续时间 总增/总降)
-
-
-
-
-#4058		-- Calculate enemy stun modifiers,#4058
 (increased/reduced stun duration),(晕眩持续时间 提高/降低)
 (increased/reduced enemy stun recovery),(敌人晕眩回复 提高/降低)
-
-
-
-
-#4084		-- Calculate impale chance and modifiers,4084
 (base value),(基础值)
 (increased effectiveness),(效果提高)
 "(number of stacks, can be overridden in the Configuration tab)","(层数,可在配置选项卡决定)"
@@ -202,36 +128,15 @@ x {0} (more/less duration),x {0} (持续时间 总增/总降)
 (impale chance),(穿刺几率)
 (impale enemy physical damage reduction),(被穿刺敌人的物理减伤)
 (impale damage multiplier),(穿刺伤害加成)
-
-
-
-#4349skillFlags.DotCanStack = true,#4349
 (Damage per Instance),(每个实例的伤害)
 (skill duration),(技能持续时间)
-
-
-
-
-#4518	-- Calculate combined DPS estimate, including DoTs,#4518
 (average physical hit),(平均物理击中伤害)
-
-
-
-
-
-
-
-
 x {0} (multiplier from {1}% chance to deal triple damage),x {0} ({1}%几率造成三倍伤害的加成)
 x {0} (multiplier from {1}% chance to deal double damage),x {0} ({1}%几率造成双倍伤害的加成)
 x {0} (effective DPS modifier),x {0} (有效DPS修正)
-
 Crit confirmation roll:,暴击确保性:
-
 {0} - {1} (portion of damage from non-crits),{0} - {1} (来自非暴击伤害百分比)
 (portion of damage from crits),(來自暴击伤害百分比)
-
-
 {0} (average hit),{0} (平均击中伤害)
 x {0} (chance to hit),x {0} (击中几率)
 {0} (average damage),{0} (平均伤害)
