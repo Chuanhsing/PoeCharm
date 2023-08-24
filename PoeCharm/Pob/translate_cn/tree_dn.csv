@@ -529,7 +529,7 @@ Disemboweling,开肠剖肚
 "Melee Critical Strike Chance",近战暴击率
 "Melee Critical Mastery",近战暴击专精
 "Damage Over Time and Life Regeneration",持续伤害与生命回复
-"Damage Over Time",持续伤害
+"Damage Over Time",持续伤害加成
 "Growth and Decay",成长与衰变
 "Chaos Mastery",混沌专精
 "Lethal Assault",王牌射手
@@ -996,7 +996,7 @@ Steadfast,坚韧不拔
 "Channelling Attack Speed and Stun Avoidance",吟唱攻击速度和眩晕回避率
 "Unpredictable Offensive",攻其不备
 "Impale Effect",穿刺效果
-"Impale Chance",穿刺几率
+"Impale Chance",点燃几率
 "Swift Skewering",快速穿刺
 "Impale Mastery",穿刺专精
 "Damage and Critical Strikes against Blinded Enemies",对目盲敌人的伤害和暴击率
@@ -1756,7 +1756,7 @@ Goliath,巨人之力
 "Chance to Ignite",点燃几率
 "Lightning Ailment Effect",闪电异常状态效果
 "Avoid Interruption while Casting and Elemental Resistances",施法免打断和元素抗性
-"Chance for Extra Fork Projectile",额外投射物分叉几率
+"Chance for Extra Fork Projectile",额外投射物分裂几率
 "Avoid Status Ailments",避免异常状态
 "Master of Blades",刀剑之主
 "Mana and Mana on Kill",魔力和击败获取魔力
@@ -1867,7 +1867,7 @@ Instinct,本能
 "Assured Strike",十拿九稳
 "Impale Chance with Two Handed Weapons",双手武器穿刺几率
 "Infused Flesh",血肉灌注
-"Forking Angle",分叉角度
+"Forking Angle",分裂角度
 "Life Flask Charge Gain",生命药剂充能获取
 "Mana Flask Charge Gain",生命药剂充能获取
 "Replenishing Remedies",重装拯救

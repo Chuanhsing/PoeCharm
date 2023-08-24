@@ -48,7 +48,7 @@ Mana,魔力
 Fending,自衛術
 "Endurance Charge Duration",耐力球持續時間
 Bloodless,無血之體
-"Stun Threshold Reduction",暈眩門檻降低
+"Stun Threshold Reduction",暈眩門檻減免
 "Armour and Life",護甲和生命
 "Elemental Resistances",元素抗性
 "Life and Energy Shield",生命與能量護盾
@@ -137,7 +137,7 @@ Vampirism,吸血主義
 "From the Shadows",影刃
 "Life Raker",生靈收割者
 Intuition,直覺
-"Claw Damage and Attack Speed",爪傷害和攻擊速度
+"Claw Damage and Attack Speed",爪的傷害和攻擊速度
 "Heavy Draw",強弩
 "Physical Bow Damage and Stun Threshold",物理弓傷害和暈眩門檻
 "Bow Damage Over Time",弓持續傷害
@@ -178,7 +178,7 @@ MARAUDER,野蠻人
 WITCH,女巫
 RANGER,遊俠
 DUELIST,決鬥者
-TEMPLAR,聖堂武僧
+TEMPLAR,聖騎士
 "Two Handed Melee Damage and Life Leech Speed",雙手武器近戰傷害和收命偷取
 Executioner,處決者
 Cleaving,劈砍
@@ -767,7 +767,7 @@ Pyromaniac,縱火狂
 "Path of the Marauder",野蠻人之道
 "Path of the Duelist",決鬥者之道
 "Path of the Shadow",暗影刺客之道
-"Path of the Templar",聖堂武僧之道
+"Path of the Templar",聖騎士之道
 "Passive Point",天賦點數
 "Strength and Dexterity",力量和敏捷
 "Strength and Intelligence",力量和智慧
@@ -776,7 +776,7 @@ Pyromaniac,縱火狂
 "Ranger Ascendancy",遊俠昇華職業
 "Witch Ascendancy",女巫昇華職業
 "Duelist Ascendancy",決鬥者昇華職業
-"Templar Ascendancy",聖堂武僧昇華職業
+"Templar Ascendancy",聖騎士昇華職業
 "Shadow Ascendancy",暗影刺客昇華職業
 Berserker,暴徒
 Chieftain,酋長
@@ -1026,7 +1026,7 @@ Safeguard,庇護
 "Indomitable Army",頑固軍隊
 "Link Mana Cost",連結魔力消耗
 "Link Mana Cost and Cast Speed",連結魔力消耗和施放速度
-"Inspiring Bond",啟發之繫
+"Inspiring Bond",啟發之絆
 "Golem Life and Buff Effect",魔像生命和增益效果
 "Golem Commander",魔像指揮官
 "Life Flasks and Flask Duration",生命藥劑和藥劑持續時間
@@ -1121,11 +1121,11 @@ Acrimony,尖酸刻薄
 "Curse Mana Reservation Efficiency",詛咒魔力保留效用
 "Malicious Intent",惡之意
 "Mark Effect",印記效果
-"Damage against Marked Enemy",對詛咒敵人傷害
+"Damage against Marked Enemy",對標記敵人的傷害
 "Marked for Death",死亡印記
 "Critical Strike Chance against Marked Enemy",對印記的敵人暴擊率
 "Marked Enemy Reduced Accuracy",被印記的敵人減少命中
-"Mark the Prey",獵物印記
+"Mark the Prey",標記獵物
 Hearty,爽朗
 "Physical Damage Over Time Multiplier",物理持續傷害加成
 "Physical Damage and Overwhelm",物理傷害和鎮壓
@@ -1523,3 +1523,62 @@ Blessed,祝福
 "Medium Jewel Socket",中型珠寶插槽
 "Small Jewel Socket",小型珠寶插槽
 "Position Proxy",位置取代
+"Trial of the Faith",信仰試煉
+"Stance Skill Cooldown Recovery",姿態技能冷卻恢復
+"Bow Attack Speed",弓的攻擊速度
+"Circle of Life",生命循環
+"Dance of Blades",劍舞
+"Link Effect",連結效果
+"Stun Recovery",暈眩恢復
+"Life Gain on Hit",擊中獲得生命
+"Excess Sustenance",營養過剩
+"Stance Reservation Efficiency",姿態保留效用
+"Glacial Cage",冰牢
+Perfectionist,完美主義者
+"Attack Damage in Blood Stance",血腥姿態攻擊傷害
+"Attack Speed in Sand Stance",沙戮姿態攻擊速度
+"Chill Effect",冰緩效果
+"Seasoned Swordplay",劍術精通
+"Fortify on Melee Stun",近戰暈眩時護體
+"Link Cast Speed",連結施放速度
+"Master Distiller",精釀大師
+"Area of Effect, Blind Effect",範圍效果、致盲效果
+"Area of Effect, Movement Speed",範圍效果、移動速度
+"Area of Effect, Elemental Resistances",範圍效果、元素抗性
+"Area of Effect, Mine Throwing Speed",範圍效果、地雷投擲速度
+"Like Clockwork",規律化
+"Area of Effect, Trap Throwing Speed",範圍效果、陷阱投擲速度
+"Area of Effect, Area Damage",範圍效果、範圍傷害
+"Righteous Fury",正義怒火
+Multishot,多重射擊
+"Stun Threshold",暈眩門檻
+Escalation,進階
+"Chaos Resistance and Avoidance",混沌抗性和避免
+"Empowered Bond",賦予之絆
+"Expert Hunter",獵人專家
+"Avoid Interruption while Casting",施放時避免阻礙
+"Conjured Barrier",召喚屏障
+"Surge of Vigour",活力之湧
+"Brink of Death",死亡邊緣
+"Winter's Embrace",寒冬之擁
+"Potent Connections",強大聯繫
+"Warcry Duration and Buff Effect",戰吼持續時間和增益效果
+"Warcry Duration",戰吼持續時間
+"Flask Charges against Marked Enemy",對印記的敵人藥劑充能
+"Mark Cast Speed and Mana Cost",印記施放速度和魔力消耗
+"Mark Cast Speed",印記施放速度
+"Mark Mana Cost",印記魔力消耗
+"Relentless Pursuit",努力不懈
+"Curse and Chaos Resistance",詛咒和混沌抗性
+"Stun Mastery",暈眩專精
+"Recovery Mastery",恢復專精
+"Protection Mastery",保護專精
+"Life Regeneration, Melee Damage",生命回復、近戰傷害
+"Armour and Energy Shield, Block Recovery",護甲和能量護盾、格擋恢復
+"Armour and Energy Shield, Link Effect",護甲和能量護盾、連結效果
+"Faster Ailments",加速異常狀態
+"Ignite and Bleed Duration",點燃和流血持續時間
+"Settling Ash",沉澱灰燼
+"Concussive Force",震爆之力
+"Invigorating Blaze",振奮之焰
+Cauterisation,燒灼

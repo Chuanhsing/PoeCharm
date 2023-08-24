@@ -13,7 +13,7 @@
 "(You can only take one of the three Ranger Ascendancy passives)","( 你只能在遊俠的三個昇華職業中選擇一個 )"
 "(You can only take one of the three Witch Ascendancy passives)","( 你只能在女巫的三個昇華職業中選擇一個 )"
 "(You can only take one of the three Duelist Ascendancy passives)","( 你只能在決鬥者的三個昇華職業中選擇一個 )"
-"(You can only take one of the three Templar Ascendancy passives)","( 你只能在聖堂武僧的三個昇華職業中選擇一個 )"
+"(You can only take one of the three Templar Ascendancy passives)","( 你只能在聖騎士的三個昇華職業中選擇一個 )"
 "(You can only take one of the three Shadow Ascendancy passives)","( 你只能在暗影刺客的三個昇華職業中選擇一個 )"
 "(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)","( 無視抗性表示你的傷害不被任和抗性所影響 )"
 "(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)","（被你嘲諷敵人只能以你為目標，並對其他人造成 10% 較少傷害。嘲諷持續 3 秒）"
@@ -38,3 +38,4 @@
 "(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","( 秘能波動提供 10% 更多法術傷害和增加 30% 魔力回復，持續 4 秒 )"
 "(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)","(凋零增加 6% 承受混沌傷害，至多可以堆疊 15 次)"
 "(Crushed lowers Physical Damage Reduction by 15%)","( 壓碎降低 15% 物理傷害減免 )"
+"(Arcane Surge grants 10% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)","( 秘能波動增加 10% 施放速度和增加 30% 魔力回復率，持續 4 秒 )"
