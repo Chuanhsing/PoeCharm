@@ -1,0 +1,40 @@
+"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)","(""꿰뚫린"" 적이 피격당하면, 꿰뚫림이 적용되었던 타격의 물리 피해량의 10%가 적에게 반사됩니다. 꿰뚫림은 5회 피격될 동안 또는 8초 동안 유지됩니다)"
+"(Onslaught grants 20% increased Attack, Cast, and Movement Speed)","(""맹공""은 공격, 시전, 이동 속도를 20% 증가시킵니다)"
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)","(""출혈""은 지속 물리 피해를 주며, 피해량은 해당 스킬의 기본 물리 피해에 의해 결정됩니다. 출혈 피해는 이동할 때 더 높아집니다)"
+"(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)","(""마무리 타격""은 플레이어에게 피격되어 10% 이하의 생명력이 남은 적을 처치하는 것을 의미합니다)"
+"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","(실명은 4초 동안 정확도와 회피를 20% 감폭시킵니다.)"
+"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)","(피격 시 받는 피해가 방어 상승 1당 1% 감폭됩니다. 방어 상승은 최대 20까지 중첩되며 6초 지속됩니다.)"
+"(Enemies standing in Smoke Clouds are Blinded)","(""연막"" 속에 있는 적은 실명 상태가 됩니다)"
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","(""신성화 지대""에서는 동료의 생명력이 1초당 최대 생명력의 정해진 비율만큼 차오르며, 동료에게 적용되는 저주의 효과가 50% 감소합니다.)"
+"(Intimidated enemies take 10% increased Attack Damage)","(""위협"" 당한 적은 받는 공격 피해가 10% 증가합니다)"
+"(Choose one of the three attached options)","(세 선택지 중 하나를 선택하십시오)"
+"(Recently refers to the past 4 seconds)","(""최근""은 지난 4초 동안을 의미합니다)"
+"(You can only take one of the three Marauder Ascendancy passives)","(세 개의 머라우더 전직 직업 중 하나만 선택할 수 있습니다)"
+"(You can only take one of the three Ranger Ascendancy passives)","(세 개의 레인저 전직 직업 중 하나만 선택할 수 있습니다)"
+"(You can only take one of the three Witch Ascendancy passives)","(세 개의 위치 전직 직업 중 하나만 선택할 수 있습니다)"
+"(You can only take one of the three Duelist Ascendancy passives)","(세 개의 듀얼리스트 전직 직업 중 하나만 선택할 수 있습니다)"
+"(You can only take one of the three Templar Ascendancy passives)","(세 개의 템플러 전직 직업 중 하나만 선택할 수 있습니다)"
+"(You can only take one of the three Shadow Ascendancy passives)","(세 개의 쉐도우 전직 직업 중 하나만 선택할 수 있습니다)"
+"(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)","(""저항 무시""는 상대가 어떤 저항을 지니고 있든 여러분에게 받는 피해량이 변하지 않음을 의미합니다)"
+"(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)","(""도발""당한 적은 플레이어만을 대상으로 하며, 다른 이에게 가하는 피해량이 10% 감폭합니다. 3초 동안 유지됩니다)"
+"(These are consecutive)
+(Each Conflux means all damage causes that Ailment)","(지속 효과)
+(각 원소 융합은 상태 이상을 부여하는 모든 종류의 피해를 의미합니다)"
+"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)","(""냉각""은 적의 동작 속도를 2초 동안 30%까지 감소시킵니다. 감소 정도는 냉각을 부여한 냉기 피해량에 따라 달라집니다)"
+"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)","(""감전""이 받는 피해를 2초 동안 50%까지 증가시킵니다. 증가 정도는 감전을 부여한 번개 피해량에 따라 달라집니다)"
+"(The Stun Threshold determines how much Damage can Stun something)","(""기절 한계치""는 기절시킬 수 있는 피해량에 의해 결정됩니다)"
+"(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)","(""동결""은 적의 동작 속도를 0으로 만들어 동작 자체를 방지합니다. 지속시간은 동결 적용 시의 냉기 피해량에 의해 결정됩니다)"
+"(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)","(""점화""는 지속 화염 피해를 주며, 피해량은 스킬의 기본 화염 피해량에 비례합니다. 4초 동안 지속됩니다)"
+"(Inherent effects from having Rage are:
+1% increased Attack Damage per 1 Rage
+1% increased Attack Speed per 2 Rage
+1% increased Movement Speed per 5 Rage)","(""격노""로 인해 생기는 효과는 다음과 같습니다.
+격노 1마다 공격 피해 1% 증가
+격노 2마다 공격 속도 1% 증가
+격노 5마다 이동 속도 1% 증가)"
+"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","(최근 4초 이내 피격당하지 않거나 격노를 얻지 못했다면 격노가 0.5초마다 1씩 줄어듭니다)"
+"(Maximum Rage is 50)","(""격노""의 최대치는 50입니다)"
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)","(""아드레날린""이 주는 피해를 100% 증가시키고 공격, 시전 및 이동 속도를 25% 증가시킵니다. 또한 받는 물리 피해를 10% 추가로 감소시킵니다. 이미 아드레날린이 있는 경우 획득할 수 없습니다.)"
+"(Arcane Surge grants 10% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)","(""비전 쇄도""가 시전 속도를 10% 증가시키고, 마나 재생 속도를 30% 증가시킵니다. 4초 동안 유지됩니다)"
+"(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)","(""위축""은 받는 카오스 피해를 6% 증가시킵니다. 15회까지 중첩될 수 있습니다)"
+"(Crushed lowers Physical Damage Reduction by 15%)","(타쇄당함이 물리 피해 감소를 15% 낮춤)"
