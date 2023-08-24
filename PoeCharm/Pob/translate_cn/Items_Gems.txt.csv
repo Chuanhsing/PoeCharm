@@ -418,7 +418,7 @@ Spellslinger,法术节魔
 Archmage,大法师（辅）
 "Awakened Increased Area of Effect",增大范围（强辅）
 "Awakened Elemental Damage with Attacks",武器元素伤害（强辅）
-"Sniper's Mark",狙击之印
+"Sniper's Mark",狙击印记
 "Splitting Steel",分裂钢刃
 "Creeping Frost",电光寒霜
 "Blazing Salvo",怒炎穿心
@@ -525,7 +525,7 @@ Wildfire,地狱火群
 "Energy Blade",能量之刃
 "Lightning Conduit",闪电通道
 "Galvanic Field",电流场
-"Alchemist's Mark",炼金师之印
+"Alchemist's Mark",炼金师印记
 "Volcanic Fissure",火山裂缝
 "Vaal Flicker Strike",瓦尔：闪现打击
 "Vaal Molten Strike",瓦尔：熔火打击
@@ -545,8 +545,39 @@ Onslaught,猛攻(辅)
 "Awakened Enlighten",启蒙（强辅）
 "Awakened Enhance",强化（强辅）
 "Divine Blessing",神圣祝福（辅）
-"Mark On Hit",击中附加诅咒（辅）
+"Mark On Hit",击中时施加印记（辅）
 "Eternal Blessing","永恒祝福 （辅）"
 Overcharge,充能支架
 "Cursed Ground",诅咒之地辅助
 "Hex Bloom",魔蛊绽放辅助
+"Vaal Arctic Armour",瓦尔：极地装甲
+"Vaal Reap",瓦尔：绝命之镰
+"Vaal Animate Weapon",瓦尔：活化武器
+"Vaal Lightning Arrow",瓦尔：闪电箭矢
+"Vaal Absolution",瓦尔：赦罪
+"Vaal Domination",瓦尔：霸气之击
+"Vaal Ice Shot",瓦尔：冰霜射击
+"Vaal Firestorm",瓦尔：烈炎风暴
+"Vaal Rejuvenation Totem",瓦尔：回春图腾
+"Vaal Split Arrow",瓦尔：分裂箭矢
+"Playtest Attack",无穷之击
+"Playtest Spell",无穷法术
+"Playtest Slam",无穷猛击
+Quickstep,疾步
+"Returning Projectiles",投射物归返（辅）
+Momentum,动量（辅）
+"Manaforged Arrows",法铸箭矢（辅）
+"Prismatic Burst",棱光魔爆（辅）
+Trauma,内伤（辅）
+Spellblade,碎影魔刃（辅）
+Devour,吞噬（辅）
+"Fresh Meat",鲜肉（辅）
+Flamewood,焚木烈火（辅）
+"Corrupting Cry",腐化战吼（辅）
+"Guardian's Blessing",守卫祝福（辅）
+Sacrifice,牺牲（辅）
+"Frigid Bond",冰冽连接（辅）
+"Locus Mine",核心地雷（辅）
+Sadism,凌虐（辅）
+"Controlled Blaze",精准炽炎（辅）
+Volatility,无常（辅）

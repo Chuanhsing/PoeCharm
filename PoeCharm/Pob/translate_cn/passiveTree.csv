@@ -1,5 +1,5 @@
 "(You can only take one of the three Witch Ascendancy passives)","( 你只能在女巫的三个升华职业中选择一个 )"
-"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)","(取决于造成的闪电伤害量, 感电能至多增加50%敌人受到的伤害并持续2秒)"
+"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)","（感电能额外提高至多50%的伤害，取决于击中的闪电伤害量, 持续2秒）"
 "(Recently refers to the past 4 seconds)","( 近期内意指 4 秒内 )"
 "(You can only take one of the three Templar Ascendancy passives)","( 你只能在圣堂武僧的三个升华职业中选择一个 )"
 "(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)","(秘术增强额外增加 10% 法术总伤害, 增加 10% 施法速度，和每秒 0.5% 最大魔力的魔力回复，持续4秒)"
@@ -12,7 +12,7 @@
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance)","( 站在奉献地面上的友军每秒回复一定百分比的最大生命 )"
 "(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(被点燃、灼烧、冰缓、冰冻、易碎、感电和精疲力尽统称为元素异常状态)
 "(You can only take one of the three Shadow Ascendancy passives)","( 你只能在暗影的三个升华职业中选择一个 )"
-"(Intimidated enemies take 10% increased Attack Damage)",(受到恐吓的敌人会受到额外10%攻击造成的伤害)
+"(Intimidated enemies take 10% increased Attack Damage)",（受到威吓的敌人受到的攻击伤害会额外提高10%）
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",(肾上腺素会增加100%伤害，提高25%攻击速度，施法速度和移动速度，并且受到的物理伤害额外减少10%)
 "(Onslaught grants 20% increased Attack, Cast, and Movement Speed)","( 猛攻赋予你额外你 20% 攻击速度, 施法速度, 和移动速度 )"
 "(You can only take one of the three Duelist Ascendancy passives)","( 你只能在决斗者的三个升华职业中选择一个 )"
@@ -89,7 +89,7 @@
 "(Throwing Mines takes 10% more time for each additional Mine thrown)","（每投掷一个额外地雷都使投掷地雷时间延长 10%）"
 "(Increases and Reductions to Maximum Life also apply to Attack Damage at 30% of their value)","（对最大能量护盾的增幅与减益 有 30% 也套用于法术伤害）"
 "(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand)",（由烙印技能和烙印触发的技能造成的伤害都为烙印伤害）
-"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)","(当一个被穿刺的敌人被击中，穿刺效果会对该敌人造成该穿刺攻击物理伤害的 10%。穿刺效果持续 5 次击中，或持续 8 秒)"
+"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)","（当一个被穿刺的敌人被击中，穿刺效果会对该敌人造成该穿刺击中物理伤害的 10%。穿刺效果持续 5 次击中，或持续 8 秒）"
 "(Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage)","（【疲惫】的敌人总移动速度额外减慢 20%，造成的总伤害额外降低 20 %）"
 "(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)",（物理伤害减免对抗猛攻击中效果会降低，但不会变为负值）
 "(Armour is treated as double value, only for calculating damage mitigation)",（护甲被视为双倍数值，只用于缓阻伤害）
@@ -183,12 +183,13 @@ Pitfighter,深渊斗士
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second)",（友军在你产生的奉献地面上按照百分比每秒再生最大生命）
 "(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","（秘术增强可以在 4 秒内使法术伤害总增 10%， 魔力再生率提高 30%）"
 "(Crushed lowers Physical Damage Reduction by 15%)","（垮压使物理伤害减免降为 15%）"
-"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","（目盲状态会导致命中值和闪避值在接下来 4 秒总降 20%）"
+"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","（被致盲时命中和闪避在接下来 4 秒总降 20%）"
 "(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds)","（承受的击中伤害按照每层护体效果总降 1%。护体最多 20 层，它持续 5 秒）"
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","（友军在你产生的奉献地面上按照百分比每秒再生生命上限，并且他们身上的诅咒效果降低 50%）"
-"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)",（承受的击中伤害按照每层护体效果总降1%。最多20层护身。护身持续6秒）
-"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)",（肾上腺素会增加100%伤害，提高25%攻击速度、施法速度和移动速度，并且受到的物理伤害额外减少10%。如果你已经有肾上腺素就不能再获得肾上腺素。）
+"(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)",（受到的击中伤害按照每层护体效果总降1%。最多20层护体。护身持续6秒）
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)",（肾上腺素会增加100%伤害，提高25%攻击速度、施法速度和移动速度，并且获得10%额外物理伤害减免。如果你已经有肾上腺素就不能再获得肾上腺素。）
 "(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)",(防止50%被压制的击中和击中造成的异常状态的伤害)
 "(Elusive initially grants 15% chance to Avoid All Damage from Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)",(灵巧最初给予15%几率避免所有击中伤害、移动速度提高30%的增益。随着时间的推移，这个增益会逐渐降低效果，在效果为0时移除它自己。如果你已经有灵巧增益，你不能获得灵巧)
 "(Hinder reduces movement speed)",(缓速将使移动速度降低)
 "(Being Blinded causes 20% less Accuracy Rating and Evasion Rating)","(目盲状态会导致命中值和闪避值总降 20%)"
+"(Arcane Surge grants 10% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)","（秘术增强可以在 4 秒内使施法速度提高 10%，魔力恢复速度提高 30%）"

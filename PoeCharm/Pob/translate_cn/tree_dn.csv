@@ -267,7 +267,7 @@ Fusillade,聚灵之杖
 Disintegration,解离
 "Stun Threshold Reduction",晕眩门坎降低
 "Stun Duration",晕眩持续
-"Stun Mastery",昏迷专精
+"Stun Mastery",眩晕专精
 "Energy Shield Mastery",能量护盾专精
 "Evasion and Energy Shield",闪避和能量护盾
 "Void Barrier",虚影屏障
@@ -515,7 +515,7 @@ Swagger,双刃之舞
 "Mana and Life",魔力和生命
 "Heart and Soul",心与灵
 "Practical Application",化虚为实
-"Avoid Interruption while Casting",施法不受干扰
+"Avoid Interruption while Casting",施法时回避打断
 SIX,六
 "Physical and Chaos Damage and Life",物理和混沌伤害与生命
 "Fire and Cold Damage",火焰和冰霜伤害
@@ -669,7 +669,7 @@ Inspirational,启发
 Finesse,娴熟
 "Attack Speed and Poison Chance",攻击速度和中毒几率
 "Attack Speed, Poison Damage and Poison Damage Multiplier",攻击速度、烈毒伤害和烈毒伤害加成
-"Attack Speed and Poison Duration",攻击速度和烈毒持续时间
+"Attack Speed and Poison Duration",攻击速度和中毒持续时间
 "Swift Venoms",迅速致毒
 "Poison Mastery",中毒专精
 Might,坚强力量
@@ -846,7 +846,7 @@ Malediction,恶语术
 "Withering Presence",凋零姿态
 "Frigid Wake",彻骨之径
 "Minion Damage and Life",召唤生物伤害和生命
-"Minion Damage, Skill Duration","召唤生物伤害, 技能持续时间"
+"Minion Damage, Skill Duration",召唤生物伤害、技能持续时间
 "Minion Damage, Mana",召唤生物伤害、魔力
 "Mindless Aggression",盲目挑衅
 "Unnatural Strength",亵渎之力
@@ -1000,7 +1000,7 @@ Steadfast,坚韧不拔
 "Swift Skewering",快速穿刺
 "Impale Mastery",穿刺专精
 "Damage and Critical Strikes against Blinded Enemies",对目盲敌人的伤害和暴击率
-"Blind Chance",目盲几率
+"Blind Chance",致盲几率
 "Dazzling Strikes",耀目打击
 "Attack Blind Mastery",攻击致盲专精
 "Movement Speed per Frenzy Charge",每个狂怒球的移动速度
@@ -1082,7 +1082,7 @@ Persistence,锲而不舍
 "Exerted Attack Damage",增助攻击伤害
 "Warcry Cooldown Recovery",战吼冷却回复速度
 "Warcry Speed and Exerted Attack Damage",战吼速度和增助攻击伤害
-Escalation,擢升
+Escalation,升级
 "Warcry Mastery",战吼专精
 "Staff Elemental Damage and Penetration",长杖元素伤害和穿透
 "Impale Effect with Two Handed Weapons",双手武器穿刺效果
@@ -1167,7 +1167,7 @@ Panopticon,统揽全局
 "Cold Damage, Cold Damage Over Time Multiplier, Cold Ailment Effect",冰霜伤害、持续冰霜伤害加成、冰霜异常状态效果
 "Gladiatoral Combat",角斗战术
 "Wand Damage and Attack Speed",法杖伤害和攻击速度
-"Stance Skill Cooldown Recovery",姿态技能冷却回复速度
+"Stance Skill Cooldown Recovery",姿态技能冷却回复
 "Area of Effect in Sand Stance and Damage in Blood Stance",沙姿态效果区域和血姿态伤害
 "Versatile Stance",千姿百态
 "Two Handed Melee Critical Strike Multiplier and Accuracy",双手武器近战暴击伤害加成和命中值
@@ -1190,7 +1190,7 @@ Undertaker,送葬者
 "Burning Brutality",凶残烈焰
 "Area Spells Mastery",范围法术专精
 Intensity,凝聚
-"Damage against Marked Enemy",对咒印敌人的伤害
+"Damage against Marked Enemy",对被标记敌人的伤害
 "Marked for Death",死亡印记
 "Lightning Damage and Cast Speed",闪电伤害和施法速度
 "Chaos Damage Over Time Multiplier",持续混沌伤害加成
@@ -1209,7 +1209,7 @@ Intensity,凝聚
 "Critical Strike Chance against Marked Enemy",对咒印敌人的暴击率
 "Marked Enemy Reduced Accuracy",降低咒印敌人的命中值
 "Mark the Prey",标记猎物
-"Mark Mastery",咒印专精
+"Mark Mastery",印记专精
 "Adjacent Animosity",咫尺之恨
 "Weapon Lightning Damage and Lightning Ailment Effect",武器闪电伤害和闪电异常状态效果
 "Weapon Lightning Damage and Shock Chance",武器的闪电伤害和感电几率
@@ -1555,7 +1555,7 @@ Uncompromising,决不妥协
 "Flask Effect, Poison Duration",药剂效果和中毒持续时间
 "Attack and Cast Speed, Damage",攻击和施法速度及伤害
 "Evasion, Onslaught Effect",闪避和猛攻效果
-"Projectile Damage, Mark Cast Speed",投射物伤害和咒印施法速度
+"Projectile Damage, Mark Cast Speed",投射物伤害和印记施法速度
 Rupturing,碎裂
 "Projectile Damage, Mirage Archer Duration",投射物伤害和幻影射手持续时间
 "Occupying Force",占领军
@@ -1813,15 +1813,15 @@ Tolerance,宽容
 "Arcane Sanctuary",奥术圣所
 "Attack Damage and Leech",攻击伤害和偷取
 "Attack Damage and Speed",攻击伤害和速度
-"Evasion and Blind Effect",闪避和目盲效果
-"Blind Duration",目盲持续时间
+"Evasion and Blind Effect",闪避和致盲效果
+"Blind Duration",致盲持续时间
 "Maximum Fortification",最大防卫
 "Season of Ice",寒冰之季
 "Spell Suppression",法术压制
 Inveterate,根深蒂固
 "Merciless Skewering",无情穿刺
 "Physical Damage as Extra Fire Damage",将物理伤害转为额外火焰伤害
-"Critical Strikes against Blinded Enemies",对目盲敌人的暴击率
+"Critical Strikes against Blinded Enemies",对被致盲敌人的暴击率
 "Armour per Endurance Charge",每个耐力球的护甲值
 "Maximum Cold Resistance",最大冰霜抗性
 "Maximum Fire Resistance",最大火焰抗性
@@ -1873,7 +1873,7 @@ Instinct,本能
 "Replenishing Remedies",重装拯救
 Acrimony,尖刻
 "Reservation Efficiency of Curse Skills",诅咒技能的保留效能
-"Mark Effect",咒印效果
+"Mark Effect",印记效果
 Hearty,热忱
 "Curse Effect on You and Chaos Resistance",你身上的诅咒效果和混沌抗性
 "Bastion Breaker",破壁者
@@ -1881,7 +1881,7 @@ Hearty,热忱
 "Armour and Energy Shield Mastery",护甲和能量护盾专精
 "Attack Mastery",攻击专精
 "Spell Suppression Mastery",范围法术压制专精
-"Blind Mastery",目盲专精
+"Blind Mastery",致盲专精
 "Leech Mastery",偷取专精
 "Projectile Mastery",投射物专精
 "Caster Mastery",施法专精
@@ -2009,3 +2009,57 @@ Solipsism,唯我独尊
 "Steeped in the Profane",沉溺于亵渎
 "Minion Critical Strike Multiplier",召唤生物暴击系数
 "Feast of Flesh",血肉盛宴
+"Trial of the Faith",信仰试炼
+"Bow Attack Speed",弓类攻击速度
+"Circle of Life",生命之环
+"Dance of Blades",刃舞
+"Link Effect",连接效果
+"Stun Recovery",晕眩回复
+"Life Gain on Hit",击中生命回复
+"Excess Sustenance",营养过剩
+"Stance Reservation Efficiency",姿态保留效率
+"Glacial Cage",冰川牢笼
+Perfectionist,完美之人
+"Attack Damage in Blood Stance",血姿态的攻击伤害
+"Attack Speed in Sand Stance",沙姿态的攻击速度
+"Chill Effect",冰缓效果
+"Seasoned Swordplay",熟练剑技
+"Fortify on Melee Stun",近战击晕获得护体
+"Link Cast Speed",连接施法速度
+"Life Regeneration, Melee Damage",生命回复，近战伤害
+"Master Distiller",蒸馏大师
+"Armour and Energy Shield, Block Recovery",护甲和能量护盾，格挡回复
+"Armour and Energy Shield, Link Effect",护甲和能量护盾，羁绊效果
+"Area of Effect, Blind Effect",范围效果，致盲效果
+"Area of Effect, Movement Speed",范围效果，移动速度
+"Area of Effect, Elemental Resistances",范围效果，元素抗性
+"Area of Effect, Mine Throwing Speed",范围效果，地雷投掷速度
+"Like Clockwork",发条狂人
+"Area of Effect, Trap Throwing Speed",范围效果，陷阱投掷速度
+"Area of Effect, Area Damage",范围效果，范围伤害
+"Righteous Fury",正义之怒
+"Faster Ailments",异常状态加速生效
+Multishot,多重射击
+"Stun Threshold",晕眩阈值
+"Chaos Resistance and Avoidance",混沌抗性和免疫
+"Empowered Bond",强化纽带
+"Expert Hunter",老练猎手
+"Conjured Barrier",咒法屏障
+"Surge of Vigour",活力之涌
+"Brink of Death",生死边缘
+"Winter's Embrace",凛冬之拥
+"Potent Connections",强效连接
+"Warcry Duration and Buff Effect",战吼持续时间和增益效果
+"Flask Charges against Marked Enemy",对被标记敌人的药剂充能
+"Mark Cast Speed and Mana Cost",标记施法速度和魔力消耗
+"Mark Cast Speed",标记施法速度
+"Mark Mana Cost",标记魔力消耗
+"Relentless Pursuit",无尽追踪
+"Curse and Chaos Resistance",诅咒和混沌抗性
+"Ignite and Bleed Duration",点燃和流血持续时间
+"Settling Ash",沉降灰烬
+"Concussive Force",震荡之力
+"Invigorating Blaze",欢欣炽炎
+Cauterisation,焰灼血肉
+"Recovery Mastery",回复专精
+"Protection Mastery",防护专精
