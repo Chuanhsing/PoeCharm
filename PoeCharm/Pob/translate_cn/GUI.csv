@@ -1,6 +1,7 @@
 "Current build","当前 BD"
 "<< Back","<< 返回"
 "<No active skills>",<没有主动技能>
+
 "Update Ready",更新已就绪
 "Save Changes",保存变更
 "This build has unsaved changes.","这个 BD 的变更还未保存."
@@ -44,11 +45,16 @@ Dismiss,忽略
 "If you are using a proxy, specify it in Options.","如果需要设置代理,请在选项中设置."
 Configuration,配置
 Copy,复制
+
+
+
 Default,默认
 Delete,删除
 "Delete All",删除全部
+
 Enable,启用
 "Experience multiplier:",经验比率:
+
 General,一般
 Generate,生成
 Import,导入
@@ -74,19 +80,33 @@ Sort,排序
 "Sort by Name",排序(名称)
 "Sort by name",排序(名称)
 "Sort by DPS",排序(DPS)
+
 Level:,等级:
 "Required level: {0}","等级需求: {0}"
 Quality:,品质:
+
+
+
 Start,开始
 Tree,天赋
+
 "All Types:",所有类型:
+
+
+
+
+
 "Game Version:",游戏版本:
+
 "Generate a code to share this build with other Path of Building users:","生成 POB 代码分享给所有的 POE 玩家:"
 Label:,标签:
 Player:,玩家:
 Search:,搜索:
+
 "Skill Options",技能选项
 "Socket Groups:",插槽组:
+
+
 "Tip: You can copy/paste socket groups using Ctrl+C and Ctrl+V.","提示: 你可以使用 Ctrl+C 和 Ctrl+V 来复制/粘贴插槽"
 "To import a build, enter the code here:","在此处输入 POB 代码导入 BD"
 "To start importing a character, enter the character's account name:","输入 '角色帐号名' 后点击 '开始' 导入角色"
@@ -141,6 +161,8 @@ Crafted:,工艺:
 Enchant,附魔
 Enchanted,附魔的
 Mirrored,已复制
+
+
 Source:,来源:
 Modifier:,词缀:
 "Crafting Bench",工艺桌
@@ -150,6 +172,7 @@ Suffix,后缀
 Custom,自定义
 explicit,外延
 implicit,基底
+
 Names,名字
 Modifiers,词缀
 Jewellery,首饰
@@ -186,20 +209,33 @@ Talisman,魔符
 Warbands,军团
 Current,当前
 "Pre {0}","{0} 版"
+
+
 Enchantment:,附魔:
 Eternal,终极
 Merciless,无情
+
 Labyrinth:,迷宫:
+
 "Corrupt Item",腐化物品
 "Implicit {0}","基底 {0}"
 Corrupt,腐化
+
+
+
 Remove,移除
+
 "Ring 1","戒指 1"
 "Ring 2","戒指 2"
 "Weapon 1 (Swap)","武器 1 (互换)"
 "Weapon 2 (Swap)","武器 2 (互换)"
 Standard,标准
 "Requires Level {0}","需求 等级 {0}"
+
+
+
+
+
 Helmet:,头盔:
 "Body Armour:",胸甲:
 Gloves:,手套:
@@ -212,6 +248,9 @@ Belt:,腰带:
 "{0} Dex","{0} 敏捷"
 "{0} Int","{0} 智慧"
 "{0} Str","{0} 力量"
+
+
+
 "Active Skill {0}","主动技能 {0}"
 "Active Skill {0} Main Minion Skill:","召唤物主技能(主动技能 {0}):"
 "Unallocating this node will give you:",取消这个天赋点会给你:
@@ -250,6 +289,7 @@ Hit DPS:,击中 DPS:
 "Total Damage per Poison:","每次中毒总伤害"
 "Total DPS inc. Poison:","总+中毒 DPS"
 "Average Dmg. inc. Poison:","总+中毒平均伤害"
+
 "Total DoT DPS:","总持续 DPS:"
 "Impale Damage:","穿刺伤害:"
 "Damage inc. Impale:","总+穿刺伤害:"
@@ -277,12 +317,14 @@ Intelligence:,智慧:
 "Intelligence Required:",智慧需求:
 "Omniscience:",全知:
 "Omniscience Required:",全知需求:
+
 Phys Max Hit:,物理击中最大承受值:
 Elemental Max Hit:,元素击中最大承受值:
 Fire Max Hit:,火焰击中最大承受值:
 Cold Max Hit:,冰霜击中最大承受值:
 Lightning Max Hit:,闪电击中最大承受值:
 Chaos Max Hit:,混沌击中最大承受值:
+
 "Eff. Maximum Hit Taken:",有效最大击中伤承受值:
 "Total Life:",最大生命:
 "%Inc Life from Tree:",生命加成(天赋):
@@ -342,9 +384,12 @@ Armour:,护甲:
 "Consumes {0} of {1} Charges on use","每次使用会从 {1} 充能次数中消耗 {0} 次"
 "Recovers {0} Life over {1} Seconds","{1} 秒内回复 {0} 生命"
 "Recovers {0} Mana over {1} Seconds","{1} 秒内回复 {0} 魔力"
+
+
 "Remove this gem.",移除这个宝石.
 "Selecting this gem will give you:",选择这个技能宝石会给你:
 "Are you sure you want to delete all socket groups in this build?","确定要删除 BD 中的所有插槽么?"
+
 "Can support Strength threshold jewels","可以选择 ^xE05030力量 ^7门槛珠宝"
 "Can support Intelligence threshold jewels","可以选择 ^x7070FF智慧 ^7门槛珠宝"
 "Can support Dexterity threshold jewels","可以选择 ^x70FF70敏捷 ^7门槛珠宝"
@@ -397,6 +442,8 @@ Armour/Evasion,护甲/闪避
 "Evasion/Energy Shield",闪避/能量护盾
 Hybrid,复合
 Utility,功能
+
+
 "Life multiplier",生命倍率
 "Armour multiplier",护甲倍率
 Resistances,抗性
@@ -405,6 +452,11 @@ Resistances,抗性
 "{0}% of base Life","基础生命的 {0}%"
 "Import to a new build","导入到新 BD"
 "Code is valid","Code 有效"
+
+
+
+
+
 "New Folder...",新建文件夹...
 Folder:,文件夹:
 "Enter new build name:","输入新的 BD 名称:"
@@ -412,7 +464,8 @@ Folder:,文件夹:
 "Tip: Right click this socket to go to the items page and choose the jewel for this socket.","提示: 右键单击插槽跳转到物品页然后更换此插槽的珠宝."
 "<No skills added yet>",<未添加任何技能>
 "Variant: Current {0} variants)","多版本: 当前 {0} 版)"
-(Disabled),(禁用)
+
+(Disabled),^9(禁用)
 "Inactive Gems:",无效技能石:
 "(Cannot apply to any of the active skills)",(无法应用到任何主动技能)
 (Unsupported),(未支持)
@@ -427,6 +480,7 @@ Suffix:,后缀:
 "Enter folder name:",请输入文件夹名称:
 "No update available",无可用更新
 "You are running the latest version.",您运行的是最新版本
+
 "Import from Pastebin","从 Pastebin 导入"
 "Enter Pastebin.com link:","输入 Pastebin.com 链接:"
 Anomalous,异常
