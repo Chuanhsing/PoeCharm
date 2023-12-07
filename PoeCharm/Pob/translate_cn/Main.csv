@@ -10,6 +10,16 @@ Changes the colour scheme used for the node power display on the passive tree.,�
 Red & Blue,^xE05030红 ^7& ^x7070FF蓝
 Red & Green,^xE05030红 ^7& ^x33FF77绿
 Green & Blue,^x33FF77绿 ^7& ^x7070FF蓝
+Hex colour for positive values:,正值十六进制颜色:
+Overrides the default hex colour for positive values in breakdowns. ,覆盖拆分显示时正值的默认十六进制颜色。
+Expected format is 0x000000. The default value is 0x33FF77.,预期格式为0x000000。默认值为0x33FF77
+"If updating while inside a build, please re-load the build after saving.","如果在构筑中更新，请在保存后重新加载构筑。"
+Hex colour for negative values:,负值十六进制颜色:
+Overrides the default hex colour for negative values in breakdowns. ,覆盖拆分显示时负值的默认十六进制颜色。
+Expected format is 0x000000. The default value is 0xDD0022.,预期格式为0x000000。默认值为0xDD0022
+Hex colour for highlight nodes:,高亮节点十六进制颜色:
+Overrides the default hex colour for highlighting nodes in passive tree search. ,覆盖在天赋树上搜索时高亮节点的默认十六进制颜色。
+Expected format is 0x000000. The default value is 0xFF0000.,预期格式为0x000000。默认值为0xFF0000
 Opt-in to weekly beta test builds:,选择加入每周Beta测试版本:
 Build-related options,构筑相关设置
 Show thousands separators:,显示千位分隔符:
@@ -17,7 +27,7 @@ Thousands separator:,千位分隔符:
 Decimal separator:,小数分隔符:
 Show build name in window title:,在窗口标题中显示构筑名称:
 Set the default quality that can be overwritten by build-related quality settings in the skill panel.,设置默认质量，该质量可以被技能面板中构筑相关质量设置覆盖。
-Set the default character level that can be overwritten by build-related level settings.,设置默认角色等级，该等级可以被与构筑相关等级设置覆盖。
+"Set the default level of your builds. If this is higher than 1, manual level mode will be enabled by default in new builds.","设置你构筑中角色的默认等级，如果该值高于1，则在新构筑中默认启用手动级别模式。"
 Default character level:,默认角色等级：
 Default item affix quality:,默认物品词缀Roll值：
 Show build warnings:,显示构筑警告:

@@ -31,6 +31,7 @@ OH PvP Average Hit:,平均PVP击中伤(副):
 Average Damage:,平均伤害:
 Chance to Hit:,击中几率:
 Enemy Block:,敌人格挡:
+Chance to Explode:,爆炸几率:
 PvP Average Dmg:,PVP平均伤害:
 Skill DPS:,技能 DPS:
 Skill PvP DPS:,技能PVP DPS:
@@ -60,14 +61,15 @@ OH More Att. Speed:,攻速总增(副手):
 OH Att. per second:,每秒攻击(副手):
 Attacks per second:,每秒攻击:
 Attack time:,攻击用时:
+Cast time:,施法用时:
 Inc. Cast Speed:,施法速度提高:
 More Cast Speed:,施法速度总增:
 Casts per second:,每秒施法:
 Trigger Rate Cap:,触发速率上限:
+Eff. Source Rate:,有效来源速率:
 Skill Trigger Rate:,技能触发速率:
-Adj. Trigger Rate:,校正触发速率:
-Eff. Trigger Rate:,有效触发速率:
-Cast time:,施法用时:
+CWDT Threshold:,CWDT阈值:
+Channel time:,引导用时:
 Crits:,暴击:
 Inc. Crit Chance:,暴击几率提高:
 Crit Chance:,暴击率:
@@ -127,13 +129,15 @@ Projectile Count:,投射物数量:
 Pierce Count:,穿透数:
 Fork Count:,分叉数:
 Max Chain Count:,最大连锁数:
+Split Count:,裂化数:
 Proj. Speed Mod:,投射物速度修正:
-Skill Self Damage:,技能自伤:
+Skill Self Damage:,自击中伤害:
 Bounces Count:,弹跳次数:
 Aura Effect Mod:,光环效果修正:
 Mana Reserve Mod:,魔力保留修正:
 Life Reserve Mod:,生命保留修正:
 Curse Effect Mod:,诅咒效果修正:
+Link Effect Mod:,羁绊效果修正:
 Area of Effect Mod:,范围效果修正:
 Radius:,半径:
 Secondary Radius:,二阶段半径:
@@ -142,7 +146,8 @@ Tertiary Radius:,三阶段半径:
 Weapon Range:,武器范围:
 Attachment Range:,附着范围:
 Max Sust. Fuses:,最大可维持引信:
-Overlap Chance:,造成重叠伤害概率:
+Explosions /s:,每秒爆炸:
+Overlap Chance:,重叠概率:
 Trap Cooldown:,陷阱冷却:
 Wave Pulse Rate:,脉冲冲击波频率:
 Pulses Per Trap:,每陷阱脉冲次数:
@@ -164,7 +169,9 @@ Mine Deton. Radius:,地雷引爆半径:
 Mine Aura Radius:,地雷光环半径:
 Totem Place Time:,图腾放置用时:
 Active Totem Limit:,图腾激活上限:
-Totem Life Mod:,图腾生命修正:   
+Totem Duration Mod:,图腾持续时间修正:
+Totem Duration,图腾持续时间:
+Totem Life Mod:,图腾生命修正:
 Totem Life:,图腾生命:
 Totem ES:,图腾能量护盾:
 Totem Block Chance:,图腾格挡几率:
@@ -186,6 +193,7 @@ Effect of Blind:,致盲效果:
 Bleed:,流血:
 Max Bleed Stacks:,最大流血层数:
 Stack Potential:,层数潜力:
+Average Bleed Roll:,平均流血掷骰:
 Chance to Bleed:,流血几率:
 MH Eff. DoT Multi:,持续伤害加成(主):
 OH Eff. DoT Multi:,持续伤害加成(副):
@@ -217,6 +225,7 @@ Max Poison Stacks:,最大中毒层数:
 Capped to 1 poison:,最大限制1层中毒:
 Ignite:,点燃:
 Max Ignite Stacks:,最大点燃层数:
+Average Ignite Roll:,平均点燃掷骰:
 Chance to Ignite:,点燃几率:
 Ignite DPS:,点燃 DPS:
 Burning Ground:,燃烧地面:
@@ -301,6 +310,9 @@ Rage Regen:,怒火再生:
 Inc. Item Quantity:,物品数量提高:
 Inc. Item Rarity:,物品稀有度提高:
 Culling Strike:,终结:
+Enemy Life recovery:,敌人生命回复:
+Enemy Mana Recovery:,敌人魔法回复:
+Enemy ES Recovery:,敌人ES回复:
 Attributes:,属性:
 Strength:,力量:
 Dexterity:,敏捷:
@@ -320,7 +332,7 @@ Unreserved:,未保留:
 Total Recoverable:,总可恢复:
 Recharge Rate:,充能率:
 Recharge Delay:,充能延时:
-Increased Regen:,再生提高:
+Recovery:,回复:
 Regen:,再生:
 Sources:,来源:
 Increased Life Regeneration Rate:,生命再生速率提高:
@@ -339,8 +351,8 @@ More Mana Regeneration Rate:,魔力再生速率总增:
 Energy Shield:,能量护盾:
 Base from Armours:,来自护甲的基础值:
 Global Base:,全域基础值:
-Increased EnergyShield Regeneration Rate:,ES再生速率提高:
-More EnergyShield Regeneration Rate:,ES再生速率总增:
+Increased Energy Shield Regeneration Rate:,ES再生速率提高:
+More Energy Shield Regeneration Rate:,ES再生速率总增:
 Ele Recoup:,元素伤ES吸纳:
 Ward:,结界:
 Rage:,怒火:
@@ -375,6 +387,8 @@ Movement Speed:,移动速度:
 Effect of Elusive:,灵巧效果:
 Light Radius Mod:,照亮范围修正:
 Curse Effect on You:,自身受诅咒效果:
+Exposure Effect:,暴露效果:
+Wither Effect:,凋零效果:
 Debuff Dur. Mult.:,负面效果时间加成:
 Stun Duration:,眩晕持续时间:
 Stun Avoid Chance:,避免眩晕几率:
@@ -429,9 +443,53 @@ Suppression Ch.:,法术压制几率:
 Suppression Effect:,法术压制效果:
 ES on Suppression:,压制时ES回复:
 Life on Suppression:,压制时生命回复:
+
+
+Flasks:,药剂:
+Inc. Effect:,效果提高:
+Inc. Duration:,持续时间提高:
+Inc. Charges Gain:,充能获取提高:
+Inc. Charges Used:,充能使用提高:
+% to not Consume:,不消耗几率:
+Charge on crit %:,暴击充能几率:
+Charges/s:,每秒充能:
+Utility Flasks:,功能药剂:
+Inc. Magic Effect:,魔法药效提高:
+Magic Utility Flask Effect:,魔法功能药效:
+Generic Flask Effect:,通用药剂药效:
+Utility Flask Charges/s:,功能药剂每秒充能:
+Generic Flask Charges/s:,通用药剂每秒充能:
+Life Flasks:,生命药剂:
+Inc. Recovery:,回复量提高:
+More Recovery:,回复量总增:
+Inc. Recovery Rate:,回复速率提高:
+Life Flask Recovery Rate:,生命药剂回复速率提高:
+Generic Flask Recovery Rate:,通用药剂回复速率:
+Life Flask Charges/s:,生命药剂每秒充能:
+Mana Flasks:,魔法药剂:
+Mana Flask Recovery Rate:,魔法药剂回复速率:
+Mana Flask Charges/s:,魔法药剂每秒充能:
+
+
+
+
+
+
+
 Damage Taken:,承受伤害:
 Enemy Damage:,敌人伤害:
+Enemy Conversion modifiers:,敌人转换修正:
 Taken As:,承受转换后伤害:
+Physical Taken as:,物理伤害承受时视为:
+Taken as Physical:,承受时视为物理伤害:
+Lightning Taken as:,闪电伤害承受时视为:
+Taken as Lightning:,承受时视为闪电伤害:
+Cold Taken as:,冰霜伤害承受时视为:
+Taken as Cold:,承受时视为冰霜伤害:
+Fire Taken as:,火焰伤害承受时视为:
+Taken as Fire:,承受时视为火焰伤害:
+Chaos Taken as:,混沌伤害承受时视为:
+Taken as Chaos:,承受时视为混沌伤害:
 Damaging Hits:,击中伤害:
 Hit taken Mult.:,承受击中伤害加成:
 Reflect taken:,承受反射:
@@ -444,6 +502,10 @@ Mind over Matter %:,心灵升华抵御比例:
 Guard:,防卫技能:
 Aegis:,圣盾技能:
 Frost Shield:,冰霜护盾技能:
+Spectre Ally:,灵体友军:
+Totem Ally:,图腾友军:
+Vaal Rejuv. Totem:,瓦尔回春图腾:
+Soul Link:,灵魂羁绊:
 Hits before death:,敌人需出手次数:
 "Effective ""Health"" Pool:",有效生命值:
 Unmitigated %:,未减轻比例:
@@ -458,11 +520,11 @@ Total Pool:,总生命值:
 Effective DoT Pool:,持续伤有效生命值:
 Degens:,每秒扣血:
 Total Degen:,总每秒扣血:
-Total Net Regen:,净再生:
-Net Life Regen:,生命净再生:
-Net Mana Regen:,魔力净再生:
-Net ES Regen:,能量护盾净再生:
-Net Energy Shield Regen:,能量护盾净再生:
+Total Net Recovery:,净回复:
+Net Life Recovery:,生命净回复:
+Net Mana Recovery:,魔力净回复:
+Net ES Recovery:,能量护盾净回复:
+Net Energy Shield Recovery:,能量护盾净回复:
 Recoup and Hit Taken Over Time:,持续计算的吸纳和击中伤害承受:
 Recoup Max.:,最大每秒可吸纳:
 Recoup Avg.:,平均每秒可吸纳:
