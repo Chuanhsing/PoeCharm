@@ -65,3 +65,4 @@ Shaper/Guardian,岳父/长老
 "x 0.20 (poison deals 20% per second)","x 0.20 (每秒 20% 中毒伤害)"
 "/ %.2f (burn rate modifier)","/ {0} (燃烧速度加成)"
 "x 0.5 (ignite deals 50% per second)","x 0.5 (每秒 50% 点燃伤害)"
+Are you against Damage over Time?,你在受到持续伤害?

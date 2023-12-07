@@ -91,6 +91,11 @@ Don't disable items,不禁用物品
 "Ignore the effects of things which disable items, like Bringer of Rain","忽略那些使物品失效的效果，比如祭礼之雨"
 Ignore Jewel Limits,忽略珠宝限制
 Ignore the limits on jewels,忽略珠宝的限制
+# of Empty Red Sockets,^7空^xE05030红色^7插槽数量
+# of Empty Green Sockets,^7空^x70FF70绿色^7插槽数量
+# of Empty Blue Sockets,^7空^x7070FF蓝色^7插槽数量
+# of Empty White Sockets,空白色插槽数量
+
 
 "Crit Damage",暴击伤害
 "Aspect of the Avian:",【鸟之势】:
@@ -109,6 +114,9 @@ Ignore the limits on jewels,忽略珠宝的限制
 Bladestorm:,【剑刃风暴】:
 "Are you in a Bloodstorm?",是否处于血姿态?
 "Are you in a Sandstorm?",是否处于沙姿态?
+Blood Sacrament:,赤色誓言:
+Count Skill Reservation towards eHP?,将技能保留计入有效生命值?
+Use this option to disable the skill reservation factoring into eHP calculations,使用此选项禁用有效生命值计算中的技能保留因素
 "Brand Skills:",烙印技能:
 "Is Attached to the Enemy?",烙印已附着的敌人?
 "Dark Pact:",【暗夜血契】:
@@ -404,7 +412,8 @@ Are you Poisoned?,你在【中毒】?
 Are you Immune to Curses?,你免疫【诅咒】?
 # of Poison on You:,你所受【中毒】层数:
 This also implies that you are Poisoned.,这也意味着你【中毒】了。
-Are you against Damage over Time?,你在受到持续伤害?
+# of Withered Stacks on you:,你身上的【凋零】层数:
+"Withered applies 6% increased ^xD02090Chaos ^7Damage Taken to the self, up to 15 stacks.","凋零赋予6%^xD02090混沌^7伤害承受提高，最多15层。"
 # of nearby Enemies:,附近的敌人数:
 # of nearby Rare or Unique Enemies:,附近的稀有或传奇敌人数:
 Have you Hit Recently?,你近期有击中?
@@ -533,6 +542,8 @@ This option is specific to Vulconus.,此选项为【火神锻台】特有。
 "This option enables Manastorm's Lightning Damage Buff.","^xFFFFFF此选项使得【魔力风暴】的附加^xADAA47闪电^7伤害buff生效。"
 "(When you cast a Spell, Sacrifice all Mana to gain Added Maximum Lightning Damage","^xFFFFFF(当你施放法术时，献祭所有^x7070FF魔力^7，获得附加最大^xADAA47闪电^7伤害持续4秒"
 "equal to 25% of Sacrificed Mana for 4 seconds)","^xFFFFFF等同于献祭^x7070FF魔力^7的25%)"
+Gamblesprint Movement Speed,【博运步伐】移动速度
+This option sets the Movement Speed from Gamblesprint boots.,这个选项设置来自【博运步伐】靴子的移动速度。
 Do you have Fanaticism?,你有【欣喜若狂】?
 "This will enable the Fanaticism buff itself. (Grants 75% more cast speed, reduced skill cost, and increased area of effect)","这将使【欣喜若狂】buff生效。(使得施法速度总增75%，技能消耗减少75%，效果范围提高75%)"
 PvP Tvalue override (ms):,PvP Tvalue override (ms):
@@ -574,7 +585,7 @@ Corrosion has no stack limit,腐蚀没有层数上限
 "While ensnared, enemies take increased Projectile Damage from Attack Hits",被捕获的敌人从攻击击中承受的投射物伤害提高
 "Ensnared enemies always count as moving, and have less movement speed while trying to break the snare.","被诱捕的敌人始终视为在移动，并以总降后的移动速度试图突破圈套。"
 Is the enemy Maimed?,敌人是否【瘫痪】?
-Is the enemy Hindered?,敌人是否被【阻碍】?
+Is the enemy Hindered?,敌人是否被【缓速】?
 Is the enemy Blinded?,敌人是否被【致盲】?
 "In addition to allowing 'against Blinded Enemies' modifiers to apply,","启用时 '对致盲的敌人' 之类的修正生效,"
  Blind applies the following effects.,【致盲】造成以下效果。
@@ -641,6 +652,7 @@ Covered in Ash applies the following to the enemy:,【灰烬缠身】使得敌�
 Is the enemy covered in Frost?,敌人是否【冰霜缠身】?
 Covered in Frost applies the following to the enemy:,【冰霜缠身】使得敌人受到以下影响:
 Is the enemy on Consecrated Ground?,敌人是否在【奉献地面】上?
+Does the enemy have Energy Shield?,^7敌人有^x88FFFF能量护盾^7?
 Is the enemy on Profane Ground?,敌人是否在【渎神地面】上?
 Enemies on Profane Ground receive the following modifiers:,【渎神地面】使得敌人受到以下修正:
 {0}% to all Resistances,全元素抗性{0}%
@@ -656,6 +668,14 @@ Enemy was Hit by Light. Damage?,^xFFFFFF敌人曾被^xADAA47闪电^7伤害击中
 Is the enemy in RF or Scorching Ray:,敌人是否在正义之火或灼热光纤中:
 Ignore Skill Hit Damage?,忽略技能击中伤害?
 This option prevents EE from being reset by the hit damage of your main skill.,此选项可防止【元素之相】(EE)被你主技能的击中伤害重置。
+Is the enemy in your Link beams?,敌人在你的羁绊光束中吗?
+This option sets whether an enemy is between you and your linked target.,这个选项设置敌人是否在你和你连接的目标之间。
+Enemy hit you with Fire Damage?,^7敌人以^xB97123火焰^7伤害击中了你?
+This option sets whether or not the enemy has hit you with Fire Damage in the last 4 seconds.,^7此选项设置敌人是否在过去4秒内以^xB97123火焰^7伤害击中了你。
+Enemy hit you with Cold Damage?,^7敌人以^x3F6DB3冰霜^7伤害击中了你?
+This option sets whether or not the enemy has hit you with Cold Damage in the last 4 seconds.,^7此选项设置敌人是否在过去4秒内以^x3F6DB3冰霜^7伤害击中了你。
+Enemy hit you with Light. Damage?,^7敌人以^xADAA47闪电^7伤害击中了你?
+This option sets whether or not the enemy has hit you with Lightning Damage in the last 4 seconds.,^7此选项设置敌人是否在过去4秒内以^xADAA47闪电^7伤害击中了你。
 
 
 
@@ -695,6 +715,9 @@ Enemy Lightning Resistance:,敌人^xADAA47闪电^7抗性:
 Enemy Cold Resistance:,敌人^x3F6DB3冰霜^7抗性:
 Enemy Fire Resistance:,敌人^xB97123火焰^7抗性:
 Enemy Chaos Resistance:,敌人^xD02090混沌^7抗性:
+Enemy Max Resistance is always 75%,敌人最大抗性总是75%
+Enemy Maximum resistance is increased by the resistance configurations ,敌人的最大抗性随抗性配置而增加
+This locks it at the default value,这将其锁定为默认值
 Enemy Block Chance:,敌人格挡几率:
 Enemy Base Evasion:,敌人基础^x33FF77闪避:
 Enemy Base Armour:,敌人基础护甲:
@@ -711,8 +734,9 @@ Shaper Slam,塑界者的猛击
 Maven Memory Game,贤主的记忆游戏
 Enemy Damage Type:,敌人伤害类型:
 Controls which types of damage the EHP calculation uses:,控制有效生命值计算使用的伤害类型:
-uses the Average of all damage types,使用全部伤害的平均值
+	Average: uses the Average of all typed damage types (not Untyped),	平均:使用所有类型伤害的平均值(而不是非类型伤害)
 "If a specific damage type is selected, that will be the only type used.","如果选择了特定的伤害类型，那将会是唯一使用的类型。"
+Untyped,非类型
 Enemy attack / cast time in ms:,敌人攻击/施法用时(毫秒):
 Custom PvP Damage multiplier percent:,自定义PVP伤害加成百分比:
 "This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)","这将在pvp中为特定技能的伤害进行加成，例如任何特定于pvp的伤害加成(来自技能或支持或破碎传承者等物品)"
