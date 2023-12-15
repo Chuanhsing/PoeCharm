@@ -1,4 +1,4 @@
-add,翻譯
+ㄎ,翻譯
 (Duelist) Impact,(決鬥者) 衝擊
 Allocates Impact if you have the matching modifier on Forbidden Flesh,若禁忌血肉上有符合的詞綴，配置 衝擊
 Allocates Impact if you have the matching modifier on Forbidden Flame,若禁忌烈焰上有符合的詞綴，配置 衝擊
@@ -863,20 +863,120 @@ Totem Evasion,圖騰閃避
 Projectile Damage Taken,承受投射物傷害
 {0}% more DPS,{0}% 更多秒傷
 {0}% less DPS,{0}% 更少秒傷
-Trauma Support,創傷輔助
-Devour Support,吞噬輔助
-Sadism Support,虐待輔助
-Flamewood Support,焚木輔助
-Sacrifice Support,獻祭輔助
-Spellblade Support,魔刃輔助
-Fresh Meat Support,鮮肉輔助
-Locus Mine Support,定位地雷輔助
-Volatility Support,易變輔助
-Frigid Bond Support,冰寒之繫輔助
+Trauma,創傷輔助
+Devour,吞噬輔助
+Sadism,虐待輔助
+Flamewood,焚木輔助
+Sacrifice,獻祭輔助
+Spellblade,魔刃輔助
+Fresh Meat,鮮肉輔助
+Locus Mine,定位地雷輔助
+Volatility,易變輔助
+Frigid Bond,冰寒之繫輔助
 Returning Projectiles,投射物返回輔助
-Corrupting Cry Support,汙染戰吼輔助
-Controlled Blaze Support,精準烈火輔助
-Guardian's Blessing Support,守護者的祝福輔助
+Corrupting Cry,汙染戰吼輔助
+Controlled Blaze,精準烈火輔助
+Guardian's Blessing,守護者的祝福輔助
 Delete Socket Group,刪除插槽組
 Manual,手動
 Auto,自動
+Enemies you Kill have 5% chance to Explode,擊敗的敵人有 5%機率爆炸
+dealing 500% of their maximum Life as Fire Damage,造成等同他們最大生命 500% 的火焰傷害。
+Skills from Equipped Body Armour are Supported by Level 30 Ancestral Call,胸甲上的技能寶石被 30 級的先祖呼喚輔助，
+Skills from Equipped Body Armour are Supported by Level 20 Fist of War,胸甲上的技能寶石被 20 級的拳霸輔助。
+Trigger Level 20 Tawhoa's Chosen when you Attack with,"打擊時觸發 20 級的塔赫亞的抉擇,"
+a Non-Vaal Slam or Strike Skill near an Enemy,在靠近敵人使用非瓦爾猛擊。
+Non-Unique Jewels cause Increases and Reductions to other Damage Types in a Large Radius to be Transformed to apply to Fire Damage,非傳奇珠寶大範圍內的非火焰增或減傷詞綴轉化為火焰傷害，
+Recoup 25% of Damage Taken by your Totems as Life,圖騰所受傷害的 25% 補償為你的生命.
+Totems Regenerate 1 Life per second per 4 of your Life Recovery per second from Regeneration,你每秒恢復 4 點生命圖騰就每秒恢復 1 點生命.
+Modifiers to Maximum Fire Resistance also apply to Maximum Cold and Lightning Resistances,最大火焰抗性上限詞綴也做用於最大冰冷和閃電抗性上限。
+Modifiers to Fire Resistance also apply to Cold and Lightning Resistance at 50% of their Value,火焰詞綴的 50% 也作用於冰冷和閃電抗性。
+Modifiers to Fire Resistance also apply to Cold and Lightning Resistances at 50% of their Value,火焰詞綴的 50% 也作用於冰冷和閃電抗性。
+Vortex,旋渦
+Enemies on Profane Ground receive the following modifiers:,在褻瀆地面的敵人受到以下效果
+	-10% to all Resistances,-10% 全部抗性
+	100% increased chance to be Critically Hit,增加 100% 被擊中的暴擊機率
+"Withered applies 6% increased Chaos Damage Taken to the enemy, up to 15 stacks.",^xFFFFFF凋零對敵人增加6%承受^xD02090混沌傷害^7. 最多可堆疊15次
+Warrior's Tale,戰士的故事
+Replica Dragonfang's Flight,贗品‧龍牙翱翔
+Kahuturoa's Certainty,卡胡圖羅亞的確信
+Recoup:,補償:
+- Requires POESESSID.,- 需要 POESESSID.
+"- You can search, compare, and quickly import items without leaving Path of Building.",- 你可以搜尋、比較和快速匯入項目，而無需關閉POB.
+- You can generate and perform searches for the private leagues you are participating.,- 你可以為參加的私人聯賽產生連結和執行搜尋.
+- Doesn't require POESESSID.,- 不需要 POESESSID.
+- You cannot search and compare items in Path of Building.,- 你不能在POB中搜尋與比較項目
+- You can generate weighted search URLs but have to visit the trade site and manually import items.,"- 你可以產生搜尋加權網址,但必須親自開啟網站並手動匯入道具"
+Include Enchants:,包括附魔
+Adjust search weights,調整搜尋權重
+- You can only generate weighted searches for public leagues. (Generated searches can be modified,"- 您只能為開放的聯盟產生加權搜尋.(產生的搜尋可以在交易網站上修改,"
+on trade site to work on other leagues and realms),以便在其他聯盟和領域中使用）
+Fractured Item,破麻道具
+Nearby Enemy Monsters' Fire Resistance against,你站立時，附近敵人怪物的
+Damage over Time is -20% while you are Stationary,火焰抗性對持續傷害為 -20%
+Non-Unique Jewels cause Small and Notable Passive Skills in a Large Radius to,非傳奇珠寶使大範圍內小型和核心天賦，
+also grant +3 to Strength,同時 +3 力量
+Minions' Base Attack Critical Strike Chance is equal to the Critical Strike Chance of your Main Hand Weapon,召喚物的基礎工擊暴擊率等同於你主手武器的暴擊率
+Ancestor,祖靈
+Hits against you are always Critical Strikes,對你的擊中必定暴擊
+Spells cause you to gain Energy Shield equal to their Upfront Cost every fifth time you Pay it,每 5 次你支付法術時，你會獲得等同於它前期消耗的能量護盾
+Charges used,充能使用
+Recovers {0} Life instantly,總共恢復 {0} 生命
+{0} of {0} ({0} uses),{0} of {0} ({0} 可使用次數)
+Limited to,使用上限
+Chance to Block,格檔機率
+Chilled,冰緩
+Non Chaos Damage Gain As Chaos,非混沌傷害的額外混沌傷害
+Ignore weapon swap,忽略副手武器
+Ignore Items and skills in weapon swap,忽略放在副手的武器和技能
+{0} metres to Melee Strike Range with Swords,"使用劍時, {0} 米近戰打擊距離"
+Min,最小
+Your unreserved Mana is negative,你的保留超過了魔力可保留的值
+You do not have enough Mana to use,你沒有足夠的魔力使用下列技能
+You do not have enough Unreserved Mana% to use,你沒有足夠的未保留魔力使用下列技能
+Combined Total Damage,綜合總傷害
+Physical Damage Convert To Cold,物理傷害轉換為冰冷傷害
+Resulting ailment effect,異常效果
+Ailment Threshold,閥值
+Scorch Effect,焦灼效果
+Brittle Effect,易碎效果
+Sap Effect,殘喘效果
+Repeat Count,重複次數
+Block Effect,格擋減輕效果
+UsingShield,使用盾牌
+Using Flask,使用藥劑
+Unnamed build,尚未存檔的人物
+{0} metres to Melee Strike Range,{0} 米近戰打擊距離
+per point,每點
+Auras from your Skills grant 5% increased Recovery Rate of Life Mana and Energy Shield to you and Allies,來自你技能的光環，使你和友方增加 5% 生命、魔力和能量護盾恢復率
+Warden,聖賢守護者
+Warlock,咒之術士
+Primalist,荒野使者
+Split Count:,裂化物數量:
+Shrapnel Ballista:,彈片砲塔:
+# of Shotgunning Projectiles:,# 重複擊中的投射物數量:
+Enemy Max Resistance is always 75%,敵人最大抗性總是 75%
+Show Advanced Info,顯示進階資訊
+Disable Party Effects,禁用隊伍效果
+Rebuild All,重建全部
+Auras,光環
+Link Skills,連結技能
+Party Member Stats,隊員統計
+Enemy Conditions,敵人狀況
+Enemy Modifiers,敵人詞綴
+Curses,詛咒
+Append,附加
+Enter a build code/URL below:,在下面輸入流派程式碼或連結:
+	All of these effects can be found in the Calcs tab,所有這些效果都可以在「計算」頁面中找到
+Wither Effect:,凋零效果:
+Effective Hit Pool,有效擊中血池
+Artillery Quiver,火炮箭袋
+Stored Uses:,儲存使用次數:
+Eff. Source Rate:,有效來源速度:
+Barkskin,木質外膚
+Tincture,萃取物
+Enable buffs:,啟用增益:
+Barkskin:,木質外膚:
+# of Barkskin Stacks:,# 木質外膚疊層:
+50% more Accuracy Rating against Marked Enemy,對被印記的敵人有 50% 更多命中值
+Focused Amulet,專注護身符
