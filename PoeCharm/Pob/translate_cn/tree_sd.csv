@@ -386,7 +386,7 @@
 "30% increased Life Recovery from Flasks","药剂给予的生命恢复提高 30%"
 "10% increased Flask Charges gained","药剂充能获取提高 10%"
 "6% reduced Elemental Damage taken","受到的元素伤害降低 6%"
-"Flasks gain 3 Charges every 3 seconds","药剂每 3 秒获得 3 次使用机会"
+"Flasks gain 3 Charges every 3 seconds","药剂每 3 秒获得 3 次充能"
 "20% chance for your Flasks to not consume Charges","有 20% 几率使用药剂时不消耗充能"
 "40% increased Elemental Damage during any Flask Effect","药剂持续期间，元素伤害提高 40%"
 "20% chance to Freeze, Shock and Ignite during any Flask Effect","药剂持续期间，有 20% 的几率冰冻，感电和点燃敌人"
@@ -1039,7 +1039,7 @@
 "10% increased Mana Recovery from Flasks","药剂给予的魔力恢复提高 10%"
 "10% reduced Flask Charges used from Mana Flasks","魔力药剂充能使用降低 10%"
 "15% increased Flask Charges gained","药剂充能获取提高 15%"
-"Mana Flasks gain 1 Charge every 3 seconds","魔力药剂每 3 秒获得 1 次使用机会"
+"Mana Flasks gain 1 Charge every 3 seconds","魔力药剂每 3 秒获得 1 次充能"
 "+3% to Damage over Time Multiplier for Poison","+3% 中毒持续伤害加成"
 "15% increased Chaos Damage with Attack Skills","攻击技能可使混沌伤害提高 15%"
 "15% chance to Poison on Hit","击中时有 15% 的几率使目标中毒"
@@ -2061,7 +2061,7 @@
 "1% increased Critical Strike Chance per point of Strength or Intelligence, whichever is lower","在力量和智慧中取低的那一个，每一点都使暴击率提高 1%"
 "Consecrated Ground you create applies 15% increased Damage taken to Enemies","你创造的【奉献地面】可以使敌人受到的伤害提高 15%"
 "Consecrated Ground you create grants Immunity to Elemental Ailments\nto you and Allies","你创造的奉献地面会使你与友军\n免疫元素异常状态"
-"Consecrated Ground you create causes Life Regeneration to\nalso Recover Energy Shield for you and Allies","你产生的具有生命再生效果的奉献地面\n也会为你和友军回复能量护盾"
+"Consecrated Ground you create causes Life Regeneration to\nalso Recover Energy Shield for you and Allies",你产生的奉献地面使你和友军再生生命的同时回复能量护盾
 "+4 to Maximum Fanatic Charges","狂热球数量上限 +4"
 "Gain 1 Fanatic Charge every second if you've Attacked in the past second","若你上一秒发动过攻击，则每秒获得 1 个狂热球"
 "10% more Attack Damage for each Non-Instant Spell you've Cast in the past 8 seconds, up to a maximum of 30%","你在过去 8 秒内施放的每个非立即施放法术都使攻击伤害总增 10%，最多 30%"
@@ -2128,7 +2128,7 @@
 "25% chance to Blind Enemies on Hit with Attacks","攻击击中有 25% 的几率致盲敌人"
 "50% chance to Fortify on Melee hit","近战击中时有 50% 的几率获得护体效果"
 "15% increased effect of Non-Curse Auras from your Skills","你技能的非诅咒类光环效果提高 15%"
-"10% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds","击击中稀有或传奇敌人时，有 10% 的几率创造【奉献地面】，持续 8 秒"
+"10% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds","你击中稀有或传奇敌人时，有 10% 的几率创造【奉献地面】，持续 8 秒"
 "25% increased Effect of Arcane Surge on you","你身上的秘术增强效果提高 25%"
 "Every 4 seconds, Regenerate 20% of Life over one second","每隔 4 秒便在一秒内再生 20% 生命"
 "10% chance to gain Elusive on Critical Strike","暴击时有 10% 的几率获得【灵巧】"
@@ -2355,7 +2355,7 @@
 "Recover 10% of Mana over 1 second when you use a Guard Skill","你使用防卫技能时，在 1 秒内回复 10% 魔力"
 "5% increased Attack Damage per 5% Chance to Block Attack Damage","每 5% 攻击伤害格挡几率都使攻击伤害提高 5%"
 "30% increased Mana Recovery from Flasks","药剂给予的魔力恢复提高 30%"
-"Life Flasks gain 1 Charge every 3 seconds","生命药剂每 3 秒获得 1 次使用次数"
+"Life Flasks gain 1 Charge every 3 seconds","生命药剂每 3 秒获得 1 次充能"
 "3% reduced Cost of Skills","技能消耗降低 3%"
 "6% reduced Cost of Skills","技能消耗降低 6%"
 "5% increased Maximum total Life Recovery per second from Leech","偷取的每秒最大生命总恢复量提高 5%"
@@ -2940,8 +2940,8 @@
 "You can Cast 2 additional Brands","可以施放 2 个额外烙印"
 "30% increased Chaining range","连锁范围扩大 30%"
 "25% chance to gain an Endurance Charge when you Block","格挡时 25% 的几率获得耐力球"
-"Life Flasks gain 2 Charges every 3 seconds","生命药剂每 3 秒获得 2 次使用次数"
-"Mana Flasks gain 2 Charges every 3 seconds","魔力药剂每 3 秒获得 2 次使用机会"
+"Life Flasks gain 2 Charges every 3 seconds","生命药剂每 3 秒获得 2 次充能"
+"Mana Flasks gain 2 Charges every 3 seconds","魔力药剂每 3 秒获得 2 次充能"
 "+6% to Damage over Time Multiplier","+6% 持续伤害加成"
 "+15% to Damage over Time Multiplier","+15% 持续伤害加成"
 "12% increased Impale Effect","穿刺的效果提高 12%"
@@ -3283,3 +3283,49 @@ Battlemage,战斗法师
 "Bleeding enemies cannot inflict Bleeding on you",流血的敌人无法对你造成流血
 "Ignited enemies cannot Ignite you",被点燃的敌人无法对你造成点燃
 "Returning Projectiles have 150% increased Speed","返回的投射物的速度提高 150%"
+"+0.2 metres to Melee Strike Range","近战打击范围 +0.2 米"
+"+0.3 metres to Melee Strike Range","近战打击范围 +0.3 米"
+"Enemies you or your Totems Kill have 5% chance to Explode, dealing 500% of their maximum Life as Fire Damage","被你或你的图腾击败的敌人有 5% 的几率爆炸，造成其生命上限 500% 的火焰伤害"
+"+0.4 metres to Melee Strike Range","近战打击范围 +0.4 米"
+"+0.1 metres to Melee Strike Range with Swords","剑类近战打击范围 +0.1 米"
+"+0.3 metres to Melee Strike Range with Swords","剑类近战打击范围 +0.3 米"
+"+0.1 metres to Melee Strike Range","近战打击范围 +0.1 米"
+"+0.4 metres to Melee Strike Range while at least 5 Enemies are Nearby","周围至少有 5 个敌人时近战打击范围 +0.4 米"
+"Can apply Tinctures to your Equipped Weapons",可以对你装备的武器施加酊剂。
+"Flasks adjacent to applied Tincture gain 3 charges when you Hit an Enemy with a Weapon, no more than once every second","用武器击中敌人时，与生效酊剂邻接的药水获得 3 层充能，每秒最多触发一次"
+"Flasks adjacent to applied Tincture have 30% increased Effect when used if you've Hit an enemy with a Weapon Recently","若近期用武器击中过敌人，与生效酊剂邻接的药水效果提高 30%"
+"Tinctures applied to you have 75% increased Effect per empty Flask Slot","每个空的药水栏位使对你生效的酊剂效果提高 75%"
+"Grants Level 20 Barkskin Skill","获得 20 级树皮御体技能"
+"10% reduced Duration of Damaging Ailments on you per Bark","每层树皮御体使你受到的伤害异常状态持续时间缩短 10%"
+"10% chance to Avoid non-Damaging Ailments on you per Bark below maximum","低于上限的每层树皮御体使你有 10% 的几率避免非伤害异常状态"
+"25% increased Maximum Life if you have Equipped Gloves with no Socketed Gems","若装备的手套没有镶嵌宝石，生命上限提高 25%"
+"30% increased Movement Speed if you have Equipped Boots with no Socketed Gems","若装备的靴子没有镶嵌宝石，移动速度提高 30%"
+"+50% to all Elemental Resistances if you have an Equipped Helmet with no Socketed Gems","若装备的头盔没有镶嵌宝石，+50% 所有元素抗性"
+"Defences from Equipped Body Armour are doubled if it has no Socketed Gems",若装备的胸甲没有镶嵌宝石，其防御翻倍
+"Rare and Unique Enemies within 120 metres have Minimap Icons","120 米内的稀有和传奇敌人显示小地图标记"
+"Your Hits against Marked Enemy cannot be Blocked or Suppressed",你对被标记敌人的击中无法被格挡或压制
+"10% increased Quantity of Vivid Wisps found in the Viridian Wildwood","在维里迪安荒林中找到的活性鬼灵数量提高 10%"
+"Removes all Mana",移除所有魔力
+"50% increased Life Reservation Efficiency of Skills","技能的生命保留效能提高 50%"
+"Skills Cost Life instead of Mana",技能消耗的魔力改为消耗生命
+"Skills Reserve Life instead of Mana",技能保留的魔力改为保留生命
+"-6 Maximum Life per Level","每级 -6 最大生命"
+"Removes all Energy Shield",移除所有能量护盾
+"Gain Maximum Life instead of Maximum Energy Shield from Equipped Armour Items",装备护甲物品提供的能量护盾上限改为提供生命上限
+"Spells you cast yourself gain Added Physical Damage equal to 75% of Life Cost, if Life Cost is not higher than the maximum you could spend","如果生命消耗不高于你能够消耗的最大值，你自己施放的法术附加相当于生命消耗 75% 的物理伤害"
+"Grants Level 20 Summon Dark Effigy Skill","获得 20 级召唤黑暗塑像技能"
+"Grants Level 20 Pacify Skill","获得 20 级宁心技能"
+"Grants Level 20 Penance Mark Skill","获得 20 级忏悔印记技能"
+"Grants Level 20 Affliction Skill","获得 20 级折磨技能"
+"Enemies Pacified by you take 20% increased Damage","被你止心的敌人受到的伤害提高 20%"
+"Minions affected by Affliction have Onslaught",受到折磨影响的召唤生物获得猛攻
+"Phantasms from Penance Mark grant 50% increased Flask Charges","忏悔印记的幻灵提供的药剂充能提高 50%"
+"Phantasms from Penance Mark have a 50% chance to grant a Vaal Soul when Killed","忏悔印记的幻灵被击败时有 50% 的几率产生一个瓦尔之灵"
+"Enemies display their Monster Category",敌人会显示怪物类型
+"Grants Level 20 Ravenous Skill","获得 20 级贪噬技能"
+"10% increased Quantity of Wild Wisps found in the Viridian Wildwood","在维里迪安荒林中找到的狂野鬼灵数量提高 10%"
+"5% increased Character Size","角色体型增大 5%"
+"Equip a Wildwood Rucksack which has 20 Inventory Slots","装备一个荒林行囊，拥有 20 个物品栏位"
+"Your Warcries open Chests",你的战吼能打开箱子
+"Your Warcries attempt to shake extra items from Corpses",你的战吼会尝试从灵柩中震出额外物品
+"10% increased Quantity of Primal Wisps found in the Viridian Wildwood","在维里迪安荒林中找到的原始鬼灵数量提高 10%"

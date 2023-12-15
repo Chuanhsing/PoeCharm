@@ -512,7 +512,7 @@ Unearth,亵渎之矛
 "Vaal Lightning Trap",瓦尔.闪电陷阱
 "Vaal Lightning Warp",瓦尔.闪电传送
 "Vaal Molten Shell",瓦尔.熔岩护盾
-"Vaal Molten Strike",瓦尔：熔火打击
+"Vaal Molten Strike",瓦尔：熔岩之击
 "Vaal Power Siphon",瓦尔.力量抽取
 "Vaal Rain of Arrows",瓦尔.箭雨
 "Vaal Reave",瓦尔.冲击波
@@ -578,7 +578,7 @@ Sit!,坐下！
 "Summon Spirit of Utula",召唤尤图拉之魂
 "Summon Triggerbots",召唤触发机器人
 "Vaal Absolution",瓦尔：赦罪
-"Vaal Animate Weapon",瓦尔：活化武器
+"Vaal Animate Weapon",瓦尔：幻化武器
 "Vaal Arctic Armour",瓦尔：极地装甲
 "Vaal Domination",瓦尔：霸气之击
 "Vaal Firestorm",瓦尔：烈炎风暴
@@ -588,3 +588,188 @@ Sit!,坐下！
 "Vaal Rejuvenation Totem",瓦尔：回春图腾
 "Vaal Split Arrow",瓦尔：分裂箭矢
 "Who's a Good Doggy?",谁是好狗狗？
+"Spray Paint Celestial",喷洒众星颜料
+"Spray Paint Magmatic",喷洒熔岩颜料
+"Spray Paint Blood",喷洒青碧颜料
+"Ground Slam of Earthshaking",震地之裂地之击
+"Cleave of Rage",怒火之劈砍
+"Leap Slam of Groundbreaking",破土之震地跃击
+"Double Strike of Impaling",穿刺之双重打击
+"Double Strike of Momentum",动量之双重打击
+"Dual Strike of Ambidexterity",巧手之双持打击
+"Frenzy of Onslaught",猛攻之狂怒
+"Caustic Arrow of Poison",剧毒之腐蚀箭矢
+"Detonate Dead of Scavenging",掠命之爆灵术
+"Detonate Dead of Chain Reaction",连锁之爆灵术
+"Flicker Strike of Power",强能之闪现打击
+"Split Arrow of Splitting",分裂之分裂箭矢
+"Cold Snap of Power",强能之霜暴
+"Ice Nova of Frostbolts",寒冰弹之冰霜新星
+"Ice Nova of Deep Freeze",深寒之冰霜新星
+"Arc of Surging",激涌之电弧
+"Arc of Oscillating",震荡之电弧
+"Raise Zombie of Slamming",猛击之魔卫复苏
+"Raise Zombie of Falling",殒命之魔卫复苏
+"Righteous Fire of Arcane Devotion",尊法之正义之火
+"Discharge of Misery",苦难之解放
+"Spark of the Nova",新星之电球
+"Spark of Unpredictability",无常之电球
+"Ice Spear of Splitting",分裂之冰矛
+"Raise Spectre of Transience",瞬息之召唤灵体
+"Infernal Blow of Immolation",献祭之炼狱之击
+"Glacial Hammer of Shattering",碎冰之冰霜之锤
+"Viper Strike of the Mamba",曼巴之毒蛇打击
+"Summon Skeletons of Archery",射艺之召唤魔侍
+"Summon Skeletons of Sorcery",巫术之召唤魔侍
+"Dominating Blow of Inspiring",奋发之霸气之击
+"Rain of Arrows of Artillery",炮击之箭雨
+"Rain of Arrows of Saturation",饱和之箭雨
+"Firestorm of Meteors",陨星之烈炎风暴
+"Firestorm of Pelting",碎焰之烈炎风暴
+"Lightning Strike of Arcing",弧光之闪电打击
+"Power Siphon of the Archmage",大法师之力量抽取
+"Lightning Arrow of Electrocution",电殛之闪电箭矢
+"Burning Arrow of Vigour",气焰之燃烧箭矢
+"Bear Trap of Skewers",钉刺之捕熊陷阱
+"Fire Trap of Blasting",震爆之火焰陷阱
+"Ethereal Knives of Lingering Blades",徘徊之虚空匕首
+"Ethereal Knives of the Massacre",狂戮之虚空匕首
+"Ball Lightning of Orbiting",周转之天雷之珠
+"Ball Lightning of Static",静滞之天雷之珠
+"Cyclone of Tumult",嚣狂之旋风斩
+"Reave of Refraction",折射之冲击波
+"Lightning Trap of Sparking",火花之闪电陷阱
+"Animate Guardian of Smiting",惩击之幻化守卫
+"Spectral Throw of Materialising",具化之灵体投掷
+"Animate Weapon of Self Reflection",自省之幻化武器
+"Animate Weapon of Ranged Arms",远程之幻化武器
+"Flameblast of Celerity",敏捷之烈焰爆破
+"Flameblast of Contraction",聚火之烈焰爆破
+"Barrage of Volley Fire",齐发之弹幕
+"Summon Raging Spirit of Enormity",凶恶之召唤愤怒狂灵
+"Flame Surge of Combusting",爆燃之怒焰奔腾
+"Molten Strike of the Zenith",天顶之熔岩之击
+"Tornado Shot of Cloudburst",穿云之龙卷射击
+"Lightning Tendrils of Eccentricity",离心之电能释放
+"Lightning Tendrils of Escalation",增幅之电能释放
+"Blink Arrow of Bombarding Clones",轰炸复制体之闪现射击
+"Blink Arrow of Prismatic Clones",棱光复制体之闪现射击
+"Mirror Arrow of Bombarding Clones",轰炸复制体之魅影射击
+"Mirror Arrow of Prismatic Clones",棱光复制体之魅影射击
+"Summon Chaos Golem of Hordes",结群之召唤混沌魔像
+"Summon Chaos Golem of the Maelström",混渊之召唤混沌魔像
+"Summon Ice Golem of Hordes",结群之召唤寒冰魔像
+"Summon Ice Golem of Shattering",碎冰之召唤寒冰魔像
+"Summon Flame Golem of Hordes",结群之召唤烈焰魔像
+"Summon Flame Golem of the Meteor",陨星之召唤烈焰魔像
+"Ice Crash of Cadence",错落之寒冰冲击
+"Flame Dash of Incinerating",焚烧之烈焰冲刺
+"Flame Dash of Return",归返之烈焰冲刺
+"Frost Blades of Katabasis",冥域之冰霜之刃
+"Wild Strike of Extremes",极限之野性打击
+"Ice Trap of Hollowness",空洞之冰冻陷阱
+"Galvanic Arrow of Energy",聚能之电光箭
+"Galvanic Arrow of Surging",浪涌之电光箭
+"Bladefall of Volleys",连绵之虚空刀雨
+"Bladefall of Impaling",穿刺之虚空刀雨
+"Frost Bomb of Instability",动荡之寒霜爆
+"Frost Bomb of Forthcoming",延时之寒霜爆
+"Summon Stone Golem of Hordes",结群之召唤巨石魔像
+"Summon Stone Golem of Safeguarding",卫护之召唤巨石魔像
+"Earthquake of Amplification",增幅之地震
+"Contagion of Subsiding",痼疾之瘟疫
+"Contagion of Transference",转移之瘟疫
+"Essence Drain of Desperation",绝望之灵魂吸取
+"Essence Drain of Wickedness",邪门之灵魂吸取
+"Siege Ballista of Splintering",分叉之攻城炮台
+"Sunder of Earthbreaking",裂地之大地震击
+"Vortex of Projection",投射之漩涡
+"Blight of Contagion",传染之枯萎
+"Blight of Atrophy",萎缩之枯萎
+"Blade Flurry of Incision",割痕之刀刃乱舞
+"Summon Lightning Golem of Hordes",结群之召唤闪电魔像
+"Lacerate of Butchering",痛宰之破空斩
+"Lacerate of Haemorrhage",血涌之破空斩
+"Scorching Ray of Immolation",焚灭之灼热光线
+"Blade Vortex of the Scythe",巨镰之飞刃风暴
+"Spectral Shield Throw of Shattering",碎裂之灵盾投掷
+"Volatile Dead of Confinement",拘束之灵体火球
+"Volatile Dead of Seething",沸燃之灵体火球
+"Cremation of Exhuming",掘灭之火葬
+"Cremation of the Volcano",火山之火葬
+"Bodyswap of Sacrifice",牺牲之灵体转换
+"Tectonic Slam of Cataclysm",灾变之破釜一击
+"Explosive Trap of Shrapnel",破片之爆炸陷阱
+"Explosive Trap of Magnitude",剧烈之爆炸陷阱
+"Lightning Spire Trap of Zapping",震荡之电塔陷阱
+"Lightning Spire Trap of Overloading",超载之电塔陷阱
+"Seismic Trap of Swells",膨胀之震波陷阱
+"Consecrated Path of Endurance",强韧之奉献之路
+"Smite of Divine Judgement",圣裁之惩击
+"Scourge Arrow of Menace",威胁之天灾之箭
+"Toxic Rain of Sporeburst",孢子迸发之毒雨
+"Toxic Rain of Withering",凋零之毒雨
+"Storm Brand of Indecision",无定之风暴烙印
+"Shattering Steel of Ammunition",备弹之破碎铁刃
+"Armageddon Brand of Volatility",无常之末日烙印
+"Armageddon Brand of Recall",回溯之末日烙印
+"Purifying Flame of Revelations",启示之净化烈焰
+"Soulrend of Reaping",收割之裂魂术
+"Soulrend of the Spiral",螺旋之裂魂术
+"Bane of Condemnation",罪罚之混沌之毒
+"Divine Ire of Holy Lightning",神雷之圣怨
+"Divine Ire of Disintegration",瓦解之圣怨
+"Holy Flame Totem of Ire",怒焰之圣焰图腾
+"Bladestorm of Uncertainty",无定之剑刃风暴
+"Perforate of Duality",对偶之凿击
+"Perforate of Bloodshed",喋血之凿击
+"Frostblink of Wintry Blast",冰爆之冰霜闪现
+"Summon Carrion Golem of Hordes",结群之召唤腐化魔像
+"Summon Carrion Golem of Scavenging",敛骸之召唤腐化魔像
+"Pyroclast Mine of Sabotage",破坏之火屑地雷
+"Icicle Mine of Fanning",扩散之冰锥地雷
+"Icicle Mine of Sabotage",破坏之冰锥地雷
+"Shrapnel Ballista of Steel",刚刃之散射弩炮
+"Stormbind of Teleportation",传送之缚雷之纹
+"Rune Blast of Teleportation",传送之爆裂符纹
+"Kinetic Bolt of Fragmentation",碎裂之念动飞箭
+"Blade Blast of Unloading",倾泻之乱剑穿心
+"Blade Blast of Dagger Detonation",轰匕之乱剑穿心
+"Penance Brand of Dissipation",辐照之忏悔烙印
+"Penance Brand of Conduction",传导之忏悔烙印
+"Earthshatter of Fragility",脆弱之尖刺战吼
+"Earthshatter of Prominence",涌升之尖刺战吼
+"Void Sphere of Rending",撕碎之虚空法球
+"Crackling Lance of Branching",分叉之电殛长枪
+"Crackling Lance of Disintegration",瓦解之电殛长枪
+"Splitting Steel of Ammunition",备弹之分裂钢刃
+"Lancing Steel of Spraying",飞射之断金之刃
+"Glacial Cascade of the Fissure",裂隙之冰川之刺
+"Hexblast of Contradiction",悖论之魔蛊爆炸
+"Hexblast of Havoc",浩劫之魔蛊爆炸
+"Exsanguinate of Transmission",传输之赤炼魔光
+"Rage Vortex of Berserking",狂暴之怒火漩涡
+"Absolution of Inspiring",奋发之赦罪
+"Blade Trap of Greatswords",巨剑之剑刃陷阱
+"Blade Trap of Laceration",裂伤之剑刃陷阱
+"Forbidden Rite of Soul Sacrifice",祭魂之禁断典仪
+"Storm Rain of the Conduit",引雷之暴雨箭
+"Storm Rain of the Fence",栅篱之暴雨箭
+"Shield Crush of the Chieftain",酋长之盾牌碾压
+"Summon Reaper of Revenants",亡魂之召唤追命死灵
+"Summon Reaper of Eviscerating",裂骨之召唤追命死灵
+"Boneshatter of Complex Trauma",重创之七伤破
+"Boneshatter of Carnage",不坏之七伤破
+"Explosive Concoction of Destruction",毁灭之爆破灵药
+"Eye of Winter of Finality",暮冬之凛冬之眼
+"Eye of Winter of Transience",瞬息之凛冬之眼
+"Lightning Conduit of the Heavens",苍穹之闪电通道
+"Galvanic Field of Intensity",剧烈之电流场
+"Frozen Legion of Rallying",集结之冰封军团
+"Volcanic Fissure of Snaking",蜿蜒之火山裂缝
+"Summon Dark Effigy",召唤黑暗塑像
+Barkskin,树皮御体
+"Penance Mark",忏悔印记
+Affliction,折磨
+Pacify,宁心
+Ravenous,贪噬
