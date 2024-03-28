@@ -118,10 +118,12 @@ Skill Cooldown:,技能冷却:
 Duration Mod:,持续时间修正:
 Skill Duration:,技能持续时间:
 Secondary Duration:,二阶段持续时间:
+Tertiary Duration:,三阶段持续时间:
 Aura Duration:,光环持续时间:
 Reserve Duration:,保留持续时间:
 Uptime:,正常启用时长:
 Secondary Uptime:,二阶段启用时长:
+Tertiary Uptime:,三阶段启用时长:
 Aura Uptime:,光环启用时长:
 Reserve Uptime:,保留启用时长:
 Sustainable Trauma:,可保持的内伤:
@@ -153,7 +155,6 @@ Wave Pulse Rate:,脉冲冲击波频率:
 Pulses Per Trap:,每陷阱脉冲次数:
 Small Explosions:,小爆炸:
 Avg. Active Traps:,平均激活陷阱:
-Super Chance:,超聚能概率:
 Normal Hits/Cast:,通常每施法击中数:
 Super Hits/Cast:,超聚能每施法击中数:
 DPS Multiplier:,DPS加成:
@@ -310,7 +311,7 @@ Rage Regen:,怒火再生:
 Inc. Item Quantity:,物品数量提高:
 Inc. Item Rarity:,物品稀有度提高:
 Culling Strike:,终结:
-Enemy Life recovery:,敌人生命回复:
+Enemy Life Recovery:,敌人生命回复:
 Enemy Mana Recovery:,敌人魔法回复:
 Enemy ES Recovery:,敌人ES回复:
 Attributes:,属性:
