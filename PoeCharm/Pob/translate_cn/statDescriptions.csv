@@ -16101,8 +16101,8 @@ Doomsday,灭亡之日
 "Sap Enemies when you Block their Damage",你格挡敌人的伤害时使它们力竭
 "{0} chance to Scorch Enemies when you Block their Damage","你格挡敌人的伤害时，有 {0} 的几率灼烧敌人"
 "Scorch Enemies when you Block their Damage",你格挡敌人的伤害时烧灼敌人
-"{0} chance to Intimidate nearby Enemies for {1} seconds on Melee Kill","近战击败敌人时，有 {0} 的几率【恐吓】周围的敌人，持续 {1} 秒"
-"{0} chance to Intimidate Enemies for {1} seconds on Hit","击中有 {0} 的几率恐吓敌人 {1} 秒"
+"{0} chance to Intimidate nearby Enemies for {1} seconds on Melee Kill","近战击败敌人时，有 {0} 的几率【威吓】周围的敌人，持续 {1} 秒"
+"{0} chance to Intimidate Enemies for {1} seconds on Hit","击中有 {0} 的几率威吓敌人 {1} 秒"
 "{0} chance to Poison per Power Charge","每拥有 1 个暴击球，有 {0} 的几率造成中毒"
 "{0} chance to Sap Enemies in Chilling Areas","有 {0} 的几率使冰缓区域中的敌人【精疲力尽】"
 "{0} chance to Shock Chilled Enemies","有 {0} 的几率感电已被冰缓的敌人"
@@ -16627,8 +16627,8 @@ Doomsday,灭亡之日
 "Elemental Ailments inflicted on Enemies Exposed by you have {0} reduced Duration","施加在被你曝露的敌人身上的元素异常状态持续时间缩短 {0}"
 "Enemies Hindered by you have {0} increased Life Regeneration rate","被你缓速的敌人的生命回复率提高 {0}"
 "Enemies Hindered by you have {0} reduced Life Regeneration rate","被你缓速的敌人的生命回复率降低 {0}"
-"Enemies Intimidated by you have {0} increased duration of stuns against them","对抗被你恐吓的敌人时，它们的眩晕持续时间延长 {0}"
-"Enemies Intimidated by you have {0} reduced duration of stuns against them","对抗被你恐吓的敌人时，它们的眩晕持续时间降低缩短 {0}"
+"Enemies Intimidated by you have {0} increased duration of stuns against them","对抗被你威吓的敌人时，它们的眩晕持续时间延长 {0}"
+"Enemies Intimidated by you have {0} reduced duration of stuns against them","对抗被你威吓的敌人时，它们的眩晕持续时间降低缩短 {0}"
 "Enemies Maimed by you take {0} increased Damage Over Time","被你瘫痪的敌人受到的持续伤害提高 {0}"
 "Enemies Maimed by you take {0} reduced Damage Over Time","被你瘫痪的敌人受到的持续伤害降低 {0} reduced Damage Over Time"
 "Hits against Enemies Unnerved by you have {0} increased Spell Critical Strike Chance","击中被你恐惧的敌人时，法术暴击率提高 {0}"
