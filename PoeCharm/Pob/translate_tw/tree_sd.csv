@@ -1052,7 +1052,7 @@ Phasing,迷蹤效果
 "+10% Chance to Block Attack Damage","+10% 攻擊傷害格擋率"
 "Cannot be Stunned by Hits you Block",你格擋的攻擊不能暈眩
 "Your Counterattacks deal Double Damage","你的反擊造成 2 倍傷害"
-"Attack Damage is Lucky if you've Blocked in the past 20 seconds","若過去 20 秒你有格檔，攻擊傷害很幸運"
+"Attack Damage is Lucky if you've Blocked in the past 20 seconds","若過去 20 秒你有格擋，攻擊傷害很幸運"
 "Hits ignore Enemy Monster Physical Damage Reduction if you've Blocked in the past 20 seconds","若你過去 20 秒有格擋，擊中無視敵人怪物物理傷害減免"
 "+10% to maximum Chance to Block Attack Damage","+10% 最大攻擊傷害格擋率"
 "+10 to Armour and Evasion Rating per 1% Chance to Block Attack Damage","每 1% 攻擊傷害格擋率 +10 護甲和閃避值"
@@ -1100,7 +1100,7 @@ Battlemage,戰法
 "10% increased Effect of Arcane Surge on you","增加你身上秘能波動 10% 效果"
 "20% increased Totem Placement speed","增加 20% 圖騰放置速度"
 "30% increased maximum Mana","增加 30% 最大魔力"
-"10% of Damage is taken from Mana before Life","生命值所受的 10% 傷害由魔力扣取"
+"10% of Damage is taken from Mana before Life","生命值所受的 10% 傷害由魔力扣除"
 "Transfiguration of Mind",意志扭曲
 "50% less Mana Cost of Skills","50% 更少技能消耗魔力"
 "Gain 20% of Maximum Mana as Extra Maximum Energy Shield","獲得等同 20% 魔力的額外能量護盾"
@@ -1244,7 +1244,7 @@ Battlemage,戰法
 "10% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds","你擊中稀有或傳奇敵人時有 10% 機率製造奉獻地面，持續 8 秒"
 "25% increased maximum Mana","增加 25% 最大魔力"
 "25% increased Effect of Arcane Surge on you","增加你身上秘能波動 25% 效果"
-"8% of Damage is taken from Mana before Life","生命值所受的 8% 傷害由魔力扣取"
+"8% of Damage is taken from Mana before Life","生命值所受的 8% 傷害由魔力扣除"
 "25% reduced Effect of Curses on you","減少在你身上的詛咒效果 25%"
 "Every 4 seconds, Regenerate 20% of Life over one second","每 4 秒在 1 秒內回復 20% 生命"
 "10% chance to gain Elusive on Critical Strike","暴擊時有 10% 機率獲得靈巧"
@@ -1540,7 +1540,7 @@ Battlemage,戰法
 "30% increased Physical Attack Damage while holding a Shield","增加 30% 持盾時物理攻擊傷害"
 "10% chance to gain an Endurance Charge on Kill while holding a Shield","持盾時有 10% 機率在擊殺時獲得 1 顆耐力球"
 "+3% chance to Block Spell Damage while holding a Staff or Shield","持長杖或盾時，+3% 法術傷害格擋率"
-"Recover 50 Energy Shield when you Block Spell Damage","當你格檔法術傷害時，恢復 50 能量護盾"
+"Recover 50 Energy Shield when you Block Spell Damage","當你格擋法術傷害時，恢復 50 能量護盾"
 "+6% chance to Block Spell Damage while holding a Staff or Shield","持長杖或盾時，+6% 法術傷害格擋率"
 "Gain 5 Life per Enemy Hit with Attacks","每用攻擊擊中一個敵人，獲得 5 生命"
 "0.3% of Attack Damage Leeched as Life","0.3% 攻擊傷害偷取生命"
@@ -1563,7 +1563,7 @@ Battlemage,戰法
 "Recover 2% of Life when you Kill a Cursed Enemy","當你擊殺被詛咒的敵人時，恢復 2% 生命"
 "Cursed Enemies you Kill are destroyed",你擊殺被詛咒的敵人被摧毀
 "Enemies you Curse cannot Recharge Energy Shield",你詛咒的敵人不能充能能量護盾
-"Enemies Cursed by you have 50% reduced Life Regeneration Rate","被你詛咒的敵人減少 50% 生命回復率"
+"Enemies Cursed by you have 50% reduced Life Regeneration Rate","你詛咒的敵人減少 50% 生命回復率"
 "8% increased Mana Regeneration Rate per Power Charge","每個暴擊球增加 8% 魔力回復率"
 "8% increased Critical Strike Chance per Power Charge","每個暴擊球增加 8% 暴擊率"
 "+1 to Minimum Power Charges","+1 最小暴擊球"
@@ -1648,7 +1648,7 @@ Battlemage,戰法
 "Warcry Skills have 30% increased Area of Effect","戰吼技能增加 30% 範圍效果"
 "Exerted Attacks deal 20% increased Damage","竭盡攻擊增加 20% 傷害"
 "Exerted Attacks deal 15% increased Damage","竭盡攻擊增加 15% 傷害"
-"Warcries Exert 1 additional Attack","戰吼加強 1 次額外攻擊"
+"Warcries Exert 1 additional Attack","戰吼竭盡 1 次額外攻擊"
 "30% increased Stun Threshold","增加 30% 暈眩門檻"
 "50% reduced Stun Duration on you","減少你 50% 被暈眩的時間"
 "Regenerate 2% of Life per second while stationary","靜止時，每秒回復 2% 生命"
@@ -1958,3 +1958,10 @@ Battlemage,戰法
 "Your Warcries open Chests",你的戰吼開啟保險箱
 "Your Warcries attempt to shake extra items from Corpses",你的戰吼從屍體震出額外物品
 "10% increased Quantity of Primal Wisps found in the Viridian Wildwood","增加 10% 翠綠荒林掉落原始妖精的數量"
+"Action Speed cannot be modified to below Base Value",行動速度不能被調整至低於基礎值
+"Movement Speed cannot be modified to below Base Value",你的移動速度加成不會讓你降至基礎速度以下
+"Minions deal 10% more Damage","召喚物造成的傷害增加 10%"
+"1% of Damage Dealt by your Minions is Leeched to you as Life","你召喚物造成傷害的 1% 會被偷取為你的生命"
+"Minions gain 40% of Maximum Life as Extra Maximum Energy Shield","召喚物獲得 40% 最大生命的額外最大能量護盾"
+"100% increased Critical Strike Chance against Enemies that are on Full Life","對滿血的敵人增加 100% 暴擊率"
+"Warcries no longer Exert Attacks\nWarcries also grant their buffs to nearby allies","戰吼不再竭盡攻擊\n戰吼也會賦予附近友方增益效果"

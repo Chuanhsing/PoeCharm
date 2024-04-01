@@ -4,15 +4,15 @@
 "(You can only take one of the three Templar Ascendancy passives)","( 你只能在圣堂武僧的三个升华职业中选择一个 )"
 "(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)","(秘术增强额外增加 10% 法术总伤害, 增加 10% 施法速度，和每秒 0.5% 最大魔力的魔力回复，持续4秒)"
 "(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)","( 中毒造成持续混沌伤害, 伤害取决于技能初始的物理和混沌伤害。中毒效果可以叠加 )"
-"(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)","( 无视抗性表示你的伤害不被任和抗性所影响 )"
+"(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)",（无视抗性表示你的伤害不会被任何抗性相关的词缀以任何方式修改）
 "(You can only take one of the three Ranger Ascendancy passives)","( 你只能在游侠的三个升华职业中选择一个 )"
 "(You can only take one of the three Marauder Ascendancy passives)","( 你只能在野蛮人的三个升华职业中选择一个 )"
 "(Maximum Rage is 50)","(最大怒气为 50 层)"
-"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","(由于近期你没有被击中或获得怒气，正在以 0.5 每层的速度失去怒气)"
+"(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)","（近期内如果你没有被击中或获得怒气，则每 0.5 秒失去 1 层怒气）"
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance)","( 站在奉献地面上的友军每秒回复一定百分比的最大生命 )"
 "(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(被点燃、灼烧、冰缓、冰冻、易碎、感电和精疲力尽统称为元素异常状态)
 "(You can only take one of the three Shadow Ascendancy passives)","( 你只能在暗影的三个升华职业中选择一个 )"
-"(Intimidated enemies take 10% increased Attack Damage)",（受到威吓的敌人受到的攻击伤害会额外提高10%）
+"(Intimidated enemies take 10% increased Attack Damage)",（受到威吓的敌人受到的攻击伤害会提高10%）
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",(肾上腺素会增加100%伤害，提高25%攻击速度，施法速度和移动速度，并且受到的物理伤害额外减少10%)
 "(Onslaught grants 20% increased Attack, Cast, and Movement Speed)","( 猛攻赋予你额外你 20% 攻击速度, 施法速度, 和移动速度 )"
 "(You can only take one of the three Duelist Ascendancy passives)","( 你只能在决斗者的三个升华职业中选择一个 )"
@@ -206,3 +206,4 @@ Pitfighter,深渊斗士
 "(Primal Aegis calls forth a protective aegis which takes elemental damage from hits for you until depleted. The aegis will be restored to its full value after a short delay if you stop taking elemental damage from hits, or if depleted)",（原能护盾会灵唤一个守护护盾，在消散前抵挡击中造成的元素伤害。该护盾在未受到元素伤害或消散一段时间后会自动回复满值）
 "(Bone Armour applies a buff to you and each of your minions, which will take some of the damage from enemy hits before being depleted. The buff also grants immunity to bleeding. Shares a cooldown with other Guard skills)",（骨制战甲给你和你的每个召唤生物施加一个增益效果，在其耗尽之前替你承受部分敌人的击中伤害。该增益效果还免疫流血。和其它防卫技能共用冷却时间）
 "(Ravenous consumes a targeted corpse, granting you a buff that causes you to deal more damage to, and take less damage from, enemies of the same Monster Category as the corpse)",（贪噬会吞噬一个目标灵柩，使你获得一项增益，在对抗与灵柩怪物类型相同的敌人时能造成更高的伤害，并降低受到该类怪物造成的伤害）
+"(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)",（召唤两个会跟随你移动的触发机器人，它们会冲向你的敌人。你的触发法术在每个触发机器人的位置各触发一次，共两次）

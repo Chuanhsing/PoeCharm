@@ -481,7 +481,7 @@
 "15% chance for your Flasks to not consume Charges","有 15% 几率使用药剂时不消耗充能"
 "15% increased Attack Speed with Wands","法杖攻击的攻击速度加快 15%"
 "30% increased Accuracy Rating with Wands","法杖攻击的命中值提高 30%"
-"10% increased Wand Damage per Power Charge","每个暴击球可使法杖攻击伤害提高 10%"
+"10% increased Wand Damage per Power Charge","每个暴击球使法杖攻击伤害提高 10%"
 "10% chance to gain a Power Charge on Kill","击败敌人时有 10% 的几率获得一个暴击球"
 "12% increased Damage with Wands","法杖攻击的伤害提高 12%"
 "12% increased Damage with Ailments from Attack Skills while wielding a Wand","持法杖时，攻击类技能造成的异常状态伤害提高 12%"
@@ -525,7 +525,7 @@
 "12% increased Damage","伤害提高 12%"
 "Damage with Weapons Penetrates 8% Cold Resistance","武器造成的伤害穿透 8% 冰霜抗性"
 "30% increased Cold Damage with Attack Skills","攻击技能的冰霜伤害提高 30%"
-"4% increased Spell Damage per Power Charge","每个暴击球可使法术伤害提高 4%"
+"4% increased Spell Damage per Power Charge","每个暴击球使法术伤害提高 4%"
 "+1 to Maximum Power Charges","暴击球数量上限 +1"
 "18% increased Power Charge Duration","暴击球的持续时间延长 18%"
 "25% increased Melee Critical Strike Chance","近战攻击暴击率提高 25%"
@@ -1086,7 +1086,7 @@
 "10% reduced Physical Damage taken over time","承受的持续物理伤害效果降低 10%"
 "20% increased Physical Damage","物理伤害提高 20%"
 "+1000 to Accuracy Rating","+1000 命中值"
-"5% increased Damage per Endurance Charge","每个耐力球可使伤害提高 5%"
+"5% increased Damage per Endurance Charge","每个耐力球使伤害提高 5%"
 "15% increased Evasion Rating and Armour","闪避值与护甲提高 15%"
 "20% increased Taunt Duration","嘲讽持续时间延长 20%"
 "You have Fortify",获得护体效果
@@ -1097,7 +1097,7 @@
 "6% reduced Damage taken if you've Taunted an Enemy Recently","近期内你若有成功嘲讽敌人，则受到的伤害降低 6%"
 "Regenerate 2% of Life per second if you've Taunted an Enemy Recently","近期内你若有嘲讽敌人，则每秒回复 2% 生命"
 "Enemies Taunted by you deal 10% less Damage with Hits and",被你嘲讽的敌人攻击其他目标时，造成的击中和
-"Enemies Taunted by you take 20% increased Damage","受到你嘲讽的敌人所受到的伤害提高 20%"
+"Enemies Taunted by you take 20% increased Damage","被你嘲讽的敌人受到的伤害提高 20%"
 "8% increased Impale Effect","穿刺的效果提高 8%"
 "10% increased Warcry Cooldown Recovery Speed","战吼冷却回复速度提高 10%"
 "20% increased Warcry Duration","战吼持续时间延长 20%"
@@ -1288,10 +1288,10 @@
 "20% increased Critical Strike Chance with Mines","地雷暴击率提高 20%"
 "15% chance to gain a Power Charge when your Trap is triggered by an Enemy","有 15% 的几率在敌人触发你的陷阱时获得一个暴击球"
 "15% chance to gain a Power Charge when your Mine is Detonated targeting an Enemy","当你的地雷对敌人爆炸时，有 15% 的机会获得 1 个暴击球"
-"8% increased Damage per Endurance Charge","每个耐力球可使伤害提高 8%"
-"6% increased Area of Effect per Endurance Charge","每个耐力球可使效果区域扩大 6%"
+"8% increased Damage per Endurance Charge","每个耐力球使伤害提高 8%"
+"6% increased Area of Effect per Endurance Charge","每个耐力球使效果区域扩大 6%"
 "25% chance to gain an Endurance Charge when you Stun an Enemy","当你晕眩 1 个敌人时，有 25% 的几率获得 1 个耐力球"
-"10% increased Stun Duration on Enemies per Endurance Charge","每个耐力球可使敌人被晕眩时间延长 10%"
+"10% increased Stun Duration on Enemies per Endurance Charge","每个耐力球使敌人被晕眩时间延长 10%"
 "1% increased Attack Speed per 200 Accuracy Rating","每 200 点命中值可使攻击速度提高 1%"
 "30% increased Accuracy Rating if you've dealt a Critical Strike in the past 8 seconds","若你在过去 8 秒内打出过暴击，则命中值提高 30%"
 "30% increased Damage if you've dealt a Critical Strike in the past 8 seconds","若过去 8 秒内你打出过暴击，则伤害提高 30%"
@@ -1480,7 +1480,7 @@
 "Regenerate 1.5% of Energy Shield per second","每秒回复 1.5% 能量护盾"
 "Auras from your Skills grant 2% increased Attack and Cast",你技能的光环可使你和周围友军的攻击和施法
 "10% chance to Fortify on Melee hit","近战击中时有 10% 几率获得护体效果"
-"Enemies Taunted by you take 10% increased Damage","受到你嘲讽的敌人所受到的伤害提高 10%"
+"Enemies Taunted by you take 10% increased Damage","被你嘲讽的敌人受到的伤害提高 10%"
 "25% chance to Taunt on Hit","击中时有 25% 几率嘲讽敌人"
 "20% chance to Impale Enemies on Hit with Attacks","攻击击中时有 20% 几率穿刺敌人"
 "You and nearby Allies have 8% increased Movement Speed","你和周围友军的移动速度提高 8%"
@@ -1592,13 +1592,13 @@
 "12% increased Damage with Hits and Ailments against Blinded Enemies","对致盲的敌人的击中和异常状态伤害提高 12%"
 "25% increased Critical Strike Chance against Blinded Enemies","对致盲敌人的暴击率提高 25%"
 "40% increased Critical Strike Chance against Blinded Enemies","对致盲的敌人时，攻击和法术暴击率提高 40%"
-"2% increased Movement Speed per Frenzy Charge","每个狂怒球可使移动速度加快 2%"
+"2% increased Movement Speed per Frenzy Charge","每个狂怒球使移动速度加快 2%"
 "5% increased Evasion Rating per Frenzy Charge","每个狂怒球提高 5% 闪避值"
-"2% increased Attack Speed per Frenzy Charge","每个狂怒球可使攻击速度加快 2%"
+"2% increased Attack Speed per Frenzy Charge","每个狂怒球使攻击速度加快 2%"
 "+1 to Minimum Frenzy Charges","狂怒球数量下限 +1"
 "5% chance to gain a Frenzy Charge on Kill","击败敌人有 5% 几率获得狂怒球"
-"5% increased Stun Duration on Enemies per Endurance Charge","每个耐力球可使敌人被晕眩时间延长 5%"
-"3% increased Area of Effect per Endurance Charge","每个耐力球可使效果区域扩大 3%"
+"5% increased Stun Duration on Enemies per Endurance Charge","每个耐力球使敌人被晕眩时间延长 5%"
+"3% increased Area of Effect per Endurance Charge","每个耐力球使效果区域扩大 3%"
 "+1 to Minimum Endurance Charges","耐力球数量下限 +1"
 "5% chance to gain an Endurance Charge on Kill","击败敌人有 5% 的几率时获得耐力球"
 "14% increased Projectile Attack Damage","投射物的攻击伤害提高 14%"
@@ -1968,7 +1968,7 @@
 "Warcries Sacrifice 10 Rage if you have at least 25 Rage\nExerted Attacks deal 50% more Damage if a Warcry Sacrificed Rage Recently","若你至少有 25 点怒火，战吼献祭 10点怒火\n若战吼在近期内献祭过怒火，则增助攻击的伤害总增 50%"
 "30% increased Attack Speed if you've been Hit Recently","若你近期内被击中，则攻击速度提高 30%"
 "Adds 20 to 30 Physical Damage to Attacks if you've\ndealt a Critical Strike Recently","近期内若造成暴击\n则给攻击附加 20 - 30 物理伤害"
-"8% reduced Critical Strike Chance per Blitz Charge","每个疾电球可使暴击率降低 8%"
+"8% reduced Critical Strike Chance per Blitz Charge","每个疾电球使暴击率降低 8%"
 "15% of Physical Damage from Hits taken as Fire Damage","受到击中物理伤害的 15% 转化为火焰伤害"
 "2% of Damage dealt by your Totems is Leeched to you as Life","你偷取生命，数值等同于你的图腾造成伤害的 2%"
 "100% increased Effect of Buffs granted by your Active Ancestor Totems","激活的先祖图腾使增益效果提高 100%"
@@ -1976,9 +1976,9 @@
 "15% more Damage if you've lost an Endurance Charge in the past 8 seconds","若你在过去 8 秒内失去过耐力球，则伤害总增 15%"
 "Gain 1 Endurance Charge every second if you've used a Warcry Recently","若你近期内使用过战吼，每秒获得 1 个耐力球"
 "15% increased Frenzy Charge Duration","狂怒球持续时间延长 15%"
-"10% increased Attack Damage per Frenzy Charge","每个狂怒球可使攻击伤害提高 10%"
-"4% increased Movement Speed per Frenzy Charge","每个狂怒球可使移动速度加快 4%"
-"4% increased Attack Speed per Frenzy Charge","每个狂怒球可使攻击速度加快 4%"
+"10% increased Attack Damage per Frenzy Charge","每个狂怒球使攻击伤害提高 10%"
+"4% increased Movement Speed per Frenzy Charge","每个狂怒球使移动速度加快 4%"
+"4% increased Attack Speed per Frenzy Charge","每个狂怒球使攻击速度加快 4%"
 "10% increased Evasion Rating per Frenzy Charge","每个狂怒球提高 10% 闪避值"
 "50% increased Onslaught Effect","【猛攻】效果提高 50%"
 "35% more chance to Evade Melee Attacks during Onslaught","【猛攻】状态下闪避近战攻击的几率总增 35%"
@@ -2007,7 +2007,7 @@
 "Cursed Enemies you or your Minions Kill have a 40% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","你或你的召唤生物击败的受诅咒敌人有 40% 的几率爆炸，造成等同该敌人最大生命四分之一的混沌伤害"
 "Regenerate 2% of Energy Shield per second for each\nEnemy you or your Minions have Killed Recently, up to 10% per second","近期内，你或你的召唤生物每击败一个敌人\n则每秒回复你 2% 能量护盾，每秒最多 10%"
 "6% increased Area of Effect per Power Charge","每个暴击球使效果区域扩大 6%"
-"6% increased Damage per Power Charge","每个暴击球可使伤害提高 6%"
+"6% increased Damage per Power Charge","每个暴击球使伤害提高 6%"
 "15% more Chaos Damage","总混沌伤害总增 15%"
 "15% more Cold Damage","总冰霜伤害总增 15%"
 "Summoned Golems are Resummoned 4 seconds after being Killed","召唤的魔像被击败 4 秒后会被重新召唤"
@@ -2058,8 +2058,8 @@
 "You and nearby Allies deal 6 to 12 added Physical Damage for",敌人身上每有一层穿刺效果，
 "each Impale on Enemy",则你和周围友军攻击附加6至12物理伤害
 "+10% to Global Critical Strike Multiplier","+10% 攻击和法术暴击伤害加成"
-"1% increased Critical Strike Chance per point of Strength or Intelligence, whichever is lower","在力量和智慧中取低的那一个，每一点都使暴击率提高 1%"
-"Consecrated Ground you create applies 15% increased Damage taken to Enemies","你创造的【奉献地面】可以使敌人受到的伤害提高 15%"
+"1% increased Critical Strike Chance per point of Strength or Intelligence, whichever is lower","取力量和智慧之间的较低者，每 1 点可使暴击率提高 1%"
+"Consecrated Ground you create applies 15% increased Damage taken to Enemies","你创造的奉献地面可以使敌人受到的伤害提高 15%"
 "Consecrated Ground you create grants Immunity to Elemental Ailments\nto you and Allies","你创造的奉献地面会使你与友军\n免疫元素异常状态"
 "Consecrated Ground you create causes Life Regeneration to\nalso Recover Energy Shield for you and Allies",你产生的奉献地面使你和友军再生生命的同时回复能量护盾
 "+4 to Maximum Fanatic Charges","狂热球数量上限 +4"
@@ -2128,7 +2128,7 @@
 "25% chance to Blind Enemies on Hit with Attacks","攻击击中有 25% 的几率致盲敌人"
 "50% chance to Fortify on Melee hit","近战击中时有 50% 的几率获得护体效果"
 "15% increased effect of Non-Curse Auras from your Skills","你技能的非诅咒类光环效果提高 15%"
-"10% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds","你击中稀有或传奇敌人时，有 10% 的几率创造【奉献地面】，持续 8 秒"
+"10% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds","你击中稀有或传奇敌人时，有 10% 的几率创造奉献地面，持续 8 秒"
 "25% increased Effect of Arcane Surge on you","你身上的秘术增强效果提高 25%"
 "Every 4 seconds, Regenerate 20% of Life over one second","每隔 4 秒便在一秒内再生 20% 生命"
 "10% chance to gain Elusive on Critical Strike","暴击时有 10% 的几率获得【灵巧】"
@@ -2196,7 +2196,7 @@
 "Impale Damage dealt to Enemies Impaled by you Overwhelms 5% Physical Damage Reduction","你对已穿刺的敌人造成的穿刺伤害压制 5% 物理伤害减免"
 "20% of Physical Damage Converted to Fire Damage","20% 的物理伤害转换为火焰伤害"
 "8% chance to gain a Frenzy Charge on Kill","击败敌人时有 8% 的几率获得一个狂怒球"
-"8% increased Damage per Frenzy Charge","每个狂怒球可使伤害提高 8%"
+"8% increased Damage per Frenzy Charge","每个狂怒球使伤害提高 8%"
 "8% chance to gain an Endurance Charge on Kill","击败敌人有 8% 的几率时获得耐力球"
 "14% increased Projectile Damage","投射物伤害提高 14%"
 "Projectiles gain Damage as they travel farther, dealing up\nto 40% increased Damage with Hits to targets","投射物的伤害随着飞行距离提升，\n击中目标时最多提高 40%"
@@ -2237,7 +2237,7 @@
 "10% increased Elemental Damage with Staves","长杖攻击的元素伤害提高 10%"
 "10% increased Effect of Arcane Surge on you per\n200 Mana spent Recently, up to 50%","最近你每消耗 200 点魔力\n你身上的秘术增强效果提高 10%，最多 50%"
 "8% chance to gain a Power Charge on Kill","击败敌人时有 8% 的几率获得一个暴击球"
-"8% increased Damage per Power Charge","每个暴击球可使伤害提高 8%"
+"8% increased Damage per Power Charge","每个暴击球使伤害提高 8%"
 "5% increased Flask Charges gained","药剂充能获取提高 5%"
 "20% increased Minion Duration","召唤生物持续时间延长 20%"
 "Minions deal 30% increased Damage if you've used a Minion Skill Recently","若你近期内使用了召唤生物技能，则召唤生物的伤害提高 30%"
@@ -2369,7 +2369,7 @@
 "50% increased Maximum total Life Recovery per second from Leech while you have Defiance","抗争状态下，偷取的每秒最大生命总恢复量提高 50%"
 "At 10 Defiance, take Reflected Physical Damage equal to maximum Life, then lose all Defiance","抗争达到 10 层时，承受等于最大生命的反射物理伤害，并失去所有抗争效果"
 "50% increased Global Critical Strike Chance","攻击和法术暴击率提高 50%"
-"Adds 20 to 30 Physical Damage if you've dealt a Critical Strike Recently","若你近期内造成暴击，则附加 20 to 30 点物理伤害"
+"Adds 20 to 30 Physical Damage if you've dealt a Critical Strike Recently","若你近期内造成过暴击，则附加 20 to 30 点物理伤害"
 "100% increased Effect of Buffs your Ancestor Totems grant while Active","先祖图腾激活后，它们提供的增益效果提高 100%"
 "50% chance to Avoid Elemental Ailments while Phasing","迷踪状态下有 50% 的几率避免元素异常状态"
 "Poisons you inflict during any Flask Effect have 20% chance to deal 100% more Damage","在药剂生效期间，你造成的中毒效果有 20% 的几率伤害总增 100%"
@@ -2731,7 +2731,7 @@
 "+10% to maximum Chance to Block Attack Damage","+10% 攻击伤害格挡几率上限"
 "+10 to Armour and Evasion Rating per 1% Chance to Block Attack Damage","护甲值和闪避值按照每 1% 攻击伤害格挡率+10"
 "10% increased Damage with Attack Skills while Fortified","攻击技能的伤害在护体状态下提高 10%"
-"You have 20 Fortification","你有 20 层护身"
+"You have 20 Fortification","你有 20 层护体"
 "20% increased Attack Speed while Fortified","攻击速度在护体时加快 20%"
 "+500 to Armour and Evasion Rating while Fortified","护甲值和闪避值在护体状态下 +500"
 "+10% to Critical Strike Multiplier","+10% 攻击和法术暴击伤害加成"
@@ -2756,7 +2756,7 @@
 "12% increased Trap Throwing Speed","陷阱投掷速度加快 12%"
 "60% increased Mine Duration","地雷持续时间延长 60%"
 "12% increased Mine Throwing Speed","地雷投掷速度加快 12%"
-"Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes","在过去 8 秒内造成暴击的技能造成的击中和异常状态伤害总增 40%\n你的暴击不造成额外伤害\n暴击造成的异常状态不在其内"
+"Skills that have dealt a Critical Strike in the past 8 seconds deal 40% more Elemental Damage with Hits and Ailments\nYour Critical Strikes do not deal extra Damage\nAilments never count as being from Critical Strikes","若在过去 8 秒内你造成暴击的技能造成的击中和异常状态伤害总增 40%\n你的暴击不造成额外伤害\n暴击造成的异常状态不在其内"
 "Gain 4% of Physical Damage as Extra Cold Damage","获得额外冰霜伤害， 其数值等同于物理伤害的 4%"
 "Gain 10% of Physical Damage as Extra Cold Damage","获得额外冰霜伤害， 其数值等同于物理伤害的 10%"
 "25% increased Elemental Damage with Attack Skills","攻击技能的元素伤害提高 25%"
@@ -3057,7 +3057,7 @@ Phasing,迷踪
 "Your Counterattacks deal Double Damage",你的反击造成双倍伤害
 "Gain a Challenger Charge when you Kill an Enemy while in Sand Stance",在沙姿态下击败敌人时，会获得一个挑战球
 "Cannot be Stunned while Fortified",在护体状态下不能被眩晕
-"Enemies Taunted by you cannot Evade Attacks",被你嘲讽的敌人无法躲避攻击
+"Enemies Taunted by you cannot Evade Attacks",被你嘲讽的敌人无法闪避攻击
 "Banner Skills have no Reservation",旗帜技能没有保留效果
 "Remove all Ailments and Burning when you gain Adrenaline",你获得【肾上腺素】时移除所有异常状态和燃烧状态
 "Your Hits permanently Intimidate Enemies that are on Full Life",击中满血敌人时，将使他们永久受到威吓
@@ -3244,10 +3244,10 @@ Battlemage,战斗法师
 "Attack Projectiles Return to you",攻击投射物返回你身边
 "16% increased Fire Damage with Attack Skills","攻击技能的火焰伤害提高 16%"
 "Recoup 25% of Damage Taken by your Totems as Life","将图腾所受伤害的 25% 吸纳为生命"
-"Totems Regenerate 1 Life per second per 4 of your Life Recovery per second from Regeneration","生命每秒回复 4，图腾生命每秒再生 1 点"
+"Totems Regenerate 1 Life per second per 4 of your Life Recovery per second from Regeneration","每 4 点的每秒生命再生使你的图腾获得 1 点的每秒生命再生"
 "Totems Taunt Enemies around them for 4 seconds when Summoned","图腾被召唤时嘲讽周围敌人 4 秒"
 "Non-Unique Jewels cause Small and Notable Passive Skills in a Large Radius to\nalso grant +3 to Strength","非传奇珠宝使大范围内的小型和核心天赋\n同时提供 +3 力量"
-"Non-Unique Jewels cause Increases and Reductions to other Damage Types in a Large Radius to be Transformed to apply to Fire Damage",非传奇珠宝使大范围内其他伤害类型的增幅和减益转换为作用于火焰伤害
+"Non-Unique Jewels cause Increases and Reductions to other Damage Types in a Large Radius to be Transformed to apply to Fire Damage",非传奇珠宝使大范围内其他伤害类型的提高和降低转换为作用于火焰伤害
 "Enemies you Kill have 5% chance to Explode, dealing 500% of their maximum Life as Fire Damage","被你击败的敌人有 5% 的几率爆炸，造成其生命上限 500% 的火焰伤害"
 "Modifiers to Fire Resistance also apply to Cold and Lightning Resistances at 50% of their Value","火焰抗性修正的 50% 也作用于冰霜和闪电抗性"
 "Skills from Equipped Body Armour are Supported by Level 20 Fist of War","装备身体护甲的技能受 20 级的战争铁拳辅助"
@@ -3329,3 +3329,10 @@ Battlemage,战斗法师
 "Your Warcries open Chests",你的战吼能打开箱子
 "Your Warcries attempt to shake extra items from Corpses",你的战吼会尝试从灵柩中震出额外物品
 "10% increased Quantity of Primal Wisps found in the Viridian Wildwood","在维里迪安荒林中找到的原始鬼灵数量提高 10%"
+"Action Speed cannot be modified to below Base Value",你的行动速度无法被减速至基础以下
+"Movement Speed cannot be modified to below Base Value",你的移动速度加成不会让你减速至基础速度以下
+"Minions deal 10% more Damage","召唤生物造成的伤害总增 10%"
+"1% of Damage Dealt by your Minions is Leeched to you as Life","召唤生物造成伤害的 1% 转化为你的生命偷取"
+"Minions gain 40% of Maximum Life as Extra Maximum Energy Shield","召唤生物获得等同 40% 最大生命的额外能量护盾"
+"100% increased Critical Strike Chance against Enemies that are on Full Life","对满血敌人的暴击几率提高 100%"
+"Warcries no longer Exert Attacks\nWarcries also grant their buffs to nearby allies","战吼不再增助攻击\n战吼还会为附近的友军提供增益"
