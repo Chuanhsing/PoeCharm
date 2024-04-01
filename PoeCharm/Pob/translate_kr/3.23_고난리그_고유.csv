@@ -1,0 +1,55 @@
+"Gamblesprint","도박질주"
+"Ixchel's Temptation","익스첼의 유혹"
+"Nametaker","이름강탈자"
+"Pragmatism","실용주의"
+"Replica Badge of the Brotherhood","형제단의 증표 모조품"
+"Replica Covenant","계약 모조품"
+"Replica Fragility","허약 모조품"
+"Replica Heatshiver","열기와 오한 모조품"
+"Replica Hinekora's Sight","히네코라의 통찰력 모조품"
+"Replica Hyrri's Ire","하이리의 노여움 모조품"
+"Replica Pacifism","평화주의 모조품"
+"Replica Powerlessness","무력함 모조품"
+"Replica Witchfire Brew","불타는 마녀의 술 모조품"
+"That Which Was Taken","빼앗긴 것"
+"The Adorned","치장한 자"
+"The Burden of Shadows","그림자의 짐"
+"The Flawed Refuge","결함 있는 피난처"
+"The Trickster's Smile","협잡꾼의 미소"
+"The Untouched Soul","손길이 닿지 않은 영혼"
+
+"Turquoise Amulet","터키석 목걸이"
+"Graceful Sword","우아한 검"
+
+"When Hit, gain a random Movement Speed modifier from 40% reduced to 100% increased until Hit again","피격 시 다시 피격당할 때까지 무작위 이동 속도 속성(40% 감소~100% 증가) 획득"
+"Maximum Quality is {0}%","최대 퀄리티 {0}%"
+"Hits with this Weapon have +10% to Critical Strike Multiplier per Enemy Power","이 무기로 적 명중 시 적의 권능 충전 하나당 치명타 피해 배율 +{0}%"
+"{0}% of Leech from Hits with this Weapon is Instant per Enemy Power","이 무기로 적 명중 시 적의 권능 충전 하나당 흡수의 {0}%가 즉시 적용"
+"-2 to Level of Socketed Skill Gems per Socketed Gem","장착된 젬 하나당 장착된 스킬 젬 레벨 -2"
+"+1 to Maximum Fortification per Endurance Charge","인내 충전 하나당 방어 상승 최대치 +1"
+"(20-25)% chance to lose an Endurance Charge when you gain Fortification","방어 상승 획득 시 (20–25)%의 확률로 인내 충전 상실"
+"Skills gain a Base Energy Shield Cost equal to 200% of Base Mana Cost","스킬이 기본 마나 소모의 200%와 동일한 기본 에너지 보호막 소모를 얻음"
+"When an Enemy Hit deals Elemental Damage to you, their Resistance to those Elements becomes zero for 4 seconds","적에게 피격되어 원소 피해를 받는 경우, 그 적의 해당 원소 저항이 4초 동안 0이 됨"
+"{0} to maximum Life for each Empty Red Socket on any Equipped Item","장착 중인 모든 아이템의 빈 빨간색 홈 하나당 생명력 최대치 {0}"
+"{0} to Accuracy Rating for each Empty Green Socket on any Equipped Item","장착 중인 모든 아이템의 빈 초록색 홈 하나당 정확도 {0}"
+"{0} to maximum Mana for each Empty Blue Socket on any Equipped Item","장착 중인 모든 아이템의 빈 파란색 홈 하나당 마나 최대치 {0}"
+"{0}% to all Elemental Resistances for each Empty White Socket on any Equipped Item","장착 중인 모든 아이템의 빈 하얀색 홈 하나당 모든 원소 저항 {0}%"
+
+"{0}% increased Effect of Jewel Socket Passive Skills containing","주얼 슬롯의 패시브 스킬 효과 {0}% 증가"
+"Corrupted Magic Jewels, if not from Cluster Jewels","스킬 군 주얼이 아닐 경우 타락한 마법 주얼을 장착한"
+
+"{0}% increased Effect of Jewel Socket Passive Skills containing Corrupted Magic Jewels, if not from Cluster Jewels","스킬 군 주얼이 아닐 경우 타락한 마법 주얼을 장착한 주얼 슬롯의 패시브 스킬 효과 {0}% 증가"
+
+"Lose an Endurance Charge each second","1초마다 인내 충전 1개 상실"
+"Gain 1% of Lightning Damage as Extra Cold Damage per 2% Shock Effect on Enemy","적에게 유발된 감전 효과 2%당 번개 피해의 1%를 추가 냉기 피해로 획득"
+"Lose a Frenzy Charge each second","1초마다 격분 충전 1개 상실"
+"Lose a Power Charge each second","1초마다 권능 충전 1개 상실"
+"Grants Level 21 Vulnerability Curse Aura during Effect","효과를 받는 동안 21레벨 취약성 저주 오라 적용"
+
+"Spells deal added Chaos Damage equal to {0}% of your maximum Life","주문이 생명력 최대치의 {0}%와 동일한 추가 카오스 피해를 줌"
+
+"You take 100% of Elemental Damage from Blocked Hits","피격을 막아낼 시 원소 피해의 100%를 받음"
+"40% of Elemental Damage from Hits taken as Physical Damage","피격 시 원소 피해의 40%를 물리 피해로 받음"
+
+
+
