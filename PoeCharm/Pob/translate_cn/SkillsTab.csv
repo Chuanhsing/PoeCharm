@@ -14,6 +14,7 @@ Full DPS,最终总和DPS
 Combined DPS,结合DPS
 Hit DPS,击中DPS
 Average Hit,平均击中
+Effective Hit Pool,击中伤有效生命值
 Skill set:,技能集:
 Usage Tips:,使用技巧:
 You can copy/paste socket groups using Ctrl+C and Ctrl+V.,你可以使用Ctrl+C和Ctrl+V复制/粘贴插槽组。
@@ -40,3 +41,4 @@ will automatically apply to the skill.,将自动应用于技能。
 Gem name:,技能宝石名称:
 Variant:,变种:
 "Note: `count` integer value scales the DPS of associated skill by a scalar.","注意:'倍率'整数值将关联技能的DPS按标量进行倍增。"
+Manage Skill Sets,管理技能集
