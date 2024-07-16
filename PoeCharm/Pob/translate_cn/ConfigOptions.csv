@@ -102,7 +102,7 @@ This option allows you to override the default calculation for the number of Emp
 # of Empty White Sockets,空白色插槽数量
 This option allows you to override the default calculation for the number of Empty White Sockets.,此选项允许你覆盖空白色插槽数量的默认计算。
 
-"Crit Damage",暴击伤害
+Skill Options,技能选项
 "Aspect of the Avian:",【鸟之势】:
 "Is Avian's Might active?",【鸟之力量】激活状态?
 "Is Avian's Flight active?",【鸟之斗魄】激活状态?
@@ -365,7 +365,7 @@ This will enable the Chaotic Might buff on your minions.,这将为你的召唤�
 Do you have Phasing?,你有【迷踪】?
 Are you Fortified?,你有【护体】?
 # of Fortification Stacks (if not maximum):,【护体】层数（若非最大值）
-You have 1% less damage taken from hits per stack of fortification:,每层护体使你受到的击中伤害总降1%
+You have 1% less damage taken from hits per stack of fortification:,每层护体使你承受的击中伤害总降1%
 Has a default cap of 20 stacks.,默认层数上限为20。
 Do you have Tailwind?,你有【提速尾流】?
 "In addition to allowing any 'while you have Tailwind' modifiers to apply,","启用时 '当你处于【提速尾流】' 之类的修正生效,"
@@ -701,12 +701,12 @@ This applies -10% Cold Resistance to the enemy.,^xFFFFFF这使得敌人的^x3F6D
 Is the enemy Exposed to Lightning?,^xFFFFFF敌人是否^xADAA47【闪电暴露】^7?
 This applies -10% Lightning Resistance to the enemy.,^xFFFFFF这使得敌人的^xADAA47闪电^7抗性-10%。
 Is the enemy Intimidated?,敌人是否被【威吓】?
-Intimidated enemies take 10% increased Attack Damage.,被【威吓】的敌人受到的攻击伤害提高10%。
+Intimidated enemies take 10% increased Attack Damage.,被【威吓】的敌人承受的攻击伤害提高10%。
 Is the enemy Crushed?,敌人是否被【碾压】?
 Crushed enemies have 15% reduced Physical Damage Reduction.,被【碾压】的敌人的物理减伤减少15%。
 Is the enemy near you Linked target?,敌人是否靠近你的羁绊对象?
 Is the enemy Unnerved?,敌人是否被【恐惧】?
-Unnerved enemies take 10% increased Spell Damage.,被【恐惧】的敌人受到的法术伤害提高10%。
+Unnerved enemies take 10% increased Spell Damage.,被【恐惧】的敌人承受的法术伤害提高10%。
 Is the enemy covered in Ash?,敌人是否【灰烬缠身】?
 Covered in Ash applies the following to the enemy:,【灰烬缠身】使得敌人受到以下影响:
 	20% increased Fire Damage taken,	^7承受的^xB97123火焰^7伤害提高20%

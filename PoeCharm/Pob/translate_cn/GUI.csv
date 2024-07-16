@@ -1,5 +1,5 @@
-"Current build","当前 BD"
-"<< Back","<< 返回"
+
+
 "<No active skills>",<没有主动技能>
 
 "Update Ready",更新已就绪
@@ -103,7 +103,7 @@ Label:,标签:
 Player:,玩家:
 Search:,搜索:
 
-"Skill Options",技能选项
+
 "Socket Groups:",插槽组:
 
 
@@ -151,7 +151,7 @@ Bandit:,盗贼:
 "Oak (Life Regen, Phys.Dmg. Reduction, Phys.Dmg)","欧克(命秒回,物理伤害减免,物理伤害)"
 "Kraityn (Attack/Cast Speed, Attack Dodge, Move Speed)","克雷顿(攻击/施法速度,躲避机率,移动速度)"
 "Alira (Mana Regen, Crit Multiplier, Resists)","阿莉亚(魔秒回,暴击伤害,全抗)"
-"Main Skill:",主技能:
+
 "Shaper Item",塑界者物品
 "Elder Item",裂界者物品
 Corrupted,已污染
@@ -264,109 +264,8 @@ Add,添加
 "<No spectres in build>","<BD 中没有灵体>"
 "Spectres in Build:","BD 中的灵体:"
 Resistance:,抗性:
-"Active Minion Limit:",最大召唤物数量:
-"Average Hit:",平均击中:
-"Average Damage:",平均伤害:
-"Attack Rate:",攻击速率:
-"Cast Rate:",施法速率:
-"Hit Rate:",击中速率
-"Trap Throwing Time:",陷阱投郑间隔:
-"Trap Cooldown:",陷阱冷却:
-"Totem Placement Time:",图腾放置间隔:
-"Crit Chance:",暴击率:
-"Effective Crit Chance:",有效暴击率:
-"Effective Crit Chance",有效暴击率
-"Crit Multiplier:",暴击伤害:
-"Hit Chance:",命中率:
-Hit DPS:,击中 DPS:
-"Total DPS:","总 DPS:"
-"DoT DPS:","持续伤 DPS:"
-"Bleed DPS:","流血 DPS:"
-"Total Damage per Ignite:",每次点燃总伤害:
-"Total DPS inc. Ignite:","总+点燃 DPS"
-"Average Dmg. inc. Ignite:","总+点燃平均伤害"
-"Poison DPS:","中毒 DPS:"
-"Total Damage per Poison:","每次中毒总伤害"
-"Total DPS inc. Poison:","总+中毒 DPS"
-"Average Dmg. inc. Poison:","总+中毒平均伤害"
 
-"Total DoT DPS:","总持续 DPS:"
-"Impale Damage:","穿刺伤害:"
-"Damage inc. Impale:","总+穿刺伤害:"
-"Impale DPS:","穿刺 DPS:"
-"Total DPS inc. Impale:","总+穿刺 DPS:"
-"Total Mirage DPS:","总幻影 DPS:"
-"Culling DPS:","终结 DPS:"
-"Combined DPS:","结合 DPS:"
-"Combined Total Damage:","结合总伤害:"
-"Skill Cooldown:",技能冷却:
-Seal Gain Frequency:,封印获得速率:
-Max Number of Seals:,最大封印层数:
-Time to Gain Max Seals:,获得最大封印层数耗时:
-"AoE Radius:","范围效果半径:"
-"Mana Cost:",魔力消耗:
-Mana Cost per second:,魔力每秒消耗:
-"Life Cost:",生命消耗:
-"Energy Shield Cost:",能量护盾消耗:
-"Rage Cost:",怒火消耗:
-Strength:,力量:
-"Strength Required:",力量需求:
-Dexterity:,敏捷:
-"Dexterity Required:",敏捷需求:
-Intelligence:,智慧:
-"Intelligence Required:",智慧需求:
-"Omniscience:",全知:
-"Omniscience Required:",全知需求:
 
-Phys Max Hit:,物理击中最大承受值:
-Elemental Max Hit:,元素击中最大承受值:
-Fire Max Hit:,火焰击中最大承受值:
-Cold Max Hit:,冰霜击中最大承受值:
-Lightning Max Hit:,闪电击中最大承受值:
-Chaos Max Hit:,混沌击中最大承受值:
-
-"Eff. Maximum Hit Taken:",有效最大击中伤承受值:
-"Total Life:",最大生命:
-"%Inc Life from Tree:",生命加成(天赋):
-"Unreserved Life:",未保留生命:
-Life Recoverable:,可恢复生命:
-"Life Regen:",生命再生:
-"Life Leech/On Hit Rate:",生命偷取(击中速率):
-"Life Leech/Gain per Hit:",生命偷取(击中获得):
-"Total Mana:",最大魔力:
-"%Inc Mana from Tree:",魔力加成(天赋):
-"Unreserved Mana:",未保留魔力:
-"Mana Regen:",魔力再生:
-"Mana Leech/On Hit Rate:",魔力偷取(击中速率)
-"Mana Leech/Gain per Hit:",魔力偷取(击中获得)
-"Energy Shield:",能量护盾:
-Recoverable ES:,可恢复能量护盾:
-"%Inc ES from Tree:","能量护盾加成(天赋):"
-"Energy Shield Regen:",能量护盾回复:
-"ES Leech/On Hit Rate:","能量护盾偷取(击中速率)"
-"ES Leech/Gain per Hit:","能量护盾偷取(击中获得)"
-"Evasion rating:",闪避值:
-"%Inc Evasion from Tree:",闪避加成(天赋):
-"Evade Chance:",闪避几率:
-"Melee Evade Chance:",近战闪避几率:
-"Projectile Evade Chance:",投射物闪避几率:
-Armour:,护甲:
-"%Inc Armour from Tree:",护甲加成(天赋):
-"Phys. Damage Reduction:",物理伤害减免:
-"Movement Speed Modifier:",移动速度加成:
-"Block Chance:",攻击格挡几率:
-"Spell Block Chance:",法术格挡几率:
-"Attack Dodge Chance:",攻击躲避几率:
-"Spell Dodge Chance:",法术躲避几率:
-"Fire Resistance:",火焰抗性:
-"Cold Resistance:",冰霜抗性:
-"Lightning Resistance:",闪电抗性:
-"Chaos Resistance:",混沌抗性:
-"Fire Res. Over Max:",火焰抗性(溢出):
-"Cold Res. Over Max:",冰霜抗性(溢出):
-"Lightning Res. Over Max:",闪电抗性(溢出):
-"Chaos Res. Over Max:",混沌抗性(溢出):
-"DPS inc. Poison:","提高 DPS(中毒):"
 "<No skills added yet>:",<未添加任何技能>
 "{0} points to node","{0} 点天赋点到这里"
 "Tip: Press Ctrl+D to disable the display of stat differences.","提示: 可使用 Ctrl+D 关闭差异统计."
@@ -492,10 +391,10 @@ Phantasmal,魅影
 "Corruptor Eedaiak",腐化者艾达尔克
 "Sumter the Twisted",桑特
 "Ancient Architect",古代建筑师
-"Full DPS:",最终总和DPS:
-"Total DPS inc. DoT:","总+持续伤DPS :"
-"Spell Suppression Chance:",法术压制几率:
-Caustic Ground DPS:,腐蚀地面DPS:
-Burning Ground DPS:,燃烧地面DPS:
+
+
+
+
+
 "Get Currency Conversion Rates",获取通货转换率
 "Currency Rates are very recent",通货率是最新的

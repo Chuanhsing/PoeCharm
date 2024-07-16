@@ -82,7 +82,7 @@ Resistance,抗性
 "Trap Cooldown",陷阱冷却
 "Totem Placement Time",图腾放置间隔
 "Hit Chance",命中率
-"Total DPS","总 DPS"
+
 "DoT DPS","持续伤 DPS"
 "Bleed DPS","流血 DPS"
 "Ignite DPS","点燃 DPS"
@@ -111,6 +111,7 @@ Resistance,抗性
 "Mana Leech/Gain per Hit",魔力偷取(击中获得)
 "%Inc ES from Tree","ES 加成(天赋)"
 "Energy Shield Regen",能量护盾再生
+"Energy Shield Regen:",能量护盾回复:
 "Energy Shield Recharge",能量护盾回复
 "ES Leech/On Hit Rate","ES 偷取(击中速率)"
 "ES Leech/Gain per Hit","ES 偷取(击中获得)"
@@ -127,7 +128,7 @@ Resistance,抗性
 "Cold Res. Over Max",冰霜抗性(溢出)
 "Lightning Res. Over Max",闪电抗性(溢出)
 "Chaos Res. Over Max",混沌抗性(溢出)
-"DPS inc. Poison","提高 DPS(中毒)"
+
 Speed,速度
 "{0} (base throwing speed)","{0} (基础投射物速度)"
 "{0} (increased/reduced throwing speed)","{0} (提高/降低 投射物速度)"
@@ -207,3 +208,4 @@ Conversion,转换
 Cannot pierce,无法穿透
 Cannot fork,无法分叉
 Cannot chain,无法连锁
+"Eff. Maximum Hit Taken:",有效最大击中伤承受值:
