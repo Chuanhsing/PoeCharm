@@ -370,7 +370,7 @@ Are you on Consecrated Ground?,你在【奉献地面】上?
 Consecrated Ground grants 5% Life Regeneration to players and allies.,^xFFFFFF【奉献地面】使在上面的玩家和友军获得每秒6%^xE05030生命^7回复。
 Are you on Caustic Ground?,你在【腐蚀地面】上?
 Are you on Fungal Ground?,你在【真菌地表】上?
-Allies on your Fungal Ground gain 10% of Non-Chaos Damage as extra Chaos Damage.,^xFFFFFF【真菌地表】上的友军获得10%非混沌伤害的额外^xD02090混沌^7伤害。
+Allies on your Fungal Ground gain +25% ^xD02090Chaos ^7Resistance.,^xFFFFFF【真菌地表】上的友军获得+25%^xD02090混沌^7抗性。
 Are you on Burning Ground?,^xFFFFFF你在【^xB97123燃烧^7地面】上?
 This also implies that you are Burning.,^xFFFFFF这也意味着你在^xB97123燃烧^7。
 Are you on Chilled Ground?,^xFFFFFF你在【^x3F6DB3冰缓^7地面】上?
@@ -507,8 +507,12 @@ Have you used a Warcry Recently?,你近期有使用战吼?
 Used a Warcry in the past 8 seconds?,过去8秒内有使用战吼?
 # of seconds Affected by a Warcry Buff:,受到战吼增益时长:
 "# of Mines Detonated Recently:","近期引爆地雷数:"
+# of Mines per throw:,每次投掷地雷数:
+This will override the number of Mines per throw,这将覆盖原本的每次投掷地雷数
 "# of Traps Triggered Recently:","近期触发陷阱数:"
-Have you thrown a Trap or Mine Recently?,近期有投掷陷阱或地雷?
+Have you thrown a Trap or Mine Recently?,你近期有投掷陷阱或地雷?
+# of Traps per throw:,每次投掷陷阱数:
+This will override the number of Traps per throw,这将覆盖原本的每次投掷陷阱数
 Have you Cursed an enemy Recently?,你近期有诅咒敌人?
 Have you cast a Mark Spell Recently?,你近期有施放咒印?
 Spawned a corpse Recently?,近期有产生灵柩?
@@ -683,11 +687,11 @@ Is the enemy on Consecrated Ground?,敌人是否在【奉献地面】上?
 Does the enemy have Energy Shield?,^7敌人有^x88FFFF能量护盾^7?
 Is the enemy on Profane Ground?,敌人是否在【渎神地面】上?
 Enemies on Profane Ground receive the following modifiers:,【渎神地面】使得敌人受到以下修正:
-	-10% to all Resistances,	全元素抗性-10%
+	10% increased Effect of Curses,	对其的诅咒效果提高10%
 	100% increased chance to be Critically Hit,	对其的暴击率提高100%
 # of Grasping Vines affecting enemy:,敌人所受【缓速蔓藤】数:
 Is the enemy on Fungal Ground?,敌人是否在【真菌地表】上?
-Enemies on your Fungal Ground deal 10% less Damage.,【真菌地表】上的敌人造成的伤害总降10%
+Enemies on your Fungal Ground have -10% Chaos Resistance.,^7你所创造【真菌地表】上的敌人-10%^xD02090混沌^7抗性。
 Is the enemy in a Chilling area?,^7敌人是否在【冰缓地面】上?
 Is the enemy in the Frost Shield area?,敌人是否在【寒霜护盾】范围内?
 Enemy was Hit by Fire Damage?,^xFFFFFF敌人曾被^xB97123火焰^7伤害击中?
