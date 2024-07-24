@@ -12,10 +12,10 @@ PvP Average Damage:,PvP平均伤害:
 "Cast Rate:",施法速率:
 Effective Trigger Rate:,有效触发速率:
 "Hit Rate:",击中速率
-"Trap Throwing Time:",陷阱投郑间隔:
+"Trap Throwing Time:",陷阱投掷用时:
 "Trap Cooldown:",陷阱冷却:
-Mine Throwing Time:,地雷投郑间隔:
-"Totem Placement Time:",图腾放置间隔:
+Mine Throwing Time:,地雷投掷用时:
+"Totem Placement Time:",图腾放置用时:
 "Crit Chance:",暴击率:
 "Effective Crit Chance:",有效暴击率:
 "Effective Crit Chance",有效暴击率
@@ -54,6 +54,7 @@ DoT DPS exceeds in game limit,持续伤DPS超过游戏上限
 "Impale DPS:","穿刺 DPS:"
 "Total DPS inc. Impale:","含穿刺伤总DPS:"
 "Total Mirage DPS:","总幻影射手DPS:"
+Total Wisp DPS:,总鬼灵DPS:
 "Culling DPS:","终结 DPS:"
 Reservation DPS:,【血债】保留 DPS:
 "Combined DPS:","结合 DPS:"

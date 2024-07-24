@@ -3,7 +3,7 @@ Act {0}{1}%),第{0}章{1}%)
 Bandit quest:,盗贼任务:
 Major God:,主神:
 Kill all,全杀
-Grants 2 Passive Skill Points,给予2天赋点
+Grants 1 Passive Skill Point,给予1天赋点
 Help Oak,帮助欧克
 Help Kraityn,帮助克雷顿
 Help Alira,帮助阿莉亚
@@ -70,7 +70,11 @@ Controls how resource on hit/kill is calculated:,控制如何计算命中/击杀
 "	Average: includes chance gains, averaged based on uptime","	平均：计算几率收益，平均基于正常生效时间"
 	Maximum: treats all chances as certain,	最大值将几率视为必然
 EHP calc unlucky:,有效生命值计算时不幸:
-Sets the EHP calc to pretend its unlucky and reduce the effects of random events,对有效生命值计算进行设置以假装它是不幸的并减少随机事件的效果
+Sets the EHP calc to pretend its unlucky and reduce the effects of random events such as,对有效生命值计算进行设置以假装它是不幸的并减少随机事件的效果，比如：
+	Block/Spell Block Chance,	格挡/法术格挡几率
+	Dodge/Spell Dodge Chance,	躲避/法术躲避几率
+	Spell Suppression Chance,	法术压制几率
+	Avoidance Chance,	避免几率
 Unlucky,不幸
 Very Unlucky,非常不幸
 Disable EHP gain on block/suppress:,禁用格挡/压制时回复的有效生命值:
@@ -101,6 +105,9 @@ This option allows you to override the default calculation for the number of Emp
 This option allows you to override the default calculation for the number of Empty Blue Sockets.,^7此选项允许你覆盖空^x7070FF蓝色^7插槽数量的默认计算。
 # of Empty White Sockets,空白色插槽数量
 This option allows you to override the default calculation for the number of Empty White Sockets.,此选项允许你覆盖空白色插槽数量的默认计算。
+
+
+
 
 Skill Options,技能选项
 "Aspect of the Avian:",【鸟之势】:
@@ -179,84 +186,18 @@ Stages:,等阶:
 "Withering Touch:",【凋零之触】:
 
 
+
+
+
 Map Modifiers and Player Debuffs,地图词缀和玩家减益
-Map Prefix Modifiers:,地图前缀加成:
-Enemy Physical Damage reduction:,怪物的物理伤害减伤:
-'Armoured','装甲的'
-20% (Low tier),20%(低阶)
-30% (Mid tier),30%(中阶)
-40% (High tier),40%(高阶)
-"Enemy is Hexproof?",敌人是【无咒的】?
-'Hexproof','无咒的'
-Less effect of Curses on enemy:,对怪物的诅咒总效果总降:
-'Hexwarded','魔抗的'
-25% (Low tier),25%(低阶)
-40% (Mid tier),40%(中阶)
-60% (High tier),60%(高阶)
-Enemy has Elemental / Chaos Resist:,怪物的元素/^xD02090混沌^7抗性增加:
-'Resistant','抗性的'
-20% / 15% (Low tier),20%/15%(低阶)
-30% / 20% (Mid tier),30%/20%(中阶)
-40% / 25% (High tier),40%/25%(高阶)
-Map Suffix Modifiers:,地图后缀加成:
-Player has Elemental Equilibrium?,玩家有【元素之相】?
-'of Balance','平衡之'
-Cannot Leech Life / Mana?,^xFFFFFF无法偷取怪物^xE05030生命^7和^x7070FF魔力^7?
-"'of Congealment'",'凝血之'
-"Gains reduced Flask Charges:",玩家获得的药剂充能降低:
-'of Drought','干枯之'
-30% (Low tier),30%(低阶)
-40% (Mid tier),40%(中阶)
-50% (High tier),50%(高阶)
--X% maximum Resistances:,-X% 玩家的抗性上限:
-'of Exposure','曝露之'
-Mid tier: 5-8%,"中阶: 5-8%"
-High tier: 9-12%,"高阶: 9-12%"
-Less Area of Effect:,玩家的范围效果总降:
-'of Impotence','短程之'
-15% (Low tier),15%(低阶)
-20% (Mid tier),20%(中阶)
-25% (High tier),25%(高阶)
-Enemy avoid Elemental Ailments:,怪物几率免疫元素异常状态:
-'of Insulation','隔绝之'
-30% (Low tier),30%(低阶)
-50% (Mid tier),50%(中阶)
-70% (High tier),70%(高阶)
-Enemy avoid Poison and Bleed:,怪物几率免疫中毒/流血:
-'Impervious','避毒的'
-25% (Low tier),25%(低阶)
-35% (Mid tier),35%(中阶)
-65% (High tier),65%(高阶)
-Unlucky Dodge / Enemy has inc. Accuracy:,玩家在躲避时很不幸/怪物命中值提高:
-'of Miring','迟钝之'
-30% (Low tier),30%(低阶)
-40% (Mid tier),40%(中阶)
-50% (High tier),50%(高阶)
-Reduced Block Chance / less Armour:,玩家的格挡率降低/护甲总降:
-'of Rust','生锈之'
-20% / 20% (Low tier),20%/20%(低阶)
-30% / 25% (Mid tier),30%/25%(中阶)
-40% / 30% (High tier),40%/30%(高阶)
-"Player has Point Blank?",玩家拥有【零点射击】?
-'of Skirmishing','冲突之'
-Less Recovery Rate of Life and Energy Shield:,玩家的^xE05030生命^7和^x88FFFF能量护盾^7回复速率总降:
-'of Smothering','窒息之'
-20% (Low tier),20%(低阶)
-40% (Mid tier),40%(中阶)
-60% (High tier),60%(高阶)
-"Cannot Regen Life, Mana or ES?",^xFFFFFF玩家无法再生^xE05030生命^7，^x7070FF魔力^7和^x88FFFFES^7?
-'of Stasis','瘀血之'
-"Enemy takes red. Extra Crit Damage:",怪物受到的暴击额外伤害降低:
-'of Toughness','坚韧之'
-Low tier: 25-30%,低阶: 25-30%
-Mid tier: 31-35%,中阶: 31-35%
-High tier: 36-40%,高阶: 36-40%
-"# of Sextants affecting the area","该地区被#个六分仪影响"
+"# of Sextants affecting the area","该地区被六分仪影响个数"
 % increased effect of map mods,地图词缀效果提升百分比
 Map Tier,地图T阶
 Red,红
 Yellow,黄
 White,白
+Map Prefix Modifiers:,地图前缀加成:
+Map Suffix Modifiers:,地图后缀加成:
 Unique Map Modifiers:,传奇地图修正:
 PvP damage scaling in effect,启用PvP 伤害调整
 'Hall of Grandmasters','元帅殿堂'
@@ -326,6 +267,10 @@ Controls how the hit/ailment effect of Ruthless Support is calculated:,控制【
 	Average: damage is based on the average application,	平均: 伤害基于平均应用
 	Max Effect: damage is based on maximum effect,	最大效果: 伤害基于最大效果
 Max Effect,最大效果
+Chance To Ignore PDR Mode:,无视物理减免几率:
+Controls how the chance on hit to ignore enemy physical damage reduction is calculated:,控制在击中时忽略敌人物理伤害减免几率的计算方式:
+	Minimum: never ignores unless chance is atleast 100%,	最小：从不无视，除非几率至少为100%
+	Max Effect: always ignores if you have any chance,	最大效果：只要你有几率就总是无视
 # of Blood Charges (if not maximum):,【赤炼球】数量 (如果不是最大值):
 # of Spirit Charges:,【精神球】数量:
 Do your Minions use Power Charges?,你的召唤物有【暴击球】?
@@ -393,12 +338,8 @@ You can change this to see decaying buff values,你可以改变此值以观察�
 Do you have Divinity?,你有【神性】?
 "This will enable the Divinity buff, which grants:","这将启用【神性】增益效果，赋予:"
 Defiance:,【抗争】层数:
-Rage:,怒火:
-"Base Maximum Rage is 50, and inherently grants the following:","怒火的基础最大层数为50,并赋予以下几点固定效果:"
-	1% increased Attack Damage per 1 Rage,	每1点怒火赋予攻击伤害提高1%
-	1% increased Attack Speed per 2 Rage,	每1点怒火赋予攻击速度加快1%
-	1% increased Movement Speed per 5 Rage,	每5点怒火赋予赋予移动速度提高1%
-You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently.,如果你近期没有被击中或获得怒火，你每0.5秒失去1层怒火。
+"Base Maximum Rage is 30, and inherently grants 1% More Attack Damage per 1 Rage","^xFF9922怒火^7的基础最大层数为30,并每层固定赋予1%攻速总增"
+You lose 10 Rage every second if you have not been Hit or gained Rage in the last 2 seconds.,^7你在2秒没有获得^xFF9922怒火^7或被击中后每秒失去10层^xFF9922怒火^7。
 Are you Leeching?,你在【偷取】?
 "You will automatically be considered to be Leeching if you have 'Life Leech effects are not removed at Full Life',","^xFFFFFF如果你有'^xE05030生命^7偷取在满血时不会移除'，你将自动被认为在偷取，"
 Are you Leeching Life?,^xFFFFFF你在【偷取^xE05030生命^7】?
@@ -407,6 +348,11 @@ Are you Leeching Mana?,^xFFFFFF你在【偷取^x7070FF魔力^7】?
 Minion is Leeching Energy Shield?,^xFFFFFF召唤物在【偷取^x88FFFF能量护盾^7】?
 Do you have a Flask active?,你在【使用药剂】?
 "This is automatically enabled if you have a flask active,","如果有使用药剂将会自动启用此状态,"
+Do you have a Tincture active?,你在【使用酊剂】？
+"This is automatically enabled if you have a tincture active,","如果有使用酊剂将会自动启用此状态,"
+Mana Burn Stacks:,魔力燃烧叠层:
+Mana Burn Applies a 1% of mana degen per stack,法力燃烧每一层致使1%法力值流失
+This also applies Weeping Wounds if the Keystone is Allocated,如果Weeping Wounds基石有被分配则也适用
 Do you have a Totem summoned?,你有召唤图腾?
 "You will automatically be considered to have a Totem if your main skill is a Totem,","如果你的主技能是图腾技能将自动被视为有召唤图腾,"
 Have you Summoned a Totem Recently?,你近期内有召唤图腾?
@@ -534,9 +480,17 @@ Have you Attacked Recently?,你近期有攻击?
 "You will automatically be considered to have Attacked Recently if your main skill is an attack,","如果你的主技能是攻击技能将会自动启用此状态,"
 Have you Cast a Spell Recently?,你近期有施放法术?
 "You will automatically be considered to have Cast a Spell Recently if your main skill is a spell,","如果你的主技能是法术技能将会自动启用此状态,"
+# of Non-Instant Spells Cast Recently:,近期非立即施放法术施放数:
+Only the number of different spells you cast count,只计算你施放的不同法术的数量
+# of Recently Applied Ailments:,近期施加异常状态数:
+Number of recently applied ailments,近期施加的异常状态的数量
+Have you Linked recently?,你近期有进行羁绊链接?
+Stunned while Casting Recently?,你近期有在施法时被晕眩?
 Have you Cast a Spell in the last second?,你过去1秒内有施放法术?
 How many spells cast in the last 8 seconds?,过去8秒内施放了多少法术?
 Only non-instant spells you cast count,仅计算非立即施放法术
+Have you Suppressed Recently?,你近期有压制？
+# of Hits Suppressed Recently:,近期压制击中次数:
 Have you used a Fire Skill Recently?,^xFFFFFF你近期有使用^xB97123火焰^7技能?
 Have you used a Cold Skill Recently?,^xFFFFFF你近期有使用^x3F6DB3冰霜^7技能?
 Have you used a Minion Skill Recently?,你近期有使用召唤物技能?
@@ -595,6 +549,8 @@ Do you have Everlasting Sacrifice?,你有【永恒献祭】?
 This option enables the Everlasting Sacrifice buff that grants +5% to all maximum resists.,这个选项启用【永恒献祭】赋予+5%全部抗性上限的增益。
 Do you have Fanaticism?,你有【欣喜若狂】?
 "This will enable the Fanaticism buff itself. (Grants 75% more cast speed, reduced skill cost, and increased area of effect)","这将使【欣喜若狂】buff生效。(使得施法速度总增75%，技能消耗减少75%，效果范围提高75%)"
+Do your hits always stun?,你的击中总是眩晕?
+This enables the conditional culling strike from the mace mastery.,这使得从锤精通中有条件的终结一击成为可能。
 PvP Tvalue override (ms):,PvP Tvalue override (ms):
 "Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues","Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues"
 Custom PvP Damage multiplier percent:,Custom PvP Damage multiplier percent:
@@ -611,6 +567,8 @@ Is your Crit Chance Lucky?,你的暴击率很幸运?
 Projectile travel distance:,投射物飞行距离:
 Melee distance to enemy:,与敌人近战距离:
 Is the enemy at Close Range?,敌人是否处于【近距离】?
+Enemy in Your Presence Duration,敌人在你视野内持续时间
+Number of seconds the enemy has been in your presence.,敌人出现在你在你视野内的秒数。
 Is the enemy Moving?,敌人是否在【移动】?
 Is the enemy on Full Life?,^xFFFFFF敌人是否^xE05030满血^7?
 Is the enemy on Low Life?,^xFFFFFF敌人是否^xE05030低血^7?
@@ -664,11 +622,15 @@ Is the enemy Scorched?,^xFFFFFF敌人是否^xB97123【灼烧】^7?
 This option will also allow you to input the effect of Scorched.,^xFFFFFF此选项同时允许你输入^xB97123【灼烧】^7的效果。
 Effect of Scorched:,^xB97123【灼烧】^xFFFFFF效果:
 This effect will only be applied while you can inflict Scorched.,^xFFFFFF此效果仅在你能造成^xB97123【灼烧】^7时启用。
+Scorch Stacks,^xB97123【灼烧】^7层数
+Amount of stacks of Scorch applied to the enemy.,^7对敌人施加的^xB97123【灼烧】^7的层数
 Is the enemy on Scorched Ground?,^xFFFFFF敌人是否在^xB97123【灼烧地面】^7上?
 This also implies that the enemy is Scorched.,^xFFFFFF这也意味着敌人在^xB97123【灼烧】^7。
 Is the enemy Chilled?,^xFFFFFF敌人是否^x3F6DB3【冰缓】^7?
 Seconds of chill on enemy?,^7敌人^x3F6DB3【冰缓】^7时长?
 Is the enemy Chilled by your Hits?,^xFFFFFF敌人是否因你的击中而^x3F6DB3【冰缓】^7?
+Hoarfrost Stacks,^x3F6DB3【Hoarfrost】 ^7叠层
+Amount of stacks of ^x3F6DB3Hoarfrost ^7applied to the enemy.,^7对敌人施加的^xB97123【Hoarfrost】^7的层数
 Is the enemy Frozen?,^xFFFFFF敌人是否^x3F6DB3【冰冻】^7?
 Seconds of freeze on enemy?,^7敌人^x3F6DB3【冰冻】^7时长?
 Is the enemy Brittle?,^xFFFFFF敌人是否^x3F6DB3【易碎】^7?
@@ -679,11 +641,13 @@ This effect will only be applied while you can inflict Brittle.,^xFFFFFF此效�
 Is the enemy on Brittle Ground?,^xFFFFFF敌人是否在^x3F6DB3【易碎地面】^7上?
 This also implies that the enemy is Brittle.,^xFFFFFF这也意味着敌人在^x3F6DB3【易碎】^7。
 Is the enemy Shocked?,^xFFFFFF敌人是否^xADAA47【感电】^7?
-"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","启用时 '对感电的敌人' 之类的修正生效,"
+"In addition to allowing any 'against Shocked Enemies' modifiers to apply,","^7启用时 '对^xADAA47【感电】^7的敌人' 之类的修正生效,"
 this will allow you to input the effect of the Shock applied to the enemy.,^xFFFFFF这将允许你输入应用在敌人身上的^xADAA47【感电】^7的效果。
 Effect of Shock:,^xADAA47【感电】^xFFFFFF效果:
 "If you have a guaranteed source of Shock,","^xFFFFFF如果你有可靠的^xADAA47【感电】^7效果来源，"
 the strongest one will apply instead unless this option would apply a stronger Shock.,"^xFFFFFF将会应用最大效果强度，除非此选项设置了更强的^xADAA47【感电】^7效果。"
+Shock Stacks,^xADAA47【感电】^7叠层
+Amount of stacks of Shock applied to the enemy.,^7对敌人施加的^xADAA47【感电】^7的层数
 Is the enemy on Shocked Ground?,^xFFFFFF敌人是否在^xADAA47【感电地面】^7上?
 This also implies that the enemy is Shocked.,^xFFFFFF这也意味着敌人在^xADAA47【感电】^7。
 Is the enemy Sapped?,^xFFFFFF敌人是否^xADAA47【精疲力尽】^7?
@@ -732,7 +696,7 @@ Enemy was Hit by Light. Damage?,^xFFFFFF敌人曾被^xADAA47闪电^7伤害击中
 Is the enemy in RF or Scorching Ray:,敌人是否在正义之火或灼热光纤中:
 Ignore Skill Hit Damage?,忽略技能击中伤害?
 This option prevents EE from being reset by the hit damage of your main skill.,此选项可防止【元素之相】(EE)被你主技能的击中伤害重置。
-Is the enemy in your Link beams?,敌人在你的羁绊光束中吗?
+Is the enemy in your Link beams?,敌人在你的羁绊光束中?
 This option sets whether an enemy is between you and your linked target.,这个选项设置敌人是否在你和你连接的目标之间。
 Enemy hit you with Fire Damage?,^7敌人以^xB97123火焰^7伤害击中了你?
 This option sets whether or not the enemy has hit you with Fire Damage in the last 4 seconds.,^7此选项设置敌人是否在过去4秒内以^xB97123火焰^7伤害击中了你。

@@ -97,8 +97,15 @@ Tree,天赋
 
 
 "Game Version:",游戏版本:
+"To start importing a character, enter the character's account name:","输入 '角色帐号名' 后点击 '开始' 导入角色"
 
 "Generate a code to share this build with other Path of Building users:","生成 POB 代码分享给所有的 POE 玩家:"
+Export Support,导出支援
+"This is for party play, to export support character, it enables the exporting of auras, curses and modifiers to the enemy","用于团队游戏，导出支援角色，其可以输出光环，诅咒和修正给敌人"
+Share,分享
+Creating link...,创建链接中……
+Note: this code can be very long; you can use 'Share' to shrink it.,注意:这个代码可能会很长;你可以用“分享”来缩短它。
+"To import a build, enter URL or code here:","要导入构筑，请在此处输入URL或代码:"
 Label:,标签:
 Player:,玩家:
 Search:,搜索:
@@ -107,9 +114,9 @@ Search:,搜索:
 "Socket Groups:",插槽组:
 
 
-"Tip: You can copy/paste socket groups using Ctrl+C and Ctrl+V.","提示: 你可以使用 Ctrl+C 和 Ctrl+V 来复制/粘贴插槽"
-"To import a build, enter the code here:","在此处输入 POB 代码导入 BD"
-"To start importing a character, enter the character's account name:","输入 '角色帐号名' 后点击 '开始' 导入角色"
+
+
+
 "Weapon 1:",武器1:
 "Weapon 2:",武器2:
 Witch,女巫
