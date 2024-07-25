@@ -13,6 +13,7 @@ Remove All Tattoos,移除所有纹身
 Import Tree,导入天赋树
 Export Tree,导出天赋树
 Uses Lua pattern matching for complex searches,使用Lua模式匹配进行复杂搜索
+
 Find Timeless Jewel,寻找永恒珠宝
 Show Node Power:,显示节点强度:
 Limit of Node distance to search (lower = faster),搜索节点距离限制(越小越快)
