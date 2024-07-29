@@ -3,7 +3,11 @@
 
 
 
-"Active Minion Limit:",最大召唤物数量:
+
+
+Search for builds similar to your current character.,搜索与你目前角色近似的构筑。
+"For best results, make sure to select your main item set, tree, and skills before opening the popup.","为了获得最好的结果，确保在打开弹出界面之前选择好你的主要物品集、主要天赋树和主要技能"
+
 "Average Hit:",平均击中:
 "Average Damage:",平均伤害:
 Average Burst Damage:,平均爆发伤害:
@@ -12,10 +16,10 @@ PvP Average Damage:,PvP平均伤害:
 "Cast Rate:",施法速率:
 Effective Trigger Rate:,有效触发速率:
 "Hit Rate:",击中速率
-"Trap Throwing Time:",陷阱投郑间隔:
+"Trap Throwing Time:",陷阱投掷用时:
 "Trap Cooldown:",陷阱冷却:
-Mine Throwing Time:,地雷投郑间隔:
-"Totem Placement Time:",图腾放置间隔:
+Mine Throwing Time:,地雷投掷用时:
+"Totem Placement Time:",图腾放置用时:
 "Crit Chance:",暴击率:
 "Effective Crit Chance:",有效暴击率:
 "Effective Crit Chance",有效暴击率
@@ -54,6 +58,7 @@ DoT DPS exceeds in game limit,持续伤DPS超过游戏上限
 "Impale DPS:","穿刺 DPS:"
 "Total DPS inc. Impale:","含穿刺伤总DPS:"
 "Total Mirage DPS:","总幻影射手DPS:"
+Total Wisp DPS:,总鬼灵DPS:
 "Culling DPS:","终结 DPS:"
 Reservation DPS:,【血债】保留 DPS:
 "Combined DPS:","结合 DPS:"

@@ -6,13 +6,17 @@ Switching to this tree will give you:,切换至此树将为你带来:
 Game Version,游戏版本
 Compare:,比较:
 Reset,重置
+Reset Tree/Tattoos,重置天赋树/纹身
+Warning: resetting your passive tree or removing all tattoos cannot be undone.,警告:重置你的天赋树或移除所有纹身的操作无法撤消。
 Reset Tree,重置天赋树
-Are you sure you want to reset your passive tree?,你确定要重置你的天赋树吗？
+Remove All Tattoos,移除所有纹身
 Import Tree,导入天赋树
 Export Tree,导出天赋树
 Uses Lua pattern matching for complex searches,使用Lua模式匹配进行复杂搜索
+
 Find Timeless Jewel,寻找永恒珠宝
 Show Node Power:,显示节点强度:
+Limit of Node distance to search (lower = faster),搜索节点距离限制(越小越快)
 "When enabled, an estimate of the offensive and defensive strength of",当启用时，每个未分配的节点的进攻和防御强度的估算
 "each unallocated passive is calculated and displayed visually.",将被计算和可视化显示
 "Offensive power shows as red, defensive power as blue.","进攻类加成显示红色,防御类加成显示蓝色."
@@ -70,6 +74,8 @@ Jewel Socket:,珠宝插槽:
 Filter Nodes:,过滤节点:
 Enable this option to exclude nodes that you do not have allocated on your active passive skill tree.,启用此选项将排除在激活的天赋树中没有被分配的节点。
 This can be useful if you're never going to path towards those excluded nodes and don't care what happens to them.,如果你不打算连接到那些被排除的节点，也不关心它们发生了什么，这是很有用的。
+Protect allocated nodes during search.,在搜索过程中保护已分配的节点。
+This can be useful if transforming certain notables would break your build.,如果转换某些大点会破坏你的构筑，这将非常有用。
 Primary Node Weight:,主节点权重:
 For nodes with multiple stats this slider controls the weight of the first stat listed.,对于有多个属性的节点，此滑块控制第一个属性的权重。
 This slider controls the weight of the following stat:,此滑块控制以下属性的权重:

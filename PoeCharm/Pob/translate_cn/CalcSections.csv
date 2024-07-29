@@ -127,6 +127,7 @@ Tertiary Uptime:,三阶段启用时长:
 Aura Uptime:,光环启用时长:
 Reserve Uptime:,保留启用时长:
 Sustainable Trauma:,可保持的内伤:
+Repeat Count:,重复次数:
 Projectile Count:,投射物数量:
 Pierce Count:,穿透数:
 Fork Count:,分叉数:
@@ -146,6 +147,7 @@ Secondary Radius:,二阶段半径:
 Area of Effect modifiers:,范围效果修正:
 Tertiary Radius:,三阶段半径:
 Weapon Range:,武器范围:
+Strike Targets:,打击目标:
 Attachment Range:,附着范围:
 Max Sust. Fuses:,最大可维持引信:
 Explosions /s:,每秒爆炸:
@@ -154,18 +156,20 @@ Trap Cooldown:,陷阱冷却:
 Wave Pulse Rate:,脉冲冲击波频率:
 Pulses Per Trap:,每陷阱脉冲次数:
 Small Explosions:,小爆炸:
-Avg. Active Traps:,平均激活陷阱:
 Normal Hits/Cast:,通常每施法击中数:
 Super Hits/Cast:,超聚能每施法击中数:
 DPS Multiplier:,DPS加成:
-Trap Trigg. Radius:,陷阱触发半径:
+Avg. Active Traps:,平均激活陷阱:
 Active Trap Limit:,陷阱激活上限:
 Trap Throw Rate:,陷阱投掷速率:
 Trap Throw Time:,陷阱投郑用时:
+Avg. Traps per Throw:,每次投掷平均陷阱数:
+Trap Trigg. Radius:,陷阱触发半径:
 Seal Gain Rate:,封印获得速率:
+Active Mine Limit:,地雷激活上限:
 Mine Throw Rate:,地雷投掷速率:
 Mine Throw Time:,地雷投郑用时:
-Active Mine Limit:,地雷激活上限:
+Avg. Mines per Throw:,每次投掷平均地雷数:
 Mine Deton. Radius:,地雷引爆半径:
 Mine Aura Radius:,地雷光环半径:
 Totem Place Time:,图腾放置用时:
@@ -204,6 +208,7 @@ Bleed DPS:,流血DPS:
 Bleed Duration:,流血持续时间:
 Poison:,中毒:
 Chance to Poison:,中毒几率:
+Poison Stacks:,中毒层数:
 Eff. DoT Multi:,有效持续伤加成:
 Source Physical:,物理来源:
 Source Lightning:,闪电来源:
@@ -223,7 +228,6 @@ Caustic Ground:,腐蚀地面:
 Poison Duration:,中毒持续时间:
 Dmg. per Poison:,每层中毒伤害:
 Max Poison Stacks:,最大中毒层数:
-Capped to 1 poison:,最大限制1层中毒:
 Ignite:,点燃:
 Max Ignite Stacks:,最大点燃层数:
 Average Ignite Roll:,平均点燃掷骰:
@@ -263,6 +267,7 @@ Maximum Scorch:,最大灼烧:
 Current Scorch:,当前灼烧:   
 Configured Scorch:,灼烧(配置):
 Guaranteed Scorches:,灼烧(保障):
+Total Scorch:,总灼烧:
 Effect of Chill:,冰缓效果:
 Chill Effect Mod:,冰缓效果修正:
 Chill Duration:,冰缓持续时间:
@@ -286,6 +291,7 @@ Maximum Shock:,最大感电:
 Current Shock:,当前感电:
 Configured Shock:,感电(配置):
 Guaranteed Shocks:,感电(保障):
+Total Shock:,总感电:
 Sap Effect Mod:,精疲力尽效果修正:
 Chance to Sap:,精疲力尽几率:
 Sap Duration:,精疲力尽持续时间:
@@ -309,7 +315,9 @@ OH K.B. Dist.:,击退距离(副手):
 Maximum Rage:,最大怒火:
 Rage Regen:,怒火再生:
 Inc. Item Quantity:,物品数量提高:
+IIQ for Normal Mobs:,普通敌人物品数量提高:
 Inc. Item Rarity:,物品稀有度提高:
+IIR for Magic Mobs:,魔法敌人物品稀有度提高:
 Culling Strike:,终结:
 Enemy Life Recovery:,敌人生命回复:
 Enemy Mana Recovery:,敌人魔法回复:
@@ -356,9 +364,7 @@ Increased Energy Shield Regeneration Rate:,ES再生速率提高:
 More Energy Shield Regeneration Rate:,ES再生速率总增:
 Ele Recoup:,元素伤ES吸纳:
 Ward:,结界:
-Rage:,怒火:
-Increased Rage Regeneration Rate:,怒火再生速率提高:
-More Rage Regeneration Rate:,怒火再生速率总增:
+
 Armour:,护甲:
 Armour Defense:,护甲防御:
 Phys. Dmg. Reduct:,物理伤害减免:
@@ -383,6 +389,59 @@ Life on Block:,格挡时回复生命:
 Mana on Block:,格挡时回复魔力:
 ES on Block:,格挡时回复ES:
 ES on Spell Block:,格挡法术时回复ES:
+Dodge:,躲避:
+Dodge Chance:,躲避几率:
+Spell Ddg. Chance:,躲避几率(法术):
+Spell Suppression:,法术压制:
+Suppression Ch.:,法术压制几率:
+Suppression Effect:,法术压制效果:
+ES on Suppression:,压制时ES回复:
+Life on Suppression:,压制时生命回复:
+
+Flasks:,药剂:
+Inc. Effect:,效果提高:
+Inc. Duration:,持续时间提高:
+Inc. Charges Gain:,充能获取提高:
+Inc. Charges Used:,充能使用提高:
+% to not Consume:,不消耗几率:
+Charge on crit %:,暴击充能几率:
+Charges/s:,每秒充能:
+Utility Flasks:,功能药剂:
+Inc. Magic Effect:,魔法药效提高:
+Magic Utility Flask Effect:,魔法功能药效:
+Generic Flask Effect:,通用药剂药效:
+Utility Flask Charges/s:,功能药剂每秒充能:
+Generic Flask Charges/s:,通用药剂每秒充能:
+Life Flasks:,生命药剂:
+Inc. Recovery:,回复量提高:
+More Recovery:,回复量总增:
+Inc. Recovery Rate:,回复速率提高:
+Life Flask Recovery Rate:,生命药剂回复速率提高:
+Generic Flask Recovery Rate:,通用药剂回复速率:
+Life Flask Charges/s:,生命药剂每秒充能:
+Mana Flasks:,魔法药剂:
+Mana Flask Recovery Rate:,魔法药剂回复速率:
+Mana Flask Charges/s:,魔法药剂每秒充能:
+Tinctures:,酊剂:
+Tincture Limit:,酊剂限制:
+ManaBurn inc Rate:,魔力燃烧提高率:
+ManaBurn more Rate:,魔力燃烧总增率:
+% Not Inflict ManaBurn:,不导致魔力燃烧几率:
+Cooldown Recovery:,冷却恢复:
+
+Rage:,怒火:
+Increased Rage Regeneration Rate:,怒火再生速率提高:
+More Rage Regeneration Rate:,怒火再生速率总增:
+
+Charges:,充能球:
+Endurance:,耐力球:
+Max:,最大:
+Current:,当前:
+Spendable:,可花费:
+Duration:,持续时间:
+Frenzy:,狂怒球:
+Power:,暴击球:
+
 Other Defences:,其它防御:
 Movement Speed:,移动速度:
 Effect of Elusive:,灵巧效果:
@@ -415,7 +474,14 @@ Brittle Avoid Ch.:,避免易碎几率:
 Scorch Avoid Ch.:,避免灼烧几率:
 Bleed Avoid Ch.:,避免流血几率:
 Poison Avoid Ch.:,避免中毒几率:
+Impale Avoid Ch.:,避免穿刺几率:
+Curse Avoid Ch.:,避免诅咒几率:
+Silence Avoid Ch.:,避免沉默几率:
 Crit Reduction:,受到暴击伤害减少:
+Corr Blood Immune:,免疫腐化之血:
+Maim Immune:,免疫瘫痪:
+Hinder Immune:,免疫缓速:
+Knockback Immune:,免疫击退:
 Blind Duration:,致盲持续时间:
 Other Ailment Defences:,其他元素防御:
 Freeze Duration:,冰冻持续时间:
@@ -436,46 +502,6 @@ Brittle Effect:,易碎效果:
 Scorch Effect:,灼烧效果:
 Bleed Effect:,流血效果:
 Poison Effect:,中毒效果:
-Dodge:,躲避:
-Dodge Chance:,躲避几率:
-Spell Ddg. Chance:,躲避几率(法术):
-Spell Suppression:,法术压制:
-Suppression Ch.:,法术压制几率:
-Suppression Effect:,法术压制效果:
-ES on Suppression:,压制时ES回复:
-Life on Suppression:,压制时生命回复:
-
-
-Flasks:,药剂:
-Inc. Effect:,效果提高:
-Inc. Duration:,持续时间提高:
-Inc. Charges Gain:,充能获取提高:
-Inc. Charges Used:,充能使用提高:
-% to not Consume:,不消耗几率:
-Charge on crit %:,暴击充能几率:
-Charges/s:,每秒充能:
-Utility Flasks:,功能药剂:
-Inc. Magic Effect:,魔法药效提高:
-Magic Utility Flask Effect:,魔法功能药效:
-Generic Flask Effect:,通用药剂药效:
-Utility Flask Charges/s:,功能药剂每秒充能:
-Generic Flask Charges/s:,通用药剂每秒充能:
-Life Flasks:,生命药剂:
-Inc. Recovery:,回复量提高:
-More Recovery:,回复量总增:
-Inc. Recovery Rate:,回复速率提高:
-Life Flask Recovery Rate:,生命药剂回复速率提高:
-Generic Flask Recovery Rate:,通用药剂回复速率:
-Life Flask Charges/s:,生命药剂每秒充能:
-Mana Flasks:,魔法药剂:
-Mana Flask Recovery Rate:,魔法药剂回复速率:
-Mana Flask Charges/s:,魔法药剂每秒充能:
-
-
-
-
-
-
 
 Damage Taken:,承受伤害:
 Enemy Damage:,敌人伤害:
@@ -515,10 +541,18 @@ Enemy miss chance:,敌人未击中几率:
 Effective Hit Pool:,击中伤有效生命值:
 Time before death:,存活时间:
 Maximum Hit Taken:,最大击中伤承受值:
-Dots and Degens:,持续伤与每秒扣血:
+Recoup and Hit Taken Over Time:,持续计算的吸纳和击中伤害承受:
+Recoup Max.:,最大每秒可吸纳:
+Faster Recoup:,更快吸纳:
+Recoup Avg.:,平均每秒可吸纳:
+Hit Over Time Max.:,最大每秒承受击中:
+Hit Over Time Avg.:,平均每秒承受击中:
+Net Max.:,最大每秒吸纳:
+Net Avg.:,平均每秒吸纳:
+Dots and Build Degens:,持续伤与构筑每秒扣血:
 DoT taken:,承受持续伤害:
-Total Pool:,总生命值:
-Effective DoT Pool:,持续伤有效生命值:
+Total Pool:,总生命池:
+Effective DoT Pool:,持续伤有效生命池:
 Degens:,每秒扣血:
 Total Degen:,总每秒扣血:
 Total Net Recovery:,净回复:
@@ -526,10 +560,6 @@ Net Life Recovery:,生命净回复:
 Net Mana Recovery:,魔力净回复:
 Net ES Recovery:,能量护盾净回复:
 Net Energy Shield Recovery:,能量护盾净回复:
-Recoup and Hit Taken Over Time:,持续计算的吸纳和击中伤害承受:
-Recoup Max.:,最大每秒可吸纳:
-Recoup Avg.:,平均每秒可吸纳:
-Hit Over Time Max.:,最大每秒承受击中:
-Hit Over Time Avg.:,平均每秒承受击中:
-Net Max.:,最大每秒吸纳:
-Net Avg.:,平均每秒吸纳:
+Enemy Degens:,敌人扣血:
+
+
