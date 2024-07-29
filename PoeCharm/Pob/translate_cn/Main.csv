@@ -21,6 +21,8 @@ Hex colour for highlight nodes:,高亮节点十六进制颜色:
 Overrides the default hex colour for highlighting nodes in passive tree search. ,覆盖在天赋树上搜索时高亮节点的默认十六进制颜色。
 Expected format is 0x000000. The default value is 0xFF0000.,预期格式为0x000000。默认值为0xFF0000
 Opt-in to weekly beta test builds:,选择加入每周Beta测试版本:
+Show search circles at viewport edge,在视窗边缘显示搜索高亮圈
+Show Latest/Trending builds:,显示最新/趋势构筑:
 Build-related options,构筑相关设置
 Show thousands separators:,显示千位分隔符:
 Thousands separator:,千位分隔符:

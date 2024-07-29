@@ -110,80 +110,227 @@ This option allows you to override the default calculation for the number of Emp
 
 
 Skill Options,技能选项
-"Aspect of the Avian:",【鸟之势】:
-"Is Avian's Might active?",【鸟之力量】激活状态?
-"Is Avian's Flight active?",【鸟之斗魄】激活状态?
-"Aspect of the Cat:",【猫之势】:
-"Is Cat's Stealth active?",【猫之隐匿】激活状态?
-"Is Cat's Agility active?",【猫之敏捷】激活状态?
-"Aspect of the Crab:",【蟹之势】:
-"# of Crab Barriers (if not maximum):","【深海屏障】层数 (如果不是最大值)"
-"Aspect of the Spider:",【蛛之势】:
-"# of Spider's Web Stacks:","蜘蛛网层数"
-"Banner Skills:",旗帜技能:
-"Is Banner Planted?",旗帜已放置?
-"Banner Stages:",旗帜阶层:
+Arcane Cloak:,【奥术斗篷】:
+Include in Mana spent Recently?,^7包含入近期^x7070FF魔力^7消耗量
+"When enabled, the mana spent by Arcane Cloak used at full mana ","启用时,【奥术斗篷】在当前最大魔力的魔力消耗量"
+will be added to the value provided in # of Mana spent Recently.,^7将添加到“近期^x7070FF魔力^7消耗量”中
+Aspect of the Avian:,【鸟之势】:
+Is Avian's Might active?,【鸟之力量】激活状态?
+Is Avian's Flight active?,【鸟之斗魄】激活状态?
+Aspect of the Cat:,【猫之势】:
+Is Cat's Stealth active?,【猫之隐匿】激活状态?
+Is Cat's Agility active?,【猫之敏捷】激活状态?
+Aspect of the Crab:,【蟹之势】:
+# of Crab Barriers (if not maximum):,【深海屏障】层数(如果不是最大值):
+Aspect of the Spider:,【蛛之势】:
+# of Spider's Web Stacks:,蜘蛛网层数:
+Banner Skills:,旗帜技能:
+Is Banner Planted?,旗帜已放置?
+Banner Valour:,旗帜勇气量:
+The amount of valour consumed for the placed banner,放置旗帜所消耗的勇气量
+Barkskin:,【树皮御体】:
+# of Barkskin Stacks:,【树皮御体】层数:
+Unbound Avatar:,【荒野之象】:
+Are you Unbound?,你有奔放之怒?
 Bladestorm:,【剑刃风暴】:
-Barkskin:,树皮御体:
-# of Barkskin Stacks:,树皮御体层数:
-"Are you in a Bloodstorm?",是否处于血姿态?
-"Are you in a Sandstorm?",是否处于沙姿态?
-Blood Sacrament:,赤色誓言:
+Are you in a Bloodstorm?,是否处于血姿态?
+Are you in a Sandstorm?,是否处于沙姿态?
+Blood Sacrament:,【赤色誓言】:
 Count Skill Reservation towards eHP?,将技能保留计入有效生命值?
 Use this option to disable the skill reservation factoring into eHP calculations,使用此选项禁用有效生命值计算中的技能保留因素
-"Brand Skills:",烙印技能:
-"Is Attached to the Enemy?",烙印已附着的敌人?
-"Dark Pact:",【暗夜血契】:
-"Skeleton Life:",魔侍生命:
-"Sets the maximum life of the skeleton that is being targeted.",设置目标魔侍的最大生命.
-Deathmark:,【死亡印记】:
-"Is the enemy Deathmarked?",【死亡印记】的敌人?
-"Feeding Frenzy:",【狂噬】:
-"Is Feeding Frenzy active?",【狂噬】激活状态?
-"Feeding Frenzy grants:","【狂噬】 获得:"
-"10% more Minion Damage","额外提高 10% 召唤物伤害"
-"15% increased Minion Movement Speed","提高 15% 召唤物移动速度"
-"15% increased Minion Attack and Cast Speed","提高 15% 召唤物攻击和施法速度"
-"Herald of Agony:",【苦痛之捷】:
-"# of Virulence Stacks:","【毒力】层数:"
-"Ice Nova:",【冰霜新星】:
-"Cast on Frostbolt?",施放【寒冰弹】?
+Brand Skills:,烙印技能:
+# of active Brands:,激活的烙印数:
+# of Brands attached to the enemy:,附着于敌人的烙印数:
+Skill is targeting the Branded enemy,技能正作用于已被烙印附着的敌人
+Last 25% of attached duration?,烙印剩余25%附着持续时间?
+Last 50% of attached duration?,烙印剩余50%附着持续时间?
+Carrion Golem:,【腐化魔像】:
+# of Nearby Non-Golem Minions:,附近非魔像召唤物数:
+
+
+
+Close Combat:,近战(辅):
+Is Combat Rush active?,【战斗冲击】是否激活?
+Combat Rush grants 20% more Attack Speed to Travel Skills not Supported by Close Combat.,若旅行技能没有被近战辅助，则【战斗冲击】使该旅行技能的攻速总增20%
+Cold Snap:,【霜暴】:
+Bypass CD?,是否重置冷却时间?
+Consecrated Path of Endurance:,【强韧之奉献之路】:
+Corrupting Cry:,【腐化战吼】:
+# of Corrupting Cry stacks on enemy,【腐化战吼】在敌人身上的层数：
+Cruelty:,【凌厉】:
+Damage % (if not maximum):,伤害百分比(如果不是最大值):
+Cruelty is a buff provided by Cruelty Support which grants,【凌厉】是【凌厉】辅助技能石提供的一个buff，
+up to 40% more damage over time to the skills it supports.,它使得所辅助的技能的持续伤害最高总增40%。
+Cyclone:,【旋风斩】:
+Are you Channelling Cyclone?,你在引导【旋风斩】?
+Dark Pact:,【暗夜血契】:
+Skeleton Life:,^7魔侍^xE05030生命:
+Sets the maximum Life of the Skeleton that is being targeted.,^7设定被瞄准的魔侍的最大^xE05030生命。
+Doom Blast:,【末日爆炸】:
+Doom Blast Trigger Source:,触发【末日爆炸】的魔蛊:
+Curse overlaps:,魔蛊重叠数:
+Elemental Army:,【元素大军】:
+Exposure Type:,曝露类型:
+Embrace Madness:,【疯狂之拥】:
+Is Embrace Madness active?,【疯狂之拥】是否激活?
+Feeding Frenzy:,【狂噬】:
+Is Feeding Frenzy active?,【狂噬】是否激活?
+Feeding Frenzy grants:,【狂噬】赋予:
+	10% more Minion Damage,	10%更多召唤物伤害
+	10% increased Minion Movement Speed,	10%召唤物移动速度提高
+	10% increased Minion Attack and Cast Speed,	10%召唤物攻击和施法速度提高
+Flame Wall:,【烈焰之墙】:
+Projectile Travelled through Flame Wall?,投射物是否穿过【烈焰之墙】?
+Flicker Strike:,【闪现打击】:
+Fresh Meat:,【鲜肉】：
+Is Fresh Meat active?,【鲜肉】是否激活?
+Frost Shield:,【冰霜护盾】:
+Stages:,叠层数:
+Greater Harbinger of Time:,【召唤高等时空先驱者】:
+Is Slipstream active?:,【激流】是否激活?
+Greater Harbinger of Time Slipstream buff grants:,【召唤高等时空先驱者】的【激流】效果赋予:
+10% increased Action Speed,10%行动速度提高
+Buff affects the player and allies,增益效果影响玩家和友军
+Buff has a base duration of 8s with a 10s Cooldown,增益效果的基础持续时间为8秒，冷却时间为10秒
+Harbinger of Time:,【召唤时空先驱者】:
+Harbinger of Time Slipstream buff grants:,【召唤时空先驱者】的【激流】效果赋予:
+10% increased Action Speed,10%行动速度提高
+"Buff affects the player, allies and enemies in a small radius",增益效果影响玩家和小范围内的友军与敌人
+Buff has a base duration of 8s with a 20s Cooldown,增益效果的基础持续时间为8秒，冷却时间为20秒
+Hex:,魔蛊:
+Doom on Hex:,魔蛊的厄运层数:
+Herald of Agony:,【苦痛之捷】:
+# of Virulence Stacks:,【毒力】层数:
+Herald of Ash:,【灰烬之捷】:
+Overkill damage:,溢出伤害:
+Herald of Ash's base Burning damage is equal to 25% of Overkill damage.,^7【灰烬之捷】的基础^xB97123燃烧^7伤害等同于25%的超出伤害。
+Ice Nova:,【冰霜新星】:
+Cast on Frostbolt?,以【寒冰弹】施放?
 Infusion:,【灌注】:
-"Is Infusion active?",【灌注】激活状态?
+Is Infusion active?,是否激活【灌注】?
 Innervate:,【闪电支配】:
-"Is Innervation active?",【闪电支配】激活状态?
+Is Innervation active?,【闪电支配】激活?
 Intensify:,【法术凝聚】:
-"# of Intensity:","【法术凝聚】层数:"
-"Meat Shield:",【肉盾】:
-"Is the enemy near you?",附近的敌人?
-"Raise Spectre:",【召唤灵体】:
-"Spectre Level:",灵体等级:
-"Sets the level of the raised spectre.",设置来提高灵体等级
-"The default level is the level requirement of the Raise Spectre skill.",默认等级为【召唤灵体】需求等级:
-"Enable curses:",启用诅咒:
-"Enable any curse skills that your spectres have.",启用灵体拥有的诅咒技能.
-"Blade Vortex blade count:",【飞刃风暴】刀片数:
-"Sets the blade count for Blade Vortex skills used by spectres.",设置灵体拥有的【飞刃风暴】刀片数.
-"Default is 1; maximum is 5.","默认为 1; 最大为 5."
-"Scorching Ray Totem stage count:",【灼热光线】图腾阶数:
-"Enable Summoned Ursa's Rallying Cry:",启用【召唤之爪】的激励战吼:
-"Raise Spiders:",【召唤毒蛛】:
-"# of Spiders:","蜘蛛数量:"
-"Siphoning Trap:",【虹吸陷阱】:
-"# of Enemies affected:","影响的敌人数量:"
-"Sets the number of enemies affected by Siphoning Trap.",设置受【虹吸陷阱】影响的敌人数量.
-"Stance Skills:",姿态技能:
+# of Intensity:,【法术凝聚】层数:
+Link Skills:,羁绊技能:
+# of linked Targets:,被羁绊链接的目标数:
+Linked To Minion?,是否羁绊链接了召唤物?
+
+Manabond:,【缚魔电殛】:
+
+
+
+Meat Shield:,【肉盾】:
+Is the enemy near you?,敌人在你附近?
+Momentum:,【动量】:
+# of Momentum (if not average):,【动量】层数(如不为平均值):
+Swiftness # of Momentum Removed:,获得【迅捷】时移除的【动量】层数:
+Plague Bearer:,【瘟疫使徒】:
+
+Perforate:,【凿击】:
+
+
+Physical Aegis:,物理庇护:
+
+Predator:,【掠食】:
+Is the enemy marked with Signal Prey?,敌人被【掠食信标】标记?
+Pride:,【尊严】:
+Pride Aura Effect:,【尊严】光环效果:
+Rage Vortex:,【怒火旋涡】:
+Amount of Rage Sacrificed (if not maximum):,^7献祭^xFF9922怒火^数量(如果不是最大值):
+Raise Spectre:,【召唤灵体】:
+Enable buffs:,启用增益:
+Enable any buff skills that your spectres have.,启用你灵体拥有的增益技能。
+Enable curses:,启用诅咒:
+Enable any curse skills that your spectres have.,启用你灵体拥有的诅咒技能。
+Summoned Spectre in past 8 Seconds?,过去8秒内是否召唤了【灵体】?
+Blade Vortex blade count:,【飞刃风暴】飞刀数:
+
+
+
+
+
+Raise Spiders:,【召唤毒蛛】:
+# of Spiders:,毒蛛数量:
+Raise Zombie:,【魔卫复苏】:
+Summoned Zombie in past 8 Seconds?,过去8秒内是否召唤了【魔卫】?
+Are you animating Lingering Blades?,是否幻化了【徘徊之刃】?
+
+Shrapnel Ballista:,【散射弩炮】:
+# of Shotgunning Projectiles:,具有霰弹效应的投射物数:
+
+Sigil of Power:,【威能法印】:
+Siphoning Trap:,【虹吸陷阱】:
+# of Enemies affected:,影响的敌人数量:
+Sets the number of enemies affected by Siphoning Trap.,设定受【虹吸陷阱】影响的敌人数量。
+Snipe:,【狙击】:
+# of Snipe stages:,【狙击】叠层数:
+
+Spectral Wolf:,【召唤幽狼】:
+# of Active Spectral Wolves:,激活的【幽狼】数:
+
+Stance Skills:,姿态技能:
 Stance:,姿态:
-"Summon Holy Relic:","召唤 【召唤生物】:"
-"Enable Holy Relic's Boon Aura:",启用【召唤生物】光环:
-"Summon Lightning Golem:","召唤 【闪电魔像】:"
-"Enable Wrath Aura:",启用【雷霆】光环:
+Changed Stance recently?,近期是否变更姿态?
+Steel Skills:,钢刃技能:
+Steel Shards consumed:,消耗的钢刃碎片数:
+Steel Wards:,【破碎铁刃】:
+
+Storm Rain:,【暴雨箭】:
+# of Overlapping Beams:,重叠的波束数:
+Storm Rain of the Conduit:,【引雷之暴雨箭】:
+# of Active Arrows:,激活的箭矢数:
+Summon Elemental Relic:,【召唤元素遗物】:
+Enable Anger Aura:,开启【愤怒光环】:
+Enable Hatred Aura:,开启【憎恨光环】:
+Enable Wrath Aura:,开启【奋锐光环】:
+Summon Holy Relic:,【召唤圣物】:
+
+Summon Lightning Golem:,【召唤闪电魔像】:
+Summon Reaper:,【召唤追命死灵】:
+Reaper Consumed recently?,【追命死灵】近期是否消耗了其他召唤生物?
+Thirst for Blood:,【鲜血渴求】:
+# of Nearby Bleeding Enemies:,周围流血敌人数:
+Tornado Shot:,【龙卷射击】:
+% chance for second proj to hit:,二阶段投射物击中几率:
+"Override to the percent chance for the secondary projectiles to hit, default of 60% or 80% with helm enchant. (20% per secondary projectile)","覆盖二阶段投射物击中的几率，头盔附魔默认为60%或80%。(每有1枚二阶段投射物增加20%)"
+Toxic Rain:,【毒雨】:
+# of Overlapping Pods:,同时击中的孢囊数:
+Maximum is limited by the number of Projectiles.,最大值受投射物数量限制。
+Trauma:,【内伤】:
+# of Trauma Stacks:,【内伤】层数:
+Trinity Support:,【三位一体】:
+Lowest Resonance Count:,最低共振值:
+
+Unhinge:,【精神失常】:
+Are you Insane?,你是否处于错乱状态?
+Vigilant Strike:,【戒备打击】:
+Voltaxic Burst:,【雷电魔爆】:
+# of Casts currently waiting:,当前即将施放的法术层数:
 Vortex:,【漩涡】:
-"Wave of Conviction:",【定罪波】:
-"Exposure Type:",暴漏类型:
-"Winter Orb:",【寒冬宝珠】:
-Stages:,等阶:
-"Withering Touch:",【凋零之触】:
+Warcry Skills:,战吼技能:
+Warcry Power:,战吼威力:
+
+Wave of Conviction:,【定罪波】:
+
+
+
+Molten Shell:,【熔岩护盾】:
+Damage mitigated:,伤害缓和:
+
+Vaal Molten Shell:,【瓦尔熔岩护盾】:
+
+Multi-part area skills:,多重效果区域技能:
+Enemy size preset:,预设敌人体积:
+Enemy radius:,敌人范围:
+Configure the radius of an enemy hitbox to calculate some area overlapping (shotgunning) effects.,配置单个敌人的受击体积(hitbox)用以计算一些范围(霰弹)效应.
+Total Spectre Life:,灵体最大生命:
+The total life of your Spectres that can be taken before yours (used by jinxed juju),可被你的灵体在你之前代为承受的最大生命值(伤害)(为厄运护符所用)
+Total Totem Life:,图腾最大生命:
+The total life of your Totems (excluding Vaal Rejuvenation Totem) that can be taken before yours (used by totem mastery),可被你的图腾(包括瓦尔·回春图腾)在你之前代为承受的最大生命值(伤害)(为图腾专精所用)
+Total life pool of Sentinel of Radiance,光辉哨兵总生命池
+Total Vaal Rejuvenation Totem Life:,瓦尔·回春图腾总生命值
+The total life of your Vaal Rejuvenation Totems that can be taken before yours,可被你的瓦尔·回春图腾在你之前代为承受的最大生命值(伤害)
 
 
 
@@ -332,9 +479,9 @@ this will enable the Elusive buff itself:,这将启用【灵巧】增益效果:
 	15% Chance to Avoid all Damage from Hits,	15%几率免疫击中伤害
 	30% increased Movement Speed,	移动速度提高30%
 The effect of Elusive decays over time.,【灵巧】增益效果会随时间衰减。
-Effect of Elusive (if not maximum):,【灵巧】效果强度(如果不是最大值):
+Effect of Elusive (if not average):,【灵巧】效果强度(如果不是平均值):
 "If you have a guaranteed source of Elusive, the strongest one will apply. ","如果你有一个可靠的【灵巧】来源，将会应用最大效果强度。"
-You can change this to see decaying buff values,你可以改变此值以观察衰减后的增益效果
+You can change this to see various buff values,你可以改变此值以观察各种情况下的增益效果
 Do you have Divinity?,你有【神性】?
 "This will enable the Divinity buff, which grants:","这将启用【神性】增益效果，赋予:"
 Defiance:,【抗争】层数:
@@ -691,7 +838,7 @@ Enemies on Profane Ground receive the following modifiers:,【渎神地面】使
 	100% increased chance to be Critically Hit,	对其的暴击率提高100%
 # of Grasping Vines affecting enemy:,敌人所受【缓速蔓藤】数:
 Is the enemy on Fungal Ground?,敌人是否在【真菌地表】上?
-Enemies on your Fungal Ground have -10% Chaos Resistance.,^7你所创造【真菌地表】上的敌人-10%^xD02090混沌^7抗性。
+Enemies on your Fungal Ground have -10% to all Resistances.,你所创造【真菌地表】上的敌人-10%全部抗性。
 Is the enemy in a Chilling area?,^7敌人是否在【冰缓地面】上?
 Is the enemy in the Frost Shield area?,敌人是否在【寒霜护盾】范围内?
 Enemy was Hit by Fire Damage?,^xFFFFFF敌人曾被^xB97123火焰^7伤害击中?

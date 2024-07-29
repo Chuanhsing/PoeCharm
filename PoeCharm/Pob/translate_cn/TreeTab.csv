@@ -13,6 +13,7 @@ Remove All Tattoos,移除所有纹身
 Import Tree,导入天赋树
 Export Tree,导出天赋树
 Uses Lua pattern matching for complex searches,使用Lua模式匹配进行复杂搜索
+
 Find Timeless Jewel,寻找永恒珠宝
 Show Node Power:,显示节点强度:
 Limit of Node distance to search (lower = faster),搜索节点距离限制(越小越快)
@@ -73,6 +74,8 @@ Jewel Socket:,珠宝插槽:
 Filter Nodes:,过滤节点:
 Enable this option to exclude nodes that you do not have allocated on your active passive skill tree.,启用此选项将排除在激活的天赋树中没有被分配的节点。
 This can be useful if you're never going to path towards those excluded nodes and don't care what happens to them.,如果你不打算连接到那些被排除的节点，也不关心它们发生了什么，这是很有用的。
+Protect allocated nodes during search.,在搜索过程中保护已分配的节点。
+This can be useful if transforming certain notables would break your build.,如果转换某些大点会破坏你的构筑，这将非常有用。
 Primary Node Weight:,主节点权重:
 For nodes with multiple stats this slider controls the weight of the first stat listed.,对于有多个属性的节点，此滑块控制第一个属性的权重。
 This slider controls the weight of the following stat:,此滑块控制以下属性的权重:

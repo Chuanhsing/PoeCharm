@@ -127,6 +127,7 @@ Tertiary Uptime:,三阶段启用时长:
 Aura Uptime:,光环启用时长:
 Reserve Uptime:,保留启用时长:
 Sustainable Trauma:,可保持的内伤:
+Repeat Count:,重复次数:
 Projectile Count:,投射物数量:
 Pierce Count:,穿透数:
 Fork Count:,分叉数:
@@ -207,6 +208,7 @@ Bleed DPS:,流血DPS:
 Bleed Duration:,流血持续时间:
 Poison:,中毒:
 Chance to Poison:,中毒几率:
+Poison Stacks:,中毒层数:
 Eff. DoT Multi:,有效持续伤加成:
 Source Physical:,物理来源:
 Source Lightning:,闪电来源:
@@ -226,7 +228,6 @@ Caustic Ground:,腐蚀地面:
 Poison Duration:,中毒持续时间:
 Dmg. per Poison:,每层中毒伤害:
 Max Poison Stacks:,最大中毒层数:
-Capped to 1 poison:,最大限制1层中毒:
 Ignite:,点燃:
 Max Ignite Stacks:,最大点燃层数:
 Average Ignite Roll:,平均点燃掷骰:
