@@ -41,8 +41,8 @@ Rampage,暴走
 "Cannot roll Attack Modifiers",不能附加武器攻击相关属性修正
 "Can have multiple Crafted Modifiers",可以拥有多个大师工艺属性修正
 "Cannot roll Modifiers with Required Level above {0}","无法附加需求 {0} 级以上的属性修正"
-"Implicit Modifier magnitudes are doubled",固定基底词缀两倍效果加成
-"Implicit Modifier magnitudes are tripled",固定基底词缀三倍效果加成
+"Implicit Modifier magnitudes are doubled",基底词缀幅度变为双倍
+"Implicit Modifier magnitudes are tripled",基底词缀幅度变为三倍
 "{0}% increased Implicit Modifier magnitudes","{0}% 固定基底词缀效果加成"
 "{0}% reduced Implicit Modifier magnitudes","{0}% 固定基底词缀效果降低"
 "Has no Sockets",没有插槽
@@ -6035,8 +6035,8 @@ Hindered,被干扰
 " Animated Minions' Melee Attacks deal {0}% more Damage to surrounding targets","幻化类召唤生物的近战攻击对周围目标造成的伤害总增 {0}%"
 "Animated Minions' Melee Attacks deal {0}% less Damage to surrounding targets","幻化类召唤生物的近战攻击对周围目标的伤害总降 {0}%"
 "If you've used a Skill Recently, you and nearby Allies have Tailwind",若你近期内有使用技能，你和周围友军获得【提速尾流】
-"{0}% more Damage with Bleeding","流血伤害总增 {0}%"
-"{0}% less Damage with Bleeding","流血伤害总降 {0}%"
+"{0}% more Damage with Bleeding","被辅助的攻击技能造成的流血伤害总增 {0}%"
+"{0}% less Damage with Bleeding","被辅助的攻击技能造成的流血伤害总降 {0}%"
 "Ground Slam has a {0}% chance to grant an Endurance Charge when you Stun an Enemy","【裂地之击】在晕眩敌人时有 {0}% 几率获得耐力球"
 "Ground Slam grants an Endurance Charge on Stun",【裂地之击】在晕眩敌人时获得耐力球
 "Spreads Tar when you Block",格挡时喷洒焦油
@@ -6314,8 +6314,8 @@ Hindered,被干扰
 "{0}% chance to Curse Enemies with Socketed Curse Gem on Hit","击中时有 {0}% 几率使用插槽内的诅咒宝石对目标施放诅咒"
 "Curse Enemies with Socketed Curse Gem on Hit",击中时使用插槽内的诅咒宝石对目标施放诅咒
 "Every {0} seconds, gain {1}% of Physical Damage as Extra Fire Damage for {2} seconds","每 {0} 秒，获得额外火焰伤害， 其数值等同于物理伤害的 {1}%，持续 {2} 秒"
-"Gain a Void Charge every second",¿¿¿¿¿¿¿¿¿¿
-"Gain a Void Charge every {0} seconds","¿ {0} ¿¿¿¿¿¿¿¿¿"
+"Gain a Void Charge every second","每秒获得 1 枚虚空之矢"
+"Gain a Void Charge every {0} seconds","每 {0} 秒获得 1 枚虚空之矢"
 "{0}% increased Movement Speed for you and nearby Allies","你和周围友军的移动速度加快 {0}%"
 "{0}% reduced Movement Speed for you and nearby Allies","你和周围友军的移动速度减慢 {0}%"
 "Nearby Allies' Action Speed cannot be modified to below base value",周围友军的行动速度无法被减速至基础以下
@@ -8894,8 +8894,8 @@ Runebinder,符文绑定者
 "Projectiles leave Shocking Ground",投射物会造成感电地面
 "Gain {0}% of your Physical Damage as Extra Fire Damage","获得额外火焰伤害， 其数值等同于自身物理伤害的 {0}%"
 "Gain {0}% of your Physical Damage as Extra Chaos Damage","获得额外混沌伤害，其数值等同于自身物理伤害的 {0}%"
-"Only Deals Damage of the chosen Element",¿¿¿¿¿¿¿¿¿¿¿¿¿
-"Deals no Damage of other Damage Types",¿¿¿¿¿¿¿¿¿¿¿¿¿
+"Only Deals Damage of the chosen Element",只能造成所选元素类型的伤害
+"Deals no Damage of other Damage Types",无法造成其他元素类型的伤害
 "Explosion deals {0}% more Damage with Hits and Ailments","爆炸会使击中伤害和异常状态伤害总增 {0}%"
 "Explosion deals {0}% less Damage with Hits and Ailments","爆炸会使击中伤害和异常状态伤害总降 {0}%"
 "Creates {0} explosions","制造 {0} 个爆炸"
@@ -11870,7 +11870,7 @@ Charges,冲锋
 "{0}% chance to inflict Withered for two seconds on Hit if there are {1} or fewer Withered Debuffs on Enemy","若敌人身上最多有 {1} 个死亡凋零减益效果，则击中有 {0}% 的几率施加死亡凋零两秒"
 "Travel Skills other than Dash are Disabled",禁用除冲刺外的旅行技能
 "instead grant: {0}% increased Mana Cost of Skills and {1}% increased Spell Damage","技能魔力消耗提高 {0}%，法术伤害提高 {1}%"
-"Call to Arms",召集部队
+"Call to Arms",督军的号召
 "Eternal Youth",靑春永驻
 "Glancing Blows",【斗转星移】
 "The Impaler",穿刺者
@@ -15806,7 +15806,7 @@ Doomsday,灭亡之日
 "Berserk has {0} reduced Buff Effect","【盛怒】的增益效果降低 {0}"
 "Berserk has {0} increased Rage loss per second","【盛怒】的怒火衰减速度每秒加快 {0}"
 "Berserk has {0} reduced Rage loss per second","【盛怒】的怒火衰减速度每秒降低 {0}"
-"Gain {1} Rage on Hit with Attacks, no more than once every {0} seconds","攻击击中时获得 {1} 点怒火，每 {0} 秒发生一次"
+"Gain {1} Rage on Hit with Attacks, no more than once every {0} seconds","攻击击中获得 {1} 点怒火。每 {0} 秒只会发生一次"
 "have {0} increased Attack Speed","你和周围友军的攻击速度提高 {0}"
 "If you've Warcried Recently, you and nearby allies deal {0} increased Damage","若你近期内有使用战吼，你和周围友军的伤害提高 {0}"
 "Exerted Attacks deal {0} more Damage if a Warcry Sacrificed Rage Recently","若战吼在近期内献祭过怒火，则增助攻击的总伤害额外提高 {0}"
@@ -21556,8 +21556,8 @@ Battlemage,战斗法师
 "Supported Skills have {0}% reduced Attack and Cast Speed during Onslaught","猛攻期间，被辅助技能的攻击和施法速度减慢 {0}%"
 "Supported Skills deal {0}% increased Attack damage per {1} Accuracy Rating","每 {1} 点命中值都使被辅助技能的攻击伤害提高 {0}%"
 "Supported Skills deal {0}% reduced Attack damage per {1} Accuracy Rating","每 {1} 点命中值都使被辅助技能的攻击伤害降低  {0}%"
-"Supported Skills have {0}% increased Attack Speed while you have at least {1} Rage","你至少有 {1} 点怒火时，被辅助技能的攻击速度加快 {0}%"
-"Supported Skills have {0}% reduced Attack Speed while you have at least {1} Rage","你至少有 {1} 点怒火时，被辅助技能的攻击速度减慢 {0}%"
+"Supported Skills have {0}% increased Attack Speed while you have at least {1} Rage","拥有至少 {1} 点怒火时，被辅助技能的攻击速度加快 {0}%"
+"Supported Skills have {0}% reduced Attack Speed while you have at least {1} Rage","拥有至少 {1} 点怒火时，被辅助技能的攻击速度减慢 {0}%"
 "Supported Skills have a {0}% Chance to Avoid Interruption from Stuns While Using this Skill","使用该技能时，被辅助技能有 {0}% 的几率避免被眩晕打断"
 "Projectiles Fired by Supported Skills have {0}% increased Projectile spread","被辅助技能发射投射物的扩散范围扩大 {0}%"
 "Projectiles Fired by Supported Skills have {0}% reduced Projectile spread","被辅助技能发射投射物的扩散范围缩小 {0}%"
@@ -24257,7 +24257,7 @@ Magebane,法师克星
 "Trigger a Socketed Bow Skill when you Attack with a Bow, with a {0} second Cooldown","你用弓类攻击时触发一个插入的弓类技能，它有{0} 秒冷却时间"
 "Primal Aegis can take {0} Elemental Damage per Allocated Notable Passive Skill","每个配置的核心天赋都使原能护盾可以承受 {0} 点元素伤害"
 "Triggers Level {0} Summon Arbalists when Equipped","装备时触发 {0} 级召唤劲弩"
-"Cast Level {0} Fire Burst on Hit","击中施放 {0} 级火焰爆破"
+"Cast Level {0} Fire Burst on Hit","击中时施放 {0} 级火焰爆破"
 "Queen's Demand can Trigger Level {0} Flames of Judgement","女王敕令可以触发 {0} 级审判烈焰"
 "Queen's Demand can Trigger Level {0} Storm of Judgement","女王敕令能触发 {0} 级审判风暴"
 "{0}% chance to Trigger Socketed Curse Skill when you cast a Curse Skill, with a {1} second Cooldown","你施放诅咒技能时有 {0}% 的几率触发插入的诅咒技能，它有 {1} 秒冷却时间"
@@ -27361,7 +27361,7 @@ Transcendence,超然飞升
 "{0}% reduced Cooldown Recovery Rate per Power Charge","冷却回复率按照每个暴击球降低 {0}%"
 "Cover Enemies in Ash for {0} seconds when you Ignite them","你点燃敌人时在接下来 {0} 秒使其被灰烬缠身"
 "Cover Enemies in Frost for {0} seconds when you Freeze them","你冻结敌人时在接下来 {0} 秒使其被冰霜缠身"
-"Cover Enemies in Frost on Hit",击中时使敌人被冰霜缠身
+"Cover Enemies in Frost on Hit",击中时使敌人冰霜缠身
 "{0}% chance to be targeted by a Meteor when you use a Flask","有 {0}% 的几率在你使用药剂时被流星锁定"
 "Targeted by a Meteor when you use a Flask",你使用药剂时被流星锁定
 "{0}% more Critical Strike chance while affected by Precision","受到精准光环影响时，暴击率总增 {0}%"
@@ -27684,7 +27684,7 @@ Transcendence,超然飞升
 "{0}% chance for Map Drops to be Duplicated","掉落的地图有 {0}% 的几率被复制"
 "{0}% chance to create a copy of Beasts Captured in Area",有{0}%几率复制一头区域中被捕捉的魔物
 "Create a copy of Beasts Captured in Area",复制一头区域中被捕捉的魔物
-"{0}% chance to contain an Expedition Encounter",有{0}%的几率包含一场祖秘藏遭遇战
+"{0}% chance to contain an Expedition Encounter","有先祖秘藏遭遇战的几率 {0}%"
 "Contains an additional Expedition Encounter",额外有一场先祖秘藏遭遇战
 "Area contains an Expedition Encounter",区域内有一场先祖秘藏遭遇战
 "{0}% increased Quantity of Vendor Refresh Currencies dropped by Monsters in Area",区域中的怪物掉落的商人刷新通货的数量提高{0}%
@@ -28869,7 +28869,7 @@ Transcendence,超然飞升
 "Supported Skills deal {0}% less Minimum Attack Damage","被辅助技能造成的攻击伤害下限总降 {0}%"
 "Minions from Supported Skills Regenerate {0}% of Life per second","被辅助技能的召唤生物每秒再生 {0}% 的生命"
 "Supported Skills have {0} to {1} Added Attack Physical Damage per Trauma","每层内伤使被辅助技能附加 {0} - {1} 物理伤害"
-"Supported Aura Skills have no Reservation",[DNT]被辅助的光环技能没有保留效果
+"Supported Aura Skills have no Reservation",被辅助的光环技能没有保留效果
 "Supported Skills Cost Life instead of {0}% of Mana Cost","被辅助的技能消耗魔力的 {0}% 改为消耗生命"
 "Supported Skills have {0}% chance to Cover Enemies in Ash on Hit","被辅助技能击中时有 {0}% 的几率使敌人灰烬缠身"
 "Supported Skills cover Enemies in Ash on Hit",被辅助技能击中时使敌人灰烬缠身
@@ -28895,7 +28895,7 @@ Transcendence,超然飞升
 "{0}% less Duration of Ailments inflicted with Supported Skills","被辅助技能造成的异常状态持续时间总降 {0}%"
 "Totems from Supported Skills gain the Avenging Flame",被辅助技能的图腾获得复仇之焰技能
 "Skill and Trigger it when Hit by an Enemy",并在被敌人击中时触发
-"Supported Skills cannot apply Auras on you unless you have Minions from a Supported Skill",[DNT]没有被辅助的召唤生物时，被辅助的光环失去效果
+"Supported Skills cannot apply Auras on you unless you have Minions from a Supported Skill",没有被辅助的召唤生物时，被辅助的光环失去效果
 "Minions from Supported Skills take {0}% of their total Maximum Life and Energy Shield as Physical Damage per second while you have an Aura from a Supported Skill on you","你受到被辅助技能的光环影响时，被辅助技能的召唤生物每秒受到生命上限与能量护盾总值 {0}% 的物理伤害"
 "Mines from Supported Skills can't be Detonated while within a radius of {0} of you","被辅助技能的地雷位于你范围 {0} 内时无法被引爆"
 "Mines using Supported Skills always target your location",使用被辅助技能的地雷始终以你的位置为目标
@@ -30498,3 +30498,855 @@ Transcendence,超然飞升
 "{0}% more Damage for the Strongest Pack member","怪物群中最强的怪物伤害总增 {0}%"
 "{0}% less Damage for the Strongest Pack member","怪物群中最强的怪物伤害总降 {0}%"
 "Totems' Action Speed cannot be modified to below Base Value",图腾的行动速度无法被减速至基础值以下
+"Spawned corpses are Level {0}","生成 {0} 级的灵柩"
+"Banner grants {0}% increased Armour and Evasion Rating to You and Allies","你和周围友军的护甲和闪避值提高 {0}%"
+"Banner grants {0}% reduced Armour and Evasion Rating to You and Allies","你和周围友军的护甲和闪避值降低 {0}%"
+"Banner applies {0}% increased Critical Strike Chance to Enemies","周围敌人的暴击率提高 {0}%"
+"Banner applies {0}% reduced Critical Strike Chance to Enemies","周围敌人的暴击率降低 {0}%"
+"Banner applies {0}% more Accuracy Rating to Enemies","周围敌人的命中值总增 {0}%"
+"Banner applies {0}% less Accuracy Rating to Enemies","周围敌人的命中值总降 {0}%"
+"Banner applies {0}% more Damage to Enemies","周围敌人的伤害总增 {0}%"
+"Banner applies {0}% less Damage to Enemies","周围敌人的伤害总降 {0}%"
+"Banner lasts {0} seconds","放置后，旗帜存在 {0} 秒"
+"Attack Hits against Cursed Enemies have {0}% chance to inflict Bleeding","对抗被诅咒的敌人时，攻击击中有 {0}% 的几率施加流血"
+"Creates a Ring",制作一个戒指
+"Creates an Amulet",制作一条项链
+"Creates a Belt",制作一条腰带
+"Reforge socket numbers {0} times, keeping the greatest number of sockets","重铸插槽数量 {0} 次，采用插槽最多的结果"
+"Armour can roll Haunted Modifiers",护甲可以选取纠缠词缀
+"{0}% increased chance of Haunted Modifiers","纠缠词缀几率提高 {0}%"
+"{0}% reduced chance of Haunted Modifiers","纠缠词缀几率降低 {0}%"
+"{0}% increased chance of Physical Modifiers","物理词缀几率提高 {0}%"
+"{0}% reduced chance of Physical Modifiers","物理词缀几率降低 {0}%"
+"{0}% increased chance of Fire Modifiers","火焰词缀几率提高 {0}%"
+"{0}% reduced chance of Fire Modifiers","火焰词缀几率降低 {0}%"
+"{0}% increased chance of Cold Modifiers","冰霜词缀几率提高 {0}%"
+"{0}% reduced chance of Cold Modifiers","冰霜词缀几率降低 {0}%"
+"{0}% increased chance of Lightning Modifiers","闪电词缀几率提高 {0}%"
+"{0}% reduced chance of Lightning Modifiers","闪电词缀几率降低 {0}%"
+"{0}% increased chance of Elemental Modifiers","元素词缀几率提高 {0}%"
+"{0}% reduced chance of Elemental Modifiers","元素词缀几率降低 {0}%"
+"{0}% increased chance of Chaos Modifiers","混沌词缀几率提高 {0}%"
+"{0}% reduced chance of Chaos Modifiers","混沌词缀几率降低 {0}%"
+"{0}% increased chance of Life Modifiers","生命词缀几率提高 {0}%"
+"{0}% reduced chance of Life Modifiers","生命词缀几率降低 {0}%"
+"{0}% increased chance of Mana Modifiers","魔力词缀几率提高 {0}%"
+"{0}% reduced chance of Mana Modifiers","魔力词缀几率降低 {0}%"
+"{0}% increased chance of Attack Modifiers","攻击词缀几率提高 {0}%"
+"{0}% reduced chance of Attack Modifiers","攻击词缀几率降低 {0}%"
+"{0}% increased chance of Caster Modifiers","施法词缀几率提高 {0}%"
+"{0}% reduced chance of Caster Modifiers","施法词缀几率降低 {0}%"
+"{0}% increased chance of Defence Modifiers","防御词缀几率提高 {0}%"
+"{0}% reduced chance of Defence Modifiers","防御词缀几率降低 {0}%"
+"{0}% increased chance of Resistance Modifiers","抗性词缀几率提高 {0}%"
+"{0}% reduced chance of Resistance Modifiers","抗性词缀几率降低 {0}%"
+"{0}% increased chance of Attribute Modifiers","属性词缀几率提高 {0}%"
+"{0}% reduced chance of Attribute Modifiers","属性词缀几率降低 {0}%"
+"{0}% increased chance of Speed Modifiers","速度词缀几率提高 {0}%"
+"{0}% reduced chance of Speed Modifiers","速度词缀几率降低 {0}%"
+"{0}% increased chance of Critical Modifiers","暴击词缀几率提高 {0}%"
+"{0}% reduced chance of Critical Modifiers","暴击词缀几率降低 {0}%"
+"{0}% increased chance of Gem Modifiers","宝石词缀几率提高 {0}%"
+"{0}% reduced chance of Gem Modifiers","宝石词缀几率降低 {0}%"
+"{0}% increased chance of Minion Modifiers","召唤生物词缀几率提高 {0}%"
+"{0}% reduced chance of Minion Modifiers","召唤生物词缀几率降低 {0}%"
+"{0}% increased chance for Prefix Modifiers","前缀几率提高 {0}%"
+"{0}% reduced chance for Prefix Modifiers","前缀几率降低 {0}%"
+"{0}% increased chance of Suffix Modifiers","后缀几率提高 {0}%"
+"{0}% reduced chance of Suffix Modifiers","后缀几率降低 {0}%"
+"Physical Modifiers are {0}% scarcer","物理词缀罕见程度提高 {0}%"
+"Fire Modifiers are {0}% scarcer","火焰词缀罕见程度提高 {0}%"
+"Cold Modifiers are {0}% scarcer","冰霜词缀罕见程度提高 {0}%"
+"Lightning Modifiers are {0}% scarcer","闪电词缀罕见程度提高 {0}%"
+"Elemental Modifiers are {0}% scarcer","元素词缀罕见程度提高 {0}%"
+"Chaos Modifiers are {0}% scarcer","混沌词缀罕见程度提高 {0}%"
+"Life Modifiers are {0}% scarcer","生命词缀罕见程度提高 {0}%"
+"Mana Modifiers are {0}% scarcer","魔力词缀罕见程度提高 {0}%"
+"Attack Modifiers are {0}% scarcer","攻击词缀罕见程度提高 {0}%"
+"Caster Modifiers are {0}% scarcer","施法词缀罕见程度提高 {0}%"
+"Defence Modifiers are {0}% scarcer","防御词缀罕见程度提高 {0}%"
+"Resistance Modifiers are {0}% scarcer","抗性词缀罕见程度提高 {0}%"
+"Attribute Modifiers are {0}% scarcer","属性词缀罕见程度提高 {0}%"
+"Speed Modifiers are {0}% scarcer","速度词缀罕见程度提高 {0}%"
+"Critical Modifiers are {0}% scarcer","暴击词缀罕见程度提高 {0}%"
+"Gem Modifiers are {0}% scarcer","宝石词缀罕见程度提高 {0}%"
+"{0} to Physical Modifier Tier Rating","{0} 物理词缀等级评分"
+"{0} to Fire Modifier Tier Rating","{0} 火焰词缀等级评分"
+"{0} to Cold Modifier Tier Rating","{0} 冰霜词缀等级评分"
+"{0} to Lightning Modifier Tier Rating","{0} 闪电词缀等级评分"
+"{0} to Elemental Modifier Tier Rating","{0} 元素词缀等级评分"
+"{0} to Chaos Modifier Tier Rating","{0} 混沌词缀等级评分"
+"{0} to Life Modifier Tier Rating","{0} 生命词缀等级评分"
+"{0} to Mana Modifier Tier Rating","{0} 魔力词缀等级评分"
+"{0} to Attack Modifier Tier Rating","{0} 攻击词缀等级评分"
+"{0} to Caster Modifier Tier Rating","{0} 施法词缀等级评分"
+"{0} to Defence Modifier Tier Rating","{0} 防御词缀等级评分"
+"{0} to Resistance Modifier Tier Rating","{0} 抗性词缀等级评分"
+"{0} to Attribute Modifier Tier Rating","{0} 属性词缀等级评分"
+"{0} to Speed Modifier Tier Rating","{0} 速度词缀等级评分"
+"{0} to Critical Modifier Tier Rating","{0} 暴击词缀等级评分"
+"{0} to Gem Modifier Tier Rating","{0} 宝石词缀等级评分"
+"{0} to Minion Modifier Tier Rating","{0} 召唤生物词缀等级评分"
+"Corpses in adjacent Graves and this Corpse have their crafting outcomes randomised when this Corpse is buried",柩埋葬该灵柩时，相邻墓穴的灵柩及该灵柩的工艺结果随机化
+"{0}% chance for Humanoid Corpses to not be consumed when Exorcising, up to {1}%","超度时人形灵柩有 {0}% 的几率不被消耗，最多 {1}%"
+"{0}% chance for Beast Corpses to not be consumed when Exorcising, up to {1}%","超度时野兽灵柩有 {0}% 的几率不被消耗，最多 {1}%"
+"{0}% chance for Undead Corpses to not be consumed when Exorcising, up to {1}%","超度时亡灵灵柩有 {0}% 的几率不被消耗，最多 {1}%"
+"{0}% chance for Construct Corpses to not be consumed when Exorcising, up to {1}%","超度时构造体灵柩有 {0}% 的几率不被消耗，最多 {1}%"
+"{0}% chance for Demon Corpses to not be consumed when Exorcising, up to {1}%","超度时恶魔灵柩有 {0}% 的几率不被消耗，最多 {1}%"
+"{0}% increased Effect of Humanoid Corpses adjacent to this Corpse","与该灵柩相邻的人形灵柩效果提高 {0}%"
+"{0}% reduced Effect of Humanoid Corpses adjacent to this Corpse","与该灵柩相邻的人形灵柩效果降低 {0}%"
+"{0}% increased Effect of Beast Corpses adjacent to this Corpse","与该灵柩相邻的野兽灵柩效果提高 {0}%"
+"{0}% reduced Effect of Beast Corpses adjacent to this Corpse","与该灵柩相邻的野兽灵柩效果降低 {0}%"
+"{0}% increased Effect of Undead Corpses adjacent to this Corpse","与该灵柩相邻的亡灵灵柩效果提高 {0}%"
+"{0}% reduced Effect of Undead Corpses adjacent to this Corpse","与该灵柩相邻的亡灵灵柩效果降低 {0}%"
+"{0}% increased Effect of Construct Corpses adjacent to this Corpse","与该灵柩相邻的构造体灵柩效果提高 {0}%"
+"{0}% reduced Effect of Construct Corpses adjacent to this Corpse","与该灵柩相邻的构造体灵柩效果降低 {0}%"
+"{0}% increased Effect of Demon Corpses adjacent to this Corpse","与该灵柩相邻的恶魔灵柩效果提高 {0}%"
+"{0}% reduced Effect of Demon Corpses adjacent to this Corpse","与该灵柩相邻的恶魔灵柩效果降低 {0}%"
+"Has a random Conqueror Influence",具有随机征服者影响
+"Has Shaper or Elder Influence",具有塑界者或裂界者影响
+"Item sells for much more to Vendors",物品出售给商人的价值提高
+"{0}% chance to craft an additional Item","{0}% 的几率额外剩余一个物品"
+"Creates a Bone Ring",制作一个骨环
+"Creates a Cerulean Ring",制作一个天蓝之戒
+"Creates an Experimented Weapon",制作一个实验物品
+"Creates an Iolite Ring",制作一个青石戒指
+"Creates a Minion Wand",制作一个召唤生物法杖
+"Creates an Opal Ring",制作一个蛋白石戒指
+"Creates a Ritual Helmet, Gloves or Boots",制作一个驱灵仪式的头盔、手套或靴子
+"Creates a Steel Ring",制作一个合金戒指
+"Creates a Talisman",制作一个魔符
+"Creates a Vermillion Ring",制作一个朱砂之戒
+"Creates a Helmet, Gloves or Boots with Ward",制作一个具有结界的头盔、手套或靴子
+"Requires at least {0} other Corpse of the same Monster Name","另外需要至少 {0} 个同名怪物的灵柩"
+"Requires at least {0} other Corpses of the same Monster Name","另外需要至少 {0} 个同名怪物的灵柩"
+"{0}% increased chance of Influence Modifiers","影响词缀几率提高 {0}%"
+"{0}% reduced chance of Influence Modifiers","影响词缀几率降低 {0}%"
+"Minimum {0} Linked Sockets","最少 {0} 个连接插槽"
+"{0} to minimum number of Linked Sockets, up to a maximum of {1}","连接插槽的数量下限 {0}，最多 {1} 个"
+"Your Bleeding does not deal extra Damage while the Enemy is moving and cannot be Aggravated",当敌人移动时，你的流血无法造成额外伤害
+"Your Warcries do not grant Buffs or Charges to You",战吼不再增助攻击
+"100% more Warcry Duration",战吼还会为附近的友军提供增益
+"Final Boss drops {0} additional Miscellaneous Scarab","最终首领掉落 {0} 个额外的杂类圣甲虫"
+"Final Boss drops {0} additional Miscellaneous Scarabs","最终首领掉落 {0} 个额外的杂类圣甲虫"
+"{0}% chance for Empowered Enemies to have an Ultimatum Reward",赋能的敌人有{0}%的几率掉落灾变奖励
+"Spawned corpses' level matches the area level, up to a maximum of Level {0}","生成的灵柩等级上限为 {0} 级"
+"Explosion deals Base Fire Damage equal to {0}% of the Monster's maximum Life","爆炸造成火焰伤害，数值等同于该怪物最大生命的 {0}%"
+"{0}% more Damage for each type of Elemental Ailment on the Enemy","敌人每具有一个元素异常状态，伤害总增 {0}%"
+"{0}% less Damage for each type of Elemental Ailment on the Enemy","敌人每具有一个元素异常状态，伤害总降 {0}%"
+"Deals {0}% increased Damage if Exerted","增助攻击的伤害提高 {0}%"
+"Deals {0}% reduced Damage if Exerted","增助攻击的伤害降低 {0}%"
+"Hits ignore Enemy Physical Damage Reduction",击中忽略敌方怪物的物理伤害减免
+"Hand Weapon per 5 Power, counting a maximum of 30 Power","其等于你主手武器伤害的 {0}%，最大 20%"
+"Grants {1} Endurance Charge per {0} Power to you and Allied Players","每 {0} 点威力值获得 {1} 个耐力球"
+"Imprisoned Monsters are Rogue Exiles",精华禁锢一名盗贼流放者
+"Socketed Gems are Supported by Level {0} More Duration","此物品上的技能石受到 {0} 级的 持续时间延长 辅助"
+"Hits from Socketed Vaal Skills ignore Enemy Physical Damage Reduction",插入的瓦尔技能击中时无视敌方怪物的物理伤害减免
+"Grants Level {0} Crushing Fist Skill","获得 {0} 级的主动技能【清算】，且可被此道具上的技能石辅助"
+"{0}% increased Spell Critical Strike Chance","法术暴击率提高 {0}%"
+"{0}% reduced Spell Critical Strike Chance","法术暴击率降低 {0}%"
+"{0}% increased Magic Monsters","魔法怪物数量总增 {0}%"
+"{0}% chance to gain Unholy Might on Block for {1} seconds","格挡时，有 {0}% 的几率获得【不洁之力】，持续 {1} 秒"
+"Gain Unholy Might on Block for {0} seconds","格挡时获得【不洁之力】，持续 {0} 秒"
+"Retaliation Skills have {0}% chance to Knockback","反击时有 {0}% 的几率击退敌人"
+"Adds {0} to {1} Physical Damage to Retaliation Skills","反击附加 {0} - {1} 基础物理伤害"
+"Adds {0} to {1} Cold Damage to Retaliation Skills","反击附加 {0} - {1} 基础冰霜伤害"
+"{0}% increased Attack and Cast Speed for each alive Monster in Pack","怪物群中每个存活的怪物使攻击和施法速度提高 {0}%"
+"{0}% increased Attack and Cast Speed  for each alive Monster in Pack","怪物群中每个存活的怪物使攻击和施法速度提高 {0}%"
+"{0}% increased Attack and Cast Speed granted to Pack members on death","被击败时使怪物群的怪物攻击和施法速度提高 {0}%"
+"Attacks inflict Unnerve on Critical Strike for {0} seconds","攻击暴击时造成恐惧 {0} 秒"
+"{0} to maximum number of Sacred Wisps","圣洁鬼灵的数量上限 {0}"
+"{0} to number of Sacred Wisps Summoned","召唤鬼灵的数量 {0}"
+"Each Rage also grants {0}% to Damage over Time Multiplier for Bleeding while wielding an Axe","持握斧类时，每点【怒火】都使【流血】 {0}% 持续伤害加成"
+"Gain {0}% Chance to Block from Equipped Shield instead of the Shield's value","装备盾牌时基础格挡几率为 {0}%，不使用盾牌的数值"
+"Chain Hook grants {0} Rage if it Hits Enemies","钩链攻击有 {0}% 的几率在击中敌人后获得怒火 +{0}"
+"Dropped Armour has {0}% chance to be converted to a Chromatic Orb","掉落的护甲有 {0}% 几率转换为幻色石"
+"Dropped Armour is converted to Chromatic Orbs",掉落的护甲会被转换为幻色石
+"Dropped Weapons have {0}% chance to be converted to a Chaos Orb","掉落的武器有 {0}% 几率转换为混沌石"
+"Dropped Weapons are converted to Chaos Orbs",掉落的武器会被转换为混沌石
+"{0}% chance to drop an additional Miscellaneous Scarab","有 {0}% 几率掉落一个额外的杂类圣甲虫"
+"Each {1} Rage also grants {0}% chance to deal Double Damage","每 {1} 点怒火有 {0}% 的几率造成双倍伤害"
+"Retaliation Skills have {0}% increased Cooldown Recovery Rate","你的反击的冷却回复率提高 {0}%"
+"Retaliation Skills have {0}% reduced Cooldown Recovery Rate","你的反击的冷却回复率降低 {0}%"
+"Retaliation Attacks deal Double Damage",你的反击造成双倍伤害
+"Retaliation Skills Debilitate Enemies for {0} second on Hit","反击击中时疲惫敌人 {0} 秒"
+"Retaliation Skills have a {0}% chance to Debilitate on Hit for {1} second","反击击中时有 {0}% 的几率疲惫敌人 {1} 秒"
+"Acceleration Shrine",迅速神龛
+Adrenaline,肾上腺素
+"Dropped Items with Rarity are converted to Divination Cards",掉落的有稀有度的物品被转化为命运卡
+"Dropped Items with Rarity are converted to Maps",掉落的有稀有度的物品被转化为地图
+"Dropped Items with Rarity are converted to Scarabs",掉落的有稀有度的物品被转化为圣甲虫
+"Enduring Cry grants {0} additional Endurance Charge to you and Allied Players","【坚决战吼】获得 {0} 个额外的耐力球"
+"Enduring Cry grants {0} additional Endurance Charges to you and Allied Players","【坚决战吼】获得 {0} 个额外的耐力球"
+"Attacks with Axes or Swords grant {0} Rage on Hit","斧类或剑类攻击在击中时获得 {0}点【怒火】，每秒只能获得一次"
+"Gain {0} Rage on Hit with Attacks","攻击击中时获得 {0} 点怒火，每 {0} 秒发生一次"
+"Hits ignore Enemy Physical Damage Reduction if you've Blocked in the past {0} seconds","击中在你过去 {0} 秒内成功格挡的情况下无视敌方怪物的物理伤害减免"
+"Hits have {0}% chance to ignore Enemy Physical Damage Reduction","击中有 {0}% 的几率忽略敌方怪物的物理伤害减免"
+"Gain {0} Rage on Critical Strike with Attacks","攻击造成暴击时获得 {0} 点怒火"
+"{0} Added Passive Skill is Unrestrained Focus","其中 {0} 个增加的天赋为【猛烈灌注】"
+"With a Murderous Eye Jewel Socketed, Melee Attacks grant {0} Rage on Hit","镶嵌凶残之凝珠宝时，近战攻击击中产生 {0} 点怒火，每秒最多触发一次"
+"Delirium Monsters in Area have {0}% increased Pack Size","区域内的惊悸迷雾怪物的怪物群规模提高 {0}%"
+"Delirium Monsters in Area have {0}% reduced Pack Size","区域内的惊悸迷雾怪物的怪物群规模降低 {0}%"
+"Blight Chests in Area have a {0}% increased chance to contain Oils","区域内的菌潮宝箱包含圣油的几率提高 {0}%"
+"Map drops are Duplicated",掉落的地图被复制
+"Monsters Imprisoned by Essences contain an additional Remnant of Corruption",精华禁锢怪物包含一个额外的遗忘的腐化器皿
+"Imprisoned Monsters in Area have {0}% chance to have {1} additional Essences","区域内的禁锢怪物有 {0}% 的几率额外具有 {1} 个精华"
+"Contains an Expedition Encounter",有一场先祖秘藏遭遇战
+"Vendor Refresh Currencies dropped by unearthed Expedition Monsters have a {0}% chance to be converted to Logbooks","发掘的先祖秘藏怪物掉落的商人刷新通货有 {0}% 的几率转化为日志"
+"Area contains an additional Imprisoned Monster","该区域会出现额外 1 个精华"
+"Area contains {0} additional Imprisoned Monsters","该区域会出现额外 {0} 个精华"
+"Harvests in Area have {0}% chance for the unchosen Crop to not wilt","区域内的古灵庄园中未选择的作物有 {0}% 的几率不会枯萎"
+"Harvested Plants in Area have {0}% chance to spawn an additional Monster","区域内收割的植物有 {0}% 的几率额外生成一个怪物"
+"Areas can contain Imprisoned Monsters",该区域会出现被精华力量封印的怪物
+"{0}% chance for Maps Tier {1} and above found in Area to drop as Conqueror Maps instead","区域内找到的 {1} 阶及以上地图有 {0}% 的几率改为掉落征服者地图"
+"{0}% chance for Maps Tier {1} and above found in Area to drop as Elder Guardian Maps instead","区域内找到的 {1} 阶及以上地图有 {0}% 的几率改为掉落裂界守卫地图"
+"{0}% chance for Maps Tier {1} and above found in Area to drop as Shaper Guardian Maps instead","区域内找到的 {1} 阶及以上地图有 {0}% 的几率改为掉落塑界守卫地图"
+"{0}% chance for Maps Tier {1} and above found in Area to drop as Unique Synthesised Maps instead","区域内找到的 {1} 阶及以上地图有 {0}% 的几率改为掉落传奇虚空忆境地图"
+"When a fifth Impale is inflicted on a Player, Impales are removed to Reflect their Physical Damage multiplied by their remaining Hits to that Player and their Allies within {0} metres","对玩家施加第五次穿刺时，移除穿刺效果，并对该玩家及其 {0} 米内的友军反射物理伤害，数值为伤害与剩余击中次数的乘数"
+"Legion Encounters with a General in Area have both Generals",区域内有将军的战乱之殇遭遇战会包含双方的将军
+"Monsters have a {0}% chance to Ignite, Freeze and Shock on Hit","怪物击中时有 {0}% 的几率造成点燃、冻结和感电"
+"Rare and Unique Monsters remove {0}% of Life, Mana and Energy Shield from Players or their Minions on Hit","稀有和传奇怪物击中时玩家及其召唤生物时移除 {0}% 的生命、魔力和能量护盾"
+"Items dropped by Rogue Exiles in Area have a {0}% chance to be Fractured","区域内的盗贼流放者掉落的物品有 {0}% 的几率为分裂"
+"{0}% increased chance for Strongboxes in Area to be Unique","区域内的保险箱为传奇的几率提高 {0}%"
+"{0}% reduced chance for Strongboxes in Area to be Unique","区域内的保险箱为传奇的几率降低 {0}%"
+"Ultimatum Encounters in your Maps last up to {0} Rounds","地图内的致命贪婪遭遇战最多持续 {0} 轮"
+"{0}% increased Life for each alive Monster in Pack","怪物群中每个存活的怪物使生命提高 {0}%"
+"{0}% increased Life granted to Pack members on death","被击败时使怪物群的怪物生命提高 {0}%"
+"Minions count as having the same number of",召唤生物的耐力球、狂怒球和暴击球
+"Endurance, Frenzy and Power Charges as you",视作与你相同
+"Converts on Death",被击败时转化
+"Pack spawns a Corrupting Tempest on Death",怪物群被击败后生成一场腐化风暴
+"Pack spawns a Meteor on Death",怪物群被击败后生成一个陨星
+"Bleeding you inflict does not deal extra Damage while the Enemy is moving",当敌人移动时，你的流血无法造成额外伤害
+"You can inflict an additional Ignite on each Enemy","你可以对敌人造成额外 1 个点燃效果"
+"You can inflict {0} additional Ignites on each Enemy","你可以对敌人造成额外 {0} 个点燃效果"
+"When you place a Banner, you and nearby Allies Recover {0}% of Life per Valour consumed","当你放置一面旗帜，该旗帜每阶使你和周围友军回复 {0}% 生命"
+"Accompanied by a Harbinger",有先驱者陪伴
+"Accompanied by a Map Boss",有地图首领陪伴
+"Accompanied by a Rogue Exile",有盗贼流放者陪伴
+"Possessed or Touched by Tormented Spirits",被罪魂附身或触碰
+"{0}% increased Pack Size","怪物群规模提高 {0}%"
+"{0}% reduced Pack Size","怪物群规模降低 {0}%"
+"{0}% chance for Pack to be upgraded to Magic","怪物群有 {0}% 的几率升级为魔法怪物"
+"{0}% chance for Pack to be upgraded to Rare","怪物群有 {0}% 的几率升级为稀有怪物"
+"Every Rage also grants {0}% of Physical Damage as Extra Fire Damage","每 1 点怒火都获得额外火焰伤害， 其数值等同于物理伤害的 {0}%"
+"Each {1} Rage also grants {0}% increased Physical Damage","每 {1} 点怒火使物理伤害提高 {0}%"
+"Each {1} Rage also grants {0}% reduced Physical Damage","每 {1} 点怒火使物理伤害降低 {0}%"
+"Banners also grant {0}% increased Attack Damage to you and Allies","放置的旗帜也使你和友军的攻击伤害提高 {0}%"
+"Banners also grant {0}% reduced Attack Damage to you and Allies","放置的旗帜也使你和友军的攻击伤害降低 {0}%"
+"{0}% increased Spell Critical Strike Chance per {1} Player Maximum Life","每 {1} 点玩家最大生命使法术暴击率提高 {0}%"
+"{0}% reduced Spell Critical Strike Chance per {1} Player Maximum Life","每 {1} 点玩家最大生命使法术暴击率降低 {0}%"
+"{0}% increased Spell Critical Strike Chance per Raised Spectre","每个【召唤灵体】会使法术暴击率提高 {0}%"
+"{0}% reduced Spell Critical Strike Chance per Raised Spectre","每个【召唤灵体】会使暴击率降低 {0}%"
+"Spells inflict Intimidate on Critical Strike for {0} seconds","法术暴击时造成恐吓 {0} 秒"
+"Retaliation Skills deal {0}% more Damage","你的反击造成的伤害总增 {0}%"
+"Retaliation Skills deal {0}% less Damage","你的反击造成的伤害总降 {0}%"
+"Item sells for an additional Cartography Scarab of every type",出售物品可额外获得每种类型的制图者圣甲虫各一个
+"Item sells for {0} additional Cartography Scarabs of every type","出售物品可额外获得每种类型的制图者圣甲虫各 {0} 个"
+"Bleeding inflicted with Melee Weapons on non-Bleeding Enemies deals {0}% more Damage","对未流血的敌人造成的流血伤害总增 {0}%"
+"Bleeding inflicted with Melee Weapons on non-Bleeding Enemies deals {0}% less Damage","对未流血的敌人造成的流血伤害总降 {0}%"
+"{0} to Modifier Tier Rating","{0} 词缀等级评分"
+"(The lowest {0}% of Modifier Tiers cannot roll)","（词缀等级最低的 {0}% 无法被重置）"
+"Creates a Grasping Mail",制作扼杀链甲
+"Creates a Sacrificial Garb",制作祭礼束衣
+"Equipment Items found in Area are converted to Basic Currency Items",区域内发现的装备物品转化为基础通货物品
+"{0}% chance to grant an additional Kirac Mission on Map Completion","在地图完成时有 {0}% 的几率额外获得一个奇拉克任务"
+"Grants an additional Kirac Mission on Map Completion",在地图完成时额外获得一个奇拉克任务
+"Drop a Forbidden Tome on Map Completion",完成地图时掉落一本禁域典籍
+"Drop {0} Forbidden Tomes on Map Completion","完成地图时掉落 {0} 本禁域典籍"
+"Drop an Atlas Memory on Map Completion",完成地图时掉落一个异界回忆
+"Drop {0} Atlas Memories on Map Completion","完成地图时掉落 {0} 个异界回忆"
+"{0}% chance for Rare Monsters in Area to be Possessed","区域内的稀有怪物有 {0}% 的几率被附身"
+"{0} Monster Packs in Area are upgraded to Magic","区域内的 {0} 个怪物群被升级为魔法怪物"
+"Breaches open and close {0}% faster for each Breach already opened","每有一个已经开启的裂隙，裂隙开关速度加快 {0}%"
+"Monsters from Breaches have increased Difficulty and Reward for each Breach already opened",每一个已经开启的裂隙使裂隙怪物的难度和奖励提高
+"Breaches open and close {0}% slower for each Breach already opened","每有一个已经开启的裂隙，裂隙开关速度减慢 {0}%"
+"Releasing an Imprisoned Monster has a {0}% chance to grant a random Essence Modifier to another Imprisoned Monster","释放被禁锢的怪物有 {0}% 的几率使另一个被禁锢的怪物获得一个随机精华词缀"
+"Releasing an Imprisoned Monster grants a random Essence Modifier to another Imprisoned Monster",释放被禁锢的怪物会使另一个被禁锢的怪物获得一个随机精华词缀
+"Area is affected by a Resplendent Tempest",区域受到炫灿风暴影响
+"Rare Monsters have a quarter chance to be Possessed by up to {0} Tormented Spirit","稀有怪物有四分之一的几率被最多 {0} 个罪魂附身"
+"Rare Monsters have a quarter chance to be Possessed by up to {0} Tormented Spirits","稀有怪物有四分之一的几率被最多 {0} 个罪魂附身"
+"Monsters from Abysses have increased Difficulty and Reward for each prior Pit in that Abyss",深渊里此前每有一个巨坑都会使深渊怪物的难度和奖励提高
+"All Magic Monsters in Area are in a Union of Souls",区域内的所有魔法怪物为聚魂
+"Each Empowering Tower grants Blighted Monsters in range increased Difficulty and Reward",每有一个赋能之塔使范围内的菌潮怪物的难度和奖励提高
+"Monsters have {0}% more Rarity of items dropped for each Empowered Soul, up to {1}%","每一个聚集魂魄使怪物掉落的物品稀有度总增 {0}%，最多 {1}%"
+"Monsters have a chance to be Empowered by {0} Wildwood Wisps","怪物有几率被 {0} 个荒林鬼灵强化"
+"While you have this Skill and have no placed Banner, you can gain Valour",具有该技能且未放置旗帜时，你可以获得胆魄
+"While you have this Skill, you can gain Valour",具有该技能时，你可以获得胆魄
+"Becomes Usable for {0}% longer","可用的持续时间延长 {0}%"
+"Becomes Usable for {0}% shorter","可用的持续时间缩短 {0}%"
+"While you have no placed Banner, you can gain Valour",未放置旗帜时，你可以获得胆魄
+"You can gain Valour",你可以获得胆魄
+"{0}% more Area of Effect per Valour consumed","每消耗一点胆魄使效果范围总增 {0}%"
+"{0}% less Area of Effect per Valour consumed","每消耗一点胆魄使效果范围总降 {0}%"
+"{0}% more Aura effect per Valour consumed","每消耗一点胆魄使光环效果总增 {0}%"
+"{0}% less Aura effect per Valour consumed","每消耗一点胆魄使光环效果总降 {0}%"
+"Banner grants {0}% increased Accuracy Rating to You and Allies","旗帜使你和友军的命中值提高 {0}%"
+"Banner grants {0}% reduced Accuracy Rating to You and Allies","旗帜使你和友军的命中值降低 {0}%"
+"Banner grants {0}% Chance to Block Attack Damage to You and Allies","旗帜使你和友军有 {0}% 的几率格挡攻击伤害"
+"Banner grants {0}% increased Movement Speed to You and Allies","旗帜使你和友军的移动速度加快 {0}%"
+"Banner grants {0}% reduced Movement Speed to You and Allies","旗帜使你和友军的移动速度减慢 {0}%"
+"Banner grants {0}% chance to Suppress Spell Damage to You and Allies","旗帜使你和友军有 {0}% 的几率压制法术伤害"
+"Banner grants {0}% to Damage over Time Multiplier for Bleeding to You and Allies","旗帜使你和友军的流血持续伤害加成 {0}%"
+"Banner grants {0} Damage taken of each Damage Type from Suppressed Hits to You and Allies","旗帜使你和友军受到的被压制击中的每一种类型的伤害 {0}"
+"Banner grants {0}% increased Impale Effect to You and Allies","旗帜使你和友军的穿刺效果提高 {0}%"
+"Banner grants {0}% reduced Impale Effect to You and Allies","旗帜使你和友军的穿刺效果降低 {0}%"
+"Banner causes you and Allies to Recover {0} Life when Blocking","旗帜使你和友军在格挡时恢复 {0} 点生命"
+"Banner grants {0}% more Physical Damage with Melee Skills to You and Allies","旗帜使你和友军的近战技能造成的物理伤害总增 {0}%"
+"Banner grants {0}% less Physical Damage with Melee Skills to You and Allies","旗帜使你和友军的近战技能造成的物理伤害总降 {0}%"
+"{0}% increased Rage Effect","怒火效果提高 {0}%"
+"Attack Hits against Cursed Enemies have {0}% chance to Aggravate Bleeding","攻击击中被诅咒的敌人时有 {0}% 的几率造成恶性流血"
+"Supported Attacks deal {0}% more Damage for each Warcry Exerting them","每有一个增助的战吼，被辅助的攻击造成伤害总增 {0}%"
+"Supported Attacks deal {0}% less Damage for each Warcry Exerting them","每有一个增助的战吼，被辅助的攻击造成伤害总降 {0}%"
+"Supported Attacks deal {0}% more Damage if Exerted","被辅助的攻击被增助时，造成的伤害总增 {0}%"
+"Supported Attacks deal {0}% less Damage if Exerted","被辅助的攻击被增助时，造成的伤害总降 {0}%"
+"Supported Skills have {0}% more Mana Cost","被辅助技能的魔力消耗总增 {0}%"
+"Supported Skills have {0}% less Mana Cost","被辅助技能的魔力消耗总降 {0}%"
+"Ancestrally Boosted Slams deal {0}% more Damage with Hits and Ailments","先祖加持的猛击造成的击中和异常状态伤害总增 {0}%"
+"Ancestrally Boosted Slams deal {0}% less Damage with Hits and Ailments","先祖加持的猛击造成的击中和异常状态伤害总降 {0}%"
+"Supported Attacks deal {0}% increased Damage if Exerted","被辅助的攻击被增助时，造成的伤害提高 {0}%"
+"Supported Attacks deal {0}% reduced Damage if Exerted","被辅助的攻击被增助时，造成的伤害降低 {0}%"
+"Supported Retaliation Skills become Usable for {0}% longer","被辅助的反击技能可用的持续时间延长 {0}%"
+"Supported Retaliation Skills become Usable for {0}% shorter","被辅助的反击技能可用的持续时间缩短 {0}%"
+"Supported Skills have {0}% more Cooldown Recovery Rate","被辅助技能的冷却回复速度总增 {0}%"
+"Supported Skills have {0}% less Cooldown Recovery Rate","被辅助技能的冷却回复速度总降 {0}%"
+"Critical Strikes with Supported Skills that inflict Bleeding also inflict Rupture",被辅助技能造成流血的暴击还会造成残破
+"Targets take {0}% more Damage from Bleeding per Rupture on them from Supported Skills","被辅助技能对目标每施加一层残破，目标受到的流血伤害总增 {0}%"
+"Targets take {0}% less Damage from Bleeding per Rupture on them from Supported Skills","被辅助技能对目标每施加一层残破，目标受到的流血伤害总降 {0}%"
+"Bleeding expires {0}% more quickly per Rupture from Supported Skills on targets","被辅助技能对目标每施加一层残破，流血消减速度总增 {0}%"
+"Bleeding expires {0}% less quickly per Rupture from Supported Skills on targets","被辅助技能对目标每施加一层残破，流血消减速度总降 {0}%"
+"While Channelling a Supported Skill, take {0}% more Damage from Hits","持续吟唱被辅助的技能时，受到的击中伤害总增 {0}%"
+"While Channelling a Supported Skill, take {0}% less Damage from Hits","持续吟唱被辅助的技能时，受到的击中伤害总降 {0}%"
+"Supported Warcries do not grant Buffs or Charges to You or Allies",被辅助战吼不为你或友军提供增益或能量球
+"Supported Exerted Attacks deal {0}% increased Damage","被辅助的增助攻击造成的伤害提高 {0}%"
+"The Attack and Minions deal {0}% more Damage with Bleeding","攻击和召唤生物造成的流血伤害总增 {0}%"
+"The Attack and Minions deal {0}% less Damage with Bleeding","攻击和召唤生物造成的流血伤害总降 {0}%"
+"Critical Strikes that inflict Bleeding from this Skill or Minions also inflict Rupture",该技能或召唤生物造成流血的暴击还会造成残破
+"Targets take {0}% more Damage from Bleeding per Rupture on them from this Skill or Minions","该技能或召唤生物对目标每施加一层残破，目标受到的流血伤害总增 {0}%"
+"Targets take {0}% less Damage from Bleeding per Rupture on them from this Skill or Minions","该技能或召唤生物对目标每施加一层残破，目标受到的流血伤害总降 {0}%"
+"Bleeding expires {0}% more quickly per Rupture from this Skill or Minions on targets","该技能或召唤生物对目标每施加一层残破，流血消减速度总增 {0}%"
+"Bleeding expires {0}% less quickly per Rupture from this Skill or Minions on targets","该技能或召唤生物对目标每施加一层残破，流血消减速度总降 {0}%"
+"Minion's Attacks deal {0}% more Damage with Bleeding","召唤生物造成的流血伤害总增 {0}%"
+"Minion's Attacks deal {0}% less Damage with Bleeding","召唤生物造成的流血伤害总降 {0}%"
+"Minions' Critical Strikes that inflict Bleeding also inflict Rupture",召唤生物造成流血的暴击还会造成残破
+"Targets take {0}% more Damage from Bleeding per Rupture on them from Minions","召唤生物对目标每施加一层残破，目标受到的流血伤害总增 {0}%"
+"Targets take {0}% less Damage from Bleeding per Rupture on them from Minions","召唤生物对目标每施加一层残破，目标受到的流血伤害总降 {0}%"
+"Bleeding expires {0}% more quickly per Rupture from Minions on targets","召唤生物对目标每施加一层残破，流血消减速度总增 {0}%"
+"Bleeding expires {0}% less quickly per Rupture from Minions on targets","召唤生物对目标每施加一层残破，流血消减速度总降 {0}%"
+Divined,命运所示
+"Damaging Retaliation Skills become Usable every sixth Hit from Enemies instead",伤害性反击技能改为被敌人击中六次后可用
+"Tinctures inflict Weeping Wounds instead of Mana Burn",酊剂造成泣血创伤，而非魔力燃烧
+"Effects that interact with Mana Burn interact with Weeping Wounds instead",与魔力燃烧互动的效果改为对泣血创伤生效
+"Character Gains Crusader's Shrine for {0} second on deployment","部署时角色获得圣战者神龛，持续 {0} 秒"
+"Character Gains Crusader's Shrine for {0} seconds on deployment","部署时角色获得圣战者神龛，持续 {0} 秒"
+"Character Gains Evolving Shrine for {0} second on deployment","部署时角色获得进化神龛，持续 {0} 秒"
+"Character Gains Evolving Shrine for {0} seconds on deployment","部署时角色获得进化神龛，持续 {0} 秒"
+"Character Gains Hunter's Shrine for {0} second on deployment","部署时角色获得猎人神龛，持续 {0} 秒"
+"Character Gains Hunter's Shrine for {0} seconds on deployment","部署时角色获得猎人神龛，持续 {0} 秒"
+"Character Gains Redeemer's Shrine for {0} second on deployment","部署时角色获得救赎者神龛，持续 {0} 秒"
+"Character Gains Redeemer's Shrine for {0} seconds on deployment","部署时角色获得救赎者神龛，持续 {0} 秒"
+"Character Gains Vaal Shrine for {0} second on deployment","部署时角色获得瓦尔神龛，持续 {0} 秒"
+"Character Gains Vaal Shrine for {0} seconds on deployment","部署时角色获得瓦尔神龛，持续 {0} 秒"
+"Character Gains Warlord's Shrine for {0} second on deployment","部署时角色获得督军神龛，持续 {0} 秒"
+"Character Gains Warlord's Shrine for {0} seconds on deployment","部署时角色获得督军神龛，持续 {0} 秒"
+"Cannot be used by default",默认为无法使用
+"Becomes Usable once for {0} second when you Block a Hit","格挡击中后可以在 {0} 秒内使用一次"
+"Becomes Usable once for {0} seconds when you Block a Hit","格挡击中后可以在 {0} 秒内使用一次"
+"Becomes Usable once for {0} second when you take a Savage Hit","受到残暴打击后可以在 {0} 秒内使用一次"
+"Becomes Usable once for {0} seconds when you take a Savage Hit","受到残暴打击后可以在 {0} 秒内使用一次"
+"Becomes Usable once for {0} second after being Hit six times by Enemies","被敌人击中六次后可以在 {0} 秒内使用一次"
+"Becomes Usable once for {0} seconds after being Hit six times by Enemies","被敌人击中六次后可以在 {0} 秒内使用一次"
+"Deals {0}% more Damage for each Warcry Exerting the Attack","每有一个增助攻击的战吼，造成伤害总增 {0}%"
+"Deals {0}% less Damage for each Warcry Exerting the Attack","每有一个增助攻击的战吼，造成伤害总降 {0}%"
+"Deals {0}% more Damage if Exerted","被增助时，造成的伤害总增 {0}%"
+"Deals {0}% less Damage if Exerted","被增助时，造成的伤害总降 {0}%"
+"Requires {0} Unbound Fury","需要 {0} 点不羁狂怒"
+"Consumes all Unbound Fury on use",使用时消耗所有不羁狂怒
+"Each wave has {0} Burst","每道冲击波爆发 {0} 次"
+"Each wave has {0} Bursts","每道冲击波爆发 {0} 次"
+"Causes {0} Wave","产生 {0} 道冲击波"
+"Causes {0} Waves","产生 {0} 道冲击波"
+"While in Blood Stance, Aura makes Enemies take up to {0}% more Physical Damage from Hits","血姿态下，光环使敌人受到的击中物理伤害总增最多 {0}%"
+"While in Blood Stance, Aura makes Enemies take up to {0}% less Physical Damage from Hits","血姿态下，光环使敌人受到的击中物理伤害总降最多 {0}%"
+"While in Sand Stance, Buff makes you take up to {0}% more Damage from Enemies in Aura","沙姿态下，增益使你受到光环内的敌人造成的伤害总增最多 {0}%"
+"While in Sand Stance, Buff makes you take up to {0}% less Damage from Enemies in Aura","沙姿态下，增益使你受到光环内的敌人造成的伤害总降最多 {0}%"
+"Gain {0} Rage on Attack Hit","攻击击中时获得 {0} 点怒火"
+"Critical Strikes that inflict Bleeding also inflict Rupture",造成流血的暴击还会造成残破
+"Targets take {0}% more Damage from Bleeding per Rupture on them from this Skill","该技能对目标每施加一层残破，目标受到的流血伤害总增 {0}%"
+"Targets take {0}% less Damage from Bleeding per Rupture on them from this Skill","该技能对目标每施加一层残破，目标受到的流血伤害总降 {0}%"
+"Bleeding expires {0}% more quickly per Rupture from this Skill on targets","该技能对目标每施加一层残破，流血消减速度总增 {0}%"
+"Bleeding expires {0}% less quickly per Rupture from this Skill on targets","该技能对目标每施加一层残破，流血消减速度总降 {0}%"
+"While Channelling take {0}% more Damage from Hits","持续吟唱时，受到的击中伤害总增 {0}%"
+"While Channelling take {0}% less Damage from Hits","持续吟唱时，受到的击中伤害总降 {0}%"
+"Damages Enemies {0} time","对敌人造成 {0} 次伤害"
+"Damages Enemies {0} times","对敌人造成 {0} 次伤害"
+"{0}% more Damage per Trauma, up to {1}%","每层内伤使伤害总增 {0}%，最多 {1}%"
+"Buff grants {0}% more Armour per {1} Power, counting a maximum of {2} Power","增益使每 {1} 点威力值令护甲总增 {0}%，最多 {2} 点威力值"
+"Buff grants {0}% increased Stun Threshold per {1} Power, counting a maximum of {2} Power","增益使每 {1} 点威力值令晕眩阈值提高 {0}%，最多 {2} 点威力值"
+"Buff grants {0}% increased Movement Speed per {1} Power, counting a maximum of {2} Power","增益使每 {1} 点威力值令移动速度加快 {0}%，最多 {2} 点威力值"
+"Buff grants {0}% to all Elemental Resistances per {1} power, counting a maximum of {2} Power","增益使每 {1} 点威力值令所有元素抗性 {0}%，最多 {2} 点威力值"
+"Buff grants {0}% to all Maximum Elemental","增益使每 10 点威力值令所有"
+"Resistances per 10 Power, counting a maximum of 30 Power","元素抗性上限 {0}%，最多 30 点威力值"
+"Buff grants gain {0}% of Physical Damage as","增益使每 5 点威力值获得相当于伤害 {0}% 的"
+"Extra Fire Damage per {0} power, counting a maximum of 25 Power","额外火焰伤害，最多 2{0} 点威力值"
+"Buff grants {0}% to Critical Strike Chance per {1} power, counting a maximum of {2} Power","增益使每 {1} 点威力值令暴击几率 {0}%，最多 {2} 点威力值"
+"Buff grants {0}% of Life Regenerated per second per","增益使每 5 点威力值每秒再生 {0}% 的生命，"
+"{0} power, counting a maximum of 25 Power","最多 2{0} 点威力值"
+"Buff grants {0} Rage per second per {1} Power, counting a maximum of {2} power","增益使每 {1} 点威力值每秒产生 {0} 点怒火，最多 {2} 点威力值"
+"Buff grants {0} to Maximum Rage","增益使怒火上限 {0}"
+"Buff prevents inherent loss of Rage",增益可防止固有的怒火损失
+"Exerted Attacks have {0}% more Area of Effect","增助攻击的效果范围总增 {0}%"
+"Exerted Attacks have {0}% less Area of Effect","增助攻击的效果范围总降 {0}%"
+"Grants level {0} Affliction","获得 {0} 级折磨"
+"Grants level {0} Pacify","获得 {0} 级宁心"
+"Grants level {0} Penance Mark","获得 {0} 级忏悔印记"
+"{0}% increased Chance to Block","格挡几率提高 {0}%"
+"{0}% reduced Chance to Block","格挡几率降低 {0}%"
+"Socketed Gems are Supported by Level {0} Expert Retaliation","插槽中的宝石受 {0} 级专擅反击辅助"
+"Socketed Gems are Supported by Level {0} Overexertion","插槽中的宝石受 {0} 级超能增助辅助"
+"Socketed Gems are Supported by Level {0} Rupture","插槽中的宝石受 {0} 级残破辅助"
+"{0} Fire, Cold and Lightning Damage taken from Spell Hits per Bark","每层树皮御体使受到法术击中的火焰，冰霜和闪电伤害 {0}"
+"Grants Level {0} Unbound Avatar Skill","获得 {0} 级不羁化身技能"
+"Grants Level {0} Battlemage's Cry Skill","获得 {0} 级魔武战号技能"
+"Grants Level {0} Eviscerate Skill","获得 {0} 级剔骨技能"
+"{0}% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect","效果期间受到的火焰和闪电击中伤害的 {0}% 转化为冰霜伤害"
+"Having a placed Banner does not prevent you gaining Valour",放置旗帜不会阻止你获得胆魄
+"{0}% Chance to Block Spell Damage per {1}% Chance to Block Attack Damage","每 {1}% 攻击伤害格挡几率使法术伤害格挡几率 {0}%"
+"{0}% additional Elemental Damage Reduction per Endurance Charge","每个耐力球使元素伤害额外降低 {0}%"
+"Attack Skills Cost Life instead of {0}% of Mana Cost","攻击技能消耗魔力的 {0}% 改为消耗生命"
+"You and Allies near your Banner Regenerate {0}% of Life per second for each Valour consumed for that Banner","旗帜每消耗一点胆魄，你和旗帜周围的友军每秒再生 {0}% 的生命"
+"Gain {0} Unbound Fury when you inflict an Elemental Ailment with a Hit on an Enemy, no more than once every {1} seconds for each type of Ailment","击中对敌人造成元素异常状态时，获得 {0} 点不羁狂怒，每种异常状态类型每 {1} 秒只能触发一次"
+"Cannot gain Unbound Fury while Unbound",不羁期间无法获得不羁狂怒
+"{0}% more Accuracy Rating while wielding a Sword","装备剑类武器时，命中值总增 {0}%"
+"{0}% less Accuracy Rating while wielding a Sword","装备剑类武器时，命中值总降 {0}%"
+"Attack Hits Aggravate any Bleeding on targets which is older than {0} second","攻击击中会使目标身上已消减 {0} 秒的流血效果变为恶性"
+"Attack Hits Aggravate any Bleeding on targets which is older than {0} seconds","攻击击中会使目标身上已消减 {0} 秒的流血效果变为恶性"
+"{0}% chance to Aggravate Bleeding on targets you Critically Strike with Attacks","攻击暴击有 {0}% 的几率使目标身上的流血效果变为恶性"
+"{0}% chance to Aggravate Bleeding on targets you Hit with Attacks","攻击击中有 {0}% 的几率使目标身上的流血效果变为恶性"
+"{0}% chance to Aggravate Bleeding on targets you Knockback with Attacks Hits","攻击击中造成击退有 {0}% 的几率使目标身上的流血效果变为恶性"
+"{0}% chance to Aggravate Bleeding on targets you Stun with Attacks Hits","攻击击中造成晕眩有 {0}% 的几率使目标身上的流血效果变为恶性"
+"{0}% chance to Aggravate Bleeding on targets you Hit with Exerted Attacks","增助攻击的击中有 {0}% 的几率使目标身上的流血效果变为恶性"
+"Bleeding you inflict is Aggravated",你造成的流血为恶性
+"All Damage can inflict all Elemental Ailments while Unbound",不羁期间，所有伤害可以造成所有元素异常状态
+"Your Hits always inflict Freeze, Shock and Ignite while Unbound",不羁期间，你的击中始终造成冻结、感电和点燃
+"{0}% more Elemental Damage while Unbound","不羁期间，元素伤害总增 {0}%"
+"{0}% less Elemental Damage while Unbound","不羁期间，元素伤害总降 {0}%"
+"{0}% increased Freeze, Shock and Ignite duration while Unbound","不羁期间，冻结、感电和点燃持续时间延长 {0}%"
+"{0}% reduced Freeze, Shock and Ignite duration while Unbound","不羁期间，冻结、感电和点燃持续时间缩短 {0}%"
+"{0}% increased Effect of Scorch while Unbound","不羁期间，烧灼效果提高 {0}%"
+"{0}% reduced Effect of Scorch while Unbound","不羁期间，烧灼效果降低 {0}%"
+"Hits that would Ignite instead Scorch",击中造成的点燃改为造成烧灼
+"{0}% increased effect of Arcane Surge on you per Summoned Totem","每召唤一个图腾，你受到的秘术增强效果提高 {0}%"
+"{0}% reduced effect of Arcane Surge on you per Summoned Totem","每召唤一个图腾，你受到的秘术增强效果降低 {0}%"
+"{0}% more Area of Effect while wielding a Mace or Sceptre","装备锤或短杖时，效果范围总增 {0}%"
+"{0}% less Area of Effect while wielding a Mace or Sceptre","装备锤或短杖时，效果范围总降 {0}%"
+"{0}% increased Armour for each different Retaliation Skill you've used in the past {1} seconds","你在过去 {1} 秒内每使用过一个不同的反击技能，护甲提高 {0}%"
+"{0}% reduced Armour for each different Retaliation Skill you've used in the past {1} seconds","你在过去 {1} 秒内每使用过一个不同的反击技能，护甲降低 {0}%"
+"Every Rage also grants {0}% increased Armour","每一点怒火还会使护甲提高 {0}"
+"{0}% increased Cost of Attacks while you have at least {1} Rage","拥有至少 {1} 点怒火时，攻击的消耗提高 {0}%"
+"{0}% reduced Cost of Attacks while you have at least {1} Rage","拥有至少 {1} 点怒火时，攻击的消耗降低 {0}%"
+"{0}% of Attack Physical Damage Converted to Cold Damage","攻击物理伤害的 {0}% 转化为冰霜伤害"
+"{0}% of Attack Physical Damage Converted to Fire Damage","攻击物理伤害的 {0}% 转化为火焰伤害"
+"{0}% of Attack Physical Damage Converted to Lightning Damage","攻击物理伤害的 {0}% 转化为闪电伤害"
+"Every Rage also grants {0}% increased Attack Speed","每一点怒火还会使攻击速度加快 {0}%"
+"Adds {0}% of your Maximum Energy Shield as Cold Damage to Attacks with this Weapon","该武器的攻击附加相当于能量护盾上限 {0}% 的冰霜伤害"
+"Adds {0}% of your Maximum Mana as Fire Damage to Attacks with this Weapon","该武器的攻击附加相当于魔力上限 {0}% 的火焰伤害"
+"Enemies near your Banner take {0}% increased Damage","旗帜周围的敌人受到的伤害提高 {0}%"
+"Enemies near your Banner take {0}% reduced Damage","旗帜周围的敌人受到的伤害降低 {0}%"
+"Enemies Killed near your Banner have {0}% chance to Explode, dealing a tenth of their Life as Physical Damage","旗帜周围被击败的敌人有 {0}% 的几率爆炸，造成其生命十分之一的物理伤害"
+"Enemies near your Banner are Maimed",旗帜周围的敌人被瘫痪
+"Banner Skills have {0}% increased Area of Effect","旗帜技能的效果范围扩大 {0}%"
+"Banner Skills have {0}% reduced Area of Effect","旗帜技能的效果范围缩小 {0}%"
+"Banner Buffs Linger on you for {0} seconds after you leave the Area","离开效果范围后，旗帜增益在你身上持续 {0} 秒"
+"Banner Skills have {0}% increased Duration","旗帜技能的持续时间延长 {0}%"
+"Banner Skills have {0}% reduced Duration","旗帜技能的持续时间缩短 {0}%"
+"Gain {0} Endurance Charge when you consume maximum Valour to place a Banner","为放置旗帜消耗最大胆魄时，获得 {0} 个耐力球"
+"Gain {0} Endurance Charges when you consume maximum Valour to place a Banner","为放置旗帜消耗最大胆魄时，获得 {0} 个耐力球"
+"Gain {0} Frenzy Charge when you consume maximum Valour to place a Banner","为放置旗帜消耗最大胆魄时，获得 {0} 个狂怒球"
+"Gain {0} Frenzy Charges when you consume maximum Valour to place a Banner","为放置旗帜消耗最大胆魄时，获得 {0} 个狂怒球"
+"Gain {0} Valour when you Warcry, if able","战吼时如果可能，获得 {0} 点胆魄"
+"Recover {0}% of Life per {1} Valour consumed to place a Banner","放置旗帜时，每消耗 {1} 点胆魄便恢复 {0}% 的生命"
+"Remove a random Ailment on you when you consume at least {0} Valour to place a Banner","为放置旗帜消耗至少 {0} 点胆魄时，为你移除一个随机异常状态"
+"Banners also grant {0}% to all Elemental Resistances to you and Allies","旗帜使你和友军的所有元素抗性 {0}%"
+"{0}% increased Valour gained","获得的胆魄提高 {0}%"
+"{0}% reduced Valour gained","获得的胆魄降低 {0}%"
+"{0} to maximum Valour","胆魄上限 {0}"
+"Chance to Block is Lucky",格挡几率特别幸运
+"Chance to Block is Unlucky",格挡几率特别不幸
+"Tinctures applied to you have {0}% increased Effect","对你生效的酊剂效果提高 {0}%"
+"Tinctures applied to you have {0}% reduced Effect","对你生效的酊剂效果降低 {0}%"
+"You can inflict an additional Scorch on each Enemy",你可以对敌人额外施加一层烧灼
+"You can have an additional Tincture active",你可以额外激活一种酊剂
+"{0}% chance to Block Attack Damage if you've used a Retaliation Skill Recently","若你近期使用过反击技能，有 {0}% 的几率格挡攻击伤害"
+"{0}% chance to Block Spell Damage if you've used a Retaliation Skill Recently","若你近期使用过反击技能，有 {0}% 的几率格挡法术伤害"
+"{0}% chance to Defend with double your Armour for each","近期每受到一次敌人的击中，就有 {0}% 的几率"
+"time you've been Hit by an Enemy Recently, up to {0}%","以双倍的护甲防御，最多 {0}%"
+"{0}% chance for Tinctures to not inflict Mana Burn","酊剂有 {0}% 的几率不造成魔力燃烧"
+"{0}% chance to remove {1} Mana Burn on Kill","击败敌人时有 {0}% 的几率移除 {1} 层魔力燃烧"
+"Chaos Damage with Hits is Lucky",击中的混沌伤害特别幸运
+"Chaos Damage with Hits is Unlucky",击中的混沌伤害特别不幸
+"Consecrated Ground you create also grants",你创造的奉献地面还会使你受到的
+"{0}% reduced duration of Damaging Ailments on you","伤害性异常状态的持续时间缩短 {0}%"
+"{0}% increased duration of Damaging Ailments on you","伤害性异常状态的持续时间延长 {0}%"
+"{0}% chance to Cover Enemies in Frost on Hit","击中时有 {0}% 的几率使敌人冰霜缠身"
+"Create Fungal Ground instead of Consecrated Ground",产生真菌地表，而非奉献地面
+"{0}% more Damage taken if you've used a Retaliation Skill Recently","若你近期使用过反击技能，受到的伤害总增 {0}%"
+"{0}% less Damage taken if you've used a Retaliation Skill Recently","若你近期使用过反击技能，受到的伤害总降 {0}%"
+"{0} Damage taken of each Damage Type from Suppressed Hits","受到的被压制击中的每一种类型的伤害 {0}"
+"{0}% more Accuracy Rating per Frenzy Charge","每个狂怒球使命中值总增 {0}%"
+"{0}% less Accuracy Rating per Frenzy Charge","每个狂怒球使命中值总降 {0}%"
+"Inherent Bonuses from Dual Wielding are doubled",双持的固有加成翻倍
+"{0}% increased Elemental Damage with Hits and Ailments for",敌人每受到一种元素异常状态影响，
+"each type of Elemental Ailment on Enemy","击中和异常状态造成的元素伤害降低 {0}%"
+"{0}% reduced Elemental Damage with Hits and Ailments for",敌人每受到一种元素异常状态影响，
+"Elusive on you reduces in effect {0}% slower","你身上的灵巧效果降低的速度减慢 {0}%"
+"Elusive on you reduces in effect {0}% faster","你身上的灵巧效果降低的速度加快 {0}%"
+"Elusive is removed from you at {0}% effect","灵巧效果降低到 {0}% 时从你身上移除"
+"{0}% reduced Energy Shield Recharge Rate for each different type of Mastery you have Allocated","你每配置一种不同的专精，能量护盾充能率降低 {0}%"
+"{0}% increased Energy Shield Recharge Rate for each different type of Mastery you have Allocated","你每配置一种不同的专精，能量护盾充能率提高 {0}%"
+"{0}% increased Evasion Rating while you have an active Tincture","激活酊剂效果时闪避值提高 {0}%"
+"{0}% reduced Evasion Rating while you have an active Tincture","激活酊剂效果时闪避值降低 {0}%"
+"Every fourth Retaliation Skill you use always Critically Strikes",使用的第四个反击技能必定爆击
+"{0}% increased Fire Damage per {1}% Fire Resistance above {2}%","高于 {2}% 的每 {1}% 火焰抗性使火焰伤害提高 {0}%"
+"{0}% reduced Fire Damage per {1}% Fire Resistance above {2}%","高于 {2}% 的每 {1}% 火焰抗性使火焰伤害降低 {0}%"
+"The first {0} Mana Burn applied to you has no effect","对你施加的前 {0} 层魔力燃烧不产生效果"
+"The first {0} Mana Burn applied to you have no effect","对你施加的前 {0} 层魔力燃烧不产生效果"
+"First and Final shots of Barrage sequences fire Projectiles that Return to you",弹幕的首次与最终射击发射的投射物会归返
+"{0}% increased Flask Charges gained per Mana Burn on you","每层魔力燃烧使你获得的药剂充能提高 {0}%"
+"{0}% reduced Flask Charges gained per Mana Burn on you","每层魔力燃烧使你获得的药剂充能降低 {0}%"
+"Enemies you Freeze remain Frozen for at least {0} second","被你冻结的敌人至少维持冻结状态 {0} 秒"
+"Enemies you Freeze remain Frozen for at least {0} seconds","被你冻结的敌人至少维持冻结状态 {0} 秒"
+"Gain a Frenzy Charge each second while Moving",移动时每秒获得一个狂怒球
+"Gain a Frenzy Charge every {0} seconds while Moving","移动时每 {0} 秒获得一个狂怒球"
+"Gain Arcane Surge after Spending a total of {0} Life","总共消耗 {0} 点生命后获得秘术增强"
+"Gain Flaming, Icy or Crackling Runesurge at random for {0} second every {1} seconds","每过 {1} 秒，随机获得烈焰、冰冽或霹雳符文涌动，持续 {0} 秒"
+"Gain Flaming, Icy or Crackling Runesurge at random for {0} seconds every {1} seconds","每过 {1} 秒，随机获得烈焰、冰冽或霹雳符文涌动，持续 {0} 秒"
+"{0}% chance that if you would gain Rage on Hit, you instead gain up to your maximum Rage","击中获得怒火时，有 {0}% 改为获得最大怒火"
+"Gain Onslaught after Spending a total of {0} Mana","总共消耗 {0} 点魔力后获得猛攻"
+"{0}% chance when you use a Retaliation Skill for a different Retaliation Skill to become Usable","使用反击技能时有 {0}% 的几率使另一个反击技能可以使用"
+"Gain a random shrine buff every {0} second","每 {0} 秒获得一个随机神龛增益"
+"Gain a random shrine buff every {0} seconds","每 {0} 秒获得一个随机神龛增益"
+"Gain {0} Rage on Hit with Axes","斧类击中时获得 {0} 点怒火"
+"Gain {0} Rage on Hit with Axes or Swords","斧类或剑类击中时获得 {0} 点怒火"
+"Gain {0} Rage on Critical Strike with Melee Hit","近战击中造成暴击时获得 {0} 点怒火"
+"Gain {0} Rage on Melee Hit","近战击中时获得 {0} 点怒火"
+"Gain {0} Rage when Hit by an Enemy","被敌人击中时获得 {0} 点怒火"
+"{0}% more Critical Strike Chance while wielding a Dagger","装备匕首时，暴击几率总增 {0}%"
+"{0}% less Critical Strike Chance while wielding a Dagger","装备匕首时，暴击几率总降 {0}%"
+"Deal {0}% more Damage with Hits and Ailments to Rare and Unique Enemies for every {1} seconds they've ever been in your Presence, up to a maximum of {2}%","稀有和传奇怪物每在场 {1} 秒，对其造成的击中和异常状态伤害总增 {0}%%，最多 {2}%"
+"Deal {0}% less Damage with Hits and Ailments to Rare and Unique Enemies for every {1} seconds they've ever been in your Presence","稀有和传奇怪物每在场 {1} 秒，对其造成的击中和异常状态伤害总降 {0}%"
+"Deal {0}% more Damage with Hits and Ailments to Rare and Unique Enemies for each second they've ever been in your Presence, up to a maximum of {1}%","稀有和传奇怪物每在场一秒，对其造成的击中和异常状态伤害总增 {0}%，最多 {1}%"
+"Deal {0}% less Damage with Hits and Ailments to Rare and Unique Enemies for each second they've ever been in your Presence","稀有和传奇怪物每在场一秒，对其造成的击中和异常状态伤害总降 {0}%"
+"{0}% of Leech is Instant while wielding a Claw","装备爪类武器时，{0}% 的偷取立即生效"
+"{0}% more Damage with Hits and Ailments against Enemies that are on Low Life while you are wielding an Axe","装备斧类武器时，对低血敌人造成的击中和异常状态伤害总增 {0}%"
+"{0}% less Damage with Hits and Ailments against Enemies that are on Low Life while you are wielding an Axe","装备斧类武器时，对低血敌人造成的击中和异常状态伤害总降 {0}%"
+"Inflict a Grasping Vine on Hit against Enemies with fewer than",任意生命药剂生效期间，
+"{0} Grasping Vines during Effect of any Life Flask","击中缓速藤蔓少于 {0} 层的敌人时施加一层缓速藤蔓"
+"Hits have {0}% chance to ignore Enemy Physical Damage Reduction while you have Sacrificial Zeal","拥有热情牺牲时，击中有 {0}% 的几率忽略敌人的物理伤害减免"
+"Hits ignore Enemy Physical Damage Reduction while you have Sacrificial Zeal",拥有热情牺牲时，击中忽略敌人的物理伤害减免
+"Hits that fail to Freeze due to insufficient Freeze Duration inflict Hoarfrost",冻结时间不足而未能造成冻结的击中会造成白霜
+"Impales you inflict have {0}% reduced Effect once {1} second of Duration has expired","你造成的穿刺效果在持续时间消减 {1} 秒后降低 {0}%"
+"Impales you inflict gain {0}% increased Effect once {1} second of Duration has expired","你造成的穿刺效果在持续时间消减 {1} 秒后提高 {0}%"
+"Impale Damage dealt to Enemies Impaled by you has {0}% chance to ignore Enemy Physical Damage Reduction","对被你穿刺的敌人造成的穿刺伤害有 {0}% 的几率忽略敌人的物理伤害减免"
+"Impale Damage dealt to Enemies Impaled by you ignores Enemy Physical Damage Reduction",对被你穿刺的敌人造成的穿刺伤害忽略敌人的物理伤害减免
+"Haunted by Tormented Spirits",被罪魂纠缠
+"{0}% increased Quantity of Gold Dropped by Slain Enemies","被击败的敌人掉落的金币数量提高 {0}%"
+"{0}% reduced Quantity of Gold Dropped by Slain Enemies","被击败的敌人掉落的金币数量降低 {0}%"
+"Grants Level {0} Swordstorm Skill","获得 {0} 级落刃风暴技能"
+"Has {0}% increased Elemental Damage","元素伤害提高 {0}%"
+"Has {0}% reduced Elemental Damage","元素伤害降低 {0}%"
+"Hits with this Weapon have {0}% chance to ignore Enemy Physical Damage Reduction","该武器的击中有 {0}% 的几率忽略敌人的物理伤害减免"
+"Hits with this Weapon ignore Enemy Physical Damage Reduction",该武器的击中忽略敌人的物理伤害减免
+"Mana Leech from Hits with this Weapon is Instant",该武器击中的魔力偷取立即生效
+"Trigger a Socketed Elemental Spell on Block, with a {0} second Cooldown","格挡时触发一个镶嵌的元素法术，冷却时间 {0} 秒"
+"Can be Enchanted by a Kalguuran Runesmith",可以被卡古兰符文匠附魔
+"Trigger a Socketed Fire Spell on Hit, with a {0} second Cooldown","击中时触发一个镶嵌的火焰法术，冷却时间 {0} 秒"
+"{0}% chance for Rare Monsters to Fracture on death","稀有怪物被击败时有 {0}% 的几率分裂"
+"Maximum Endurance, Frenzy and Power Charges is 0","耐力、狂怒和暴击球上限为 0"
+"{0}% increased Maximum total Life Recovery per second from",若近期造成过暴击，偷取中获得的
+"Leech if you've dealt a Critical Strike recently","每秒最大总恢复量降低 {0}%"
+"{0}% reduced Maximum total Life Recovery per second from",若近期造成过暴击，偷取中获得的
+"{0}% increased Maximum total Life Recovery per second from Leech while at maximum Rage","达到怒火上限时，偷取中获得的每秒最大总恢复量提高 {0}%"
+"{0}% reduced Maximum total Life Recovery per second from Leech while at maximum Rage","达到怒火上限时，偷取中获得的每秒最大总恢复量降低 {0}%"
+"Insufficient Life doesn't prevent your Melee Attacks",生命不足不会使你无法使用近战攻击
+"Your Melee Hits can't be Evaded while wielding a Sword",装备剑类武器时，你的近战击中无法被闪避
+"{0} to Level of all Melee Skill Gems","所有近战技能宝石等级提高 {0}"
+"Melee Strike Skills deal Splash Damage to surrounding targets while wielding a Mace",装备锤类武器时，近战打击技能对周围目标造成溅射伤害
+"{0} to Minimum Rage","怒火下限 {0}"
+"Minions Hits have {0}% chance to ignore Enemy Physical Damage Reduction","召唤生物的击中有 {0}% 的几率忽略敌人的物理伤害减免"
+"Minions Hits ignore Enemy Physical Damage Reduction",召唤生物的击中忽略敌人的物理伤害减免
+"{0}% increased Movement Speed per {1} Rage","每 {1} 点怒火使移动速度提高 {0}%"
+"Your Offering Skills do not require a Corpse",你的奉献技能不需要灵柩
+"When you leave your Banner's Area, recover {0}% of the Valour consumed for that Banner","当你离开自己的旗帜范围时，恢复该旗帜消耗胆魄的 {0}%"
+"{0}% reduced Rage Effect","怒火效果降低 {0}%"
+"Inherent Rage Loss starts {0} second later","固有的怒火损失延迟 {0} 秒开始"
+"Inherent Rage Loss starts {0} seconds later","固有的怒火损失延迟 {0} 秒开始"
+"Maximum Effect of Shock is {0}% increased Damage taken","最大感电效果使受到的伤害提高 {0}%"
+"You can apply up to {0} Shocks to each Enemy","你可以对每个敌人施加最多 {0} 次感电"
+"Recover {0}% of Mana when you activate a Tincture","激活酊剂时回复 {0}% 的魔力"
+"Lose {0}% of Mana when you activate a Tincture","激活酊剂时损失 {0}% 的魔力"
+"Recover {0}% of Mana on Kill while you have a Tincture active","激活酊剂效果时，击败敌人回复 {0}% 的魔力"
+"Lose {0}% of Mana on Kill while you have a Tincture active","激活酊剂效果时，击败敌人损失 {0}% 的魔力"
+"{0}% chance to Restore your Ward on Hit","{0}% 的几率击中时恢复你的结界"
+"Restores your Ward on Hit",击中时恢复你的结界
+"Retaliation Skills become Usable for an additional {0} second","反击技能的可使用时间额外延长 {0} 秒"
+"Retaliation Skills become Usable for an additional {0} seconds","反击技能的可使用时间额外延长 {0} 秒"
+"Retaliation Skills have {0}% increased Area of Effect","反击技能的效果范围扩大 {0}%"
+"Retaliation Skills have {0}% reduced Area of Effect","反击技能的效果范围缩小 {0}%"
+"{0}% increased Cost of Retaliation Skills","反击技能的消耗提高 {0}%"
+"{0}% reduced Cost of Retaliation Skills","反击技能的消耗降低 {0}%"
+"Retaliation Skills deal {0}% increased Damage","反击技能造成的伤害提高 {0}%"
+"Retaliation Skills deal {0}% reduced Damage","反击技能造成的伤害降低 {0}%"
+"{0}% chance for used Retaliation Skills to remain Usable and not consume a Cooldown Use","使用的反击技能有 {0}% 的几率仍可使用，并且不消耗冷却使用次数"
+"Retaliation Skills have {0}% increased Speed","反击技能的速度加快 {0}%"
+"Retaliation Skills have {0}% reduced Speed","反击技能的速度减慢 {0}%"
+"Retaliation Skills have {0}% increased Stun Duration on Enemies","反击技能对敌人造成的晕眩持续时间延长 {0}%"
+"Retaliation Skills have {0}% reduced Stun Duration on Enemies","反击技能对敌人造成的晕眩持续时间缩短 {0}%"
+"Retaliation Skills have {0}% increased Enemy Stun Threshold","反击技能的敌人晕眩阈值提高 {0}%"
+"Retaliation Skills have {0}% reduced Enemy Stun Threshold","反击技能的敌人晕眩阈值降低 {0}%"
+"{0}% increased Duration of Ailments inflicted by Retaliation Skills","反击技能造成的异常状态持续时间延长 {0}%"
+"Retaliation Skills Debilitate Enemies for a second on Hit",反击技能击中时使敌人疲惫一秒
+"Retaliation Skills Debilitate Enemies for {0} seconds on Hit","反击技能击中时使敌人疲惫 {0} 秒"
+"Retaliation Skills Fortify on Melee Hit",反射技能近战击中时获得护体
+"Gain {0} Rage on Hit with Retaliation Skills","反击技能击中时获得 {0} 点怒火"
+"Retaliation Skills become Usable for {0}% longer","反击技能可用的持续时间延长 {0}%"
+"Retaliation Skills become Usable for {0}% shorter","反击技能可用的持续时间缩短 {0}%"
+"Chance to Block Attack or Spell Damage is Lucky if you've Blocked Recently",若近期格挡过，格挡攻击或法术伤害的几率特别幸运
+"Prevent {0}% of Suppressed Spell Damage per Bark below maximum","低于上限的每层树皮御体使被压制的法术伤害阻挡量 {0}%"
+"{0}% chance to Blind Enemies on Hit with Spells","法术击中时有 {0}% 的几率致盲敌人"
+"{0}% chance to inflict Corrosion on Hit with Spells","法术击中时有 {0}% 的几率造成腐蚀"
+"Inflict Corrosion on Hit with Spells",法术击中造成腐蚀
+"Every Rage also grants {0}% increased Stun Threshold","每一点怒火还会使晕眩阈值提高 {0}%"
+"{0}% increased Tincture Cooldown Recovery Rate","酊剂的冷却回复速度加快 {0}%"
+"{0}% reduced Tincture Cooldown Recovery Rate","酊剂的冷却回复速度减慢 {0}%"
+"Tinctures have {0}% increased effect while at or above {1} stacks of Mana Burn","叠加至少 {1} 层魔力燃烧时，酊剂的效果提高 {0}%"
+"Tinctures have {0}% reduced effect while at or above {1} stacks of Mana Burn","叠加至少 {1} 层魔力燃烧时，酊剂的效果降低 {0}%"
+"Tinctures applied to you have {0}% increased Effect if you've used a Life Flask Recently","若你近期使用过生命药剂，对你生效的酊剂效果提高 {0}%"
+"Tinctures applied to you have {0}% reduced Effect if you've used a Life Flask Recently","若你近期使用过生命药剂，对你生效的酊剂效果降低 {0}%"
+"Tincture Effects Linger on you for {0} seconds per Mana Burn on you when the Tincture was deactivated, up to a maximum of {1} seconds","酊剂失效后，每层魔力燃烧使其效果在你身上持续 {0} 秒，最多 {1} 秒"
+"Tinctures applied to you have {0}% increased Mana Burn rate","对你生效的酊剂的魔力燃烧速度加快 {0}%"
+"Tinctures applied to you have {0}% reduced Mana Burn rate","对你生效的酊剂的魔力燃烧速度减慢 {0}%"
+"Tincture Effects also apply to Ranged Weapons",酊剂效果也能对远程武器生效
+"Tinctures deactivate when you have {0} or more Mana Burn","拥有 {0} 层及以上的魔力燃烧时取消酊剂效果"
+"{0}% reduced Cooldown Recovery Rate for throwing Traps per Mine Detonated Recently","近期每引爆一个地雷，投掷陷阱的冷却回复速度降低 {0}%"
+"{0}% increased Cooldown Recovery Rate for throwing Traps per Mine Detonated Recently","近期每引爆一个地雷，投掷陷阱的冷却回复速度提高 {0}%"
+"Trap Skills have {0}% increased Skill Effect Duration","陷阱技能的技能效果持续时间延长 {0}%"
+"Trap Skills have {0}% reduced Skill Effect Duration","陷阱技能的技能效果持续时间缩短 {0}%"
+"Monsters deal {0}% increased Damage for each time they have been Revived","怪物在每次再生时造成的伤害提高 {0}%"
+"Warcries Exert twice as many Attacks",战吼增助的攻击次数翻倍
+"Warcries grant {0} Rage per {1} Enemy Power, up to {2}","战吼使每 {1} 点敌人威力值产生 {0} 点怒火，最多 {2} 点"
+"Gain Ward instead of {0}% of Armour and Evasion Rating from Equipped Body Armour","装备胸甲的护甲和闪避值的 {0}% 转为结界"
+"Tinctures applied to you have {0}% more Mana Burn rate","对你生效的酊剂的魔力燃烧速度总增 {0}%"
+"Tinctures applied to you have {0}% less Mana Burn rate","对你生效的酊剂的魔力燃烧速度总降 {0}%"
+"Lose {0} Bark when Hit by Enemy Spell Damage","受到敌人的法术击中伤害时失去 {0} 层树皮御体"
+"Arsenal of Vengeance",复仇军库
+"Bloodsoaked Blade",喋血之刃
+"{0}% reduced Enemy Stun Threshold with Melee Weapons","近战武器使敌人的晕眩阈值降低 {0}%"
+"{0}% increased Enemy Stun Threshold with Melee Weapons","近战武器使敌人的晕眩阈值提高 {0}%"
+"{0}% chance to cause Bleeding with Melee Weapons","近战武器有 {0}% 的几率造成流血"
+"{0}% chance to Blind Enemies on Hit with Melee Weapons","近战武器击中时有 {0}% 的几率致盲敌人"
+"Does not inflict Mana Burn over time",不会持续造成魔力燃烧
+"Inflicts Mana Burn on you when you Hit an Enemy with a Melee Weapon",近战武器击中敌人时对你造成魔力燃烧
+"Inflicts {0} Mana Burn on you when you Hit an Enemy with a Melee Weapon","近战武器击中敌人时对你造成 {0} 层魔力燃烧"
+"{0}% increased Rarity of Items found per Mana Burn, up to a maximum of {1}%","每层魔力燃烧使物品稀有度提高 {0}%，最多 {1}%"
+"All Damage with Melee Weapons can Freeze",近战武器的所有伤害可以造成冻结
+"All Damage with Melee Weapons can Ignite",近战武器的所有伤害可以造成点燃
+"All Damage with Melee Weapons can Poison",近战武器的所有伤害可以造成中毒
+"All Damage with Melee Weapons can Shock",近战武器的所有伤害可以造成感电
+"Damaging Melee Weapon Hits always Stun Enemies that are on Full Life",近战武器击中满血敌人并造成伤害时必定使其晕眩
+"Melee Weapon Hits Inflict {0} Withered Debuffs for {1} seconds","近战武器击中施加 {0} 层死亡凋零减益，持续 {1} 秒"
+"{0}% increased Rarity of Items Dropped by Enemies killed by Melee Weapon Attacks","近战武器攻击击败的敌人掉落的物品稀有度提高 {0}%"
+"{0}% reduced Rarity of Items Dropped by Enemies killed by Melee Weapon Attacks","近战武器攻击击败的敌人掉落的物品稀有度降低 {0}%"
+"{0}% increased Damage with Bleeding from Melee Weapons","近战武器造成的流血伤害提高 {0}%"
+"{0}% reduced Damage with Bleeding from Melee Weapons","近战武器造成的流血伤害降低 {0}%"
+"{0}% increased Effect of Blind from Melee Weapons","近战武器造成的致盲效果提高 {0}%"
+"{0}% reduced Effect of Blind from Melee Weapons","近战武器造成的致盲效果降低 {0}%"
+"{0}% chance to inflict a Grasping Vine on Melee Weapon Hit","近战武器击中时有 {0}% 的几率施加一层缓速藤蔓"
+"Inflict a Grasping Vine on Melee Weapon Hit",近战武器击中时施加一层缓速藤蔓
+"{0}% Chance to Block Attack Damage if you've Stunned an Enemy with a Melee Weapon Recently","若你近期使用近战武器令敌人晕眩，格挡攻击伤害的几率 {0}%"
+"{0}% chance to Freeze with Melee Weapons","近战武器有 {0}% 的几率造成冻结"
+"{0}% chance to Ignite with Melee Weapons","近战武器有 {0}% 的几率造成点燃"
+"{0}% chance to Poison with Melee Weapons","近战武器有 {0}% 的几率造成中毒"
+"{0}% chance to Shock with Melee Weapons","近战武器有 {0}% 的几率造成感电"
+"{0}% increased Effect of Chill from Melee Weapons","近战武器的冰缓效果提高 {0}%"
+"{0}% reduced Effect of Chill from Melee Weapons","近战武器的冰缓效果降低 {0}%"
+"{0}% chance to create Consecrated Ground when you Hit a Rare or","近战武器击中稀有或传奇敌人时有 {0}% 的几率"
+"Unique Enemy with a Melee Weapon, lasting {0} seconds",创造奉献地面，持续{0}秒
+"{0}% increased Critical Strike Chance with Melee Weapons","近战武器暴击几率提高 {0}%"
+"{0}% reduced Critical Strike Chance with Melee Weapons","近战武器暴击几率降低 {0}%"
+"Melee Weapon Attacks have Culling Strike",近战武器攻击具有终结效果
+"{0}% increased Elemental Damage with Melee Weapons","近战武器造成的元素伤害提高 {0}%"
+"{0}% reduced Elemental Damage with Melee Weapons","近战武器造成的元素伤害降低 {0}%"
+"Killing Blows with Melee Weapons have a {0}% chance for Enemies to","近战武器击败敌人时有 {0}% 的几率使其爆炸，"
+"Explode, dealing a tenth of their maximum Life as Fire Damage",造成其生命上限十分之一的火焰伤害
+"{0} Fire Damage taken from Hits per Mana Burn","每层魔力燃烧使受到的击中火焰伤害 {0}"
+"Killing Blows with Melee Weapons against Rare Monsters have a","近战武器击败稀有敌人时有 {0}% 的几率"
+"{0}% chance to grant one of their Modifiers for {1} seconds","获得它的一项属性词缀，持续 {1} 秒"
+"{0}% chance to gain {1} Rage when you Hit a Rare or Unique Enemy with a Melee Weapon","近战武器击中稀有或传奇敌人时有 {0}% 的几率获得 {1} 点怒火"
+"Gain {0} Rage when you Hit a Rare or Unique Enemy with a Melee Weapon","近战武器击中稀有或传奇敌人时获得 {0} 点怒火"
+"Gain {0} Rage on Melee Weapon Hit","近战武器击中时获得 {0} 点怒火"
+"Melee Weapon Hits have {0}% chance to ignore Enemy Physical Damage Reduction","近战武器击中有 {0}% 的几率忽略敌人的物理伤害减免"
+"Melee Weapon Hits ignore Enemy Physical Damage Reduction",近战武器击中忽略敌人的物理伤害减免
+"{0}% increased Damage with Ignite from Melee Weapons","近战武器造成的点燃伤害提高 {0}%"
+"{0}% reduced Damage with Ignite from Melee Weapons","近战武器造成的点燃伤害降低 {0}%"
+"{0}% of Melee Weapon Leech is Instant against Enemies that are on Low Life","对低血敌人造成的近战武器偷取有 {0}% 立即生效"
+"{0}% of Overkill Damage with Melee Weapons is Leeched as Life","近战武器造成溢出伤害的 {0}% 转化为生命偷取"
+"{0}% increased Mana Regeneration Rate if you have Shocked an Enemy with a Melee Weapon Recently","若近期使用近战武器令敌人感电，魔力再生率提高 {0}%"
+"{0}% reduced Mana Regeneration Rate if you have Shocked an Enemy with a Melee Weapon Recently","若近期使用近战武器令敌人感电，魔力再生率降低 {0}%"
+"Attacks with Melee Weapons fire an additional Projectile if you've been Hit Recently",若你近期被击中，近战武器的攻击发射一枚额外投射物
+"Attacks with Melee Weapons fire {0} additional Projectiles if you've been Hit Recently","若你近期被击中，近战武器的攻击发射 {0} 枚额外投射物"
+"Melee Weapons have {0}% chance to ignore Enemy Physical Damage Reduction","近战武器有 {0}% 的几率忽略敌人的物理伤害减免"
+"Melee Weapon Damage Penetrates {0}% Elemental Resistances per Mana Burn","每层魔力燃烧使近战武器伤害穿透 {0}% 元素抗性"
+"{0}% chance to gain Phasing for {1} seconds on Melee Weapon Kill","近战武器击败敌人时有 {0}% 的几率获得迷踪，持续 {1} 秒"
+"Gain Phasing for {0} seconds on Melee Weapon Kill","近战武器击败敌人时获得迷踪，持续 {0} 秒"
+"{0}% increased Damage with Poison from Melee Weapons","近战武器造成的中毒伤害提高 {0}%"
+"{0}% reduced Damage with Poison from Melee Weapons","近战武器造成的中毒伤害降低 {0}%"
+"{0}% increased Mana Burn rate","魔力燃烧速度加快 {0}%"
+"{0}% reduced Mana Burn rate","魔力燃烧速度减慢 {0}%"
+"{0}% chance to Curse Enemies with a random Hex on Melee Weapon Hit","近战武器击中时有 {0}% 的几率对敌人附加一个随机魔蛊诅咒"
+"Recover {0}% of Life on Killing a Rare or Unique Enemy with a Melee Weapon","使用近战武器击败稀有或传奇敌人时恢复 {0}% 的生命"
+"Lose {0}% of Life on Killing a Rare or Unique Enemy with a Melee Weapon","使用近战武器击败稀有或传奇敌人时失去 {0}% 的生命"
+"Melee Weapon Damage Penetrates {0}% Chaos Resistance","近战武器伤害穿透 {0}% 混沌抗性"
+"Your Melee Weapon Hits treat Chaos Resistance as {0}% higher than actual value","你的近战武器击中将混沌抗性视作比实际值高 {0}%"
+"Melee Weapon Damage Penetrates {0}% Cold Resistance","近战武器伤害穿透 {0}% 冰霜抗性"
+"Your Melee Weapon Hits treat Cold Resistance as {0}% higher than actual value","你的近战武器击中将冰霜抗性视作比实际值高 {0}%"
+"Melee Weapon Damage Penetrates {0}% Fire Resistance","近战武器伤害穿透 {0}% 火焰抗性"
+"Your Melee Weapon Hits treat Fire Resistance as {0}% higher than actual value","你的近战武器击中将火焰抗性视作比实际值高 {0}%"
+"Melee Weapon Damage Penetrates {0}% Lightning Resistance","近战武器伤害穿透 {0}% 闪电抗性"
+"Your Melee Weapon Hits treat Lightning Resistance as {0}% higher than actual value","你的近战武器击中将闪电抗性视作比实际值高 {0}%"
+"{0}% chance to refresh Bleeding Duration on Melee Weapon Hit","近战武器击中有 {0}% 的几率刷新流血的持续时间"
+"{0}% chance to refresh Ignite Duration on Melee Weapon Hit","近战武器击中有 {0}% 的几率刷新点燃的持续时间"
+"Killing Blows with Melee Weapons have {0}% chance to Shatter Enemies","近战武器击败敌人时有 {0}% 的几率将其击碎"
+"{0}% increased Effect of Shock from Melee Weapons","近战武器的感电效果提高 {0}%"
+"{0}% reduced Effect of Shock from Melee Weapons","近战武器的感电效果降低 {0}%"
+"{0}% chance to Steal Endurance Charges on Hit with Melee Weapons","近战武器击中时有 {0}% 的几率偷取耐力球"
+"Melee Weapon Hits Steal Endurance Charges",近战武器击中时偷取耐力球
+"{0}% chance to Steal Frenzy Charges on Hit with Melee Weapons","近战武器击中时有 {0}% 的几率偷取狂怒球"
+"Melee Weapon Hits Steal Frenzy Charges",近战武器击中时偷取狂怒球
+"{0}% chance to Steal Power Charges on Hit with Melee Weapons","近战武器击中时有 {0}% 的几率偷取暴击球"
+"Melee Weapon Hits Steal Power Charges",近战武器击中时偷取暴击球
+"{0}% increased Stun Duration with Melee Weapons","近战武器造成的晕眩持续时间延长 {0}%"
+"{0}% reduced Stun Duration with Melee Weapons","近战武器造成的晕眩持续时间缩短 {0}%"
+"{0}% increased Melee Weapon Attack Speed","近战武器攻击速度加快 {0}%"
+"{0}% reduced Melee Weapon Attack Speed","近战武器攻击速度减慢 {0}%"
+"Gain {0} Mana per Enemy Killed with Melee Weapons","近战武器每击败一名敌人获得 {0} 点魔力"
+"Lose {0} Mana per Enemy Killed with Melee Weapons","近战武器每击败一名敌人损失 {0} 点魔力"
+"{0}% to Melee Weapon Critical Strike Multiplier","近战武器暴击伤害加成 {0}%"
+"{0}% to Damage over Time Multiplier with Melee Weapon Attacks","近战武器攻击的持续伤害加成 {0}%"
+"{0}% increased Duration of Elemental Ailments from Melee Weapon Attacks","近战武器攻击造成的元素异常状态的持续时间延长 {0}%"
+"{0}% reduced Duration of Elemental Ailments from Melee Weapon Attacks","近战武器攻击造成的元素异常状态的持续时间缩短 {0}%"
+"{0}% increased Flask Charges gained from Kills with Melee Weapons","近战武器击败敌人获得的药剂充能提高 {0}%"
+"{0}% reduced Flask Charges gained from Kills with Melee Weapons","近战武器击败敌人获得的药剂充能降低 {0}%"
+"Gain {0} Life per Enemy Hit with Melee Weapons","近战武器每击中一名敌人获得 {0} 点生命"
+"Gain {0} Life per Enemy Killed with Melee Weapons","近战武器每击败一名敌人获得 {0} 点生命"
+"Gain {0} Mana per Enemy Hit with Melee Weapons","近战武器每击中一名敌人获得 {0} 点魔力"
+"Melee Weapon Damage Penetrates {0}% Elemental Resistances","近战武器伤害穿透 {0}% 元素抗性"
+"{0}% increased Melee Weapon Damage against Enemies that are on Low Life","对低血敌人造成的近战武器伤害提高 {0}%"
+"Melee Weapons have {0}% to Critical Strike Chance against Enemies that are on Full Life","近战武器对满血敌人的暴击几率 {0}%"
+"Poisons inflicted with Melee Weapons on non-Poisoned Enemies deal {0}% increased Damage","近战武器对未中毒敌人造成的中毒伤害提高 {0}%"
+"Poisons inflicted with Melee Weapons on non-Poisoned Enemies deal {0}% reduced Damage","近战武器对未中毒敌人造成的中毒伤害降低 {0}%"
+"{0}% increased Melee Weapon Attack Speed if you have Blocked Recently","若近期格挡过，近战武器攻击速度加快 {0}%"
+"{0}% reduced Melee Weapon Attack Speed if you have Blocked Recently","若近期格挡过，近战武器攻击速度减慢 {0}%"
+"Chills from Melee Weapon Hits always reduce Action Speed by at least {0}%","近战武器击中造成的冰缓效果总能使行动速度降低至少 {0}%"
+"Cover Full Life Enemies in Ash for {0} seconds on Melee Weapon Hit","近战武器击中满血敌人时使其灰烬缠身，持续 {0} 秒"
+"Cover Full Life Enemies in Frost for {0} seconds on Melee Weapon Hit","近战武器击中满血敌人时使其冰霜缠身，持续 {0} 秒"
+"{0}% to Melee Weapon Critical Strike Multiplier against Enemies that are on Full Life","对满血敌人的近战武器暴击加成 {0}%"
+"Crush Full Life Enemies for {0} seconds on Melee Weapon Hit","近战武器击中满血敌人时碾压，持续 {0} 秒"
+"{0}% increased Melee Weapon Damage for each","你在过去 8 秒内每施放一个非瞬发法术，"
+"Non-Instant Spell you've Cast in the past 8 seconds","近战武器伤害降低 {0}%"
+"{0}% reduced Melee Weapon Damage for each","你在过去 8 秒内每施放一个非瞬发法术，"
+"Your Melee Weapon Hits can't be Evaded while you are on Low Life",低血时你的近战武器击中无法被闪避
+"{0}% chance to gain Onslaught for {1} seconds on Killing Blow with Melee Weapons","近战武器击败敌人时有 {0}% 的几率获得猛攻 {1} 秒"
+"Gain Onslaught for {0} seconds on Killing Blow with Melee Weapons","近战武器击败敌人时获得猛攻 {0} 秒"
+"Projectiles from Melee Weapon Attacks have {0}% chance to be able to Chain when colliding with terrain","近战武器攻击的投射物击中地形时有 {0}% 的几率产生连锁"
+"Projectiles from Melee Weapon Attacks can Chain when colliding with terrain",近战武器攻击的投射物击中地形时产生连锁
+"{0}% increased Melee Weapon Attack Area of Effect if you've Killed Recently","若近期击败过敌人，近战武器的攻击效果范围扩大 {0}%"
+"{0}% reduced Melee Weapon Attack Area of Effect if you've Killed Recently","若近期击败过敌人，近战武器的攻击效果范围缩小 {0}%"
+"Can Disenchant Magic Equipment Items",可以分解魔法装备物品
+"Can Disenchant Magic or Rare Equipment Items",可以分解魔法或稀有装备物品
+"Can Disenchant Magic, Rare or Unique Equipment Items",可以分解魔法，稀有或传奇装备物品
+"Farming Plots can grow Wheat",耕作田现在可以种植小麦
+"Farming Plots can grow Wheat and Corn",耕作田现在可以种植小麦和玉米
+"Farming Plots can grow Wheat, Corn and Pumpkin",耕作田现在可以种植小麦，玉米和南瓜
+"Farming Plots can grow Wheat, Corn, Pumpkin and Orgourd",耕作田现在可以种植小麦，玉米，南瓜和金葫芦
+"Farming Plots can grow Wheat, Corn, Pumpkin, Orgourd and Blue Zanthimum",耕作田现在可以种植小麦，玉米，南瓜，金葫芦和蓝翠花
+"Can Mine Crimson Iron",可以采掘绯红铁矿石
+"Can Mine Crimson Iron and Orichalcum",可以采掘绯红铁矿石和奥利哈刚矿石
+"Can Mine Crimson Iron, Orichalcum and Petrified Amber",可以采掘绯红铁矿石，奥利哈刚矿石和石化琥珀矿石
+"Can Mine Crimson Iron, Orichalcum, Petrified Amber and Bismuth",可以采掘绯红铁矿石，奥利哈刚矿石，石化琥珀矿石和铋矿石
+"Can Mine Crimson Iron, Orichalcum, Petrified Amber, Bismuth and Verisium",可以采掘绯红铁矿石，奥利哈刚矿石，石化琥珀矿石，铋矿石和维金矿石
+"Can Recombinate Weapons",可以重组武器
+"Can Recombinate Weapons and Armour",可以重组武器和护甲
+"Can Recombinate Weapons, Armour and Jewellery",可以重组武器，护甲和饰品
+"Atlas Runners can run White Maps",异界冒险者可以挑战白色地图
+"Atlas Runners can run White and Yellow Maps",异界冒险者可以挑战白色和黄色地图
+"Atlas Runners can run White, Yellow and Red Maps",异界冒险者可以挑战白色，黄色和红色地图
+"Atlas Runners can run White, Yellow, Red and Purple Maps",异界冒险者可以挑战白色，黄色，红色和紫色地图
+"Can Smelt Crimson Iron Ore",可以冶炼绯红铁矿石
+"Can Smelt Crimson Iron and Orichalcum Ores",可以冶炼绯红铁矿石和奥利哈刚矿石
+"Can Smelt Crimson Iron, Orichalcum and Petrified Amber Ores",可以冶炼绯红铁矿石，奥利哈刚矿石和石化琥珀矿石
+"Can Smelt Crimson Iron, Orichalcum, Petrified Amber and Bismuth Ores",可以冶炼绯红铁矿石，奥利哈刚矿石，石化琥珀矿石和铋矿石
+"Can Smelt Crimson Iron, Orichalcum, Petrified Amber, Bismuth and Verisium Ores",可以冶炼绯红铁矿石，奥利哈刚矿石，石化琥珀矿石，铋矿石和维金矿石
+"{0}% increased Thaumaturgic Dust per Corruption Implicit","每一种腐化基底使获得的奇术之尘提高 {0}%"
+"{0}% reduced Thaumaturgic Dust per Corruption Implicit","每一种腐化基底使获得的奇术之尘降低 {0}%"
+"{0}% increased Thaumaturgic Dust per Influence Type","每一种影响类型使获得的奇术之尘提高 {0}%"
+"{0}% reduced Thaumaturgic Dust per Influence Type","每一种影响类型使获得的奇术之尘降低 {0}%"
+"{0}% increased Thaumaturgic Dust per Item Quality","每一点物品品质使获得的奇术之尘提高 {0}%"
+"{0}% reduced Thaumaturgic Dust per Item Quality","每一点物品品质使获得的奇术之尘降低 {0}%"
+"{0}% increased Disenchanting Speed","分解速度提高 {0}%"
+"{0}% increased Farming Speed","耕作速度提高 {0}%"
+"Plots yield {0}% increased Crop per adjacent Plot being Farmed","每耕作一片相邻的耕作田，耕作田的产量提高 {0}%"
+"{0}% increased Crop yield per different Crop being Farmed","每种植一种不同的作物，作物产量提高 {0}%"
+"{0}% increased Fishing Speed","钓鱼速度提高 {0}%"
+"Marking Ore in Areas grants Gold equal to the amount of Ore",区域内标记的矿脉提供与矿石等量的金币
+"{0}% increased Mapping Speed","异界冒险速度提高 {0}%"
+"{0}% increased effect of Explicit Modifiers on Maps","地图的外延词缀效果提高 {0}%"
+"{0}% reduced effect of Explicit Modifiers on Maps","地图的外延词缀效果降低 {0}%"
+"{0} Maximum Ship Crew","{0} 船员上限"
+"{0} Maximum Farmer per Plot","{0} 每片耕作田的农夫上限"
+"{0} Maximum Farmers per Plot","{0} 每片耕作田的农夫上限"
+"Map Devices have {0} Portal","地图装置具有 {0} 个传送门"
+"Map Devices have {0} Portals","地图装置具有 {0} 个传送门"
+"{0} Maximum Disenchanter","{0} 分解师上限"
+"{0} Maximum Disenchanters","{0} 分解师上限"
+"{0} Maximum Fisherman","{0} 渔夫上限"
+"{0} Maximum Fishermen","{0} 渔夫上限"
+"{0} Maximum Miner","{0} 矿工上限"
+"{0} Maximum Miners","{0} 矿工上限"
+"{0} Maximum Smelter","{0} 冶炼师上限"
+"{0} Maximum Smelters","{0} 冶炼师上限"
+"{0} Maximum Town Population","{0} 城镇人口上限"
+"{0}% increased Mining Speed","采掘速度提高 {0}%"
+"{0} Farming Plot","{0} 片耕作田"
+"{0} Farming Plots","{0} 片耕作田"
+"{0} Map Device","{0} 个地图装置"
+"{0} Map Devices","{0} 个地图装置"
+"Recruitment Agency lists up to {0} Recruit","招募经纪人会列出最多 {0} 个人选"
+"Recruitment Agency lists up to {0} Recruits","招募经纪人会列出最多 {0} 个人选"
+"{0} Ship","{0} 条船只"
+"{0} Ships","{0} 条船只"
+"{0}% increased Ore found in Areas","该区域内找到的矿石数量提高 {0}%"
+"{0}% reduced Ore found in Areas","该区域内找到的地图数量降低 {0}%"
+"Ports Quotas are {0}% more rewarding","港口定额的奖励总增 {0}%"
+"Ports Quotas are {0}% less rewarding","港口定额的奖励总降 {0}%"
+"Ores found in Areas are more likely to be rarer varieties",区域内的矿石更有可能为稀有类型
+"{0}% chance for Modifiers to upgrade tier","{0}% 的几率将词缀升级"
+"Rarer Modifiers are more likely to be retained",高稀有度词缀更有可能被保留
+"{0}% increased Recombination Cost","重组成本提高 {0}%"
+"{0}% reduced Recombination Cost","重组成本降低 {0}%"
+"{0}% increased Recruitment Reroll Cost","招募重置成本提高 {0}%"
+"{0}% reduced Recruitment Reroll Cost","招募重置成本降低 {0}%"
+"Can Runesmith using Sun Runes",符文匠可以使用太阳符文
+"Can Runesmith using Sun and Bound Runes",符文匠可以使用太阳和束缚符文
+"Can Runesmith using Sun, Bound and Life Runes",符文匠可以使用太阳，束缚和生命符文
+"Can Runesmith using Sun, Bound, Life and War Runes",符文匠可以使用太阳，束缚，生命和战争符文
+"Can Runesmith using Sun, Bound, Life, War and River Runes",符文匠可以使用太阳，束缚，生命，战争和河川符文
+"Can Runesmith using Sun, Bound, Life, War, River and Bounty Runes",符文匠可以使用太阳，束缚，生命，战争，河川和富裕符文
+"Can Runesmith using Sun, Bound, Life, War, River, Bounty and Journey Runes",符文匠可以使用太阳，束缚，生命，战争，河川，富裕和旅途符文
+"Can Runesmith using Sun, Bound, Life, War, River, Bounty, Journey and Mountain Runes",符文匠可以使用太阳，束缚，生命，战争，河川，富裕，旅途和崇山符文
+"Can Runesmith using Sun, Bound, Life, War, River, Bounty, Journey, Mountain and Time Runes",符文匠可以使用太阳，束缚，生命，战争，河川，富裕，旅途，崇山和时光符文
+"Can Runesmith using Sun, Bound, Life, War, River, Bounty, Journey, Mountain, Time and Power Runes",符文匠可以使用太阳，束缚，生命，战争，河川，富裕，旅途，崇山，时光和威能符文
+"{0}% increased Ship Speed","船只速度提高 {0}%"
+"{0}% increased Smelting Speed","冶炼速度提高 {0}%"
+"Tier {0}+ Maps have either Maven, Searing Exarch or Eater of Worlds Influence","{0} 阶及以上地图拥有贤主、焚界者或灭界者影响"
+"Cursed Enemies grant {0} Rage when Stunned","被诅咒的敌人晕眩时获得 {0} 点怒火"

@@ -276,7 +276,7 @@ Trickery,詭計
 "Evasion and Elemental Resistances",閃避與元素抗性
 Reflexes,反射
 Swagger,雙刃之舞
-Block,格擋
+Block,格檔
 "Dual Wield Block and Attack Speed",雙持格擋和攻擊速度
 "Ignite Chance and Duration",點燃機率和持續時間
 "Heart of Flame",火焰之心
@@ -1530,7 +1530,7 @@ Blessed,祝福
 "Dance of Blades",劍舞
 "Link Effect",連結效果
 "Stun Recovery",暈眩恢復
-"Life Gain on Hit",擊中獲得生命
+"Life Gain on Hit",擊中生命回復
 "Excess Sustenance",營養過剩
 "Stance Reservation Efficiency",姿態保留效用
 "Glacial Cage",冰牢
@@ -1610,3 +1610,132 @@ Sanguimancy,占血術
 "Primal Wisps found",掉落原始妖精
 "Warlord's Call",督軍的呼喚
 "Mana and Increased Mana Cost",魔力和增加魔力消耗
+"Totem Life and Damage",圖騰生命和傷害
+"Physical Damage and Ignore Physical Damage Reduction",物理傷害和無視物理傷害減免
+"Life Leech Speed",生命偷取速度
+"Mana Leech Speed",魔力偷取速度
+"Rage on Hit",擊中時獲得盛怒
+"Slower Rage Decay",減緩盛怒衰退
+"Battle Trance",戰鬥冥想
+"Maximum Rage and Armour",最大盛怒和護甲
+"Slower Rage Decay and Armour",較慢的盛怒衰退和護甲
+Vengeance,復仇
+"Savage Intensity",野性強化
+"Maximum Rage",最大盛怒
+"Veteran's Wrath",老兵的暴怒
+"Armour, Chaos Resistance",護甲、混沌抗性
+"Physical Damage, Rage on Hit",物理傷害、擊中獲得盛怒機率
+"Life Regeneration, Warcry Duration",生命回復、戰吼持續時間
+"Sione, Sun's Roar",烈日怒吼．西奧妮
+"Evasion, Chance to Freeze",閃避值、冰凍機率
+"Oath of Spring",新春誓言
+"Evasion, Chance to Shock",閃避值、感電機率
+"Oath of Winter",凜冬誓言
+"Evasion, Spell Suppression",閃避值、法術壓抑
+"Mother's Teachings",母親的教誨
+"Evasion, Chance to Ignite",閃避值、點燃機率
+"Oath of Summer",炎夏誓言
+"Evasion, Elemental Ailment Duration",閃避、元素異常狀態持續時間
+"Avatar of the Wilds",獸性化身
+"Evasion, Tincture Effect",閃避、萃取物效果
+"Experienced Herbalist",經驗豐富的藥草師
+"Enduring Suffusion",耐久瀰漫
+Avidity,貪慾
+"Attack Speed, Bleed Chance",攻擊速度、流血機率
+"Jagged Technique",鋸齒技法
+"Weapon Master",武器大師
+"Determined Survivor",堅定的倖存者
+"Measured Retaliation",精準復仇
+"More Than Skill",技能不止
+"Attack Speed, Attack Damage",攻擊速度、攻擊傷害
+"War of Attrition",消耗戰
+Warden,守護者
+"Attack Mana Cost",攻擊魔力消耗
+"Staff Spell Block",長杖法術格擋
+"Spell Area of Effect",法術範圍效果
+"Melee Area of Effect",近戰範圍效果
+"Totem Attack Speed",圖騰攻擊速度
+"Wild Hunger",野性渴望
+"Awe and Terror",敬畏與恐懼
+"Rallying Icon",團結象徵
+"Defiant Stand",反抗立場
+"Renowned Deeds",著名事蹟
+"Banner Area of Effect",鬥旗範圍效果
+"Banner Duration",鬥旗持續時間
+"Banner Valour Gained",獲得的鬥旗勇氣
+"Banner Maximum Valour and Duration",鬥旗最大勇氣和持續時間
+"Banner Maximum Valour",鬥旗最大勇氣
+"Banner Aura Effect",旌旗光環效果
+"Wicked Blade",殘靈刀刃
+"Bleed Duration",流血持續時間
+"Master of Wounds",創傷大師
+"Impale Chance and Attack Speed",穿刺機率和攻擊速度
+"Brutal Skewering",殘酷串燒
+"Leader of the Pack",群體領袖
+"Thrill of Battle",戰鬥亢奮
+"Spirit of War",戰爭之靈
+"Slower Mana Burn",魔力灼燒減速
+"Tincture Effect",萃取物效果
+"Practised Reapplication",熟以致用
+"Colloidal Mixture",膠體混合物
+"Perfected Formula",完美配方
+"Dual Wield Attack Speed and Block",雙持攻擊速度和格擋
+"Feline Swiftness",貓族迅捷
+"As The Mountain",宛如神山
+"Block and Armour",格擋與護甲
+"Block and Block Recovery",格擋與格擋恢復
+"Wall of Steel",鋼鐵之壁
+"As The Thunder",宛如雷鳴
+"Savage Skewering",野蠻穿刺
+"Nomadic Teachings",浪人教誨
+"Bleed and Critical Strike Chance",流血與暴擊率
+"Aggravate Bleeding On Critical Strike Chance",暴擊率加劇流血
+"Cornered Prey",甕中之鱉
+"Tincture Mana on Kill",擊殺回復萃取物魔力
+"Burst of Energy",能量爆發
+"Flask and Tincture Effect",藥劑與萃取物效果
+"Flask Duration",藥劑持續時間
+"Roaring Challenge",咆哮挑戰
+"Two Handed Melee Damage and Ignore Physical Damage Reduction",雙手武器近戰傷害和無視物理傷害減免
+"Banner Mastery",鬥旗專精
+"Rage Mastery",盛怒專精
+"Tincture Mastery",萃取物專精
+"Vinespike Cordial",荊刺之誠
+"Selective Precision",細選精準
+"Legacy of the Wilds",荒野的傳承
+"Hollow Effigy",空洞雕像
+"Force of Darkness",黑暗之力
+"Lasting Tempest",恆久風暴
+"Adaptive Steel",適性之鋼
+"Always Angry",保持憤怒
+"Sione's Ambition",西奧妮的野心
+"Bastion of Faith",信心堡壘
+"Beacon of Hope",希望信標
+"Wood, Stone, and Spell",木頭、石頭和法術
+"Jagged Wounds",鋸齒重創
+"No Forgiveness",絕不饒恕
+"Deliberate Brutality",蓄意殘虐
+"Knowledge Barrier",知識屏障
+Incorporeal,無形之靈
+"Mixed Munitions",混合彈藥
+"Worship the Blightheart",崇拜凋落之心
+"Unrestrained Focus",率性專注
+"Careful Counterattack",謹慎反擊
+"Prepared Response",預備反應
+"Flow of Battle",戰鬥節奏
+"Cruel Retort",殘酷反駁
+"Indiscriminate Revenge",無差別報復
+"Crushing Reply",粉碎回應
+"Retaliation Skill Damage and Shield Block",復仇技能傷害與盾牌格擋
+"Retaliation Skill Damage",復仇技能傷害
+"Retaliation Skill Speed and Shield Spell Block",復仇技能速度與盾牌法術格擋
+"Retaliation Mastery",復仇專精
+"Retaliation Skill Usable Duration",復仇技能可使用持續時間
+"Retaliation Skill Cooldown Recovery",復仇技能冷卻恢復
+"Retaliation Skill Speed",復仇技能速度
+"Retaliation Skill Area Of Effect",復仇技能範圍
+"Retaliation Skill Stun Duration",復仇技能暈眩持續時間
+"Retaliation Skill Damage and Stun Threshold",復仇技能傷害與暈眩門檻
+"Arsenal of Vengeance",復仇兵工廠
+"Seasoned Hunter",老練獵人
+"Bloodsoaked Blade",浸血之刃

@@ -53,3 +53,9 @@
 "(Bone Armour applies a buff to you and each of your minions, which will take some of the damage from enemy hits before being depleted. The buff also grants immunity to bleeding. Shares a cooldown with other Guard skills)","( 骸骨鎧甲增益效果套用至你和你每個召喚物，在消逝前替你承受部分敵人擊中的傷害。此增益效果同時給予免疫流血。和其他守護技能共享冷卻時間 )"
 "(Ravenous consumes a targeted corpse, granting you a buff that causes you to deal more damage to, and take less damage from, enemies of the same Monster Category as the corpse)","( 貪婪消耗 1 個指定屍體，增益使你對與相同怪物種類屍體的敵人，造成更多傷害、承受更少傷害 )"
 "(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)","( 召喚 2 個觸發機械跟隨你，並朝敵人跑去。你的觸發法術觸發 2 次，從每個觸發機械的位置觸發 1 次 )"
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is 200% higher while moving)","( 流血造成持續性物理傷害，傷害取決於初始的物理傷害。移動時受到的流血傷害增加 200% )"
+"(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds)","（每獲得 1 層盛怒使攻擊傷害提升 1%，上限為 30 層。若你在過去 2 秒內沒有被擊中或獲得盛怒，每秒失去 10 層盛怒）"
+"(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds)","( 若你在過去 2 秒內沒有被擊中或獲得盛怒，每秒失去 10 層盛怒）"
+"(Base Maximum Rage is 30)","( 基礎盛怒最大層數為 30 )"
+"(Adopt the power of the forest, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You take reduced damage from physical attack hits the more bark builds up, but higher chance to evade when less covered in bark)",（適應森林的力量，逐漸讓木質覆蓋你的身體。被敵人攻擊及中會使木直被移除。隨著累積越多木質，獲得越高的物理傷害減免，但當被少量木質覆蓋時會有更高的閃避率）
+"(Unbound Avatar requires 100 Unbound Fury to use and causes you to become Unbound for 10 seconds, which has no effects beyond those listed here)","（無縛化身需要 100 層無縛之怒才能使用，並會使你進入無縛狀態，持續 10 秒，除此處列舉的效果外無其他效果）"
