@@ -19048,7 +19048,6 @@
 "{1}% reduced Chill and Freeze Duration per {0} Dexterity Allocated in Radius","반경 내 할당된 민첩 {0}당 냉각 및 동결 지속시간 {1}% 감소"
 "{1}% reduced Melee Physical Damage with Unarmed Attacks per {0} Dexterity Allocated in Radius","반경 내 할당된 민첩 {0}당 비무장 공격의 근접 물리 피해 {1}% 감소"
 "{2}% chance to deal {0} to {1} Lightning Damage","{2}%의 확률로 {0}~{1}의 번개 피해를 줌"
-,
 "Deals Added Physical Damage equal to {0}% of Maximum Mana","최대 마나의 {0}%와 동일한 추가 물리 피해를 줌"
 "Storms Hit Enemies with {0}% reduced Frequency","태풍이 적을 명중할 빈도 {0}% 감소"
 "Modifiers to number of Projectiles instead apply to the number of Explosions","투사체 개수 속성이 투사체 개수가 아닌 폭발 횟수에 적용"
