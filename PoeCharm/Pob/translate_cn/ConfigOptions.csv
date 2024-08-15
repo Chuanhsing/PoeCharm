@@ -24,7 +24,7 @@ Soul of Ryslatha,傀儡女王 瑞斯拉萨之魂
 Soul of Shakari,沙之女神 沙卡丽之魂
 Enemy Corpse Life:,敌人灵柩^xE05030生命:
 Sets the maximum life of the target corpse for Detonate Dead and similar skills.,^xFFFFFF设置【爆灵术】等类似的技能的灵柩最大^xE05030生命^7
-"For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","^xFFFFFF參考: 70 级怪物^xE05030生命^7为6937, 80级怪物^xE05030生命^7为12787。"
+"For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.","^xFFFFFF參考: 70 级敌人^xE05030生命^7为6937, 80级敌人^xE05030生命^7为12787。"
 Time spent stationary,静止时长
 "Applies mods that use `while stationary` and `per / every second while stationary`","启用'当你静止'、'静止时每秒'之类的修正"
 Are you always moving?,是否处于移动状态?
@@ -485,7 +485,7 @@ You can change this to see various buff values,你可以改变此值以观察各
 Do you have Divinity?,你有【神性】?
 "This will enable the Divinity buff, which grants:","这将启用【神性】增益效果，赋予:"
 Defiance:,【抗争】层数:
-"Base Maximum Rage is 30, and inherently grants 1% More Attack Damage per 1 Rage","^xFF9922怒火^7的基础最大层数为30,并每层固定赋予1%攻速总增"
+"Base Maximum Rage is 30, and inherently grants 1% More Attack Damage per 1 Rage","^xFF9922怒火^7的基础最大层数为30,并每层固定赋予1%攻击伤害总增"
 You lose 10 Rage every second if you have not been Hit or gained Rage in the last 2 seconds.,^7你在2秒没有获得^xFF9922怒火^7或被击中后每秒失去10层^xFF9922怒火^7。
 Are you Leeching?,你在【偷取】?
 "You will automatically be considered to be Leeching if you have 'Life Leech effects are not removed at Full Life',","^xFFFFFF如果你有'^xE05030生命^7偷取在满血时不会移除'，你将自动被认为在偷取，"
@@ -499,7 +499,7 @@ Do you have a Tincture active?,你在【使用酊剂】？
 "This is automatically enabled if you have a tincture active,","如果有使用酊剂将会自动启用此状态,"
 Mana Burn Stacks:,魔力燃烧叠层:
 Mana Burn Applies a 1% of mana degen per stack,法力燃烧每一层致使1%法力值流失
-This also applies Weeping Wounds if the Keystone is Allocated,如果Weeping Wounds基石有被分配则也适用
+This also applies Weeping Wounds if the Keystone is Allocated,如果泣血创伤基石有被分配则也适用
 Do you have a Totem summoned?,你有召唤图腾?
 "You will automatically be considered to have a Totem if your main skill is a Totem,","如果你的主技能是图腾技能将自动被视为有召唤图腾,"
 Have you Summoned a Totem Recently?,你近期内有召唤图腾?
@@ -668,14 +668,14 @@ Consumed a corpse in the past 2s?,过去2秒内有消耗灵柩?
 "This also implies you have 'Consumed a corpse Recently'","这也意味着你'近期有消耗灵柩'"
 "# of Corpses Consumed Recently:","近期消耗灵柩数:"
 Has Ravenous consumed a corpse?,近期以贪噬消耗过灵柩?
-Corpse must be the same type as the monster you're fighting.,灵柩必须与你正在战斗的怪物类型相同。
+Corpse must be the same type as the monster you're fighting.,灵柩必须与你正在战斗的敌人类型相同。
 This also implies you have 'Consumed a corpse Recently',这也意味着你“近期有消耗灵柩”。
 # of Warcries Used Recently:,近期使用战吼数:
 "This also implies you have 'Used a Warcry Recently', 'Used a Warcry in the past 8 seconds', and 'Used a Skill Recently'","这也意味着你'近期有使用战吼'、'过去8秒内有使用战吼'、'近期有使用技能'"
 "Taunted an enemy Recently?",近期有嘲讽敌人?
 Lost an Endurance Charge in the past 8s?,过去8秒内有失去耐力球?
 # of Endurance Charges lost Recently:,近期失去耐力球数:
-Blocked a Hit from a Unique enemy in the past 10s?,你过去 10 秒内有格挡传奇怪物击中?
+Blocked a Hit from a Unique enemy in the past 10s?,你过去 10 秒内有格挡传奇敌人击中?
 Number of times you've Blocked in the past 10s,过去10秒内你格挡的次数
 Impaled an enemy recently?,近期有【穿刺】敌人?
 # of Impales on enemy (if not maximum):,敌人身上的【穿刺】层数(如果不是最大值):
@@ -780,8 +780,8 @@ This also implies that the enemy is Scorched.,^xFFFFFF这也意味着敌人在^x
 Is the enemy Chilled?,^xFFFFFF敌人是否^x3F6DB3【冰缓】^7?
 Seconds of chill on enemy?,^7敌人^x3F6DB3【冰缓】^7时长?
 Is the enemy Chilled by your Hits?,^xFFFFFF敌人是否因你的击中而^x3F6DB3【冰缓】^7?
-Hoarfrost Stacks,^x3F6DB3【Hoarfrost】 ^7叠层
-Amount of stacks of ^x3F6DB3Hoarfrost ^7applied to the enemy.,^7对敌人施加的^xB97123【Hoarfrost】^7的层数
+Hoarfrost Stacks,^x3F6DB3【白霜】 ^7叠层
+Amount of stacks of ^x3F6DB3Hoarfrost ^7applied to the enemy.,^7对敌人施加的^xB97123【白霜】^7的层数
 Is the enemy Frozen?,^xFFFFFF敌人是否^x3F6DB3【冰冻】^7?
 Seconds of freeze on enemy?,^7敌人^x3F6DB3【冰冻】^7时长?
 Is the enemy Brittle?,^xFFFFFF敌人是否^x3F6DB3【易碎】^7?
@@ -863,21 +863,23 @@ Enemy Level:,敌人等级:
 This overrides the default enemy level used to estimate your hit and evade chance.,^xFFFFFF此设置决定会影响你的命中和^x33FF77闪避^7几率估算的敌人等级。
 The default level for normal enemies and standard bosses is 83.,普通敌人和普通Boss的默认等级是83。
 Their default level is capped by your character level.,他们的默认等级是由你的角色等级限制的。
-"The default level for pinnacle bosses is 84, and the default level for uber pinnacle bosses is 85.","终盘 Boss的默认级别是84，而uber 终盘 Boss的默认级别是85。"
+"The default level for pinnacle bosses is 84, and the default level for uber pinnacle bosses is 85.","巅峰Boss的默认级别是84，而终极巅峰Boss的默认级别是85。"
 Their default level is not capped by your character level.,他们的默认等级不由你的角色等级限制。
 Is the enemy Rare or Unique?,敌人是否是稀有或传奇敌人?
 "The enemy will automatically be considered to be Unique if they are a Boss,","如果敌人是Boss，他们会自动被认为是传奇敌人，"
 Is the enemy a Boss?,敌人是否是BOSS?
-Bosses' damage is monster damage scaled to an average damage of their attacks,boss的伤害按怪物攻击伤害的平均伤害缩放而得
+Bosses' damage is monster damage scaled to an average damage of their attacks,boss的伤害按敌人攻击伤害的平均伤害缩放而得
 This is divided by 4.40 to represent 4 damage types + some (40% as much) chaos,^xFFFFFF除以4.40代表4种伤害类型+一些（原来的40%）^xD02090混沌^7伤害
 Fill in the exact damage numbers if more precision is needed,如果需要更精确，请填写准确的伤害数值
 Bosses' armour and evasion multiplier are calculated using the average of the boss type,Boss的护甲和闪避加成根据Boss类型的平均值计算
 Standard Boss adds the following modifiers:,标准 Boss 将会应用以下修正:
 {0}% to enemy Elemental Resistances,敌人元素抗性 {0}%
-{0}% to enemy Chaos Resistance,敌人混沌抗性 {0}%
-{0}% of monster damage,怪物伤害x{0}%
+{0}% to enemy Chaos Resistance,^7敌人^xD02090混沌^7抗性 {0}%
+{0}% of monster Damage of each type,敌人每种伤害的{0}%
+{0}% of monster Damage total,敌人总伤害的{0}%
 Guardian / Pinnacle Boss adds the following modifiers:,守护者/巅峰头目将会应用以下修正:
-{0}% to enemy Armour,敌人护甲{0}%
+{0}% of monster Armour,敌人护甲的{0}%
+{0}% of monster Evasion,^7敌人^x33FF77闪避^7的{0}%
 {0}% penetration,{0}%穿透
 Uber Pinnacle Boss adds the following modifiers:,终极巅峰头目将会应用以下修正:
 {0}% less to enemy Damage taken,敌人承受伤害总降{0}%
@@ -891,10 +893,10 @@ At 100% effect:,在100%效果时:
 Enemies Deal 30% Increased Damage,敌人造成伤害提高30%
 Enemies take 80% Less Damage,敌人承受伤害总降80%
 Enemy Phys. Damage Reduction:,敌人物理伤害减免:
-Enemy Lightning Resistance:,敌人^xADAA47闪电^7抗性:
-Enemy Cold Resistance:,敌人^x3F6DB3冰霜^7抗性:
-Enemy Fire Resistance:,敌人^xB97123火焰^7抗性:
-Enemy Chaos Resistance:,敌人^xD02090混沌^7抗性:
+Enemy Lightning Resistance:,^7敌人^xADAA47闪电^7抗性:
+Enemy Cold Resistance:,^7敌人^x3F6DB3冰霜^7抗性:
+Enemy Fire Resistance:,^7敌人^xB97123火焰^7抗性:
+Enemy Chaos Resistance:,^7敌人^xD02090混沌^7抗性:
 Enemy Max Resistance is always 75%,敌人最大抗性总是75%
 Enemy Maximum resistance is increased by the resistance configurations ,敌人的最大抗性随抗性配置而增加
 This locks it at the default value,这将其锁定为默认值
@@ -903,21 +905,34 @@ Enemy Base Evasion:,敌人基础^x33FF77闪避:
 Enemy Base Armour:,敌人基础护甲:
 Boss Skill Preset,Boss技能预设
 Used to fill in defaults for specific boss skills if the boss config is not set,如果没有设置boss配置则用于填充特定boss技能的默认值
-"Bosses' damage is modified by roll range configuration, defaulted at a 70% roll, at the normal monster level for your character level (capped at 85)","boss的伤害是根据掷骰范围的配置来修改的，默认为70%的掷骰，在你的角色级别的普通怪物级别(上限85)"
-Caveats for certain skills are below,以下是某些技能的注意事项
-Shaper Ball: Allocating Cosmic Wounds increases the penetration to 40% and adds 2 projectiles,塑界者的球:点出寰宇之伤会增加穿透至40%，并增加2个投射物
-Shaper Slam: Cannot be Evaded.  Allocating Cosmic Wounds doubles the damage and cannot be blocked or dodged,塑界者的猛击:不可躲避。点出寰宇之伤会使伤害加倍，并且不能被格挡或闪避
-"Maven Memory Game: Is three separate hits, and has a large DoT effect.  Neither is taken into account here.  i.e. Hits before death should be >= 4 to survive","贤主的记忆游戏:是三次独立的击中，并且有很强的DoT效果。这里两者都没有考虑在内。即死亡前可承受出手应该>= 4才能存活"
+"Bosses' damage is modified by roll range configuration, defaulted at a 70% roll, at the normal monster level for your character level (capped at 85)","boss的伤害是根据掷骰范围的配置来修改的，默认为70%的掷骰，在你的角色级别的普通敌人级别(上限85)"
 Atziri Flameblast,阿兹里女王烈焰爆破
+The Uber variant has 10 Fire penetration (Applied on Pinnacle And Uber),^7终极巅峰变体拥有 10 ^xB97123火焰穿透^7(应用于巅峰和终极巅峰头目)
 Shaper Ball,塑界者的球
+Allocating Cosmic Wounds increases the penetration to 40% (Applied on Uber) and adds 2 projectiles,点出寰宇之伤会增加穿透至40%(应用于终极巅峰头目)，并增加2个投射物
 Shaper Slam,塑界者的猛击
+Cannot be Evaded.  Allocating Cosmic Wounds increases Damage by a further 100% (Applied on Uber) and cannot be blocked or dodged,不可闪避。点出寰宇之伤会使伤害加倍(应用于终极巅峰头目)，且不能被格挡或躲避
+Shaper Beam,塑界者的光线
+Damage Over Time skill,持续伤害技能
+Sirus Meteor,希鲁斯的流星
+Earlier ones with less walls do less damage. Allocating The Perfect Storm increases Damage by a further 50% (Applied on Uber),更早的、墙壁较少的造成的伤害更少。点出完美风暴使伤害提高50%(应用于终极巅峰头目)
+Cortex Ground Degen,脑层的掉血地面
+Exarch Ball,焚界者的滚球
+"Spawns 8-18 waves of balls depending on which fight and which ball phase, Cannot be Blocked, Dodged, or Suppressed","产生8-18波滚球，基于战斗中类和滚球阶段次数，无法格挡、躲避或压制"
+Eater Beam,灭世者的光线
+Allocating Insatiable Appetite causes the beam to always shock for at least 30%,点出Insatiable Appetite会导致光线总是施加至少30%的感电
+Maven Fireball,贤主的火球
+Allocating Throw the Gauntlet increases Damage by a further 100% (Applied on Uber) and causes the fireball to have 30 Fire penetration (Applied on Uber),^7点出Throw the Gauntlet会进一步提高100%的伤害(应用于终极巅峰头目)，并导致火球拥有30%^xB97123火焰^7穿透(应用于终极巅峰头目)
 Maven Memory Game,贤主的记忆游戏
+"Cannot be Blocked, Dodged, or Suppressed. ","无法格挡、躲避或压制"
+"	It is three separate hits, and has a large DoT effect.  Neither is taken into account here.  ","	是三次独立的击中，并且有很强的DoT效果。这里两者都没有考虑在内。"
+		i.e. Hits before death should be more than 3 to survive,		即死亡前可承受出手应该>= 3才能存活
 Enemy Skill Roll Range %:,敌人技能掷骰范围:
 The percentage of the roll range the enemy hits for ,敌人击中的掷骰范围的百分比
  eg at 100% the enemy deals its maximum damage,例如：敌人在100%时造成最大伤害
 Enemy Damage Type:,敌人伤害类型:
 Controls which types of damage the EHP calculation uses:,控制有效生命值计算使用的伤害类型:
-	Average: uses the Average of all typed damage types (not Untyped),	平均:使用所有类型伤害的平均值(而不是非类型伤害)
+	Average: uses the Average of all typed damage types (except Damage Over Time and Untyped),	平均:使用所有类型伤害的平均值(除了持续伤害和非类型伤害)
 "If a specific damage type is selected, that will be the only type used.","如果选择了特定的伤害类型，那将会是唯一使用的类型。"
 Untyped,非类型
 Enemy attack / cast time in ms:,敌人攻击/施法用时(毫秒):

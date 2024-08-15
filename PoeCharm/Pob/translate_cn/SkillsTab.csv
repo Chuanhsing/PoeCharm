@@ -36,9 +36,11 @@ Include in Full DPS:,计入最终总和DPS:
 Count:,倍率:
 "You cannot delete this group, but it will disappear if you un-allocate the node.",你不能删除该组，但如果取消分配该节点，该组将消失。
 "You cannot delete this group, but it will disappear if you un-equip the item.",你不能删除该组，但如果取消装备该物品，该组将消失。
-"You cannot add support gems to this group, but support gems in",您不能向该组添加辅助宝石，但在
+"You cannot add support gems to this group, but support gems in",你不能向该组添加辅助宝石，但在
 will automatically apply to the skill.,将自动应用于技能。
 Gem name:,技能宝石名称:
 Variant:,变种:
-"Note: `count` integer value scales the DPS of associated skill by a scalar.","注意:'倍率'整数值将关联技能的DPS按标量进行倍增。"
+"Note: `count` integer value scales the DPS of associated skill by a scalar.","注意:'倍率'整数值将按比例倍增其相关技能的DPS。"
+"To be used with totems, minions, shot-gunning of projectiles (e.g., VD, magma-orbs),","用于计算图腾、召唤物、霰弹效应投射物(比如灵体火球、熔岩奔涌)、"
+"multi-hit projectiles (e.g. ball-lightning), traps, mines.","复数击中投射物(比如天雷之珠)、陷阱、地雷的DPS。"
 Manage Skill Sets,管理技能集
