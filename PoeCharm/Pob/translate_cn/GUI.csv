@@ -1,70 +1,43 @@
-
-
-"<No active skills>",<没有主动技能>
-
-"Update Ready",更新已就绪
-"Save Changes",保存变更
-"This build has unsaved changes.","这个 BD 的变更还未保存."
-"Do you want to save them now?",是否立即保存?
-"Don't Save",不保存
-"Build Sharing","BD 分享"
-"Note: this code can be very long; you can use 'Share with Pastebin' to shrink it.","注意: POB 代码可能会很长,你可以分享到 'Pastebin' 获取短连接"
-Calcs,计算
-"Character Import",角色导入
-"Character import status: Idle","角色导入状态: 空"
-"Character import status: Account name is incorrect.","人物导入状态: ^xDD0022帐号名称不正确"
-"Character import status: Account profile is private.","人物导入状态: ^xDD0022帐号资料未公开"
-"Note: if the account name contains non-ASCII characters then it must be URL encoded first.","^1注意:如果帐号名包含非'ASCII'字符,则必须先进行URL编码。"
-"Choose character to import data from:",选择角色后导入数据
 All,全部
-"Character import status: Retrieving character list...","角色导入状态: 获取角色列表..."
-"Tip: After you finish importing a character, make sure you update the bandit choices,","提示: 角色导入完成后,请务必选择盗贼选项,"
-"as these cannot be imported.",因为这些数据无法导入
-"Character import status: Character list successfully retrieved.","角色导入状态: 角色列表获取成功"
-"Character import status: Retrieving character items...","角色导入状态: 获取角色物品..."
-"Character import status: Items and skills successfully imported.","角色导入状态: 物品和技能导入完成"
-"Character import status: Retrieving character passive tree...","角色导入状态: 获取角色天赋树..."
-"Character import status: Passive tree and jewels successfully imported.","角色导入状态: 天赋树和珠宝导入完成"
-"Passive Tree and Jewels",天赋树和珠宝
-"Delete jewels:",删除珠宝:
-"Delete all existing jewels when importing.",导入时删除现有珠宝
-"Items and Skills",物品和技能
-League:,联盟:
-"Delete equipment:",删除装备
-"Delete all equipped items when importing.",导入时删除现有装备
-"Delete skills:",删除技能
-"Delete all existing skills when importing.",导入时删除现有技能
-"Importing the passive tree will overwrite your current tree.",导入新的天赋树将覆盖你当前的天赋树
+Set Name,设定名称
+Add,添加
+Copy,复制
+Dismiss,忽略
+Default,默认
+Delete,删除
+"Delete All",删除全部
+Enable,启用
+
+
+
 "Check for Update",检查更新
 Checking...,检查中...
 "Update check failed!",检查更新失败!
 "Couldn't download version manifest.",无法下载版本文件清单.
 "Reason: Timeout was reached","原因: 连接超时"
 "Check your internet connectivity.",检查你的互联网连接.
-Dismiss,忽略
+
 "If you are using a proxy, specify it in Options.","如果需要设置代理,请在选项中设置."
-Configuration,配置
-Copy,复制
 
 
 
-Default,默认
-Delete,删除
-"Delete All",删除全部
 
-Enable,启用
+
+
+
+
 "Experience multiplier:",经验比率:
 
 General,一般
 Generate,生成
 Import,导入
-Import:,导入:
-Set Name,集名称
-"Enter name for this passive tree:",输入新天赋树的名称:
-"Import from Pastebin...","从 Pastebin 导入..."
-"Import to this build","导入到当前 BD"
-"Import/Export Build","导入/导出 BD"
-Items,物品
+
+
+
+
+
+
+
 New,新建
 "New Folder",新建文件夹
 No,否
@@ -73,22 +46,22 @@ Open,打开
 Options,选项
 Rename,重命名
 Save,保存
-"Save As",另存为
-"Share with Pastebin","分享到 Pastebin"
-Skills,技能
+
+
+
 Sort,排序
 "Sort by Name",排序(名称)
 "Sort by name",排序(名称)
 "Sort by DPS",排序(DPS)
 
 Level:,等级:
-"Required level: {0}","等级需求: {0}"
+
 Quality:,品质:
 
 
 
 Start,开始
-Tree,天赋
+
 
 "All Types:",所有类型:
 
@@ -96,16 +69,14 @@ Tree,天赋
 
 
 
-"Game Version:",游戏版本:
-"To start importing a character, enter the character's account name:","输入 '角色帐号名' 后点击 '开始' 导入角色"
 
-"Generate a code to share this build with other Path of Building users:","生成 POB 代码分享给所有的 POE 玩家:"
-Export Support,导出支援
-"This is for party play, to export support character, it enables the exporting of auras, curses and modifiers to the enemy","用于团队游戏，导出支援角色，其可以输出光环，诅咒和修正给敌人"
-Share,分享
-Creating link...,创建链接中……
-Note: this code can be very long; you can use 'Share' to shrink it.,注意:这个代码可能会很长;你可以用“分享”来缩短它。
-"To import a build, enter URL or code here:","要导入构筑，请在此处输入URL或代码:"
+
+
+
+
+
+
+
 Label:,标签:
 Player:,玩家:
 Search:,搜索:
@@ -155,9 +126,6 @@ Done,完成
 Close,关闭
 Bandit:,盗贼:
 "{0} Passive Points","{0} 天赋点"
-"Oak (Life Regen, Phys.Dmg. Reduction, Phys.Dmg)","欧克(命秒回,物理伤害减免,物理伤害)"
-"Kraityn (Attack/Cast Speed, Attack Dodge, Move Speed)","克雷顿(攻击/施法速度,躲避机率,移动速度)"
-"Alira (Mana Regen, Crit Multiplier, Resists)","阿莉亚(魔秒回,暴击伤害,全抗)"
 
 "Shaper Item",塑界者物品
 "Elder Item",裂界者物品
@@ -171,7 +139,7 @@ Mirrored,已复制
 
 
 Source:,来源:
-Modifier:,词缀:
+Modifier:,修正:
 "Crafting Bench",工艺桌
 Essence,精华
 Prefix,前缀
@@ -260,30 +228,20 @@ Belt:,腰带:
 
 "Active Skill {0}","主动技能 {0}"
 "Active Skill {0} Main Minion Skill:","召唤物主技能(主动技能 {0}):"
-"Unallocating this node will give you:",取消这个天赋点会给你:
-"Allocating this node will give you:",分配这个天赋点会给你:
-"Unallocating this node and all nodes depending on it will give you:",取消这个天赋点以及关联的天赋点会给你:
-"Allocating this node and all nodes leading to it will give you:",分配这个天赋点以及关联天赋点会给你:
-"Manage Spectres...",灵体管理...
-"Available Spectres:",可用灵体:
-"Spectre Library",灵体库
-Add,添加
+
+
+
+
+
+
 "<No spectres in build>","<BD 中没有灵体>"
-"Spectres in Build:","BD 中的灵体:"
+
 Resistance:,抗性:
 
 
 "<No skills added yet>:",<未添加任何技能>
 "{0} points to node","{0} 点天赋点到这里"
-"Tip: Press Ctrl+D to disable the display of stat differences.","提示: 可使用 Ctrl+D 关闭差异统计."
-"Tip: Press Ctrl+D to enable the display of stat differences.","提示: 可使用 Ctrl+D 开启差异统计."
-"Tip: Hold Shift to hide this tooltip.","提示: 按住 Shift 键可以隐藏此提示."
-"Tip: To reach this node by a different path, hold Shift, then trace the path and click this node","提示: 选择其它到达这个天赋的路径,请按住 Shift 键,然后鼠标选择路径并单击确认"
-"{0} points gained from unallocating these nodes","取消这个天赋获得 {0} 点天赋点"
-"No changes from allocating this node.",分配这个天赋没有任何变化.
-"No changes from unallocating this node.",取消这个天赋没有任何变化.
-"No changes from allocating this node or the nodes leading to it.",分配这个天赋及关联天赋点没有任何变化.
-"No changes from unallocating this node or the nodes leading to it.",取消这个天赋及关联天赋点没有任何变化.
+
 
 "Activate this flask.",激活这个药剂.
 "Lasts {0} Seconds","持续 {0} 秒"
@@ -350,24 +308,13 @@ Hybrid,复合
 Utility,功能
 
 
-"Life multiplier",生命倍率
-"Armour multiplier",护甲倍率
-Resistances,抗性
-"Base damage",基础伤害
-"Base attack speed",基础攻击速度
-"{0}% of base Life","基础生命的 {0}%"
-"Import to a new build","导入到新 BD"
-"Code is valid","Code 有效"
 
 
 
 
 
-"New Folder...",新建文件夹...
-Folder:,文件夹:
-"Enter new build name:","输入新的 BD 名称:"
-"<No active skills> (Disabled)","<没有主动技能> (已禁用)"
-"Tip: Right click this socket to go to the items page and choose the jewel for this socket.","提示: 右键单击插槽跳转到物品页然后更换此插槽的珠宝."
+
+
 "<No skills added yet>",<未添加任何技能>
 "Variant: Current {0} variants)","多版本: 当前 {0} 版)"
 
@@ -385,10 +332,10 @@ Suffix:,后缀:
 "{0} Defualt","{0} 默认"
 "Enter folder name:",请输入文件夹名称:
 "No update available",无可用更新
-"You are running the latest version.",您运行的是最新版本
+"You are running the latest version.",你运行的是最新版本
 
-"Import from Pastebin","从 Pastebin 导入"
-"Enter Pastebin.com link:","输入 Pastebin.com 链接:"
+
+
 Anomalous,异常
 Divergent,分歧
 Phantasmal,魅影
@@ -403,5 +350,4 @@ Phantasmal,魅影
 
 
 
-"Get Currency Conversion Rates",获取通货转换率
-"Currency Rates are very recent",通货率是最新的
+

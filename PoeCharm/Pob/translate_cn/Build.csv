@@ -1,7 +1,10 @@
-"<< Back","<< 返回"
-"Current build","当前 BD"
+<< Back,<< 返回
+Current build,当前 BD
+Save As,另存为
+Manual,手动
 
 
+Enter name for this loadout:,为此装备配置输入名字:
 
 
 
@@ -124,6 +127,7 @@ ES Regen:,能量护盾再生:
 ES Recovery:,能量护盾恢复:
 "ES Leech/On Hit Rate:","能量护盾偷取(击中速率)"
 "ES Leech/Gain per Hit:","能量护盾偷取(击中获得)"
+Rage Regen:,怒火再生:
 "Evasion rating:",闪避值:
 "%Inc Evasion from Tree:",闪避加成(天赋):
 "Evade Chance:",闪避几率:
@@ -149,14 +153,58 @@ Armour:,护甲:
 "Full DPS:",最终总和DPS:
 Full Dot DPS:,最终总和持续伤DPS:
 Full Dot DPS exceeds in game limit,最终总和持续伤DPS超过游戏上限
-
 Minion Bleed DPS exceeds in game limit,召唤物流血DPS超过游戏上限
 Minion Ignite DPS exceeds in game limit,召唤物点燃DPS超过游戏上限
 Minion Poison dps exceeds in game limit,召唤物中毒DPS超过游戏上限
 Minion DoT DPS exceeds in game limit,召唤物持续伤DPS超过游戏上限
 
-"Main Skill:",主技能:
+Import/Export Build,导入/导出构筑
+Notes,备注
+Configuration,配置
+Tree,天赋树
+Skills,技能
+Items,物品
+Calcs,计算
+Party,队伍
+
+Main Skill:,主技能:
 
 Tip: You can drag items from the Items tab onto this dropdown to equip them onto the minion.,提示:你可以将物品从“物品”选项卡中拖拽到这个下拉菜单中以将其装备到召唤物上。
 
 {0} Warnings,{0} 警告
+
+
+No Loadouts,无装备配置
+Loadouts:,装备配置:
+New Loadout,新装备配置
+Sync,同步
+Help >>,帮助 >>
+
+Labyrinth: Normal Lab,帝王迷宮: 普通
+Labyrinth: Cruel Lab,帝王迷宮: 残酷
+Labyrinth: Merciless Lab,帝王迷宮: 无情
+Labyrinth: Uber Lab,帝王迷宮: 终极
+
+You have too many passive points allocated,你分配了过多的天赋点
+You have too many ascendancy points allocated,你分配了过多的升华点
+You have too many secondary ascendancy points allocated,你分配了过多的次级升华点
+Required Level: {0},需求的等级: {0}
+Estimated Progress:,预计的进展:
+Act: {0},章节: {0}
+Questpoints: {0},任务天赋点: {0}
+Extra Skillpoints: {0},额外技能点: {0}
+
+
+
+This build has unsaved changes.,这个构筑的变更还未保存。
+Do you want to save them now?,是否现在立即保存?
+Don't Save,不保存
+Save Changes,保存变更
+Enter new build name:,输入新构筑的名称:
+Folder:,文件夹:
+New Folder...,新建文件夹...
+
+
+
+
+

@@ -99,6 +99,7 @@ OH DMG Mod.:,伤害修正(副手):
 Impale DPS:,穿刺 DPS:
 Impale Damage:,穿刺伤害:
 Skill type-specific Stats:,技能特定类型数据:
+Gem Level:,宝石等级:
 Mana Cost:,魔力消耗:
 Mana % Cost:,魔力百分比消耗:
 Mana per second:,魔力每秒消耗:
@@ -115,6 +116,7 @@ Rage per second:,怒火每秒消耗:
 Active Minion Limit:,最大召唤物数量:
 Quantity Multiplier:,数量加成:
 Skill Cooldown:,技能冷却:
+Stored Uses:,储存的使用次数:
 Duration Mod:,持续时间修正:
 Skill Duration:,技能持续时间:
 Secondary Duration:,二阶段持续时间:
@@ -140,6 +142,7 @@ Aura Effect Mod:,光环效果修正:
 Mana Reserve Mod:,魔力保留修正:
 Life Reserve Mod:,生命保留修正:
 Curse Effect Mod:,诅咒效果修正:
+Warcry Effect Mod:,战吼效果修正:
 Link Effect Mod:,羁绊效果修正:
 Area of Effect Mod:,范围效果修正:
 Radius:,半径:
@@ -312,8 +315,7 @@ MH K.B. Chance:,击退几率(主手):
 MH K.B. Dist.:,击退距离(主手):
 OH K.B. Chance:,击退几率(副手):
 OH K.B. Dist.:,击退距离(副手):
-Maximum Rage:,最大怒火:
-Rage Regen:,怒火再生:
+
 Inc. Item Quantity:,物品数量提高:
 IIQ for Normal Mobs:,普通敌人物品数量提高:
 Inc. Item Rarity:,物品稀有度提高:
@@ -354,6 +356,8 @@ Light Recoup:,闪电吸纳:
 Cold Recoup:,冰霜吸纳:
 Fire Recoup:,火焰吸纳:
 Chaos Recoup:,混沌吸纳:
+Dmg. Mit. Regen:,物理伤害减轻再生:
+
 Mana:,魔力:
 Increased Mana Regeneration Rate:,魔力再生速率提高:
 More Mana Regeneration Rate:,魔力再生速率总增:
@@ -430,8 +434,12 @@ ManaBurn more Rate:,魔力燃烧总增率:
 Cooldown Recovery:,冷却恢复:
 
 Rage:,怒火:
+Rage Effect:,怒火效果:
+Maximum Rage:,最大怒火:
 Increased Rage Regeneration Rate:,怒火再生速率提高:
 More Rage Regeneration Rate:,怒火再生速率总增:
+Rage Loss Delay:,怒火流失延迟:
+Inherent Rage Loss:,固有怒火流失:
 
 Charges:,充能球:
 Endurance:,耐力球:

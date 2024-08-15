@@ -1,9 +1,10 @@
-Class,类型
-Ascendancy,升华
-Points used,天赋点使用
-Jewel sockets,珠宝插槽数
+Class: ,类型: 
+Ascendancy: ,升华: 
+Points used: ,天赋点使用: 
+Jewel sockets: ,珠宝插槽数: 
 Switching to this tree will give you:,切换至此树将为你带来:
-Game Version,游戏版本
+Switching to this tree requires {0} refund points.,切换至此树需要{0}重置点。
+Game Version: ,游戏版本: 
 Compare:,比较:
 Reset,重置
 Reset Tree/Tattoos,重置天赋树/纹身
@@ -12,8 +13,9 @@ Reset Tree,重置天赋树
 Remove All Tattoos,移除所有纹身
 Import Tree,导入天赋树
 Export Tree,导出天赋树
+Version:,版本:
 Uses Lua pattern matching for complex searches,使用Lua模式匹配进行复杂搜索
-
+"Prefix your search with ""oil:"" to search by anoint recipe","在你的搜索之前加“oil:”来进行涂油节点搜索"
 Find Timeless Jewel,寻找永恒珠宝
 Show Node Power:,显示节点强度:
 Limit of Node distance to search (lower = faster),搜索节点距离限制(越小越快)
@@ -32,17 +34,24 @@ Note that some or all of the passives may have been de-allocated due to changes 
 You can switch back to the old tree using the tree selector at the bottom left.,你可以使用左下角的天赋树选择器切换回旧天赋。
 Manage trees...,管理天赋树...
 Building table...,生成表格……
-Click to focus node on tree,单击可聚焦于树上的此节点
-"""Offense/Defense"" not supported.  Select a specific stat from the dropdown.","不支持“Offense/Defense”。从下拉列表中选择一个特定的数据。"
 Unknown Passive Tree Version,未知天赋树版本
 The build you are trying to load uses an unrecognised version of the passive skill tree.,你正在尝试加载的Build使用了天赋树的不可识别版本。
-You may need to update the program before loading this build.,您可能需要在加载此版本之前更新程序。
+You may need to update the program before loading this build.,你可能需要在加载此版本之前更新程序。
 Manage Passive Trees,管理天赋树
+Enter name for this passive tree:,输入此天赋树的名称:
 Enter passive tree link:,输入天赋树链接:
 Resolving PoEURL link...,处理PoEURL链接中……
 Passive tree link:,天赋树链接:
 Shrink with PoEURL,用PoEURL缩短
 Shrinking...,缩短中……
+Failed to get PoEURL link. Try again later.,获取PoEURL链接失败。请稍后重试。
+
+
+Reset Node,重置节点
+Tattoo Count: {0},纹身计数: {0}
+Replace Modifier of Node,替换节点修正
+Show Legacy Tattoos:,显示老版纹身:
+
 Tip: Right click to select a different effect,提示:右键单击以选择不同的效果
 A report of node efficacy based on current heat map selection,基于当前热力图选择的节点效能报告
 Show allocated nodes,显示分配的节点
@@ -76,6 +85,8 @@ Enable this option to exclude nodes that you do not have allocated on your activ
 This can be useful if you're never going to path towards those excluded nodes and don't care what happens to them.,如果你不打算连接到那些被排除的节点，也不关心它们发生了什么，这是很有用的。
 Protect allocated nodes during search.,在搜索过程中保护已分配的节点。
 This can be useful if transforming certain notables would break your build.,如果转换某些大点会破坏你的构筑，这将非常有用。
+Node Distance:,节点距离:
+This controls the maximum amount of points that need to be spent to grab a node before its filtered out,这控制了在过滤掉一个节点之前需要花费的最大点数
 Primary Node Weight:,主节点权重:
 For nodes with multiple stats this slider controls the weight of the first stat listed.,对于有多个属性的节点，此滑块控制第一个属性的权重。
 This slider controls the weight of the following stat:,此滑块控制以下属性的权重:
@@ -91,12 +102,16 @@ Desired Nodes,所需节点
 This list can be updated manually or by selecting the node you want to update via the search dropdown list and then moving the node weight sliders.,该列表可以手动更新，也可以通过选择搜索下拉列表中要更新的节点，然后移动节点权重滑块。
 Fallback Nodes,备选节点
 "This contains a list of your fallback nodes along with their primary, secondary, and minimum weights.","这包含了一系列后备节点，以及它们的主、次和最小权重。"
-"Fallback node weights are only used when no matching entry exists in the desired nodes list, allowing you to override or disable specific automatic weights.","备选节点权重仅在所需节点列表中没有匹配条目时使用，允许您覆盖或禁用特定的自动权重。"
+"Fallback node weights are only used when no matching entry exists in the desired nodes list, allowing you to override or disable specific automatic weights.","备选节点权重仅在所需节点列表中没有匹配条目时使用，允许你覆盖或禁用特定的自动权重。"
 Fallback node weights typically contain automatically generated stat weights based on your current build.,备选节点权重通常包含根据当前Build自动生成的属性权重。
 "Any manual changes made to your fallback nodes are lost when you click the generate button, as it completely replaces them.","在单击生成按钮时，对备选节点所做的任何手动更改都将丢失，因为新生成的将完全替换它们。"
 Error fetching league list, default league will be used,获取联赛列表错误，将使用默认联赛
 Copy Trade URL,复制交易URL
 Copy Next Trade URL,复制下一个交易URL
+Click to generate and copy a trade URL for searching for jewels in this list.,点击生成并复制一个交易URL，用于搜索此列表中的珠宝。
+Paste the URL in a web browser to search.,将URL粘贴到web浏览器中进行搜索。
+You can click to select a row so that search begins from there.,你可以单击以选择一行，以便从那里开始搜索。
+After selecting a row You can also shift+click on another row to select a range of rows to search.,在选择一行后，还可以在另一行上shift+单击以选择要搜索的行范围。
 Search Results:,搜索结果:
 Search,搜索
 Required,必要的
