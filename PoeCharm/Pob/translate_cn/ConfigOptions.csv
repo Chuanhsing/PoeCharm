@@ -173,6 +173,12 @@ Elemental Army:,【元素大军】:
 Exposure Type:,曝露类型:
 Embrace Madness:,【疯狂之拥】:
 Is Embrace Madness active?,【疯狂之拥】是否激活?
+Glorious Madness Stacks,【疯狂荣光】层数:
+Glorious Madness Stacks grants:,【疯狂荣光】赋予:
+	Eroding Touch: 6% inc Damage Taken per stack,	Eroding Touch: 每层提高 6% 伤害承受
+	Paralysing Touch: 6% reduced Action Speed per stack,	Paralysing Touch: 每层降低 6% 行动速度
+	Diluting Touch: 9% reduced Flask charges gained and 9% reduced Flask Effect per stack,	Diluting Touch: 每层降低 9% 药剂充能获取和药剂效果、
+	Wasting Touch: 9% reduced Life and Energy Shield recovery rate per stack,	^7Wasting Touch: 每层降低 9% ^xE05030生命^7和^x88FFFF能量护盾^7回复率
 Feeding Frenzy:,【狂噬】:
 Is Feeding Frenzy active?,【狂噬】是否激活?
 Feeding Frenzy grants:,【狂噬】赋予:
