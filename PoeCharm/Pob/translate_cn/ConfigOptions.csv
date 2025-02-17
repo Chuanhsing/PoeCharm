@@ -422,7 +422,7 @@ Controls how the hit/ailment effect of Ruthless Support is calculated:,控制【
 Max Effect,最大效果
 Chance To Ignore PDR Mode:,无视物理减免几率:
 Controls how the chance on hit to ignore enemy physical damage reduction is calculated:,控制在击中时忽略敌人物理伤害减免几率的计算方式:
-	Minimum: never ignores unless chance is atleast 100%,	最小：从不无视，除非几率至少为100%
+	Minimum: never ignores unless chance is at least 100%,	最小：从不无视，除非几率至少为100%
 	Max Effect: always ignores if you have any chance,	最大效果：只要你有几率就总是无视
 # of Blood Charges (if not maximum):,【赤炼球】数量 (如果不是最大值):
 # of Spirit Charges:,【精神球】数量:
@@ -712,6 +712,72 @@ PvP Tvalue override (ms):,PvP Tvalue override (ms):
 "Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues","Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues"
 Custom PvP Damage multiplier percent:,Custom PvP Damage multiplier percent:
 "This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)","This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)"
+Have Acceleration Shrine?,你有【迅速神龛】？
+This will enable the Acceleration Shrine buff.,这将启用【迅速神龛】增益。
+	15% increased Action Speed,	行动速度加快 15%
+	80% increased Projectile Speed,	投射物速度加快 80%
+Have Brutal Shrine?,你有【狂击神龛】？
+This will enable the Brutal Shrine buff.,这将启用【狂击神龛】增益。
+	50% increased Damage,	伤害提高50%
+	Knocks Enemies Back on Hit,	击中时击退敌人
+	30% increased Stun Duration on Enemies,	敌人被晕眩时间延长 30%
+Have Diamond Shrine?,你有【钻石神龛】？
+This will enable the Diamond Shrine buff.,这将启用【钻石神龛】增益。
+	All hits are Critical Strikes,	永远暴击
+Have Divine Shrine?,你有【圣洁神龛】？
+This will enable the Divine Shrine buff.,这将启用【圣洁神龛】增益。
+	Cannot be Damaged,	无法被伤害
+Have Echoing Shrine?,你有【回响神龛】？
+This will enable the Echoing Shrine buff.,这将启用【回响神龛】增益。
+	100% more Attack Speed,	攻击速度总增 100%
+	100% more Cast Speed,	施法速度总增 100%
+	Skills Repeat an additional Time,	技能额外重复施放一次
+Have Gloom Shrine?,你有【隐忍神龛】？
+This will enable the Gloom Shrine buff.,这将启用【隐忍神龛】增益。
+	Gain 10% of Non-Chaos Damage as extra Chaos Damage,	^7获得额外^xD02090混沌^7伤害，其数值等同于非^xD02090混沌^7伤害的 10%
+"	Enemies you Kill have a 40% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage","	^7你击败的敌人有 40% 的几率爆炸，造成等同该敌人最大^xE05030生命^7四分之一的^xD02090混沌^7伤害"
+Have Impenetrable Shrine?,你有【无畏神龛】？
+This will enable the Impenetrable Shrine buff.,这将启用【无畏神龛】增益。
+	100% increased Armour,	护甲提高 100%
+	100% increased Evasion Rating,	^x33FF77敏捷^7提高 100%
+	100% increased maximum Energy Shield,	^x88FFFF能量护盾^7提高 100%
+Have Massive Shrine?,你有【威猛神龛】？
+This will enable the Massive Shrine buff.,这将启用【威猛神龛】增益。
+	30% increased Character Size,	角色体型增大 30%
+	40% increased Area of Effect,	效果区域提高 40%
+	40% increased maximum Life,	^xE05030生命^7上限提高 40%
+Have Replenishing Shrine?,你有【回复神龛】？
+This will enable the Replenishing Shrine buff.,这将启用【回复神龛】增益。
+	10% of Mana Regenerated per second,	^7每秒再生 10% ^x7070FF魔力^7
+	6.7% of Life Regenerated per second,	^7每秒再生 6.7% ^xE05030生命^7
+Have Resistance Shrine?,你有【抗性神龛】？
+This will enable the Resistance Shrine buff.,这将启用【抗性神龛】增益。
+Have Resonating Shrine?,你有【共鸣神龛】？
+This will enable the Resonating Shrine buff.,这将启用【共鸣神龛】增益。
+Have Lesser Acceleration Shrine?,你有【次级迅速神龛】？
+This will enable the Lesser Acceleration Shrine buff.,这将启用【次级迅速神龛】增益。
+	10% increased Action Speed,	行动速度加快 10%
+	30% increased Projectile Speed,	投射物速度加快 30%
+Have Lesser Brutal Shrine?,你有【次级狂击神龛】？
+This will enable the Lesser Brutal Shrine buff.,这将启用【次级狂击神龛】增益。
+	20% increased Damage,	伤害提高20%
+	20% increased Stun Duration on Enemies,	敌人被晕眩时间延长 20%
+Have Lesser Impenetrable Shrine?,你有【次级无畏神龛】？
+This will enable the Lesser Impenetrable Shrine buff.,这将启用【次级无畏神龛】增益。
+	50% increased Armour,	护甲提高 50%
+	50% increased Evasion Rating,	^x33FF77敏捷^7提高 50%
+	50% increased maximum Energy Shield,	^x88FFFF能量护盾^7提高 50%
+Have Lesser Massive Shrine?,你有【次级威猛神龛】？
+This will enable the Lesser Massive Shrine buff.,这将启用【次级威猛神龛】增益。
+	10% increased Character Size,	角色体型增大 10%
+	20% increased Area of Effect,	效果区域提高 20%
+	20% increased maximum Life,	^xE05030生命^7上限提高 20%
+Have Lesser Replenishing Shrine?,你有【次级回复神龛】？
+This will enable the Lesser Replenishing Shrine buff.,这将启用【次级回复神龛】增益。
+	3.3% of Mana Regenerated per second,	^7每秒再生 3.3% ^x7070FF魔力^7
+	3.3% of Life Regenerated per second,	^7每秒再生 3.3% ^xE05030生命^7
+Have Lesser Resistance Shrine?,你有【次级抗性神龛】？
+This will enable the Lesser Resistance Shrine buff.,这将启用【次级抗性神龛】增益。
 
 
 
