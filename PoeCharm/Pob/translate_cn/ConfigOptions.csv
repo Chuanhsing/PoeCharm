@@ -458,6 +458,9 @@ This will enable the Unholy Might buff on your minions.,这将为你的召唤物
 Do you have Chaotic Might?,你有【混沌之力】?
 This will enable the Chaotic Might buff.,这将启用【混沌之力】增益效果.
 (Grants 30% of Physical Damage as Extra Chaos Damage),^7(获得等于30%物理伤害的额外^xD02090混沌^7伤害)
+Do you have Sacrificial Zeal?,你有【热情牺牲】?
+This will enable the Sacrificial Zeal buff.,这将启用【热情牺牲】增益效果.
+(Grants 25% of the skill's mana cost as Physical Damage and causes you to take physical damage over time equal to a percentage of the skill's mana cost.),(赋予技能其法力消耗的25%作为物理伤害，并使你在一段时间内受到相当于该技能法力消耗百分比的物理伤害。)
 Do your minions have Chaotic Might?,你的召唤物有【混沌之力】?
 This will enable the Chaotic Might buff on your minions.,这将为你的召唤物启用【混沌之力】增益效果.
 Do you have Phasing?,你有【迷踪】?
