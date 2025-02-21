@@ -136,7 +136,7 @@ Fork Count:,分叉数:
 Max Chain Count:,最大连锁数:
 Split Count:,裂化数:
 Proj. Speed Mod:,投射物速度修正:
-Skill Self Damage:,自击中伤害:
+Self hit Damage:,自击中伤害:
 Bounces Count:,弹跳次数:
 Aura Effect Mod:,光环效果修正:
 Mana Reserve Mod:,魔力保留修正:
@@ -188,7 +188,7 @@ Totem Armour:,图腾护甲:
 Active Brand Limit:,烙印激活上限:
 Totem Fire Res:,图腾火焰抗性:
 Totem Cold Res:,图腾冰霜抗性:
-Totem Lightning Res:,图腾闪电抗性:
+Totem Light. Res:,图腾闪电抗性:
 Totem Chaos Res:,图腾混沌抗性:,
 Corpse Level:,灵柩等级:
 Corpse Life:,灵柩生命:
@@ -231,7 +231,7 @@ Poison DPS:,中毒 DPS:
 Caustic Ground:,腐蚀地面:
 Poison Duration:,中毒持续时间:
 Dmg. per Poison:,每层中毒伤害:
-Max Poison Stacks:,最大中毒层数:
+Total Poison DPS:,总中毒DPS:
 Ignite:,点燃:
 Max Ignite Stacks:,最大点燃层数:
 Average Ignite Roll:,平均点燃掷骰:
